@@ -27,26 +27,29 @@ async def show_stats_message(user_id: int, full_name: str):
     best_score = general.get("best_score", 0)
 
     if total_tests == 0:
-        return (
+        text = (
             f"📊 <b>Statistikangiz</b>\n\n"
             f"👤 {full_name}\n\n"
             f"😔 Siz hali test ishlamagansiz.\n"
             f"📚 Boshlash uchun «Test boshlash» tugmasini bosing!"
         )
+        return text
+
+    created_date = created[:10] if created else "Nomalum"
 
     text = (
         f"📊 <b>Statistikangiz</b>\n\n"
         f"👤 {full_name}\n"
-        f"📅 Ro'yxatdan: {created[:10] if created else 'Noma\'lum'}\n\n"
+        f"📅 Royxatdan: {created_date}\n\n"
         f"━━━━ <b>UMUMIY</b> ━━━━\n"
         f"📝 Ishlangan testlar: <b>{total_tests}</b>\n"
-        f"✅ To'g'ri javoblar: <b>{total_correct}/{total_questions}</b>\n"
-        f"📈 O'rtacha ball: <b>{avg_score:.1f}%</b>\n"
+        f"✅ Togri javoblar: <b>{total_correct}/{total_questions}</b>\n"
+        f"📈 Ortacha ball: <b>{avg_score:.1f}%</b>\n"
         f"🏆 Eng yaxshi: <b>{best_score:.1f}%</b>\n"
     )
 
     if topic_stats:
-        text += f"\n━━━━ <b>MIICH mavzulari</b> ━━━━\n"
+        text += "\n━━━━ <b>MIICH mavzulari</b> ━━━━\n"
         for t in topic_stats:
             name = t["topic_name"]
             if ":" in name:
