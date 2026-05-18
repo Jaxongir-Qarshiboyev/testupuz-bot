@@ -1,0 +1,4382 @@
+[
+  {
+    "id": 1,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovalarini ishlab chiqish uchun Google tomonidan rasmiy til sifatida qaysi dasturlash tili e'lon qilingan?",
+    "options": {
+      "A": "Java",
+      "B": "Kotlin",
+      "C": "Dart",
+      "D": "Swift"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovasining taqdimot qatlami qanday nomlanadi?",
+    "options": {
+      "A": "Service",
+      "B": "Activity",
+      "C": "Fragment",
+      "D": "Intent"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovasida foydalanuvchi interfeysi qaysi sinf yordamida quriladi?",
+    "options": {
+      "A": "Service",
+      "B": "Activity",
+      "C": "BroadcastReceiver",
+      "D": "ContentProvider"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovasida orqa fonda ishlaydigan ko'rinmas komponent qanday nomlanadi?",
+    "options": {
+      "A": "Activity",
+      "B": "Fragment",
+      "C": "Service (Xizmat)",
+      "D": "Intent"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovasida tizim hodisalariga javob beruvchi komponent qaysi?",
+    "options": {
+      "A": "Activity",
+      "B": "Broadcast Receiver",
+      "C": "Service",
+      "D": "Content Provider"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovasida ilovalar o'rtasida ma'lumot almashishni ta'minlovchi komponent qaysi?",
+    "options": {
+      "A": "Activity",
+      "B": "Service",
+      "C": "Broadcast Receiver",
+      "D": "Content Provider"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Intent nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Ilovalararo xabarlarni uzatish tizimi",
+      "C": "Foydalanuvchi interfeysi elementi",
+      "D": "Tarmoq protokoli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Activity sinfining kichik klassi qanday yaratiladi?",
+    "options": {
+      "A": "public class MainActivity implements Activity",
+      "B": "public class MainActivity extends Activity",
+      "C": "class MainActivity : Activity()",
+      "D": "public class MainActivity inherits Activity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "'Mobil ilovalarini ishlab chiqish' fani nechta sinov birligiga ega?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Yakuniy nazorat necha foizni tashkil etadi?",
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Widgetlar nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi jadvallari",
+      "B": "Qurilmaning bosh ekranida joylashadigan kichik vizual dastur komponentlari",
+      "C": "Tarmoq protokollari",
+      "D": "Xavfsizlik kalitlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Bildirishnomalar (Notifications) qanday maqsadda ishlatiladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasini boshqarish",
+      "B": "Foydalanuvchi e'tiborini ilova hodisasiga jalb qilish",
+      "C": "Tarmoq ulanishini tekshirish",
+      "D": "Ilovani o'rnatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Mobil foydalanuvchi interfeysi (UI) nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "Foydalanuvchilar mobil qurilmalarda o'zaro aloqada bo'ladigan vizual va interaktiv elementlar",
+      "C": "Ma'lumotlar bazasi tizimi",
+      "D": "Operatsion tizim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "UX va UI o'rtasidagi farq qanday ifodalanadi (burger misoli)?",
+    "options": {
+      "A": "UX — ko'rinish, UI — funksionallik",
+      "B": "UX — buyurtma qilish qulayligi, UI — ko'rinish",
+      "C": "Ikkalasi bir xil",
+      "D": "UX — dizayn, UI — kod"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Onboarding Screen qanday vazifani bajaradi?",
+    "options": {
+      "A": "Ilovani o'chiradi",
+      "B": "Yangi foydalanuvchilarga ilovani tushunishga yordam beradi",
+      "C": "Ma'lumotlarni saqlaydi",
+      "D": "Tarmoqqa ulanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Splash Screen nima?",
+    "options": {
+      "A": "Asosiy ekran",
+      "B": "Dastur ishga tushirilganda ko'rsatiladigan ekran",
+      "C": "Sozlamalar sahifasi",
+      "D": "Login sahifasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Mobil interfeys dizaynida 'Mobile First' yondashuvi nimani anglatadi?",
+    "options": {
+      "A": "Faqat mobil ilovalar yaratish",
+      "B": "Dizaynni avval kichik ekranlar uchun yaratib keyin kengaytirish",
+      "C": "Faqat Android uchun ishlab chiqish",
+      "D": "Desktop ilovalarni mobil qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Android ilovasida View nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Interaktiv UI komponentlarini yaratish uchun ishlatiladigan element",
+      "C": "Tarmoq protokoli",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "ViewGroup nima?",
+    "options": {
+      "A": "Bitta UI element",
+      "B": "Boshqa Views va ViewGroups ni saqlaydigan layout elementi",
+      "C": "Ma'lumotlar bazasi jadvali",
+      "D": "Tarmoq so'rovi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Android ilovasining manifest faylida nima saqlanadi?",
+    "options": {
+      "A": "Faqat rasmlar",
+      "B": "Ilovaning metama'lumotlari, apparat konfiguratsiyasi, ruxsatnomalar",
+      "C": "Faqat kod",
+      "D": "Foydalanuvchi ma'lumotlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Home Screen nima?",
+    "options": {
+      "A": "Login sahifasi",
+      "B": "Ilova ishga tushirilganda ochiladigan asosiy ekran",
+      "C": "Sozlamalar sahifasi",
+      "D": "Splash ekran"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Yaxshi mobil UI qanday bo'lishi kerak?",
+    "options": {
+      "A": "Murakkab va ko'p elementli",
+      "B": "Intuitiv, vizual jozibador va mobil qurilmalar uchun optimallashtirilgan",
+      "C": "Faqat matn asosida",
+      "D": "Faqat ranglar bilan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Android ilovalarini ishlab chiqish uchun dastlab rasmiy til qaysi edi?",
+    "options": {
+      "A": "Python",
+      "B": "Java",
+      "C": "Kotlin",
+      "D": "C++"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin qachon Android uchun rasmiy til sifatida e'lon qilingan?",
+    "options": {
+      "A": "2015",
+      "B": "2017",
+      "C": "2019",
+      "D": "2021"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin qaysi kompaniya tomonidan qo'llab-quvvatlanadi?",
+    "options": {
+      "A": "Apple",
+      "B": "Microsoft",
+      "C": "Google",
+      "D": "Facebook"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin Java ga nisbatan qanday afzallikka ega?",
+    "options": {
+      "A": "Sekinroq ishlaydi",
+      "B": "Null pointer exceptions xatolaridan himoyalaydi",
+      "C": "Faqat iOS uchun ishlaydi",
+      "D": "Kod ko'proq yoziladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "C++ Android ilovalarini ishlab chiqishda qanday ishlatiladi?",
+    "options": {
+      "A": "To'liq ilova yaratish uchun",
+      "B": "Android NDK yordamida ilovaning ayrim qismlarida",
+      "C": "Faqat UI yaratish uchun",
+      "D": "Faqat ma'lumotlar bazasi uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Dart dasturlash tili qaysi framework uchun ishlatiladi?",
+    "options": {
+      "A": "React Native",
+      "B": "Flutter",
+      "C": "Xamarin",
+      "D": "Ionic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "React Native qaysi dasturlash tilida yoziladi?",
+    "options": {
+      "A": "Dart",
+      "B": "Python",
+      "C": "JavaScript",
+      "D": "Kotlin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "C# Android ilovalarini ishlab chiqishda qaysi vosita orqali ishlatiladi?",
+    "options": {
+      "A": "Flutter",
+      "B": "Xamarin",
+      "C": "React Native",
+      "D": "PhoneGap"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin kodida har bir qatorni nuqtali vergul bilan tugatish kerakmi?",
+    "options": {
+      "A": "Ha, albatta",
+      "B": "Yo'q, kerak emas",
+      "C": "Faqat funksiyalarda kerak",
+      "D": "Faqat o'zgaruvchilarda kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Corona SDK qaysi dasturlash tilidan foydalanadi?",
+    "options": {
+      "A": "Java",
+      "B": "Lua",
+      "C": "Python",
+      "D": "Swift"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "PhoneGap frameworki qaysi texnologiyalardan foydalanadi?",
+    "options": {
+      "A": "Java va Kotlin",
+      "B": "HTML, CSS va JavaScript",
+      "C": "Dart va Flutter",
+      "D": "Swift va Objective-C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlinda Structural Concurrency qanday amalga oshiriladi?",
+    "options": {
+      "A": "Thread bilan",
+      "B": "Korutinlar (Coroutines) bilan",
+      "C": "AsyncTask bilan",
+      "D": "Promise bilan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "LinearLayout nima?",
+    "options": {
+      "A": "ViewGroup kichik klassi, elementlarni gorizontal yoki vertikal joylashtiradigan",
+      "B": "Faqat rasmlarni ko'rsatuvchi layout",
+      "C": "Ma'lumotlar bazasi elementi",
+      "D": "Tarmoq komponenti"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "RelativeLayout nima?",
+    "options": {
+      "A": "Elementlarni faqat vertikal joylashtiradigan layout",
+      "B": "ViewGroup kichik klassi, elementlarni bir-biriga yoki ota-onaga nisbatan joylashtiradigan",
+      "C": "Faqat jadvallar uchun layout",
+      "D": "Web sahifalar uchun layout"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "ConstraintLayout qaysi layoutga o'xshaydi lekin ko'proq kuchga ega?",
+    "options": {
+      "A": "LinearLayout",
+      "B": "FrameLayout",
+      "C": "RelativeLayout",
+      "D": "TableLayout"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "FrameLayout qanday ishlaydi?",
+    "options": {
+      "A": "Elementlarni jadval shaklida joylashtiradi",
+      "B": "Elementlarni bir-birining ustiga joylashtiradi, faqat bitta Viewni ko'rsatadi",
+      "C": "Elementlarni gorizontal joylashtiradi",
+      "D": "Veb sahifalarni ko'rsatadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "TableLayout nima uchun ishlatiladi?",
+    "options": {
+      "A": "Elementlarni vertikal joylashtirish",
+      "B": "Elementlarni satrlar va ustunlarda ko'rsatish",
+      "C": "Faqat rasmlarni ko'rsatish",
+      "D": "Animatsiya yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "WebView nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Veb sahifalarni activity ichida ko'rsatish uchun ishlatiladigan brauzer",
+      "C": "Matn ko'rsatuvchi element",
+      "D": "Rasm ko'rsatuvchi element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "ListView qanday vazifani bajaradi?",
+    "options": {
+      "A": "Satrlar va ustunlarda ko'rsatish",
+      "B": "Bitta ustunda aylantiriladigan elementlar ro'yxatini ko'rsatish",
+      "C": "Faqat rasmlarni ko'rsatish",
+      "D": "Veb sahifa ko'rsatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "GridView qanday vazifani bajaradi?",
+    "options": {
+      "A": "Bitta ustunda ro'yxat ko'rsatish",
+      "B": "Panjara ko'rinishida aylantiriladigan ro'yxat ko'rsatish",
+      "C": "Veb sahifa ko'rsatish",
+      "D": "Matn tahrirlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:id atributi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Maket kengligini belgilash",
+      "B": "View identifikatorini belgilash",
+      "C": "Matn rangini o'rnatish",
+      "D": "Fon rangini o'rnatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_width atributi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Balandlikni belgilash",
+      "B": "View va ViewGroup elementlarining kengligini e'lon qilish",
+      "C": "Matn o'lchamini belgilash",
+      "D": "Rang belgilash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_gravity nima uchun ishlatiladi?",
+    "options": {
+      "A": "Matn rangini o'zgartirish",
+      "B": "Child view maketda qanday joylashtirilganligini aniqlash",
+      "C": "Ma'lumotlar bazasiga ulanish",
+      "D": "Tarmoq sozlamalari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_marginLeft nima uchun ishlatiladi?",
+    "options": {
+      "A": "O'ng tomondan joy qo'shish",
+      "B": "Chap tomonida qo'shimcha joy e'lon qilish",
+      "C": "Yuqori qismidan joy qo'shish",
+      "D": "Pastki qismidan joy qo'shish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "LinearLayout da android:orientation atributi qanday qiymatlar qabul qiladi?",
+    "options": {
+      "A": "left va right",
+      "B": "horizontal va vertical",
+      "C": "top va bottom",
+      "D": "start va end"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "ConstraintLayout ning asosiy afzalligi nima?",
+    "options": {
+      "A": "Faqat vertikal layout yaratadi",
+      "B": "Tekis ko'rinish ierarxiyasi bilan murakkab interfeyslar yaratish imkonini beradi",
+      "C": "Faqat jadval ko'rinishida ishlaydi",
+      "D": "Faqat bitta elementni ko'rsatadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_weight atributi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Elementning rangini belgilash",
+      "B": "Ota-ona maketining qolgan joyni sub-ko'rinishlar orasida qanday ajratishini belgilash",
+      "C": "Elementning IDsini belgilash",
+      "D": "Elementning turini belgilash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Room nima?",
+    "options": {
+      "A": "Tarmoq kutubxonasi",
+      "B": "Android Jetpack kutubxonasi, SQLite bilan ishlashni soddalashtiradi",
+      "C": "Dasturlash tili",
+      "D": "UI framework"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Room nechta asosiy komponentdan iborat?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Room ning uchta asosiy komponenti qaysilar?",
+    "options": {
+      "A": "View, Model, Controller",
+      "B": "Entity, DAO, Database",
+      "C": "Activity, Service, Receiver",
+      "D": "Table, Column, Row"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "DAO nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi fayli",
+      "B": "Ma'lumotlar bilan ishlash uchun metodlar to'plami",
+      "C": "Dasturlash tili",
+      "D": "UI element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Entity nima?",
+    "options": {
+      "A": "SQL so'rov",
+      "B": "Jadval modeli",
+      "C": "Tarmoq protokoli",
+      "D": "Dastur sozlamasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Content Provider nima?",
+    "options": {
+      "A": "Layout turi",
+      "B": "Android komponenti, ilovalar o'rtasida ma'lumot almashishni ta'minlaydi",
+      "C": "Dasturlash tili",
+      "D": "Xavfsizlik tizimi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Firebase nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "Google tomonidan ishlab chiqilgan mobil va web ilovalar uchun backend platforma",
+      "C": "Layout turi",
+      "D": "Operatsion tizim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Firebase Realtime Database qanday ishlaydi?",
+    "options": {
+      "A": "Faqat oflayn",
+      "B": "Real vaqt rejimida ma'lumotlarni sinxronlashtiradi",
+      "C": "Faqat yozish mumkin",
+      "D": "Faqat o'qish mumkin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Cloud Firestore nima?",
+    "options": {
+      "A": "Relyatsion ma'lumotlar bazasi",
+      "B": "Hujjatga asoslangan NoSQL ma'lumotlar bazasi",
+      "C": "Dasturlash tili",
+      "D": "UI framework"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Androidda Internal Storage xususiyati nima?",
+    "options": {
+      "A": "Boshqa ilovalar ham kira oladi",
+      "B": "Ilovaning ichki xotirasi, boshqa ilovalar kira olmaydi",
+      "C": "Faqat rasmlar uchun",
+      "D": "Internet orqali ishlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "SharedPreferences nima uchun ishlatiladi?",
+    "options": {
+      "A": "Katta fayllarni saqlash",
+      "B": "Kichik hajmdagi sozlamalarni saqlash",
+      "C": "Rasmlarni saqlash",
+      "D": "Videolarni saqlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Room ning afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Faqat oflayn ishlaydi",
+      "B": "Kompilyatsiya vaqtida xatolarni aniqlaydi",
+      "C": "Faqat Firebase bilan ishlaydi",
+      "D": "Faqat Java da ishlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Firebase loyihasini ulash uchun qaysi fayl qo'shiladi?",
+    "options": {
+      "A": "manifest.xml",
+      "B": "google-services.json",
+      "C": "build.gradle",
+      "D": "settings.json"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "@Entity annotatsiyasi nimani bildiradi?",
+    "options": {
+      "A": "SQL so'rov",
+      "B": "Klassning ma'lumotlar bazasidagi jadvalga mos kelishini",
+      "C": "Tarmoq so'rovi",
+      "D": "UI element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "Android SQLite ma'lumotlar bazasi qanday turdagi ma'lumotlar bazasi?",
+    "options": {
+      "A": "Bulutli",
+      "B": "Foydalanuvchi qurilmasida lokal saqlanadigan oflayn ma'lumotlar bazasi",
+      "C": "Tarmoq bazasi",
+      "D": "NoSQL bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "SQLite da ma'lumotlar qanday ko'rinishda saqlanadi?",
+    "options": {
+      "A": "JSON formatida",
+      "B": "Jadvallar ko'rinishida",
+      "C": "XML formatida",
+      "D": "Matnli fayl sifatida"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "DBHandler klassi qaysi klassni kengaytiradi?",
+    "options": {
+      "A": "Activity",
+      "B": "SQLiteOpenHelper",
+      "C": "AppCompatActivity",
+      "D": "RecyclerView"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "db.insert(TABLE_NAME, null, values) da qaysi metod ishlatiladi?",
+    "options": {
+      "A": "select()",
+      "B": "insert()",
+      "C": "update()",
+      "D": "delete()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "onUpgrade() metodi qachon chaqiriladi?",
+    "options": {
+      "A": "Ilova o'chirilganda",
+      "B": "Ma'lumotlar bazasi versiyasi yangilanganda",
+      "C": "Ilova ishga tushganda",
+      "D": "Foydalanuvchi kirganda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "readCourses() metodida qaysi SQL so'rovi ishlatiladi?",
+    "options": {
+      "A": "INSERT INTO mycourses",
+      "B": "SELECT * FROM mycourses",
+      "C": "DELETE FROM mycourses",
+      "D": "UPDATE mycourses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "CourseModal klassi nima uchun ishlatiladi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "Ma'lumotlarni saqlash uchun model (POJO) klassi",
+      "C": "Tarmoq so'rovi",
+      "D": "Layout yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "CourseRVAdapter qaysi klassni kengaytiradi?",
+    "options": {
+      "A": "Activity",
+      "B": "RecyclerView.Adapter",
+      "C": "SQLiteOpenHelper",
+      "D": "Fragment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "ViewCourses activitysida ro'yxat ko'rsatish uchun qaysi komponent ishlatiladi?",
+    "options": {
+      "A": "ListView",
+      "B": "RecyclerView",
+      "C": "GridView",
+      "D": "ScrollView"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "getWritableDatabase() va getReadableDatabase() qanday farqlanadi?",
+    "options": {
+      "A": "Ikkalasi bir xil",
+      "B": "getWritableDatabase() yozish, getReadableDatabase() faqat o'qish uchun",
+      "C": "Birinchisi tezroq",
+      "D": "Ikkinchisi xavfsizroq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "ContentValues klassi nima uchun ishlatiladi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "Ma'lumotlar bazasiga qo'shiladigan qiymatlarni saqlash",
+      "C": "Tarmoq so'rovi",
+      "D": "Layout yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "SQLite ma'lumotlar bazasiga ulanish yaratish kerakmi?",
+    "options": {
+      "A": "Ha, albatta",
+      "B": "Yo'q, lokal bazaga ulanish yaratish shart emas",
+      "C": "Faqat Wi-Fi da kerak",
+      "D": "Faqat birinchi marta kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "Broadcast Receiver nima?",
+    "options": {
+      "A": "UI element",
+      "B": "Tizim miqyosidagi hodisalarga javob beruvchi komponent",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Layout turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "Statik va Dinamik Broadcast Receiver farqi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "Statik manifest da e'lon qilinadi va ilova yopilsa ham ishlaydi; dinamik faqat ilova faol bo'lganda",
+      "C": "Statik tezroq ishlaydi",
+      "D": "Dinamik ko'proq xotira ishlatadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "API qaysi darajasidan boshlab Broadcast Receiverning katta qismini faqat dinamik qabul qilgich ushlay oladi?",
+    "options": {
+      "A": "API 21",
+      "B": "API 26",
+      "C": "API 30",
+      "D": "API 16"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "AsyncTask nima maqsadda ishlatiladi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "Fonda vazifalarni bajarish va natijalarni UI oqimiga qaytarish",
+      "C": "Ma'lumotlar bazasi yaratish",
+      "D": "Layout joylashtirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "AsyncTask ning uchta umumiy turi qaysilar?",
+    "options": {
+      "A": "Input, Output, Error",
+      "B": "Params, Progress, Result",
+      "C": "Start, Run, Stop",
+      "D": "Create, Read, Update"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "doInBackground() metodi qanday vazifani bajaradi?",
+    "options": {
+      "A": "UI ni yangilaydi",
+      "B": "Orqa fonda kodni bajaradi va publishProgress() orqali natijalarni UI ga yetkazadi",
+      "C": "Ma'lumotlar bazasini yaratadi",
+      "D": "Layout ni chizadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "onPreExecute() metodi qachon ishlaydi?",
+    "options": {
+      "A": "Fonda ishlov tugagandan keyin",
+      "B": "Fonni qayta ishlash boshlanishidan oldin",
+      "C": "Ilova yopilganda",
+      "D": "Foydalanuvchi kirganda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "onPostExecute() metodi qanday ishlaydi?",
+    "options": {
+      "A": "Fon ishlashidan oldin",
+      "B": "doInBackground tugagandan so'ng chaqiriladi, uning chiqishini qabul qiladi",
+      "C": "Faqat xatolar uchun",
+      "D": "Layout yaratish uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "NavController nima?",
+    "options": {
+      "A": "Layout turi",
+      "B": "NavHost yordamida manzillar navigatsiyasini boshqaradigan obyekt",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "Navigatsiya grafigi (Navigation Graph) nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "Manzillar deb ataladigan barcha alohida kontent maydonlarini o'z ichiga olgan XML fayli",
+      "C": "Ma'lumotlar bazasi",
+      "D": "UI element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "NavHost qanday komponent?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Navigatsiya qilganda manzillarni ko'rsatadigan bo'sh konteyner, NavHostFragment ni o'z ichiga oladi",
+      "C": "Layout turi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "Safe Args nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Manzillar o'rtasida xavfsiz ma'lumotlarni uzatishni ta'minlaydigan Gradle plagini",
+      "C": "UI element",
+      "D": "Tarmoq protokoli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Bildirishnoma (Notification) nima?",
+    "options": {
+      "A": "Layout turi",
+      "B": "Foydalanuvchini jarayon haqida xabardor qiluvchi xabar, ogohlantirish yoki holat turi",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Bildirishnomalarning nechta turi mavjud (maruzada)?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Diqqat bildirishnomasi (Heads-up Notification) qanday ishlaydi?",
+    "options": {
+      "A": "Faqat ovoz chiqaradi",
+      "B": "Qo'shimcha ekranda paydo bo'ladi (WhatsApp, OTP xabarlari kabi)",
+      "C": "Faqat vibratsiya",
+      "D": "Faqat LED yonadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Android sensorlari qanday uch asosiy turga bo'linadi?",
+    "options": {
+      "A": "Raqamli, Analog, Aralash",
+      "B": "Harakat, Joylashuv va Atrof-muhit sensorlari",
+      "C": "Katta, O'rta, Kichik",
+      "D": "Tez, O'rta, Sekin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Harakat sensorlari nimani o'lchaydi?",
+    "options": {
+      "A": "Harorat va namlik",
+      "B": "Uchta o'q bo'ylab tezlanish va aylanish kuchlarini",
+      "C": "Yorug'lik",
+      "D": "Bosim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "SensorManager klassi nima uchun ishlatiladi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "Qurilmada mavjud turli sensorlarga kirish uchun",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Layout yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "SensorEventListener interfeysi qanday vazifani bajaradi?",
+    "options": {
+      "A": "Layout yaratish",
+      "B": "Sensor aniqligi o'zgarganda harakatlarni bajarish uchun",
+      "C": "Ma'lumotlar bazasi yaratish",
+      "D": "Tarmoq ulanishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Paginatsiya (Paging) nima?",
+    "options": {
+      "A": "UI element",
+      "B": "Masofaviy serverdan oz miqdordagi ma'lumotlarni yuklash uchun Android Jetpack xususiyati",
+      "C": "Dasturlash tili",
+      "D": "Layout turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 96,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "PageKeyedDataSource qachon ishlatiladi?",
+    "options": {
+      "A": "Faqat lokal ma'lumotlar uchun",
+      "B": "Tasmalarda keyingi/oldingi post funksiyasi bo'lsa (ijtimoiy media platformasi kabi)",
+      "C": "Faqat rasmlar uchun",
+      "D": "Faqat video uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "PositionalDataSource qachon ishlatiladi?",
+    "options": {
+      "A": "Barcha ma'lumotlar uchun",
+      "B": "Faqat ma'lum joydan ma'lumot olish uchun (masalan, 300-400 oralig'i)",
+      "C": "Faqat birinchi element uchun",
+      "D": "Faqat oxirgi element uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "JSON (JavaScript Object Notation) nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "Server ma'lumotlarini almashish uchun yengil va tuzilgan til, XML ga alternativa",
+      "C": "Layout turi",
+      "D": "Ma'lumotlar bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 99,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "JSON da [ va { qanday farqlanadi?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "[ JSONArray boshlanishi, { JSONObject boshlanishi",
+      "C": "[ ob'ekt, { massiv",
+      "D": "Ikkalasi massiv"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "JSON da ma'lumotlar [ bilan boshlansa qaysi usul chaqiriladi?",
+    "options": {
+      "A": "getJSONObject()",
+      "B": "getJSONArray()",
+      "C": "getString()",
+      "D": "getInt()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Akselerometr qaysi sensor turiga kiradi?",
+    "options": {
+      "A": "Atrof-muhit sensori",
+      "B": "Harakat sensori",
+      "C": "Joylashuv sensori",
+      "D": "Yorug'lik sensori"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "JSX ning to'liq nomi nima?",
+    "options": {
+      "A": "Java Server Extension",
+      "B": "JavaScript XML",
+      "C": "JSON XML Schema",
+      "D": "Java Syntax Extension"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "JSX qanday vazifani bajaradi?",
+    "options": {
+      "A": "Ma'lumotlar bazasi yaratish",
+      "B": "JavaScript ichida HTML ga o'xshash sintaksis yozish imkonini beradi",
+      "C": "Tarmoq ulanishi",
+      "D": "Fayllarni saqlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "const element = <Text>Hello World</Text>; qaysi texnologiyaga misol?",
+    "options": {
+      "A": "HTML",
+      "B": "JSX sintaksisi, JavaScript ga kompilyatsiya qilinadi",
+      "C": "CSS",
+      "D": "SQL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native qaysi kompaniya tomonidan yaratilgan?",
+    "options": {
+      "A": "Google",
+      "B": "Facebook",
+      "C": "Microsoft",
+      "D": "Apple"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native qaysi platformalar uchun dastur yaratish imkonini beradi?",
+    "options": {
+      "A": "Faqat Android",
+      "B": "Android, iOS, macOS, Windows OS va Web",
+      "C": "Faqat iOS",
+      "D": "Faqat Web"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "Krossplatforma (Cross-platform) degani nima?",
+    "options": {
+      "A": "Faqat bitta platforma uchun ilova",
+      "B": "Bir xil kod yordamida turli platformalar uchun ilova yaratish",
+      "C": "Faqat mobil ilovalar",
+      "D": "Faqat web ilovalar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da View komponenti qanday vazifani bajaradi?",
+    "options": {
+      "A": "Matn ko'rsatish",
+      "B": "Konteyner vazifasini bajaradi",
+      "C": "Rasm ko'rsatish",
+      "D": "Animatsiya yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da ScrollView nima uchun ishlatiladi?",
+    "options": {
+      "A": "Matn kiritish",
+      "B": "Scroll qilinadigan qismni tashkil qilish",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq so'rovi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "StyleSheet React Native da qanday vazifani bajaradi?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Komponentlarni bezash uchun, CSS ga o'xshash sintaksisga ega",
+      "C": "Tarmoq ulanishi",
+      "D": "Navigatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "Flexbox React Native da qanday maqsadda ishlatiladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasi yaratish",
+      "B": "Layout yaratish, elementlarni joylashtirish va moslashuvchanlik uchun",
+      "C": "Tarmoq ulanishi",
+      "D": "Xavfsizlik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React JS va React Native ning asosiy farqi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "React JS veb uchun HTML/DOM bilan; React Native mobil uchun View/Text/Image bilan ishlaydi",
+      "C": "React JS tezroq",
+      "D": "React Native eski"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 113,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da Image komponenti nima uchun ishlatiladi?",
+    "options": {
+      "A": "Matn ko'rsatish",
+      "B": "Rasm ko'rsatish",
+      "C": "Videoni ijro etish",
+      "D": "Ovoz yozish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da Text komponenti nima uchun ishlatiladi?",
+    "options": {
+      "A": "Rasm ko'rsatish",
+      "B": "Matn chiqarish",
+      "C": "Video ko'rsatish",
+      "D": "Tugma yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "React Native da komponent nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "Mustaqil ishlaydigan, qayta ishlatiladigan, UI tuzilishi va mantiqiga ega mobil ilovaning qurilish bloki",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq protokoli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 116,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Komponentlarning qanday ikki asosiy turi mavjud?",
+    "options": {
+      "A": "Static va Dynamic",
+      "B": "Funksional komponentlar va Class komponentlar",
+      "C": "Input va Output",
+      "D": "View va Layout"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Funksional komponent qanday xususiyatlarga ega?",
+    "options": {
+      "A": "Class asosida, lifecycle metodlarga ega",
+      "B": "Oddiy JavaScript funksiyasi, props qabul qiladi, JSX orqali UI qaytaradi",
+      "C": "Faqat Android uchun",
+      "D": "Faqat iOS uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "props nima?",
+    "options": {
+      "A": "Komponent ichidagi o'zgaruvchan ma'lumot",
+      "B": "Komponentga tashqaridan beriladigan ma'lumot",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Layout turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "State (Holat) nima?",
+    "options": {
+      "A": "Tashqaridan beriladigan ma'lumot",
+      "B": "Komponent ichidagi o'zgaruvchan ma'lumot, useState hook orqali boshqariladi",
+      "C": "Layout turi",
+      "D": "Tarmoq ulanishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 120,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "useState hook qanday vazifani bajaradi?",
+    "options": {
+      "A": "Layout yaratish",
+      "B": "Funksional komponentlarda holatni (state) boshqarish uchun ishlatiladi",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq so'rovi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "useEffect hook qanday maqsadda ishlatiladi?",
+    "options": {
+      "A": "Matn formatlash",
+      "B": "Komponentning lifecycle (hayot sikli) ni boshqarish uchun",
+      "C": "Rasm yuklash",
+      "D": "Fayllarni o'chirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "useContext hook qanday vazifani bajaradi?",
+    "options": {
+      "A": "Lokal state boshqarish",
+      "B": "Global state ni boshqarish va turli komponentlar o'rtasida ulashish",
+      "C": "Layout yaratish",
+      "D": "Animatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Interaktiv komponentlar nima?",
+    "options": {
+      "A": "Faqat ko'rinadigan elementlar",
+      "B": "Foydalanuvchi bilan bevosita o'zaro aloqada bo'ladigan komponentlar",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq elementlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "TouchableOpacity komponenti qanday xususiyatga ega?",
+    "options": {
+      "A": "Rangi o'zgaradi",
+      "B": "Bosilganda opacity (yorqinlik) o'zgaradi",
+      "C": "O'lcham o'zgaradi",
+      "D": "Shakl o'zgaradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 125,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "TextInput komponenti qanday vazifani bajaradi?",
+    "options": {
+      "A": "Rasm ko'rsatish",
+      "B": "Foydalanuvchidan ma'lumot (matn) kiritib olish",
+      "C": "Video ko'rsatish",
+      "D": "Tugma yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Switch komponenti qanday vazifani bajaradi?",
+    "options": {
+      "A": "Matn ko'rsatish",
+      "B": "On/Off holatni boshqaradi",
+      "C": "Rasm ko'rsatish",
+      "D": "Navigatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Pressable komponenti nimadan farq qiladi?",
+    "options": {
+      "A": "Faqat iOS uchun",
+      "B": "Ko'proq nazorat imkonini beradi (zamonaviy)",
+      "C": "Faqat matn uchun",
+      "D": "Faqat rasm uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Interaktiv formaning ishlash logikasi qanday?",
+    "options": {
+      "A": "Faqat matn ko'rsatiladi",
+      "B": "Foydalanuvchi TextInput ga yozadi → state ga saqlanadi → Button bosilganda qayta ishlanadi",
+      "C": "Faqat rasm ko'rsatiladi",
+      "D": "Avtomatik ishlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Custom komponent qanday yaratiladi?",
+    "options": {
+      "A": "XML orqali",
+      "B": "const MyComponent = () => { return <Text>...</Text>; }",
+      "C": "SQL orqali",
+      "D": "HTML orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Built-in komponentlar misollarini keltiring?",
+    "options": {
+      "A": "Table, Form, Canvas",
+      "B": "View, Text, Image, Button, TextInput, ScrollView",
+      "C": "Div, Span, P",
+      "D": "Frame, Panel, Grid"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 131,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "React Native da Navigatsiya nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Foydalanuvchining ilova ichida bir ekrandan boshqasiga o'tishini tashkil etuvchi mexanizm",
+      "C": "Layout turi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "React Native da navigatsiya qanday ishlaydi?",
+    "options": {
+      "A": "Faqat bitta ekran",
+      "B": "Har bir ekran alohida komponent, route orqali aniqlanadi, stack mexanizmi orqali saqlanadi",
+      "C": "Faqat jadvallar",
+      "D": "Faqat rasmlar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "React Navigation kutubxonasi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Mobil ilovadagi ekranlar o'rtasida uzluksiz navigatsiya qilish",
+      "C": "Rasm tahrirlash",
+      "D": "Video ijro etish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "StackNavigator qanday ishlaydi?",
+    "options": {
+      "A": "Elementlarni jadval shaklida joylashtiradi",
+      "B": "Har bir yangi ekran oldingisining ustida paydo bo'ladigan stekka asoslangan oqim",
+      "C": "Faqat bitta ekran ko'rsatadi",
+      "D": "Faqat rasm ko'rsatadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 135,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "Route (marshrut) mobil ilovalarda nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi jadvali",
+      "B": "Qaysi ekran ochilishini aniqlovchi yo'l yoki nom",
+      "C": "UI element",
+      "D": "Tarmoq protokoli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "createStackNavigator() funksiyasi nima yaratadi?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Ekranlar o'rtasida o'tishni boshqaruvchi Stack Navigator",
+      "C": "Layout",
+      "D": "Rasm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 137,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "Navigatsiya paytida ma'lumotlarni qanday uzatish mumkin?",
+    "options": {
+      "A": "Faqat global o'zgaruvchi orqali",
+      "B": "props.navigation.navigate('Screen', { key: value }) orqali",
+      "C": "Faqat fayl orqali",
+      "D": "Faqat API orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "Navigatsiyaning asosiy vazifalari nimalar?",
+    "options": {
+      "A": "Faqat rasm ko'rsatish",
+      "B": "Ekranlar o'rtasida o'tish, orqaga qaytish, ma'lumotlarni uzatish",
+      "C": "Faqat matn formatlash",
+      "D": "Faqat animatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "expo start buyrug'i nima qiladi?",
+    "options": {
+      "A": "Ilovani o'chiradi",
+      "B": "Expo serverni ishga tushiradi",
+      "C": "Ma'lumotlar bazasini yaratadi",
+      "D": "Fayllarni o'chiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 140,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Ma'lumotlarni uzatishda props qanday ishlaydi?",
+    "options": {
+      "A": "Pastdan yuqoriga",
+      "B": "Asosiy komponentdan voris komponentga (yuqoridan pastga) uzatiladi",
+      "C": "Faqat gorizontal",
+      "D": "Tasodifiy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Callback nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Boshqa funksiyaga argument sifatida uzatiladigan va keyinroq chaqiriladigan funksiya",
+      "C": "Layout turi",
+      "D": "UI element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "JavaScript da asinxron dasturlash nimani anglatadi?",
+    "options": {
+      "A": "Hamma narsa ketma-ket ishlaydi",
+      "B": "Uzoq jarayonlarni kutmasdan boshqa ishlarni davom ettirish",
+      "C": "Faqat bitta ish bajariladi",
+      "D": "Dastur to'xtaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Promise nima?",
+    "options": {
+      "A": "Layout turi",
+      "B": "Kelajakda bajariladigan operatsiya natijasini ifodalovchi obyekt",
+      "C": "Ma'lumotlar bazasi",
+      "D": "UI element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 144,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "async kalit so'zi nima qiladi?",
+    "options": {
+      "A": "Funksiyani sinxron qiladi",
+      "B": "Funksiyani asinxron qiladi, har doim Promise qaytaradi",
+      "C": "Funksiyani o'chiradi",
+      "D": "Xato chiqaradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "await kalit so'zi nima qiladi?",
+    "options": {
+      "A": "Funksiyani tezlashtiradi",
+      "B": "Promise natijasini kutadi, kodni oson va tushunarli qiladi",
+      "C": "Funksiyani o'chiradi",
+      "D": "Xato chiqaradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "fetch() funksiyasi nima uchun ishlatiladi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "API orqali serverdan ma'lumot olish",
+      "C": "Layout yaratish",
+      "D": "Fayllarni o'chirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "try-catch bloki async/await da nima uchun ishlatiladi?",
+    "options": {
+      "A": "Tezlikni oshirish",
+      "B": "Xatolarni ushlash va qayta ishlash uchun",
+      "C": "Layout yaratish",
+      "D": "Animatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Promise da .then() metodi qachon chaqiriladi?",
+    "options": {
+      "A": "Xato bo'lganda",
+      "B": "Promise muvaffaqiyatli bajarilganda (resolve)",
+      "C": "Har doim",
+      "D": "Hech qachon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Promise da .catch() metodi qachon chaqiriladi?",
+    "options": {
+      "A": "Muvaffaqiyatli bo'lganda",
+      "B": "Promise xato bilan tugaganda (reject)",
+      "C": "Har doim",
+      "D": "Hech qachon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Komponentning hayot siklida qanday asosiy bosqichlar bor?",
+    "options": {
+      "A": "Faqat yaratilish",
+      "B": "Mounting (yaratilish), Updating (yangilanish), Unmounting (o'chirilish)",
+      "C": "Faqat o'chirilish",
+      "D": "Faqat yangilanish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 151,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Mounting bosqichida nima sodir bo'ladi?",
+    "options": {
+      "A": "Komponent o'chiriladi",
+      "B": "Komponent birinchi marta render qilinib, ekranda paydo bo'ladi",
+      "C": "Komponent yangilanadi",
+      "D": "Komponent yashirinadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Updating bosqichida nima sodir bo'ladi?",
+    "options": {
+      "A": "Komponent yaratiladi",
+      "B": "props yoki state o'zgarganda komponent qayta chiziladi",
+      "C": "Komponent o'chiriladi",
+      "D": "Hech narsa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Unmounting bosqichida nima sodir bo'ladi?",
+    "options": {
+      "A": "Komponent yaratiladi",
+      "B": "Komponent ekrandan butunlay olib tashlanadi",
+      "C": "Komponent yangilanadi",
+      "D": "Komponent ko'payadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 154,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "useEffect(() => {...}, []) bo'sh massiv bilan qaysi lifecycle bosqichiga mos?",
+    "options": {
+      "A": "Unmounting",
+      "B": "Mounting (componentDidMount)",
+      "C": "Updating",
+      "D": "Constructor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 155,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "useEffect(() => {...}, [count]) qachon ishlaydi?",
+    "options": {
+      "A": "Faqat bir marta",
+      "B": "Faqat count o'zgargandagina (componentDidUpdate)",
+      "C": "Hech qachon",
+      "D": "Har soniyada"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 156,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "useEffect ichidagi return funksiyasi nima uchun?",
+    "options": {
+      "A": "State yangilash",
+      "B": "Tozalash (cleanup) funksiyasi — komponent o'chirilganda ishlaydi",
+      "C": "Layout yaratish",
+      "D": "Rasm yuklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "useState funksiyasi nima qaytaradi?",
+    "options": {
+      "A": "Bitta qiymat",
+      "B": "Ikkita elementdan iborat massiv: joriy holat va yangilovchi funksiya",
+      "C": "Uchta qiymat",
+      "D": "Object"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Side Effect (yon ta'sir) nima?",
+    "options": {
+      "A": "UI chizish",
+      "B": "API chaqiruv, timer, sensor kabi UI chizishdan tashqaridagi amallar",
+      "C": "Layout yaratish",
+      "D": "Matn formatlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 159,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Class komponentda componentDidMount hookka qaysi useEffect mos keladi?",
+    "options": {
+      "A": "useEffect(() => {...})",
+      "B": "useEffect(() => {...}, [])",
+      "C": "useEffect(() => {...}, [x])",
+      "D": "useState()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "shouldComponentUpdate metodi nima uchun ishlatiladi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "Komponentni qayta chizish kerakligini aniqlash (performance uchun)",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq so'rovi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Funksional komponentlarda shouldComponentUpdate o'rniga nima ishlatiladi?",
+    "options": {
+      "A": "useEffect",
+      "B": "React.memo",
+      "C": "useState",
+      "D": "useContext"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "constructor() metodi qaysi bosqichda chaqiriladi?",
+    "options": {
+      "A": "Updating",
+      "B": "Mounting — eng birinchi qadam",
+      "C": "Unmounting",
+      "D": "Hech qachon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 163,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "render() metodi qanday bo'lishi kerak?",
+    "options": {
+      "A": "State o'zgartirishi kerak",
+      "B": "Toza (pure) bo'lishi kerak — bir xil kirish uchun bir xil natija",
+      "C": "Tarmoq so'rovi qilishi kerak",
+      "D": "Fayl yozishi kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "PostgreSQL asosida yaratilgan ochiq kodli bulutli backend platforma",
+      "C": "Layout turi",
+      "D": "UI framework"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 165,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase qachon tashkil topgan?",
+    "options": {
+      "A": "2018",
+      "B": "2020",
+      "C": "2015",
+      "D": "2022"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 166,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase qaysi ma'lumotlar bazasiga asoslangan?",
+    "options": {
+      "A": "MySQL",
+      "B": "PostgreSQL",
+      "C": "MongoDB",
+      "D": "SQLite"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 167,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase o'zini qanday pozitsiyalaydi?",
+    "options": {
+      "A": "Google alternativasi",
+      "B": "Firebase ga ochiq alternativa",
+      "C": "Apple alternativasi",
+      "D": "AWS alternativasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "React Native da ma'lumotlar bazasi bilan ishlash necha xil usulda amalga oshiriladi?",
+    "options": {
+      "A": "1",
+      "B": "2 (Lokal va Masofaviy)",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "AsyncStorage nima?",
+    "options": {
+      "A": "Sinxron saqlash",
+      "B": "Asinxron, doimiy kalit-qiymat saqlash tizimi",
+      "C": "Ma'lumotlar bazasi server",
+      "D": "Layout turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 170,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "AsyncStorage faqat qanday turdagi ma'lumot saqlaydi?",
+    "options": {
+      "A": "Number",
+      "B": "String",
+      "C": "Object",
+      "D": "Array"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 171,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "AsyncStorage da obyekt saqlash uchun nima qilish kerak?",
+    "options": {
+      "A": "To'g'ridan-to'g'ri saqlash",
+      "B": "JSON.stringify() bilan string ga aylantirish",
+      "C": "Base64 kodlash",
+      "D": "XML ga aylantirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase clientni yaratish uchun qaysi funksiya ishlatiladi?",
+    "options": {
+      "A": "createDatabase()",
+      "B": "createClient()",
+      "C": "initSupabase()",
+      "D": "connectDB()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 173,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase da ma'lumot olish (SELECT) uchun qanday kod yoziladi?",
+    "options": {
+      "A": "supabase.get('users')",
+      "B": "supabase.from('users').select('*')",
+      "C": "supabase.query('SELECT')",
+      "D": "supabase.read('users')"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "MMKV kim tomonidan ishlab chiqilgan?",
+    "options": {
+      "A": "Google",
+      "B": "WeChat",
+      "C": "Facebook",
+      "D": "Apple"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase da autentifikatsiya uchun qaysi metod ishlatiladi?",
+    "options": {
+      "A": "supabase.login()",
+      "B": "supabase.auth.signUp() / supabase.auth.signInWithPassword()",
+      "C": "supabase.connect()",
+      "D": "supabase.verify()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "PostgREST Supabase da qanday vazifani bajaradi?",
+    "options": {
+      "A": "UI yaratish",
+      "B": "Ma'lumotlar bazasi tuzilmasidan REST API ni avtomatik yaratish",
+      "C": "Fayllarni saqlash",
+      "D": "Xavfsizlik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 177,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "GoTrue Supabase da nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "JWT autentifikatsiyasi va foydalanuvchilarni boshqarish tizimi",
+      "C": "UI framework",
+      "D": "Layout"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter nima?",
+    "options": {
+      "A": "Dasturlash tili",
+      "B": "Google tomonidan yaratilgan ochiq kodli UI framework",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Operatsion tizim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 179,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter qaysi kompaniya tomonidan yaratilgan?",
+    "options": {
+      "A": "Facebook",
+      "B": "Google",
+      "C": "Microsoft",
+      "D": "Apple"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da ilovalar qaysi tilda yoziladi?",
+    "options": {
+      "A": "JavaScript",
+      "B": "Dart",
+      "C": "Kotlin",
+      "D": "Swift"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Hot Reload nima?",
+    "options": {
+      "A": "Ilovani qayta o'rnatish",
+      "B": "Kodga o'zgarishlarni ilovani to'xtatmasdan bir soniyadan kam vaqtda ko'rish",
+      "C": "Ma'lumotlar bazasini tozalash",
+      "D": "Tarmoqni tiklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 182,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da hamma narsa nima deb ataladi?",
+    "options": {
+      "A": "Component",
+      "B": "Widget (Vidjet)",
+      "C": "Module",
+      "D": "Package"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter qaysi rendering dvigatelidan foydalanadi?",
+    "options": {
+      "A": "V8",
+      "B": "Skia yoki Impeller",
+      "C": "WebKit",
+      "D": "Blink"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 184,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart dasturlash tili qachon yaratilgan?",
+    "options": {
+      "A": "2009",
+      "B": "2011",
+      "C": "2014",
+      "D": "2017"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart qaysi tillar oilasiga kiradi?",
+    "options": {
+      "A": "Python oilasi",
+      "B": "C-simon tillar oilasi",
+      "C": "Lisp oilasi",
+      "D": "ML oilasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 186,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da Null Safety nima?",
+    "options": {
+      "A": "Xotira boshqaruvi",
+      "B": "Kodda xatoliklarning oldini olish uchun zamonaviy xavfsizlik tizimi",
+      "C": "Tarmoq xavfsizligi",
+      "D": "Fayl shifrlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da void main() funksiyasi nima?",
+    "options": {
+      "A": "Konstruktor",
+      "B": "Dasturning boshlang'ich nuqtasi",
+      "C": "Sinf",
+      "D": "O'zgaruvchi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 188,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da String turi qanday e'lon qilinadi?",
+    "options": {
+      "A": "string name = 'Ali'",
+      "B": "String name = 'Ali'",
+      "C": "str name = 'Ali'",
+      "D": "char name = 'Ali'"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 189,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da List nima?",
+    "options": {
+      "A": "Lug'at",
+      "B": "Tartiblangan elementlar to'plami",
+      "C": "Kalit-qiymat juftligi",
+      "D": "Sinf"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 190,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da Map nima?",
+    "options": {
+      "A": "Oddiy massiv",
+      "B": "Kalit-qiymat juftliklaridan iborat to'plam",
+      "C": "Tartiblangan ro'yxat",
+      "D": "Sinf"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 191,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da class nima?",
+    "options": {
+      "A": "Funksiya",
+      "B": "Obyektga yo'naltirilgan dasturlashda shablon (blueprint)",
+      "C": "O'zgaruvchi",
+      "D": "Massiv"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 192,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Inkapsulyatsiya nima?",
+    "options": {
+      "A": "Meros olish",
+      "B": "Ma'lumotlarni yashirish va faqat kerakli qismini ochish",
+      "C": "Polimorfizm",
+      "D": "Abstraksiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da private o'zgaruvchi qanday belgilanadi?",
+    "options": {
+      "A": "private kalit so'zi bilan",
+      "B": "Pastki chiziq (_) bilan boshlanadi",
+      "C": "# belgisi bilan",
+      "D": "@ belgisi bilan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 194,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Meros olish (Inheritance) nima?",
+    "options": {
+      "A": "Ma'lumotlarni yashirish",
+      "B": "Bir sinf boshqa sinfning xususiyatlarini olishi",
+      "C": "Polimorfizm",
+      "D": "Abstraksiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Polimorfizm nima?",
+    "options": {
+      "A": "Meros olish",
+      "B": "Bir xil metod turli shaklda ishlatilishi",
+      "C": "Inkapsulyatsiya",
+      "D": "Abstraksiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 196,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "abstract class nima?",
+    "options": {
+      "A": "Oddiy sinf",
+      "B": "Faqat kerakli funksiyalarni ko'rsatadigan, to'liq amalga oshirilmagan sinf",
+      "C": "Static sinf",
+      "D": "Final sinf"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 197,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da Material Design qaysi platforma uchun?",
+    "options": {
+      "A": "iOS",
+      "B": "Android",
+      "C": "Windows",
+      "D": "macOS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 198,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da Cupertino vidjeti qaysi platforma uchun?",
+    "options": {
+      "A": "Android",
+      "B": "iOS",
+      "C": "Windows",
+      "D": "Linux"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 199,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da ishlash uchun qaysi IDE lar ishlatiladi?",
+    "options": {
+      "A": "Eclipse va NetBeans",
+      "B": "Android Studio va Visual Studio Code",
+      "C": "Sublime Text va Notepad",
+      "D": "PyCharm va IntelliJ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 200,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "StatelessWidget nima?",
+    "options": {
+      "A": "Holatni saqlaydi",
+      "B": "Holatni saqlamaydi, o'zgarmas UI uchun ishlatiladi",
+      "C": "Dinamik UI",
+      "D": "Ma'lumotlar bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 201,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "StatefulWidget nima?",
+    "options": {
+      "A": "Holatni saqlamaydi",
+      "B": "Holatni saqlaydi, dinamik UI uchun ishlatiladi",
+      "C": "Faqat matn uchun",
+      "D": "Faqat rasm uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 202,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Container vidjeti nima uchun ishlatiladi?",
+    "options": {
+      "A": "Faqat matn ko'rsatish",
+      "B": "Boshqa vidjetlarni o'z ichiga oladi va bezash (style) uchun",
+      "C": "Faqat tarmoq",
+      "D": "Faqat ma'lumotlar bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 203,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Row vidjeti qanday joylashuvni ta'minlaydi?",
+    "options": {
+      "A": "Vertikal",
+      "B": "Gorizontal joylashuv",
+      "C": "Ustma-ust",
+      "D": "Tasodifiy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 204,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Column vidjeti qanday joylashuvni ta'minlaydi?",
+    "options": {
+      "A": "Gorizontal",
+      "B": "Vertikal joylashuv",
+      "C": "Ustma-ust",
+      "D": "Tasodifiy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Stack vidjeti nima uchun ishlatiladi?",
+    "options": {
+      "A": "Gorizontal joylashtirish",
+      "B": "Elementlarni ustma-ust joylashtirish",
+      "C": "Vertikal joylashtirish",
+      "D": "Jadval yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 206,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "ListView nima?",
+    "options": {
+      "A": "Bitta element ko'rsatish",
+      "B": "Ko'p elementlardan iborat ro'yxatni ko'rsatish uchun vidjet",
+      "C": "Rasm ko'rsatish",
+      "D": "Tarmoq ulanishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "ListView.builder ning oddiy ListView dan farqi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "Faqat ekranda ko'rinayotgan elementlarni yaratadi (lazy loading)",
+      "C": "Sekinroq ishlaydi",
+      "D": "Ko'proq xotira ishlatadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 208,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "ListView.builder da itemCount nima?",
+    "options": {
+      "A": "Element o'lchami",
+      "B": "Nechta element borligini bildiradi",
+      "C": "Element rangi",
+      "D": "Element nomi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "ListView.builder da itemBuilder nima?",
+    "options": {
+      "A": "Element o'lchami",
+      "B": "Har bir elementni dinamik yaratadigan funksiya",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Layout turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 210,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "ListTile vidjeti qanday xususiyatlarga ega?",
+    "options": {
+      "A": "Faqat matn",
+      "B": "leading, title, subtitle, trailing",
+      "C": "Faqat rasm",
+      "D": "Faqat tugma"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Flutter da UI qanday tashkil etiladi?",
+    "options": {
+      "A": "Jadval shaklida",
+      "B": "Daraxt (Widget Tree) ko'rinishida",
+      "C": "Ro'yxat shaklida",
+      "D": "Tasodifiy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 212,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "setState() funksiyasi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Layout yaratish",
+      "B": "StatefulWidget da holatni yangilash va UI ni qayta chizish",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq so'rovi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 213,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "BoxDecoration nima uchun ishlatiladi?",
+    "options": {
+      "A": "Matn formatlash",
+      "B": "Container ni bezash: rang, borderRadius va boshqalar",
+      "C": "Tarmoq ulanishi",
+      "D": "Ma'lumotlar bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "ElevatedButton Flutter da nima?",
+    "options": {
+      "A": "Oddiy matn",
+      "B": "Ko'tarilgan (elevated) ko'rinishdagi tugma",
+      "C": "Rasm",
+      "D": "Layout"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 215,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Scaffold vidjeti Flutter da nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Asosiy Material Design vizual tuzilmasi: AppBar, Body, FloatingActionButton",
+      "C": "Tarmoq elementi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 216,
+    "topic": "Namuna test savollari (asl)",
+    "question": "LinearLayout – bu...?",
+    "options": {
+      "A": "Faqat rasmlar uchun layout",
+      "B": "ViewGroup kichik klassi, gorizontal yoki vertikal ravishda bolalar View elementlarini joylashtiradi",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq protokoli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 217,
+    "topic": "Namuna test savollari (asl)",
+    "question": "RelativeLayout – bu...?",
+    "options": {
+      "A": "Vertikal layout",
+      "B": "ViewGroup kichik klassi, View elementlarini bir-biriga yoki ota-onaga nisbatan joylashtiradi",
+      "C": "Faqat jadval",
+      "D": "Faqat rasm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 218,
+    "topic": "Namuna test savollari (asl)",
+    "question": "ConstraintLayout – bu...?",
+    "options": {
+      "A": "Oddiy layout",
+      "B": "ViewGroup kichik klassi, RelativeLayoutga o'xshash lekin ko'proq kuchga ega",
+      "C": "Faqat matn",
+      "D": "Faqat video"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 219,
+    "topic": "Namuna test savollari (asl)",
+    "question": "FrameLayout – bu...?",
+    "options": {
+      "A": "Jadval layout",
+      "B": "ViewGroup kichik klassi, elementlarni bir-birining ustiga joylashtiradi",
+      "C": "Tarmoq elementi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 220,
+    "topic": "Namuna test savollari (asl)",
+    "question": "TableLayout – bu...?",
+    "options": {
+      "A": "Vertikal layout",
+      "B": "ViewGroup kichik klassi, elementlarni satrlar va ustunlarda ko'rsatadi",
+      "C": "Faqat matn",
+      "D": "Faqat rasm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 221,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovalarini ishlab chiqish jarayonining birinchi bosqichi qaysi?",
+    "options": {
+      "A": "Kodlash",
+      "B": "Rejalashtirish va dizayn",
+      "C": "Sinov",
+      "D": "Joylashtirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 222,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Android ilovalarini nashr etish uchun qaysi platforma ishlatiladi?",
+    "options": {
+      "A": "App Store",
+      "B": "Google Play Store",
+      "C": "Huawei AppGallery",
+      "D": "Samsung Store"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 223,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Fan bo'yicha jami necha soat ajratilgan?",
+    "options": {
+      "A": "120",
+      "B": "150",
+      "C": "180",
+      "D": "200"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 224,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Maruza mashg'ulotlariga necha soat ajratilgan?",
+    "options": {
+      "A": "30",
+      "B": "42",
+      "C": "50",
+      "D": "60"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 225,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Mustaqil ta'lim uchun necha soat ajratilgan?",
+    "options": {
+      "A": "72",
+      "B": "96",
+      "C": "108",
+      "D": "120"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Fan o'qituvchisi kim?",
+    "options": {
+      "A": "Doshanova M.Yu.",
+      "B": "Egamberdiyev Elyor Hayitmamatovich",
+      "C": "Babomurадов О.Ж.",
+      "D": "Alex Forrester"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 227,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Joriy nazorat necha foizni tashkil etadi?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 228,
+    "topic": "1-Mavzu: Android ilovalarini ishlab chiqishga kirish",
+    "question": "Oraliq nazorat necha foizni tashkil etadi?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "35%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 229,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "2021-yilda butun dunyo bo'ylab mobil foydalanuvchilar soni qancha edi?",
+    "options": {
+      "A": "5 milliard",
+      "B": "6 milliard",
+      "C": "7,1 milliard",
+      "D": "8 milliard"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 230,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Login Screen nima?",
+    "options": {
+      "A": "Asosiy ekran",
+      "B": "Foydalanuvchilarga hisoblarini yaratishga yordam beradigan sahifa",
+      "C": "Splash ekran",
+      "D": "Sozlamalar sahifasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 231,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "App Screen nima?",
+    "options": {
+      "A": "Faqat login sahifasi",
+      "B": "Ilovaning barcha ekranlari — ma'lumot ko'rsatish va foydalanuvchi bilan o'zaro aloqa",
+      "C": "Faqat splash ekran",
+      "D": "Faqat sozlamalar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 232,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Mobil UI dizaynida intuitiv navigatsiya nima uchun kerak?",
+    "options": {
+      "A": "Ko'rinish uchun",
+      "B": "Foydalanish qulayligini oshirish uchun tanish imo-ishoralar va o'zaro ta'sirlardan foydalanish",
+      "C": "Tezlikni oshirish",
+      "D": "Xotira tejash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 233,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Mobil UI dizaynida minimalizm nimani anglatadi?",
+    "options": {
+      "A": "Ko'p element qo'yish",
+      "B": "Faqat eng muhim ma'lumotlar va xususiyatlarni taqdim etish",
+      "C": "Rang ishlatmaslik",
+      "D": "Matn yozmaslik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 234,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Android ilovasida Activity sinfining kichik klassi qanday yoziladi (Kotlin)?",
+    "options": {
+      "A": "class MainActivity : Activity()",
+      "B": "class MainActivity extends AppCompatActivity",
+      "C": "class MainActivity implements Activity",
+      "D": "new MainActivity()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 235,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Android ilovasida Xizmat (Service) qanday yaratiladi?",
+    "options": {
+      "A": "public class ServiceName extends Activity",
+      "B": "public class ServiceName extends Service",
+      "C": "class ServiceName : Fragment",
+      "D": "ServiceName implements Runnable"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 236,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "Intentdan qaysi maqsadlarda foydalanish mumkin?",
+    "options": {
+      "A": "Faqat Activity ochish",
+      "B": "Activity va Serviceni ishga tushirish, xabarlarni uzatish, harakatni so'rash",
+      "C": "Faqat ma'lumotlar bazasi",
+      "D": "Faqat tarmoq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 237,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "setContentView() metodi nima qiladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasini ochadi",
+      "B": "Activity uchun kerakli maketni yuklaydi",
+      "C": "Tarmoqqa ulanadi",
+      "D": "Faylni o'chiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 238,
+    "topic": "2-Mavzu: Foydalanuvchi interfeysi asoslari",
+    "question": "findViewById() metodi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Layout yaratish",
+      "B": "XMLdan UI elementiga kirish (murojaat qilish)",
+      "C": "Ma'lumotlar bazasini ochish",
+      "D": "Tarmoq so'rovi yuborish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 239,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin Java bilan necha foiz mos keladi (interoperability)?",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "100%",
+      "D": "90%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 240,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin kodini o'z ichiga olgan ilovalar ishdan chiqish ehtimoli qancha kam?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "20%",
+      "D": "30%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 241,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Android NDK nima?",
+    "options": {
+      "A": "UI framework",
+      "B": "Android Native Development Kit — C++ kodni ishlatish uchun",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq kutubxonasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 242,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kivy nima?",
+    "options": {
+      "A": "Java kutubxonasi",
+      "B": "Python kutubxonasi, mobil ilovalarni ishlab chiqish uchun",
+      "C": "Kotlin plaginasi",
+      "D": "Dart frameworki"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 243,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Java da null pointer exception nima?",
+    "options": {
+      "A": "Oddiy xato",
+      "B": "Null qiymatga murojaat qilganda yuzaga keladigan xato",
+      "C": "Tarmoq xatosi",
+      "D": "Fayl xatosi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Kotlin da val va var ning farqi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "val o'zgarmas (immutable), var o'zgaruvchan (mutable)",
+      "C": "val tezroq, var sekinroq",
+      "D": "val katta, var kichik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 245,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Toast.makeText() nima qiladi?",
+    "options": {
+      "A": "Faylni saqlaydi",
+      "B": "Qisqa xabar ko'rsatadi (toast notification)",
+      "C": "Ma'lumotlar bazasini ochadi",
+      "D": "Tarmoqqa ulanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 246,
+    "topic": "3-Mavzu: Java va Kotlin dasturlash tillari",
+    "question": "Intent orqali boshqa activityga o'tish qanday amalga oshiriladi?",
+    "options": {
+      "A": "startService()",
+      "B": "startActivity(intent)",
+      "C": "openActivity()",
+      "D": "launchActivity()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 247,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_height atributi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Kenglikni belgilash",
+      "B": "View va ViewGroup elementlarining balandligini e'lon qilish",
+      "C": "Rangni belgilash",
+      "D": "IDni belgilash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 248,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_marginRight nima uchun ishlatiladi?",
+    "options": {
+      "A": "Chap tomondan joy",
+      "B": "O'ng tomonida qo'shimcha joyni e'lon qilish",
+      "C": "Yuqoridan joy",
+      "D": "Pastdan joy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 249,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_marginTop nima uchun ishlatiladi?",
+    "options": {
+      "A": "O'ng tomondan joy",
+      "B": "Yuqori qismida qo'shimcha joyni e'lon qilish",
+      "C": "Chap tomondan joy",
+      "D": "Pastdan joy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 250,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "android:layout_marginBottom nima uchun ishlatiladi?",
+    "options": {
+      "A": "Yuqoridan joy",
+      "B": "Pastki qismida qo'shimcha joyni e'lon qilish",
+      "C": "Chapdan joy",
+      "D": "O'ngdan joy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 251,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "match_parent qiymati nima anglatadi?",
+    "options": {
+      "A": "Minimal o'lcham",
+      "B": "Ota-ona elementining to'liq o'lchamini egallash",
+      "C": "Faqat kontent o'lcham",
+      "D": "Belgilangan piksel"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 252,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "wrap_content qiymati nima anglatadi?",
+    "options": {
+      "A": "Ota-ona o'lcham",
+      "B": "Faqat kontent (ichidagi mazmun) o'lchamiga moslashish",
+      "C": "Belgilangan piksel",
+      "D": "Ekran to'liq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 253,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "LinearLayout da weightSum atributi nima?",
+    "options": {
+      "A": "Rang qiymati",
+      "B": "Maket ichidagi barcha pastki ko'rinishning umumiy og'irlik yig'indisi",
+      "C": "ID raqami",
+      "D": "Balandlik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 254,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "RelativeLayout da layout_centerInParent nima qiladi?",
+    "options": {
+      "A": "Chapga suradi",
+      "B": "Ota-ona markaziga moslashtiradi",
+      "C": "O'ngga suradi",
+      "D": "Yuqoriga suradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 255,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "RelativeLayout da layout_below atributi nima qiladi?",
+    "options": {
+      "A": "Ustiga joylashtiradi",
+      "B": "Belgilangan ko'rinish identifikatori ostiga joylashtiradi",
+      "C": "Chapga suradi",
+      "D": "O'ngga suradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 256,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "ConstraintLayout da cheklov (constraint) nima?",
+    "options": {
+      "A": "Rang qiymati",
+      "B": "Vidjetning boshqa elementlarga nisbatan pozitsiyasini belgilaydigan qoida",
+      "C": "Ma'lumotlar turi",
+      "D": "Hajm birligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 257,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "ConstraintLayout ning qanday kamchiligi bor?",
+    "options": {
+      "A": "Ishlashga ta'sir qilmaydi",
+      "B": "Yaratilgan XML kodini tushunish qiyinlashadi",
+      "C": "Faqat bitta element qo'yiladi",
+      "D": "Rang bermaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 258,
+    "topic": "4-Mavzu: Layoutlarning turlari",
+    "question": "TableLayout funksiyasi nimaga o'xshaydi?",
+    "options": {
+      "A": "CSS Grid",
+      "B": "HTML jadvaliga",
+      "C": "Python listiga",
+      "D": "JSON obyektiga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 259,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "@PrimaryKey annotatsiyasi Room da nima?",
+    "options": {
+      "A": "Chet kalit",
+      "B": "Jadvalning asosiy (birlamchi) kaliti",
+      "C": "Indeks",
+      "D": "Foreign key"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "@ColumnInfo annotatsiyasi nima uchun?",
+    "options": {
+      "A": "Jadval yaratish",
+      "B": "Ustun nomini belgilash",
+      "C": "Kalit yaratish",
+      "D": "Indeks yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 261,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "@Insert annotatsiyasi DAO da nima?",
+    "options": {
+      "A": "O'chirish",
+      "B": "Ma'lumot qo'shish metodini belgilash",
+      "C": "Yangilash",
+      "D": "O'qish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 262,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "@Query annotatsiyasi DAO da nima?",
+    "options": {
+      "A": "Ma'lumot qo'shish",
+      "B": "SQL so'rovlarini yozish uchun",
+      "C": "Ma'lumot o'chirish",
+      "D": "Jadval yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Firebase Authentication nima uchun?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Foydalanuvchilarni autentifikatsiya qilish (login/register)",
+      "C": "Fayllarni saqlash",
+      "D": "Analitika"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Firebase Cloud Storage nima uchun?",
+    "options": {
+      "A": "Autentifikatsiya",
+      "B": "Fayllarni (rasm, video) bulutda saqlash",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Analitika"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 265,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Content Provider da ma'lumotlarga murojaat qilish uchun nima ishlatiladi?",
+    "options": {
+      "A": "Intent",
+      "B": "URI (Uniform Resource Identifier)",
+      "C": "JSON",
+      "D": "XML"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 266,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "SharedPreferences da putString() metodi nima qiladi?",
+    "options": {
+      "A": "O'qiydi",
+      "B": "String qiymatni saqlaydi",
+      "C": "O'chiradi",
+      "D": "Yangilaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 267,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Room LiveData bilan qanday integratsiya qiladi?",
+    "options": {
+      "A": "Qilmaydi",
+      "B": "Ma'lumotlar o'zgarganda UI avtomatik yangilanadi",
+      "C": "Faqat manual",
+      "D": "Faqat bir marta"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 268,
+    "topic": "5-Mavzu: Ma'lumotlar bazasi bilan ishlash",
+    "question": "Firebase Realtime Database qanday strukturada ishlaydi?",
+    "options": {
+      "A": "SQL jadvallar",
+      "B": "JSON struktura",
+      "C": "XML",
+      "D": "CSV"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 269,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "SQLiteOpenHelper klassida onCreate() metodi qachon chaqiriladi?",
+    "options": {
+      "A": "Har doim",
+      "B": "Ma'lumotlar bazasi birinchi marta yaratilganda",
+      "C": "Ilova yopilganda",
+      "D": "Foydalanuvchi kirganda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 270,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "execSQL() metodi nima qiladi?",
+    "options": {
+      "A": "Ma'lumot o'qiydi",
+      "B": "SQL so'rovini bajaradi",
+      "C": "Layout yaratadi",
+      "D": "Tarmoqqa ulanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "Cursor nima?",
+    "options": {
+      "A": "Layout turi",
+      "B": "Ma'lumotlar bazasi so'rov natijalarini saqlash uchun ishlatiladigan obyekt",
+      "C": "UI element",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 272,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "moveToFirst() metodi nima qiladi?",
+    "options": {
+      "A": "Oxirgi yozuvga o'tadi",
+      "B": "Kursorni birinchi pozitsiyaga o'tkazadi",
+      "C": "Ma'lumot o'chiradi",
+      "D": "Jadval yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 273,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "rawQuery() metodi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Ma'lumot qo'shish",
+      "B": "SQL so'rovini bevosita bajarish va natijani Cursor sifatida qaytarish",
+      "C": "Layout yaratish",
+      "D": "Tarmoq so'rovi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 274,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "CardView nima uchun ishlatiladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Elementlarni kartochka ko'rinishida bezash (elevation, corner radius)",
+      "C": "Tarmoq ulanishi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 275,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "LinearLayoutManager RecyclerView da nima qiladi?",
+    "options": {
+      "A": "Ma'lumot saqlaydi",
+      "B": "Elementlarni vertikal yoki gorizontal tartibda joylashtiradi",
+      "C": "Rang beradi",
+      "D": "Animatsiya yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 276,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "RecyclerView.ViewHolder nima uchun?",
+    "options": {
+      "A": "Layout yaratish",
+      "B": "Ro'yxat elementining view larini saqlash va qayta ishlatish",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 277,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "onCreateViewHolder() metodi nima qiladi?",
+    "options": {
+      "A": "Ma'lumot o'chiradi",
+      "B": "Yangi ViewHolder yaratadi va layout faylini inflate qiladi",
+      "C": "Tarmoqqa ulanadi",
+      "D": "Bazani ochadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 278,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "onBindViewHolder() metodi nima qiladi?",
+    "options": {
+      "A": "ViewHolder yaratadi",
+      "B": "Ma'lumotlarni ViewHolder ichidagi view larga o'rnatadi",
+      "C": "Layout yaratadi",
+      "D": "Bazani o'chiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "topic": "6-Mavzu: SQLite amaliy ishlash",
+    "question": "getItemCount() metodi nima qaytaradi?",
+    "options": {
+      "A": "Element nomi",
+      "B": "Massiv (array list) hajmini qaytaradi",
+      "C": "Element rangi",
+      "D": "Element turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 280,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "BroadcastReceiver sinfi qanday yaratiladi?",
+    "options": {
+      "A": "extends Activity",
+      "B": "extends BroadcastReceiver",
+      "C": "implements Runnable",
+      "D": "extends Service"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 281,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "registerReceiver() metodi nima qiladi?",
+    "options": {
+      "A": "Receiver o'chiradi",
+      "B": "Dinamik Broadcast Receiverni ro'yxatdan o'tkazadi",
+      "C": "Layout yaratadi",
+      "D": "Ma'lumot saqlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "unregisterReceiver() metodi nima uchun kerak?",
+    "options": {
+      "A": "Receiver yaratish",
+      "B": "Receiver ni ro'yxatdan chiqarish (xotira oqishini oldini olish)",
+      "C": "Layout o'chirish",
+      "D": "Tarmoq uzish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 283,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "IntentFilter nima?",
+    "options": {
+      "A": "Layout turi",
+      "B": "Qaysi hodisalarni qabul qilishni belgilaydigan filtr",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Dasturlash tili"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 284,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "ACTION_AIRPLANE_MODE_CHANGED nima?",
+    "options": {
+      "A": "Layout atributi",
+      "B": "Samolyot rejimi o'zgarganini bildiruvchi broadcast hodisasi",
+      "C": "Ma'lumotlar bazasi so'rovi",
+      "D": "UI element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 285,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "AsyncTask qaysi hollarda eng yaxshi ishlatiladi?",
+    "options": {
+      "A": "Uzoq jarayonlar uchun",
+      "B": "Qisqa operatsiyalar uchun (bir necha soniya)",
+      "C": "Faqat UI uchun",
+      "D": "Faqat tarmoq uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "publishProgress() metodi nima qiladi?",
+    "options": {
+      "A": "Natijani qaytaradi",
+      "B": "Fon jarayonidan UI oqimiga progress yangilanishlarini yuboradi",
+      "C": "Bazani ochadi",
+      "D": "Faylni saqlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 287,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "onProgressUpdate() metodi qachon chaqiriladi?",
+    "options": {
+      "A": "Fon ishi tugaganda",
+      "B": "publishProgress() chaqirilgandan keyin UI oqimini yangilash uchun",
+      "C": "Ilova ochilganda",
+      "D": "Ilova yopilganda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 288,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "Navigation Component Fragment tranzaksiyasini boshqaradimi?",
+    "options": {
+      "A": "Yo'q",
+      "B": "Ha, avtomatik boshqaradi",
+      "C": "Faqat qisman",
+      "D": "Faqat manual"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 289,
+    "topic": "7-Mavzu: Servislar, Broadcast Receiver, AsyncTask, Navigatsiya",
+    "question": "popUpTo navigatsiyada nima qiladi?",
+    "options": {
+      "A": "Yangi ekran ochadi",
+      "B": "Fragmentlarni orqa paneldan belgilangan fragmentlarga chiqaradi",
+      "C": "Ma'lumot saqlaydi",
+      "D": "Animatsiya yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 290,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Holat paneli bildirishnomasi qayerda ko'rsatiladi?",
+    "options": {
+      "A": "Qo'shimcha ekranda",
+      "B": "Joriy vaqt va batareya foizi bilan bir xil tartibda",
+      "C": "Qulflangan ekranda",
+      "D": "Tortma menyuda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 291,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Bildirishnoma tortmasi (Notification Drawer) qanday ochiladi?",
+    "options": {
+      "A": "Tugma bosish",
+      "B": "Yuqoridan pastga surish (ochiladigan menyu)",
+      "C": "Qurilmani silkitish",
+      "D": "Ovoz bilan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 292,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Giroskop qaysi sensor turiga kiradi?",
+    "options": {
+      "A": "Atrof-muhit",
+      "B": "Harakat sensori",
+      "C": "Joylashuv sensori",
+      "D": "Yorug'lik sensori"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 293,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Magnitometr qaysi sensor turiga kiradi?",
+    "options": {
+      "A": "Harakat sensori",
+      "B": "Joylashuv sensori",
+      "C": "Atrof-muhit sensori",
+      "D": "Harorat sensori"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 294,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Barometr qaysi sensor turiga kiradi?",
+    "options": {
+      "A": "Harakat sensori",
+      "B": "Atrof-muhit sensori",
+      "C": "Joylashuv sensori",
+      "D": "GPS sensori"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 295,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "Sensor.TYPE_LIGHT nima?",
+    "options": {
+      "A": "Harakat sensori",
+      "B": "Yorug'lik sensori turi",
+      "C": "Bosim sensori",
+      "D": "GPS sensori"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 296,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "SensorManager.SENSOR_DELAY_NORMAL nima?",
+    "options": {
+      "A": "Eng tez kechikish",
+      "B": "Oddiy (normal) kechikish bilan sensor yangilanishi",
+      "C": "Eng sekin",
+      "D": "Kechikish yo'q"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 297,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "ItemKeyedDataSource qachon ishlatiladi?",
+    "options": {
+      "A": "Keyingi sahifa uchun",
+      "B": "Oldingi elementning IDsi orqali keyingi element ma'lumotini olish uchun",
+      "C": "Faqat birinchi element",
+      "D": "Faqat oxirgi element"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 298,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "PagedList nima?",
+    "options": {
+      "A": "Oddiy ro'yxat",
+      "B": "Ma'lumotlarni sahifalab yuklash uchun ishlatiladigan maxsus ro'yxat sinfi",
+      "C": "Layout turi",
+      "D": "Ma'lumotlar bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 299,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "JSON ning asosiy afzalligi nima?",
+    "options": {
+      "A": "Og'ir va murakkab",
+      "B": "Tildan mustaqil va yengil ma'lumot formati",
+      "C": "Faqat Java uchun",
+      "D": "Faqat Android uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 300,
+    "topic": "8-Mavzu: Notification, Sensorlar, Paging, JSON",
+    "question": "getJSONObject() metodi qachon ishlatiladi?",
+    "options": {
+      "A": "Ma'lumot [ bilan boshlansa",
+      "B": "Ma'lumot { bilan boshlansa",
+      "C": "Har doim",
+      "D": "Hech qachon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 301,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da yaratilgan mashxur dasturlardan biri?",
+    "options": {
+      "A": "WhatsApp",
+      "B": "Instagram",
+      "C": "Telegram",
+      "D": "Signal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 302,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native ning ReactJS dan ajralib chiqqanligining afzalligi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "ReactJS ni bilgan odam React Native ni tezda o'zlashtirib olishi mumkin",
+      "C": "Sekinroq ishlaydi",
+      "D": "Kamroq imkoniyat"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 303,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da Button komponenti qanday ishlaydi?",
+    "options": {
+      "A": "Rasm ko'rsatadi",
+      "B": "Foydalanuvchi bosganda onPress hodisasi ishlaydi",
+      "C": "Matn yozadi",
+      "D": "Scroll qiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 304,
+    "topic": "9-Mavzu: JSX va React Native",
+    "question": "React Native da CSS o'rniga nima ishlatiladi?",
+    "options": {
+      "A": "Oddiy CSS",
+      "B": "StyleSheet",
+      "C": "SCSS",
+      "D": "Tailwind"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 305,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "Arrow function React Native da qanday yoziladi?",
+    "options": {
+      "A": "function(){}",
+      "B": "const Name = () => { }",
+      "C": "def name():",
+      "D": "sub name()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 306,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "export default nima uchun ishlatiladi?",
+    "options": {
+      "A": "Import qilish",
+      "B": "Komponentni boshqa fayllarda ishlatish uchun eksport qilish",
+      "C": "O'chirish",
+      "D": "Saqlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 307,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "onChangeText TextInput da nima qiladi?",
+    "options": {
+      "A": "Matn o'chiradi",
+      "B": "Foydalanuvchi yozganini ushlab oladi (har bir harf kiritilganda)",
+      "C": "Rang o'zgartiradi",
+      "D": "O'lcham o'zgartiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 308,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "onPress Button da nima qiladi?",
+    "options": {
+      "A": "Matn o'zgartiradi",
+      "B": "Tugma bosilganda funksiyani ishga tushiradi",
+      "C": "Rang o'zgartiradi",
+      "D": "Layout yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 309,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "alert() funksiyasi React Native da nima qiladi?",
+    "options": {
+      "A": "Faylni saqlaydi",
+      "B": "Qalqib chiquvchi ogohlantirish oynasini ko'rsatadi",
+      "C": "Ma'lumot o'chiradi",
+      "D": "Layout yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 310,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "useState(0) da 0 nima?",
+    "options": {
+      "A": "Maksimal qiymat",
+      "B": "Boshlang'ich (initial) qiymat",
+      "C": "Minimal qiymat",
+      "D": "Qadam (step)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 311,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "setCount(count + 1) nima qiladi?",
+    "options": {
+      "A": "count ni kamaytiradi",
+      "B": "count qiymatini 1 ga oshiradi va UI ni yangilaydi",
+      "C": "count ni o'chiradi",
+      "D": "count ni nolga qaytaradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 312,
+    "topic": "10-Mavzu: Funksional va interaktiv komponentlar",
+    "question": "placeholder TextInput da nima?",
+    "options": {
+      "A": "Saqlangan matn",
+      "B": "Input bo'sh bo'lganda ko'rsatiladigan ko'rsatma matni",
+      "C": "Xato xabari",
+      "D": "Tugma nomi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 313,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "React Navigation da Stack, Drawer va Tab navigatorlari nimalarni bildiradi?",
+    "options": {
+      "A": "Faqat bitta tur",
+      "B": "Turli navigatsiya naqshlari (stekli, tortma, pastki tab)",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq protokollari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 314,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "createAppContainer() nima qiladi?",
+    "options": {
+      "A": "Navigator o'chiradi",
+      "B": "Stack Navigator ni ilova konteineriga o'rab, asosiy komponent qiladi",
+      "C": "Ma'lumot saqlaydi",
+      "D": "Tarmoqqa ulanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 315,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "navigation.getParam() nima qiladi?",
+    "options": {
+      "A": "Ekran yaratadi",
+      "B": "Oldingi ekrandan uzatilgan parametrlarni oladi",
+      "C": "Layout yaratadi",
+      "D": "Ma'lumot o'chiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 316,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "headerStyle navigatsiyada nima uchun?",
+    "options": {
+      "A": "Ma'lumot saqlash",
+      "B": "Navigatsiya sarlavhasining stilini (rang, balandlik) sozlash",
+      "C": "Tarmoq sozlash",
+      "D": "Baza ochish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "topic": "11-Mavzu: React Native Navigatsiya",
+    "question": "headerTintColor nima belgilaydi?",
+    "options": {
+      "A": "Fon rangi",
+      "B": "Sarlavha matn va ikonkalar rangini belgilaydi",
+      "C": "Ma'lumot turi",
+      "D": "Layout turi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 318,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Parent dan Child ga ma'lumot qanday uzatiladi?",
+    "options": {
+      "A": "Global o'zgaruvchi",
+      "B": "props (xususiyatlar) orqali",
+      "C": "Faqat API orqali",
+      "D": "Faqat fayl orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 319,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "setTimeout() funksiyasi nima qiladi?",
+    "options": {
+      "A": "Darhol bajaradi",
+      "B": "Belgilangan vaqtdan keyin kodni bajaradi",
+      "C": "Kodni to'xtatadi",
+      "D": "Faylni o'chiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 320,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Sinxron va asinxron kodning farqi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "Sinxron ketma-ket, asinxron kutmasdan davom etadi",
+      "C": "Sinxron tezroq",
+      "D": "Asinxron sekinroq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 321,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "res.json() nima qaytaradi?",
+    "options": {
+      "A": "XML",
+      "B": "Promise ichida JSON formatidagi ma'lumot",
+      "C": "Matn",
+      "D": "Raqam"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 322,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "Callback hell nima?",
+    "options": {
+      "A": "Oddiy funksiya",
+      "B": "Ko'p ichma-ich callback funksiyalar natijasida murakkablashgan kod",
+      "C": "Xato turi",
+      "D": "Layout muammosi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 323,
+    "topic": "12-Mavzu: Ma'lumotlarni uzatish, Callback, Async/Await",
+    "question": "async function salom() { return 'Salom'; } — nima qaytaradi?",
+    "options": {
+      "A": "'Salom' string",
+      "B": "Promise",
+      "C": "undefined",
+      "D": "null"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 324,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Hooks nima?",
+    "options": {
+      "A": "Sinflar",
+      "B": "Funksional komponentlarga Class xususiyatlarini qo'shish imkonini beruvchi funksiyalar",
+      "C": "Layout",
+      "D": "Ma'lumotlar bazasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 325,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "useState orqali qiymat o'zgartirilganda nima bo'ladi?",
+    "options": {
+      "A": "Hech narsa",
+      "B": "React komponentni qayta render qiladi va ekran yangilanadi",
+      "C": "Ilova yopiladi",
+      "D": "Xato chiqadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 326,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "useEffect ikkita argument qabul qiladi — ular nima?",
+    "options": {
+      "A": "String va Number",
+      "B": "Callback funksiya va Dependency Array",
+      "C": "Layout va Style",
+      "D": "Width va Height"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 327,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "Dependency array bo'sh [] bo'lsa useEffect qachon ishlaydi?",
+    "options": {
+      "A": "Har doim",
+      "B": "Faqat bir marta (mounting paytida)",
+      "C": "Hech qachon",
+      "D": "Har soniyada"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 328,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "componentWillUnmount ga mos keladigan hook kodi qanday?",
+    "options": {
+      "A": "useState()",
+      "B": "useEffect(() => { return () => { cleanup } }, [])",
+      "C": "useContext()",
+      "D": "useRef()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 329,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "forceUpdate() nima qiladi?",
+    "options": {
+      "A": "Komponentni o'chiradi",
+      "B": "Komponentni majburiy qayta render qiladi",
+      "C": "Ma'lumot saqlaydi",
+      "D": "Tarmoqqa ulanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 330,
+    "topic": "13-Mavzu: Hooks va Lifecycle",
+    "question": "New Props kelganda nima sodir bo'ladi?",
+    "options": {
+      "A": "Hech narsa",
+      "B": "Komponent qayta render qilinadi (Updating bosqichi)",
+      "C": "Komponent o'chiriladi",
+      "D": "Ilova yopiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 331,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase da Edge Functions qaysi runtimeda ishlaydi?",
+    "options": {
+      "A": "Node.js",
+      "B": "Deno",
+      "C": "Python",
+      "D": "Go"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 332,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase da Realtime qanday texnologiya orqali ishlaydi?",
+    "options": {
+      "A": "HTTP polling",
+      "B": "WebSocket (Elixir serveri)",
+      "C": "FTP",
+      "D": "SMTP"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 333,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "React Native da lokal ma'lumot saqlash usullariga nimalar kiradi?",
+    "options": {
+      "A": "Faqat Firebase",
+      "B": "SQLite, AsyncStorage, MMKV",
+      "C": "Faqat Supabase",
+      "D": "Faqat REST API"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 334,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "supabase.from('users').delete().eq('name','Ali') — nima qiladi?",
+    "options": {
+      "A": "Yangi yozuv qo'shadi",
+      "B": "name='Ali' bo'lgan yozuvni o'chiradi",
+      "C": "Barcha yozuvlarni o'chiradi",
+      "D": "Jadval yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 335,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "supabase.from('users').update({age:30}).eq('name','Ali') — nima qiladi?",
+    "options": {
+      "A": "O'chiradi",
+      "B": "Ali ning yoshini 30 ga yangilaydi",
+      "C": "Yangi jadval yaratadi",
+      "D": "Barcha yozuvlarni yangilaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 336,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "AsyncStorage.removeItem('key') nima qiladi?",
+    "options": {
+      "A": "Yangi qiymat qo'shadi",
+      "B": "Belgilangan kalit bo'yicha ma'lumotni o'chiradi",
+      "C": "Barcha ma'lumotni o'chiradi",
+      "D": "Ma'lumot o'qiydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 337,
+    "topic": "14-Mavzu: Supabase va React Native DB",
+    "question": "Supabase ning litsenziyasi qaysi?",
+    "options": {
+      "A": "MIT",
+      "B": "Apache 2.0",
+      "C": "GPL",
+      "D": "BSD"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 338,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da int turi nima saqlaydi?",
+    "options": {
+      "A": "Kasrli son",
+      "B": "Butun son",
+      "C": "Matn",
+      "D": "Mantiqiy qiymat"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 339,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da double turi nima saqlaydi?",
+    "options": {
+      "A": "Butun son",
+      "B": "Kasrli (haqiqiy) son",
+      "C": "Matn",
+      "D": "Mantiqiy qiymat"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 340,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Dart da bool turi qanday qiymatlar qabul qiladi?",
+    "options": {
+      "A": "0 va 1",
+      "B": "true va false",
+      "C": "yes va no",
+      "D": "on va off"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 341,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da hot reload nima uchun muhim?",
+    "options": {
+      "A": "Ilovani o'chiradi",
+      "B": "Ishlab chiqish jarayonini tezlashtiradi — o'zgarishlarni darhol ko'rsatadi",
+      "C": "Xotira tozalaydi",
+      "D": "Keshni tozalaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 342,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "extends kalit so'zi Dart da nima uchun?",
+    "options": {
+      "A": "Interface yaratish",
+      "B": "Meros olish (inheritance) uchun",
+      "C": "O'zgaruvchi e'lon qilish",
+      "D": "Funksiya yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 343,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "@override annotatsiyasi nima?",
+    "options": {
+      "A": "Yangi metod yaratish",
+      "B": "Ota sinf metodini qayta yozish (override qilish)",
+      "C": "O'zgaruvchi e'lon qilish",
+      "D": "Import qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 344,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter SDK qaysi tildan iborat?",
+    "options": {
+      "A": "JavaScript",
+      "B": "Dart",
+      "C": "Kotlin",
+      "D": "Swift"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 345,
+    "topic": "15-Mavzu: Flutter va Dart",
+    "question": "Flutter da Engine (dvigatel) qaysi tilda yozilgan?",
+    "options": {
+      "A": "Dart",
+      "B": "C++",
+      "C": "Java",
+      "D": "Python"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 346,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "EdgeInsets.all(10) nima qiladi?",
+    "options": {
+      "A": "Faqat yuqoridan 10",
+      "B": "Barcha tomonlardan 10 piksel padding/margin qo'yadi",
+      "C": "Faqat chapdan 10",
+      "D": "Faqat o'ngdan 10"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 347,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Colors.blue Flutter da nima?",
+    "options": {
+      "A": "Layout",
+      "B": "Oldindan belgilangan ko'k rang konstantasi",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 348,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Positioned vidjeti Stack ichida nima qiladi?",
+    "options": {
+      "A": "Elementni o'chiradi",
+      "B": "Elementning aniq pozitsiyasini (top, bottom, left, right) belgilaydi",
+      "C": "Rang beradi",
+      "D": "Animatsiya yaratadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 349,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "MaterialApp vidjeti nima?",
+    "options": {
+      "A": "Oddiy matn",
+      "B": "Flutter ilovasining asosiy Material Design wrapper vidjeti",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Tarmoq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 350,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "AppBar vidjeti nima?",
+    "options": {
+      "A": "Pastki panel",
+      "B": "Ilovaning yuqori qismidagi sarlavha paneli",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Layout"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 351,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Icon vidjeti nima uchun?",
+    "options": {
+      "A": "Matn ko'rsatish",
+      "B": "Ikonka (belgi) ko'rsatish",
+      "C": "Video ijro etish",
+      "D": "Ma'lumot saqlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 352,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Card vidjeti nima uchun ishlatiladi?",
+    "options": {
+      "A": "Tarmoq ulanishi",
+      "B": "Ma'lumotni kartochka ko'rinishida bezash (elevation, shadow)",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Animatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 353,
+    "topic": "19-Mavzu: Flutter vidjetlar va ro'yxatlar",
+    "question": "Flutter da lazy loading nima?",
+    "options": {
+      "A": "Barcha elementlarni birdaniga yuklash",
+      "B": "Faqat ko'rinayotgan elementlarni yuklash (ListView.builder)",
+      "C": "Hech narsa yuklamaslik",
+      "D": "Sekin yuklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 354,
+    "topic": "Namuna test savollari (asl)",
+    "question": "WebView – bu...?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Veb-sahifalarni faoliyat tartibida ko'rsatish uchun ishlatiladigan brauzer",
+      "C": "Layout",
+      "D": "Sensor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 355,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Bitta ustunda aylantiriladigan elementlar ro'yxatini ko'rsatish uchun ishlatiladigan ViewGroup qaysi?",
+    "options": {
+      "A": "GridView",
+      "B": "ListView",
+      "C": "RecyclerView",
+      "D": "ScrollView"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Satrlar va ustunlarning panjara ko'rinishida aylantiriladigan elementlar ro'yxatini ko'rsatish uchun ishlatiladigan ViewGroup qaysi?",
+    "options": {
+      "A": "ListView",
+      "B": "GridView",
+      "C": "RecyclerView",
+      "D": "TableLayout"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 357,
+    "topic": "Namuna test savollari (asl)",
+    "question": "View identifikatorini belgilash uchun nima ishlatiladi?",
+    "options": {
+      "A": "android:layout_width",
+      "B": "android:id",
+      "C": "android:text",
+      "D": "android:color"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 358,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Maketda View va ViewGroup elementlarining kengligini e'lon qilish uchun nima ishlatiladi?",
+    "options": {
+      "A": "android:id",
+      "B": "android:layout_width",
+      "C": "android:layout_height",
+      "D": "android:text"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 359,
+    "topic": "Namuna test savollari (asl)",
+    "question": "android:layout_height - bu nima uchun ishlatiladi?",
+    "options": {
+      "A": "View kengligini belgilash",
+      "B": "Maketda View va ViewGroup elementlarining balandligini e'lon qilish uchun",
+      "C": "View rangini belgilash",
+      "D": "View IDsini belgilash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 360,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Firebase Realtime Database qanday ishlaydi?",
+    "options": {
+      "A": "Faqat oflayn rejimda",
+      "B": "Real vaqt rejimida ma'lumotlarni sinxronlashtiradi",
+      "C": "Faqat yozish mumkin",
+      "D": "Faqat o'qish mumkin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 361,
+    "topic": "Namuna test savollari (asl)",
+    "question": "CourseRVAdapter klassi qaysi klassni kengaytiradi?",
+    "options": {
+      "A": "Activity",
+      "B": "RecyclerView.Adapter",
+      "C": "SQLiteOpenHelper",
+      "D": "Fragment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 362,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Statik Broadcast Receiver va Dinamik Broadcast Receiver o'rtasidagi asosiy farq nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "Statik manifest da e'lon qilinadi va ilova yopilsa ham ishlaydi; dinamik faqat ilova faol bo'lganda ishlaydi",
+      "C": "Statik tezroq",
+      "D": "Dinamik xavfsizroq"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 363,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Android qurilmalarida sensorlar qanday uch asosiy turga bo'linadi?",
+    "options": {
+      "A": "Katta, O'rta, Kichik",
+      "B": "Harakat sensorlari, Joylashuv sensorlari va Atrof-muhit sensorlari",
+      "C": "Raqamli, Analog, Aralash",
+      "D": "Ichki, Tashqi, Gibrid"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 364,
+    "topic": "Namuna test savollari (asl)",
+    "question": "Harakat sensorlari qaysi o'lchovlarni o'lchaydi?",
+    "options": {
+      "A": "Harorat va namlik",
+      "B": "Uchta o'q bo'ylab tezlanish va aylanish kuchlarini; akselerometrlar, giroskoplar kiradi",
+      "C": "Yorug'lik va bosim",
+      "D": "GPS koordinatalari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 365,
+    "topic": "Namuna test savollari (asl)",
+    "question": "JSON da kvadrat qavs [ va jingalak qavs { qanday farqlanadi?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "[ JSONArray tugunining boshlanishi, { JSONObject tugunining boshlanishi",
+      "C": "[ ob'ekt, { massiv",
+      "D": "Ikkalasi massiv"
+    },
+    "answer": "B"
+  }
+]
