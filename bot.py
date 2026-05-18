@@ -1,12 +1,14 @@
-"""TestUpUz Bot — Asosiy fayl"""
+"""TestUpUz Bot — Asosiy fayl (Webhook + Polling dual mode)"""
 import asyncio
 import logging
 import sys
+import os
 
 from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
+from aiohttp import web
 
 from config import BOT_TOKEN, BOT_DESCRIPTION, BOT_ABOUT
 from database.db import init_db
@@ -16,6 +18,11 @@ from handlers import start, quiz_setup, quiz_play, stats
 # Logging
 logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 logger = logging.getLogger(__name__)
+
+# Webhook sozlamalari
+WEBHOOK_PATH = f"/webhook/{BOT_TOKEN}"
+PORT = int(os.getenv("PORT", 8080))
+RENDER_URL = os.getenv("RENDER_EXTERNAL_URL", "")  # Render avtomatik beradi
 
 
 async def set_bot_info(bot: Bot):
@@ -32,6 +39,25 @@ async def set_bot_info(bot: Bot):
         logger.info("✅ Bot info sozlandi")
     except Exception as e:
         logger.warning(f"Bot info sozlashda xato: {e}")
+
+
+async def on_startup(bot: Bot):
+    """Webhook o'rnatish"""
+    if RENDER_URL:
+        webhook_url = f"{RENDER_URL}{WEBHOOK_PATH}"
+        await bot.set_webhook(webhook_url)
+        logger.info(f"✅ Webhook sozlandi: {webhook_url}")
+
+
+async def on_shutdown(bot: Bot):
+    """Webhook o'chirish"""
+    await bot.delete_webhook()
+    logger.info("Webhook o'chirildi")
+
+
+# Health check endpoint (UptimeRobot uchun)
+async def health_handler(request):
+    return web.Response(text="✅ TestUpUz Bot ishlayapti!", status=200)
 
 
 async def main():
@@ -59,11 +85,30 @@ async def main():
     # Bot ma'lumotlarini sozlash
     await set_bot_info(bot)
 
-    # Botni ishga tushirish
     me = await bot.get_me()
-    logger.info(f"🤖 Bot ishga tushdi: @{me.username}")
+    logger.info(f"🤖 Bot: @{me.username}")
 
-    await dp.start_polling(bot)
+    if RENDER_URL:
+        # === WEBHOOK REJIMI (Render uchun) ===
+        from aiogram.webhook.aiohttp_server import SimpleRequestHandler, setup_application
+
+        app = web.Application()
+        app.router.add_get("/", health_handler)
+        app.router.add_get("/health", health_handler)
+
+        webhook_requests_handler = SimpleRequestHandler(dispatcher=dp, bot=bot)
+        webhook_requests_handler.register(app, path=WEBHOOK_PATH)
+        setup_application(app, dp, bot=bot)
+
+        dp.startup.register(on_startup)
+        dp.shutdown.register(on_shutdown)
+
+        logger.info(f"🌐 Webhook rejimi, port: {PORT}")
+        await web._run_app(app, host="0.0.0.0", port=PORT)
+    else:
+        # === POLLING REJIMI (lokal uchun) ===
+        logger.info("📡 Polling rejimi (lokal)")
+        await dp.start_polling(bot)
 
 
 if __name__ == "__main__":
