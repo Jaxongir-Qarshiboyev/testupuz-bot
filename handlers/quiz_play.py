@@ -1,5 +1,6 @@
 """Test ishlash logikasi — ASOSIY handler"""
 import asyncio
+import html
 import time
 from aiogram import Router, F, Bot
 from aiogram.types import CallbackQuery, PollAnswer
@@ -32,14 +33,17 @@ async def send_next_question(bot: Bot, user_id: int, state: FSMContext):
         return
 
     q = questions[current]
-    options = [q["options"]["A"], q["options"]["B"], q["options"]["C"], q["options"]["D"]]
+    # HTML maxsus belgilarni escape qilish (<Text> kabi JSX teglarni himoya qilish)
+    safe_question = html.escape(q["question"])
+    options = [html.escape(q["options"]["A"]), html.escape(q["options"]["B"]),
+               html.escape(q["options"]["C"]), html.escape(q["options"]["D"])]
     answer_map = {"A": 0, "B": 1, "C": 2, "D": 3}
     correct_idx = answer_map.get(q["answer"], 0)
 
     # Quiz yuborish
     poll_msg = await bot.send_poll(
         chat_id=user_id,
-        question=f"#{current + 1}/{total} — {q['question']}"[:300],
+        question=f"#{current + 1}/{total} — {safe_question}"[:300],
         options=options,
         type="quiz",
         correct_option_id=correct_idx,
