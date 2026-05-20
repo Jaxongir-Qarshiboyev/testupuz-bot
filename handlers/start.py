@@ -17,8 +17,8 @@ WELCOME_TEXT = """🎓 <b>TestUp</b> ga xush kelibsiz!
 📚 Universal test platformasi — bilimingizni sinang va rivojlantiring!
 
 🏆 <b>Mavjud fanlar:</b>
-• 📘 MIICH — Mobil Ilovalar Ishlab Chiqish (365 savol)
-• 📗 DT Sifati — Dasturiy Ta'minot Sifati (256 savol)
+• 📘 MIICH — Mobil Ilovalar Ishlab Chiqish (364 savol)
+• 📗 DT Sifati — Dasturiy Ta'minot Sifati (249 savol)
 • 📙 Ekspert Tizimlar — Sun'iy Intellekt (200 savol)
 
 ⬇️ Quyidagi tugmalardan birini tanlang:"""

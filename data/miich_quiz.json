@@ -1373,7 +1373,7 @@
     "question": "React Native da komponent nima?",
     "options": {
       "A": "Dasturlash tili",
-      "B": "Mustaqil ishlaydigan, qayta ishlatiladigan, UI tuzilishi va mantiqiga ega mobil ilovaning qurilish bloki",
+      "B": "Mustaqil ishlaydigan, qayta ishlatiladigan, UI tuzilishi va mantiqiga ega mobil ilovaning qurilish…",
       "C": "Ma'lumotlar bazasi",
       "D": "Tarmoq protokoli"
     },
@@ -4310,18 +4310,6 @@
   {
     "id": 360,
     "topic": "Namuna test savollari (asl)",
-    "question": "Firebase Realtime Database qanday ishlaydi?",
-    "options": {
-      "A": "Faqat oflayn rejimda",
-      "B": "Real vaqt rejimida ma'lumotlarni sinxronlashtiradi",
-      "C": "Faqat yozish mumkin",
-      "D": "Faqat o'qish mumkin"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 361,
-    "topic": "Namuna test savollari (asl)",
     "question": "CourseRVAdapter klassi qaysi klassni kengaytiradi?",
     "options": {
       "A": "Activity",
@@ -4332,19 +4320,19 @@
     "answer": "B"
   },
   {
-    "id": 362,
+    "id": 361,
     "topic": "Namuna test savollari (asl)",
     "question": "Statik Broadcast Receiver va Dinamik Broadcast Receiver o'rtasidagi asosiy farq nima?",
     "options": {
       "A": "Farqi yo'q",
-      "B": "Statik manifest da e'lon qilinadi va ilova yopilsa ham ishlaydi; dinamik faqat ilova faol bo'lganda ishlaydi",
+      "B": "Statik manifest da e'lon qilinadi va ilova yopilsa ham ishlaydi; dinamik faqat ilova faol…",
       "C": "Statik tezroq",
       "D": "Dinamik xavfsizroq"
     },
     "answer": "B"
   },
   {
-    "id": 363,
+    "id": 362,
     "topic": "Namuna test savollari (asl)",
     "question": "Android qurilmalarida sensorlar qanday uch asosiy turga bo'linadi?",
     "options": {
@@ -4356,7 +4344,7 @@
     "answer": "B"
   },
   {
-    "id": 364,
+    "id": 363,
     "topic": "Namuna test savollari (asl)",
     "question": "Harakat sensorlari qaysi o'lchovlarni o'lchaydi?",
     "options": {
@@ -4368,7 +4356,7 @@
     "answer": "B"
   },
   {
-    "id": 365,
+    "id": 364,
     "topic": "Namuna test savollari (asl)",
     "question": "JSON da kvadrat qavs [ va jingalak qavs { qanday farqlanadi?",
     "options": {

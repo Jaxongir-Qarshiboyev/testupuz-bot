@@ -450,7 +450,7 @@
     "options": {
       "A": "Barcha qiymatlarni nolga aylantiradi",
       "B": "Uzluksiz atributni tartibli atributga aylantirish jarayoni",
-      "C": "Kichik kuzatuv xatolarining ta’sirini kamaytirish va katta maʼlumotlar toʻplamlarini tahlil qilishni soddalashtirish",
+      "C": "Kichik kuzatuv xatolarining ta’sirini kamaytirish va katta maʼlumotlar toʻplamlarini tahlil…",
       "D": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi"
     },
     "answer": "C"
@@ -940,7 +940,7 @@
     "topic": "Ekspert tizimlar",
     "question": "Regulyarizatsiya nima?",
     "options": {
-      "A": "Modelning haddan tashqari moslashib qolishining oldini olish uchun qoʻshimcha maʼlumot qoʻshish usuli.",
+      "A": "Modelning haddan tashqari moslashib qolishining oldini olish uchun qoʻshimcha maʼlumot qoʻshish…",
       "B": "Modelning xatolikni kamaytirish uchun yangi belgi qoʻshish.",
       "C": "Modelning sinfini aniqlash uchun qo‘llaniladigan usul.",
       "D": "Modelni optimallashtirish uchun faqat o'zgarmas xususiyatlar bilan ishlash."
@@ -1529,7 +1529,7 @@
     "question": "Leksik semantika nimani anglatadi?",
     "options": {
       "A": "Matndagi tinish belgilarni aniqlab ularni tahlil qiladi",
-      "B": "Semantik tahlilning birinchi bosqichi bo‘lib, u aniq so‘zlarning ma'nosini tekshirishni o‘z ichiga oladi",
+      "B": "Semantik tahlilning birinchi bosqichi bo‘lib, u aniq so‘zlarning ma'nosini tekshirishni o‘z ichiga…",
       "C": "Gapdagi kichik gap bo‘laklarini aniqlashni o‘z ichiga oladi",
       "D": "Matnning sintaktik tuzilishini o‘rganadi"
     },
@@ -1636,10 +1636,10 @@
     "topic": "Ekspert tizimlar",
     "question": "Bir o'zgaruvchili chiziqli regressiyaga ta'rif bering.",
     "options": {
-      "A": "Siflashtirish uchun ob'yektni xarakterlovchi bitta xususiyatini olib siflashtirishga xizmat qiladigan model yaratish",
-      "B": "Siflashtirish uchun ob'yektni xarakterlovchi ko'p sondagi xususiyatlarini olib siflashtirishga xizmat qiladigan model yaratish",
-      "C": "Bashoratlash uchun ob'yektni xarakterlovchi bitta xususiyatini olib bashoratlashga xizmat qiladigan model yaratish",
-      "D": "Bashoratlash uchun ob'yektni xarakterlovchi ko'p sondagi xususiyatlarini olib bashoratlashga xizmat qiladigan model yaratish"
+      "A": "Siflashtirish uchun ob'yektni xarakterlovchi bitta xususiyatini olib siflashtirishga xizmat…",
+      "B": "Siflashtirish uchun ob'yektni xarakterlovchi ko'p sondagi xususiyatlarini olib siflashtirishga…",
+      "C": "Bashoratlash uchun ob'yektni xarakterlovchi bitta xususiyatini olib bashoratlashga xizmat…",
+      "D": "Bashoratlash uchun ob'yektni xarakterlovchi ko'p sondagi xususiyatlarini olib bashoratlashga…"
     },
     "answer": "C"
   },
@@ -1648,10 +1648,10 @@
     "topic": "Ekspert tizimlar",
     "question": "Ko'p o'zgaruvchili chiziqli regressiyaga ta'rif bering.",
     "options": {
-      "A": "Bashoratlash uchun obyektni xarakterlovchi bitta xususiyatini olib bashoratlashga xizmat qiladigan model yaratish",
-      "B": "Siflashtirish uchun obyektni xarakterlovchi bitta xususiyatini olib siflashtirishga  xizmat qiladigan model yaratish",
-      "C": "Bashoratlash uchun obyektni xarakterlovchi ko'p sondagi xususiyatlarini olib bashoratlashga xizmat qiladigan model yaratish",
-      "D": "Siflashtirish uchun obyektni xarakterlovchi ko'p sondagi xususiyatlarini olib siflashtirishga xizmat qiladigan model yaratish"
+      "A": "Bashoratlash uchun obyektni xarakterlovchi bitta xususiyatini olib bashoratlashga xizmat qiladigan…",
+      "B": "Siflashtirish uchun obyektni xarakterlovchi bitta xususiyatini olib siflashtirishga  xizmat…",
+      "C": "Bashoratlash uchun obyektni xarakterlovchi ko'p sondagi xususiyatlarini olib bashoratlashga xizmat…",
+      "D": "Siflashtirish uchun obyektni xarakterlovchi ko'p sondagi xususiyatlarini olib siflashtirishga…"
     },
     "answer": "C"
   },
@@ -1806,7 +1806,7 @@
     "options": {
       "A": "Neyron tarmoqga kiruvchi qiymatlar",
       "B": "Model o'qitish jarayonida avtomatik tarzda sozlanadigan parametr turi",
-      "C": "O'qitish jarayoni boshlanishidan oldin belgilanadigan va o'qitish algoritmining xatti-harakatlarini boshqaradigan parametr",
+      "C": "O'qitish jarayoni boshlanishidan oldin belgilanadigan va o'qitish algoritmining…",
       "D": "Model arxitekturasini aniqlaydigan parametr"
     },
     "answer": "C"

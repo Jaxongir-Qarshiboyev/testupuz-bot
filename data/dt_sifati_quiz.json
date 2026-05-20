@@ -2258,18 +2258,6 @@
   {
     "id": 189,
     "topic": "DT sifatini ta'minlash",
-    "question": "Standartlashtirish nimani anglatadi?",
-    "options": {
-      "A": "Faqat kod uzunligini hisoblash",
-      "B": "Faqat interfeys dizaynini yaratish",
-      "C": "Mahsulot, jarayon yoki xizmatlarni yagona talablar asosida tartibga solish jarayoni",
-      "D": "Faqat foydalanuvchi qoniqishini o‘lchash"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 190,
-    "topic": "DT sifatini ta'minlash",
     "question": "Standartlashtirish tamoyillaridan biri qaysi?",
     "options": {
       "A": "Faqat kod uzunligi tamoyili",
@@ -2280,7 +2268,7 @@
     "answer": "D"
   },
   {
-    "id": 191,
+    "id": 190,
     "topic": "DT sifatini ta'minlash",
     "question": "Yagonalik tamoyili nimani bildiradi?",
     "options": {
@@ -2292,7 +2280,7 @@
     "answer": "A"
   },
   {
-    "id": 192,
+    "id": 191,
     "topic": "DT sifatini ta'minlash",
     "question": "Ilmiy asoslanganlik tamoyili nimani anglatadi?",
     "options": {
@@ -2304,7 +2292,7 @@
     "answer": "D"
   },
   {
-    "id": 193,
+    "id": 192,
     "topic": "DT sifatini ta'minlash",
     "question": "Moslashuvchanlik tamoyili nimani bildiradi?",
     "options": {
@@ -2316,7 +2304,7 @@
     "answer": "D"
   },
   {
-    "id": 194,
+    "id": 193,
     "topic": "DT sifatini ta'minlash",
     "question": "Kompleks yondashuv nimani anglatadi?",
     "options": {
@@ -2328,7 +2316,7 @@
     "answer": "C"
   },
   {
-    "id": 195,
+    "id": 194,
     "topic": "DT sifatini ta'minlash",
     "question": "Qayta foydalanish tamoyili nimani bildiradi?",
     "options": {
@@ -2340,7 +2328,7 @@
     "answer": "C"
   },
   {
-    "id": 196,
+    "id": 195,
     "topic": "DT sifatini ta'minlash",
     "question": "Xalqaro moslik tamoyili nimani anglatadi?",
     "options": {
@@ -2352,7 +2340,7 @@
     "answer": "A"
   },
   {
-    "id": 197,
+    "id": 196,
     "topic": "DT sifatini ta'minlash",
     "question": "Axborot tizimlari nimani anglatadi?",
     "options": {
@@ -2364,7 +2352,7 @@
     "answer": "D"
   },
   {
-    "id": 198,
+    "id": 197,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC standartlari nimani belgilaydi?",
     "options": {
@@ -2376,7 +2364,7 @@
     "answer": "D"
   },
   {
-    "id": 199,
+    "id": 198,
     "topic": "DT sifatini ta'minlash",
     "question": "IEEE standartlari nimani belgilaydi?",
     "options": {
@@ -2388,7 +2376,7 @@
     "answer": "A"
   },
   {
-    "id": 200,
+    "id": 199,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 12207 nimani bildiradi?",
     "options": {
@@ -2400,7 +2388,7 @@
     "answer": "C"
   },
   {
-    "id": 201,
+    "id": 200,
     "topic": "DT sifatini ta'minlash",
     "question": "Axborot tizimi hayotiy sikli bosqichlaridan biri qaysi?",
     "options": {
@@ -2412,7 +2400,7 @@
     "answer": "C"
   },
   {
-    "id": 202,
+    "id": 201,
     "topic": "DT sifatini ta'minlash",
     "question": "Standartlashtirishning axborot tizimlaridagi rolidan biri qaysi?",
     "options": {
@@ -2424,7 +2412,7 @@
     "answer": "D"
   },
   {
-    "id": 203,
+    "id": 202,
     "topic": "DT sifatini ta'minlash",
     "question": "Standartlarga rioya qilishning afzalliklaridan biri qaysi?",
     "options": {
@@ -2436,7 +2424,7 @@
     "answer": "D"
   },
   {
-    "id": 204,
+    "id": 203,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish nimani anglatadi?",
     "options": {
@@ -2448,7 +2436,7 @@
     "answer": "C"
   },
   {
-    "id": 205,
+    "id": 204,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirishning asosiy maqsadlaridan biri qaysi?",
     "options": {
@@ -2460,7 +2448,7 @@
     "answer": "A"
   },
   {
-    "id": 206,
+    "id": 205,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish iste’molchi uchun nimani ta’minlaydi?",
     "options": {
@@ -2472,7 +2460,7 @@
     "answer": "B"
   },
   {
-    "id": 207,
+    "id": 206,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirishning vazifalaridan biri qaysi?",
     "options": {
@@ -2484,7 +2472,7 @@
     "answer": "D"
   },
   {
-    "id": 208,
+    "id": 207,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish jarayonida standartlarga moslik qanday aniqlanadi?",
     "options": {
@@ -2496,7 +2484,7 @@
     "answer": "B"
   },
   {
-    "id": 209,
+    "id": 208,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirishning bozorga ta’siri nimada?",
     "options": {
@@ -2508,7 +2496,7 @@
     "answer": "C"
   },
   {
-    "id": 210,
+    "id": 209,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirishning ishonchlilikka ta’siri nimada?",
     "options": {
@@ -2520,7 +2508,7 @@
     "answer": "A"
   },
   {
-    "id": 211,
+    "id": 210,
     "topic": "DT sifatini ta'minlash",
     "question": "Majburiy sertifikatlashtirish nimani bildiradi?",
     "options": {
@@ -2532,7 +2520,7 @@
     "answer": "C"
   },
   {
-    "id": 212,
+    "id": 211,
     "topic": "DT sifatini ta'minlash",
     "question": "Ixtiyoriy sertifikatlashtirish nimani bildiradi?",
     "options": {
@@ -2544,7 +2532,7 @@
     "answer": "D"
   },
   {
-    "id": 213,
+    "id": 212,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish jarayonining birinchi bosqichi qaysi?",
     "options": {
@@ -2556,7 +2544,7 @@
     "answer": "B"
   },
   {
-    "id": 214,
+    "id": 213,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish jarayonining oxirgi bosqichi qaysi?",
     "options": {
@@ -2568,7 +2556,7 @@
     "answer": "D"
   },
   {
-    "id": 215,
+    "id": 214,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirishning ahamiyatlaridan biri qaysi?",
     "options": {
@@ -2580,7 +2568,7 @@
     "answer": "D"
   },
   {
-    "id": 216,
+    "id": 215,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish kompaniya uchun nimani ta’minlaydi?",
     "options": {
@@ -2592,7 +2580,7 @@
     "answer": "D"
   },
   {
-    "id": 217,
+    "id": 216,
     "topic": "DT sifatini ta'minlash",
     "question": "Sertifikatlashtirish va standartlar o‘zaro qanday bog‘liq?",
     "options": {
@@ -2604,7 +2592,7 @@
     "answer": "B"
   },
   {
-    "id": 218,
+    "id": 217,
     "topic": "DT sifatini ta'minlash",
     "question": "IT sohasida sertifikatlashtirish nimani o‘z ichiga oladi?",
     "options": {
@@ -2616,7 +2604,7 @@
     "answer": "B"
   },
   {
-    "id": 219,
+    "id": 218,
     "topic": "DT sifatini ta'minlash",
     "question": "Standart nima?",
     "options": {
@@ -2628,7 +2616,7 @@
     "answer": "A"
   },
   {
-    "id": 220,
+    "id": 219,
     "topic": "DT sifatini ta'minlash",
     "question": "Dasturiy taʼminot ishlab chiqishda standartlardan foydalanishning maqsadlaridan biri qaysi?",
     "options": {
@@ -2640,7 +2628,7 @@
     "answer": "B"
   },
   {
-    "id": 221,
+    "id": 220,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 12207 standarti nimani belgilaydi?",
     "options": {
@@ -2652,19 +2640,7 @@
     "answer": "A"
   },
   {
-    "id": 222,
-    "topic": "DT sifatini ta'minlash",
-    "question": "ISO/IEC 25010 standarti nimani belgilaydi?",
-    "options": {
-      "A": "Faqat kod uzunligini",
-      "B": "Faqat foydalanuvchi fikrini",
-      "C": "Dasturiy taʼminot sifatining asosiy ko‘rsatkichlarini",
-      "D": "Faqat interfeys sifatini"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 223,
+    "id": 221,
     "topic": "DT sifatini ta'minlash",
     "question": "IEEE 829 standarti nimaga tegishli?",
     "options": {
@@ -2676,7 +2652,7 @@
     "answer": "A"
   },
   {
-    "id": 224,
+    "id": 222,
     "topic": "DT sifatini ta'minlash",
     "question": "IEEE 730 standarti nimani belgilaydi?",
     "options": {
@@ -2688,7 +2664,7 @@
     "answer": "B"
   },
   {
-    "id": 225,
+    "id": 223,
     "topic": "DT sifatini ta'minlash",
     "question": "Dasturiy taʼminot sifati nimani bildiradi?",
     "options": {
@@ -2700,7 +2676,7 @@
     "answer": "C"
   },
   {
-    "id": 226,
+    "id": 224,
     "topic": "DT sifatini ta'minlash",
     "question": "Sifatni boshqarish jarayonining birinchi bosqichi qaysi?",
     "options": {
@@ -2712,7 +2688,7 @@
     "answer": "A"
   },
   {
-    "id": 227,
+    "id": 225,
     "topic": "DT sifatini ta'minlash",
     "question": "Sifatni taʼminlash jarayonida qo‘llaniladigan usullardan biri qaysi?",
     "options": {
@@ -2724,7 +2700,7 @@
     "answer": "C"
   },
   {
-    "id": 228,
+    "id": 226,
     "topic": "DT sifatini ta'minlash",
     "question": "CMMI modeli nimani baholaydi?",
     "options": {
@@ -2736,7 +2712,7 @@
     "answer": "B"
   },
   {
-    "id": 229,
+    "id": 227,
     "topic": "DT sifatini ta'minlash",
     "question": "Agile metodologiyasining asosiy xususiyatlaridan biri qaysi?",
     "options": {
@@ -2748,7 +2724,7 @@
     "answer": "D"
   },
   {
-    "id": 230,
+    "id": 228,
     "topic": "DT sifatini ta'minlash",
     "question": "DevOps modelining asosiy maqsadlaridan biri qaysi?",
     "options": {
@@ -2760,7 +2736,7 @@
     "answer": "C"
   },
   {
-    "id": 231,
+    "id": 229,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 25010 modeliga ko‘ra sifatning asosiy ko‘rsatkichlaridan biri qaysi?",
     "options": {
@@ -2772,7 +2748,7 @@
     "answer": "A"
   },
   {
-    "id": 232,
+    "id": 230,
     "topic": "DT sifatini ta'minlash",
     "question": "Sifatni o‘lchashning miqdoriy usullaridan biri qaysi?",
     "options": {
@@ -2784,7 +2760,7 @@
     "answer": "C"
   },
   {
-    "id": 233,
+    "id": 231,
     "topic": "DT sifatini ta'minlash",
     "question": "Sifatni oshirish yo‘llaridan biri qaysi?",
     "options": {
@@ -2796,7 +2772,7 @@
     "answer": "B"
   },
   {
-    "id": 234,
+    "id": 232,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO, IEC va IEEE qanday tashkilotlar?",
     "options": {
@@ -2808,19 +2784,7 @@
     "answer": "D"
   },
   {
-    "id": 235,
-    "topic": "DT sifatini ta'minlash",
-    "question": "ISO/IEC 12207 standarti nimani belgilaydi?",
-    "options": {
-      "A": "Faqat dasturiy mahsulot sifatini",
-      "B": "Faqat foydalanuvchi interfeysini",
-      "C": "Dasturiy ta’minotning hayotiy sikl jarayonlarini",
-      "D": "Faqat kod uzunligini"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 236,
+    "id": 233,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 12207 jarayonlaridan biri qaysi?",
     "options": {
@@ -2832,7 +2796,7 @@
     "answer": "D"
   },
   {
-    "id": 237,
+    "id": 234,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 12207 jarayonlaridan biri sifatida testlash nimani anglatadi?",
     "options": {
@@ -2844,19 +2808,7 @@
     "answer": "C"
   },
   {
-    "id": 238,
-    "topic": "DT sifatini ta'minlash",
-    "question": "ISO/IEC 25010 standarti nimani belgilaydi?",
-    "options": {
-      "A": "Faqat foydalanuvchi fikrini",
-      "B": "Faqat kod uzunligini",
-      "C": "Dasturiy ta’minot sifatining asosiy ko‘rsatkichlarini",
-      "D": "Faqat interfeys dizaynini"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 239,
+    "id": 235,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 25010 bo‘yicha sifat ko‘rsatkichlaridan biri qaysi?",
     "options": {
@@ -2868,7 +2820,7 @@
     "answer": "B"
   },
   {
-    "id": 240,
+    "id": 236,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 25010 bo‘yicha sifat ko‘rsatkichlaridan biri sifatida ishonchlilik nimani bildiradi?",
     "options": {
@@ -2880,7 +2832,7 @@
     "answer": "D"
   },
   {
-    "id": 241,
+    "id": 237,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 25010 bo‘yicha samaradorlik nimani anglatadi?",
     "options": {
@@ -2892,7 +2844,7 @@
     "answer": "A"
   },
   {
-    "id": 242,
+    "id": 238,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 25010 bo‘yicha xavfsizlik nimani bildiradi?",
     "options": {
@@ -2904,7 +2856,7 @@
     "answer": "D"
   },
   {
-    "id": 243,
+    "id": 239,
     "topic": "DT sifatini ta'minlash",
     "question": "ISO/IEC 25010 bo‘yicha portativlik nimani anglatadi?",
     "options": {
@@ -2916,7 +2868,7 @@
     "answer": "C"
   },
   {
-    "id": 244,
+    "id": 240,
     "topic": "DT sifatini ta'minlash",
     "question": "IEEE 829 standarti nimani belgilaydi?",
     "options": {
@@ -2928,19 +2880,7 @@
     "answer": "A"
   },
   {
-    "id": 245,
-    "topic": "DT sifatini ta'minlash",
-    "question": "IEEE 730 standarti nimani belgilaydi?",
-    "options": {
-      "A": "Faqat interfeys dizaynini",
-      "B": "Faqat foydalanuvchi fikrini",
-      "C": "Faqat kod uzunligini",
-      "D": "Dasturiy ta’minot sifatini ta’minlash standartini"
-    },
-    "answer": "D"
-  },
-  {
-    "id": 246,
+    "id": 241,
     "topic": "DT sifatini ta'minlash",
     "question": "Korporativ standartlarga misol bo‘ladigan kompaniyalardan biri qaysi?",
     "options": {
@@ -2952,7 +2892,7 @@
     "answer": "B"
   },
   {
-    "id": 247,
+    "id": 242,
     "topic": "DT sifatini ta'minlash",
     "question": "Korporativ standartlarning maqsadi nimada?",
     "options": {
@@ -2964,7 +2904,7 @@
     "answer": "C"
   },
   {
-    "id": 248,
+    "id": 243,
     "topic": "DT sifatini ta'minlash",
     "question": "O(n) murakkablik qanday tavsiflanadi?",
     "options": {
@@ -2976,7 +2916,7 @@
     "answer": "A"
   },
   {
-    "id": 249,
+    "id": 244,
     "topic": "DT sifatini ta'minlash",
     "question": "O(n²) murakkablik qanday tavsiflanadi?",
     "options": {
@@ -2988,7 +2928,7 @@
     "answer": "A"
   },
   {
-    "id": 250,
+    "id": 245,
     "topic": "DT sifatini ta'minlash",
     "question": "Xolsted ko'rsatkichlari nimaga asoslanadi?",
     "options": {
@@ -3000,7 +2940,7 @@
     "answer": "D"
   },
   {
-    "id": 251,
+    "id": 246,
     "topic": "DT sifatini ta'minlash",
     "question": "Xolstedning n1 ko'rsatkichi nimani bildiradi?",
     "options": {
@@ -3012,7 +2952,7 @@
     "answer": "B"
   },
   {
-    "id": 252,
+    "id": 247,
     "topic": "DT sifatini ta'minlash",
     "question": "Xolstedning n2 ko'rsatkichi nimani bildiradi?",
     "options": {
@@ -3024,31 +2964,7 @@
     "answer": "A"
   },
   {
-    "id": 253,
-    "topic": "DT sifatini ta'minlash",
-    "question": "Xolstedning N1 ko'rsatkichi nimani bildiradi?",
-    "options": {
-      "A": "Hajm",
-      "B": "Operatorlar umumiy soni",
-      "C": "Operandlar umumiy soni",
-      "D": "Turli operatorlar soni"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 254,
-    "topic": "DT sifatini ta'minlash",
-    "question": "Xolstedning N2 ko'rsatkichi nimani bildiradi?",
-    "options": {
-      "A": "Operandlar umumiy soni",
-      "B": "Operatorlar umumiy soni",
-      "C": "Turli operandlar soni",
-      "D": "Lug'at"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 255,
+    "id": 248,
     "topic": "DT sifatini ta'minlash",
     "question": "Dasturiy ta'minot standartlarining umumiy ahamiyati nimada?",
     "options": {
@@ -3060,7 +2976,7 @@
     "answer": "B"
   },
   {
-    "id": 256,
+    "id": 249,
     "topic": "DT sifatini ta'minlash",
     "question": "Dasturiy ta'minot standartlari qanday turlarga bo'linadi?",
     "options": {
