@@ -1,0 +1,1862 @@
+[
+  {
+    "id": 1,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "SQA (Software Quality Assurance) nima?",
+    "options": {
+      "A": "Faqat testlash bosqichi",
+      "B": "Faqat hujjat yozish",
+      "C": "DT sifatini ta'minlash jarayonlari majmui",
+      "D": "Faqat kod yozish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "SQA ning asosiy maqsadi nima?",
+    "options": {
+      "A": "Faqat narxni kamaytirish",
+      "B": "Faqat tezlikni oshirish",
+      "C": "Xatoliklarni oldini olish va sifatni nazorat qilish",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "ISO/IEC 25010 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat testlash usullarini",
+      "B": "Faqat xavfsizlik talablarini",
+      "C": "Faqat dasturlash tillarini",
+      "D": "DT sifat ko'rsatkichlarini (sifat modeli)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "ISO/IEC 25010 bo'yicha qaysi sifat xarakteristikasi dasturning to'g'ri ishlashini anglatadi?",
+    "options": {
+      "A": "Samaradorlik (Performance)",
+      "B": "Funktsionallik (Functional Suitability)",
+      "C": "Ko'chirish imkoniyati (Portability)",
+      "D": "Ishonchlilik (Reliability)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Ishonchlilik (Reliability) sifat ko'rsatkichi nimani anglatadi?",
+    "options": {
+      "A": "Dasturning chiroyli ko'rinishi",
+      "B": "Dasturning xatolarsiz barqaror ishlashi",
+      "C": "Dasturning tez ishlashi",
+      "D": "Dasturning arzon narxi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Foydalanish qulayligi (Usability) qaysi omillarni o'z ichiga oladi?",
+    "options": {
+      "A": "O'rganish qulayligi, xatolardan himoya, foydalanuvchi qoniqishi",
+      "B": "Faqat narx va muddatlar",
+      "C": "Faqat kod uzunligi",
+      "D": "Faqat tezlik va xotira"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Samaradorlik (Performance Efficiency) nimani o'lchaydi?",
+    "options": {
+      "A": "Faqat xavfsizlikni",
+      "B": "Faqat interfeysni",
+      "C": "Vaqt, resurs va sig'im bo'yicha ishlash darajasi",
+      "D": "Faqat kod chiroylilgini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Xavfsizlik (Security) sifat xarakteristikasi nimani ta'minlaydi?",
+    "options": {
+      "A": "Ma'lumotlar maxfiyligi, yaxlitligi va foydalanish nazorati",
+      "B": "Faqat interfeysni",
+      "C": "Faqat tezlikni",
+      "D": "Faqat modullilikni"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Moslashuvchanlik (Compatibility) nimani anglatadi?",
+    "options": {
+      "A": "Kod uzunligi",
+      "B": "Narx arzonligi",
+      "C": "Dastur tezligi",
+      "D": "Boshqa tizimlar bilan birga ishlash qobiliyati"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Ko'chirish imkoniyati (Portability) nima?",
+    "options": {
+      "A": "Faqat narx",
+      "B": "Faqat xavfsizlik",
+      "C": "Faqat tezlik",
+      "D": "Dasturni bir muhitdan boshqasiga osongina ko'chirish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Ichki sifat (Internal Quality) nimani o'lchaydi?",
+    "options": {
+      "A": "Foydalanuvchi tajribasini",
+      "B": "Dastur narxini",
+      "C": "Server javob vaqtini",
+      "D": "Kod tuzilishi, modullilik va qamrov darajasini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Tashqi sifat (External Quality) nimaga bog'liq?",
+    "options": {
+      "A": "Ichki kod murakkabligiga",
+      "B": "Dastur hajmiga",
+      "C": "Foydalanuvchi tomonidan kuzatiladigan xatti-harakatlarga",
+      "D": "Dasturlash tiliga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "DT sifatiga ta'sir etuvchi texnik omil qaysi?",
+    "options": {
+      "A": "Faqat budjet",
+      "B": "Arxitektura, algoritmlar va kodlash sifati",
+      "C": "Faqat muddat",
+      "D": "Faqat jamoa soni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "DT sifatiga ta'sir etuvchi tashkiliy omil qaysi?",
+    "options": {
+      "A": "Jamoa tajribasi va boshqaruv tizimi",
+      "B": "Dasturlash tili sintaksisi",
+      "C": "Kompyuter xotirasi",
+      "D": "Operatsion tizim versiyasi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "topic": "1-Mavzu: SQA va sifat ko'rsatkichlari",
+    "question": "Sifat va foydalanish (Quality in Use) nimani bildiradi?",
+    "options": {
+      "A": "Dastur hajmini",
+      "B": "Kod ichidagi sharh miqdorini",
+      "C": "Real muhitda foydalanuvchi tajribasiga asoslangan sifat bahosi",
+      "D": "Server konfiguratsiyasini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "Programmometrika nima bilan shug'ullanadi?",
+    "options": {
+      "A": "Faqat serverlarni sozlash",
+      "B": "Faqat ma'lumotlar bazasi yaratish",
+      "C": "Faqat interfeys dizayni",
+      "D": "Dasturiy ta'minotni miqdoriy baholash va o'lchash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "LOC (Lines of Code) metrикаsi nima?",
+    "options": {
+      "A": "Dastur kodining satrlar soni",
+      "B": "Foydalanuvchilar soni",
+      "C": "Xotiradagi hajmi",
+      "D": "Dastur tezligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "O(1) algoritmik murakkablik nimani anglatadi?",
+    "options": {
+      "A": "Kvadratik o'sish",
+      "B": "Doimiy vaqt — kirish hajmiga bog'liq emas",
+      "C": "Chiziqli o'sish",
+      "D": "Eksponensial o'sish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "O(n) murakkablik qanday nomlanadi?",
+    "options": {
+      "A": "Chiziqli murakkablik",
+      "B": "Doimiy murakkablik",
+      "C": "Kvadratik murakkablik",
+      "D": "Logarifmik murakkablik"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "O(n²) murakkablik qanday nomlanadi?",
+    "options": {
+      "A": "Kvadratik murakkablik",
+      "B": "Chiziqli murakkablik",
+      "C": "Logarifmik murakkablik",
+      "D": "Doimiy murakkablik"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "O(log n) murakkablik qaysi algoritmga xos?",
+    "options": {
+      "A": "Bubble Sort",
+      "B": "Chiziqli qidiruv",
+      "C": "Ikkilik qidiruv (Binary Search)",
+      "D": "Selection Sort"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "O(n log n) murakkablikka qaysi saralash algoritmi ega?",
+    "options": {
+      "A": "Insertion Sort",
+      "B": "Merge Sort",
+      "C": "Bubble Sort",
+      "D": "Selection Sort"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "O(2^n) murakkablik qanday nomlanadi?",
+    "options": {
+      "A": "Chiziqli murakkablik",
+      "B": "Logarifmik murakkablik",
+      "C": "Eksponensial murakkablik",
+      "D": "Kvadratik murakkablik"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "Programmometrikaning asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat tezlikni oshirish",
+      "B": "Faqat narxni kamaytirish",
+      "C": "Faqat interfeysni chiroyli qilish",
+      "D": "Dastur murakkabligini baholash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "Algoritmik murakkablikni Big-O notatsiyasida ifodalash nima uchun kerak?",
+    "options": {
+      "A": "Faqat xotira hajmini aniqlash uchun",
+      "B": "Faqat kod chiroyliligi uchun",
+      "C": "Algoritmning eng yomon holatdagi ishlash samaradorligini baholash uchun",
+      "D": "Faqat dastur nomini belgilash uchun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "Bubble Sort algoritmining vaqt murakkabligi qanday?",
+    "options": {
+      "A": "O(n)",
+      "B": "O(n²)",
+      "C": "O(1)",
+      "D": "O(log n)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "topic": "2-Mavzu: Programmometrika",
+    "question": "Qaysi murakkablik eng samarali hisoblanadi?",
+    "options": {
+      "A": "O(n) — chiziqli",
+      "B": "O(2^n) — eksponensial",
+      "C": "O(n²) — kvadratik",
+      "D": "O(1) — doimiy vaqt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted metrikasi nimaga asoslanadi?",
+    "options": {
+      "A": "Faqat o'zgaruvchilar nomiga",
+      "B": "Operator va operandlarning miqdoriy tahlili",
+      "C": "Faqat shartli operatorlarga",
+      "D": "Faqat sikllar soniga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted formulasida n1 nima?",
+    "options": {
+      "A": "Operatorlar umumiy soni",
+      "B": "Dastur hajmi",
+      "C": "Turli xil operatorlar soni",
+      "D": "Operandlar umumiy soni"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted formulasida n2 nima?",
+    "options": {
+      "A": "Turli xil operandlar soni",
+      "B": "Operatorlar umumiy soni",
+      "C": "Dastur uzunligi",
+      "D": "Lug'at hajmi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted formulasida N1 nima?",
+    "options": {
+      "A": "Turli operandlar soni",
+      "B": "Turli operatorlar soni",
+      "C": "Lug'at hajmi",
+      "D": "Operatorlarning umumiy ishlatilish soni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 32,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted formulasida N2 nima?",
+    "options": {
+      "A": "Turli operandlar soni",
+      "B": "Dastur hajmi",
+      "C": "Operandlarning umumiy ishlatilish soni",
+      "D": "Turli operatorlar soni"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted bo'yicha lug'at hajmi (n) qanday hisoblanadi?",
+    "options": {
+      "A": "n = n1 + n2",
+      "B": "n = N1 * N2",
+      "C": "n = N1 + N2",
+      "D": "n = n1 * n2"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted bo'yicha dastur uzunligi (N) formulasi qanday?",
+    "options": {
+      "A": "N = n1 + n2",
+      "B": "N = N1 * N2",
+      "C": "N = N1 + N2",
+      "D": "N = n1 * n2"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted bo'yicha dastur hajmi (V) formulasi qanday?",
+    "options": {
+      "A": "V = N - n",
+      "B": "V = N / n",
+      "C": "V = N + n",
+      "D": "V = N × log₂(n)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 36,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted metrikasida operator deganda nima tushuniladi?",
+    "options": {
+      "A": "Faqat satr konstantalari",
+      "B": "if, while, for, +, -, = kabi kalit so'z va amallar",
+      "C": "Faqat o'zgaruvchi nomlari",
+      "D": "Faqat sonlar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted metrikasida operand deganda nima tushuniladi?",
+    "options": {
+      "A": "Faqat kalit so'zlar",
+      "B": "O'zgaruvchilar, konstantalar va literallar",
+      "C": "Faqat arifmetik amallar",
+      "D": "Faqat sikllar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted bo'yicha dastur qiyinligi (D) formulasi qanday?",
+    "options": {
+      "A": "D = n1 + n2",
+      "B": "D = N1 + N2",
+      "C": "D = (n1/2) × (N2/n2)",
+      "D": "D = V / N"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted bo'yicha dastur ishlab chiqish vaqti (T) qanday hisoblanadi?",
+    "options": {
+      "A": "T = E / 18 (soniyalarda)",
+      "B": "T = N + n",
+      "C": "T = V * D",
+      "D": "T = n1 * n2"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Xolsted bo'yicha dasturiy sa'y-harakat (E) formulasi qanday?",
+    "options": {
+      "A": "E = V / D",
+      "B": "E = n1 + n2",
+      "C": "E = D × V",
+      "D": "E = N + n"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Agar dasturda n1=5, n2=8 bo'lsa, lug'at hajmi (n) nechta?",
+    "options": {
+      "A": "40",
+      "B": "58",
+      "C": "13",
+      "D": "3"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "topic": "3-Mavzu: Xolsted ko'rsatkichlari",
+    "question": "Agar dasturda N1=20, N2=30 bo'lsa, dastur uzunligi (N) nechta?",
+    "options": {
+      "A": "10",
+      "B": "600",
+      "C": "50",
+      "D": "150"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Dastur matnining ehtimollik modeli nimani tahlil qiladi?",
+    "options": {
+      "A": "Faqat ma'lumotlar bazasini",
+      "B": "Faqat foydalanuvchi interfeysini",
+      "C": "Dastur kodini statistik va ehtimollik nuqtai nazaridan",
+      "D": "Faqat tarmoq protokollarini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Ehtimollik modelida dastur nima sifatida qaraladi?",
+    "options": {
+      "A": "Faqat grafik interfeys",
+      "B": "Faqat dastur nomi",
+      "C": "Belgilar ketma-ketligi va operator-operandlar oqimi",
+      "D": "Faqat ma'lumotlar jadvali"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Zipf qonuniga ko'ra dasturda nima kuzatiladi?",
+    "options": {
+      "A": "Ba'zi operatorlar boshqalarga qaraganda ancha ko'p ishlatiladi",
+      "B": "Barcha operatorlar teng ishlatiladi",
+      "C": "Operandlar ishlatilmaydi",
+      "D": "Faqat sikllar muhim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Dastur matnining ehtimollik modeli qaysi nazariyaga asoslanadi?",
+    "options": {
+      "A": "Faqat graflar nazariyasi",
+      "B": "Faqat to'plamlar nazariyasi",
+      "C": "Faqat relyatsion algebra",
+      "D": "Ehtimollik nazariyasi (Probability Theory)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Ehtimollik modelining amaliy qo'llanilishi qaysi?",
+    "options": {
+      "A": "Faqat server konfiguratsiyasi",
+      "B": "Faqat interfeys dizayni",
+      "C": "Dastur xatoliklarini prognoz qilish",
+      "D": "Faqat tarmoq sozlash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Ehtimollik modelida entropiya nimani o'lchaydi?",
+    "options": {
+      "A": "Dastur hajmini",
+      "B": "Dastur narxini",
+      "C": "Dastur kodidagi noaniqlik darajasini",
+      "D": "Dastur tezligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Dasturning statistik tahlili nimaga yordam beradi?",
+    "options": {
+      "A": "Kod murakkabligini va potensial xatoliklarni bashorat qilishga",
+      "B": "Faqat tezlikni oshirishga",
+      "C": "Faqat interfeysni chiroyli qilishga",
+      "D": "Faqat narxni kamaytirishga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "topic": "4-Mavzu: Ehtimollik modeli",
+    "question": "Zipf qonuni qaysi sohalardan dasturlashga kirib kelgan?",
+    "options": {
+      "A": "Lingvistika (tilshunoslik)",
+      "B": "Biologiya",
+      "C": "Fizika",
+      "D": "Kimyo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Modul nima?",
+    "options": {
+      "A": "Faqat interfeys elementi",
+      "B": "Faqat server konfiguratsiyasi",
+      "C": "Aniq vazifani bajaruvchi mustaqil dasturiy komponent",
+      "D": "Faqat ma'lumotlar bazasi jadvali"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Modullashtirishning asosiy afzalligi nima?",
+    "options": {
+      "A": "Kodni tushunish va qayta foydalanish osonlashadi",
+      "B": "Xatoliklar ko'payadi",
+      "C": "Dastur sekinlashadi",
+      "D": "Dastur hajmi oshadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Coupling (bog'liqlik) nima?",
+    "options": {
+      "A": "Modullarning bir-biriga bog'liqligi darajasi",
+      "B": "Foydalanuvchilar soni",
+      "C": "Modul ichidagi funksiyalar soni",
+      "D": "Dastur tezligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Cohesion (yaxlitlik) nimani bildiradi?",
+    "options": {
+      "A": "Modullar orasidagi aloqa",
+      "B": "Dasturning umumiy hajmi",
+      "C": "Tashqi kutubxonalar soni",
+      "D": "Modul ichidagi elementlarning bir-biriga bog'liqligi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Yaxshi loyihalangan modulda qanday xususiyat bo'lishi kerak?",
+    "options": {
+      "A": "Ikkala ko'rsatkich ham yuqori",
+      "B": "Yuqori Cohesion va past Coupling",
+      "C": "Past Cohesion va yuqori Coupling",
+      "D": "Ikkala ko'rsatkich ham past"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "COCOMO modeli nimani baholaydi?",
+    "options": {
+      "A": "Dasturlash ishlarining hajmi va sarflanadigan vaqtni",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Faqat tarmoq tezligini",
+      "D": "Faqat xotira hajmini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "COCOMO ning to'liq nomi nima?",
+    "options": {
+      "A": "Constructive Cost Model",
+      "B": "Complete Code Metric",
+      "C": "Central Cost Management",
+      "D": "Computer Coding Model"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "COCOMO modelida qaysi parametr asosiy kirish hisoblanadi?",
+    "options": {
+      "A": "KLOC (ming satr kod)",
+      "B": "Faqat dasturchilar soni",
+      "C": "Faqat budjet",
+      "D": "Faqat kompyuter tezligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Modullar sonini oshirish nimaga olib keladi?",
+    "options": {
+      "A": "Dastur tezlashadi",
+      "B": "Kod qisqaradi",
+      "C": "Modullar arasi bog'lanish murakkabligi oshadi",
+      "D": "Hech qanday o'zgarish bo'lmaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Optimal modul soni nimaga bog'liq?",
+    "options": {
+      "A": "Faqat dasturchi soniga",
+      "B": "Dasturning umumiy murakkabligi va o'lchamiga",
+      "C": "Faqat budjetga",
+      "D": "Faqat muddatga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "COCOMO modelining 3 ta darajasi qaysi?",
+    "options": {
+      "A": "Basic, Intermediate, Detailed",
+      "B": "Small, Medium, Large",
+      "C": "Alpha, Beta, Release",
+      "D": "Easy, Medium, Hard"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "topic": "5-Mavzu: Modullar va COCOMO",
+    "question": "Modul uzunligini optimallashtirish nimaga xizmat qiladi?",
+    "options": {
+      "A": "Faqat dastur tezligini oshirish",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "Dastur xatoliklarini kamaytirish va texnik xizmatni osonlashtirish",
+      "D": "Faqat narxni kamaytirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Jib metrikasi nimani o'lchaydi?",
+    "options": {
+      "A": "Ma'lumotlar oqimining murakkabligini",
+      "B": "Faqat dastur tezligini",
+      "C": "Faqat interfeys elementlarini",
+      "D": "Faqat xotira hajmini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Chepin metrikasi nimaga asoslangan?",
+    "options": {
+      "A": "Faqat shartli operatorlarga",
+      "B": "O'zgaruvchilarni kirish-chiqish bo'yicha tasniflash",
+      "C": "Faqat sikllar soniga",
+      "D": "Faqat funksiya nomlariga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Chepin metrikasida P tipi o'zgaruvchisi nima?",
+    "options": {
+      "A": "Chiqish o'zgaruvchisi",
+      "B": "Boshqaruv o'zgaruvchisi",
+      "C": "Ishlatilmaydigan o'zgaruvchi",
+      "D": "Kirish o'zgaruvchisi (input parameter)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Chepin metrikasida M tipi o'zgaruvchisi nima?",
+    "options": {
+      "A": "Chiqish o'zgaruvchisi",
+      "B": "Ishlatilmaydigan o'zgaruvchi",
+      "C": "Oraliq hisoblash uchun ishlatiladigan o'zgaruvchi",
+      "D": "Kirish o'zgaruvchisi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Chepin metrikasida C tipi o'zgaruvchisi nima?",
+    "options": {
+      "A": "Boshqaruv o'zgaruvchisi (control variable)",
+      "B": "Oraliq o'zgaruvchi",
+      "C": "Chiqish o'zgaruvchisi",
+      "D": "Kirish o'zgaruvchisi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Chepin metrikasida T tipi o'zgaruvchisi nima?",
+    "options": {
+      "A": "Chiqish o'zgaruvchisi",
+      "B": "Boshqaruv o'zgaruvchisi",
+      "C": "Kirish o'zgaruvchisi",
+      "D": "Ishlatilmaydigan (parazit) o'zgaruvchi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Chepin metrikasi formulasi: Q = a1*P + a2*M + a3*C + a4*T da koeffitsientlar nimani bildiradi?",
+    "options": {
+      "A": "Dastur hajmini",
+      "B": "Foydalanuvchilar sonini",
+      "C": "Dastur tezligini",
+      "D": "Har bir o'zgaruvchi turining murakkablikka ta'sir koeffitsientini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb tsiklomatik murakkabligi formulasi qanday?",
+    "options": {
+      "A": "V(G) = E / N",
+      "B": "V(G) = N * E",
+      "C": "V(G) = E - N + 2P",
+      "D": "V(G) = N + E"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb formulasida E nima?",
+    "options": {
+      "A": "Dastur uzunligi",
+      "B": "Dastur hajmi",
+      "C": "Tugunlar soni",
+      "D": "Grafdagi qirralar (edges) soni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb formulasida N nima?",
+    "options": {
+      "A": "Qirralar soni",
+      "B": "Dastur hajmi",
+      "C": "Operatorlar soni",
+      "D": "Grafdagi tugunlar (nodes) soni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb bo'yicha V(G) = 1 bo'lsa, dastur qanday?",
+    "options": {
+      "A": "Juda murakkab",
+      "B": "Xatolikli",
+      "C": "Chiziqli — shartlar va sikllar yo'q",
+      "D": "Optimallashtirilmagan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 74,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb bo'yicha V(G) qiymati 1-10 oralig'ida bo'lsa?",
+    "options": {
+      "A": "O'rtacha murakkab",
+      "B": "Kritik murakkab",
+      "C": "Oddiy dastur, kam murakkab",
+      "D": "Juda murakkab"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb bo'yicha V(G) qiymati 20 dan oshsa?",
+    "options": {
+      "A": "Mukammal dastur",
+      "B": "Oddiy dastur",
+      "C": "O'rtacha murakkab",
+      "D": "Juda murakkab, qayta loyihalash tavsiya etiladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Makkeyb metrikasining alternativ oddiy formulasi qanday?",
+    "options": {
+      "A": "V(G) = E * N",
+      "B": "V(G) = N - E",
+      "C": "V(G) = P * E",
+      "D": "V(G) = P + 1 (P — shart operatorlari soni)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "topic": "7-Mavzu: Jib, Chepin, Makkeyb metrikalari",
+    "question": "Jib metrikasi qaysi turdagi ma'lumotlarni tahlil qiladi?",
+    "options": {
+      "A": "Faqat dastur tezligini",
+      "B": "Dasturga kiruvchi va chiquvchi ma'lumotlar oqimini",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat foydalanuvchi interfeysini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Strukturaviy murakkablik nimani baholaydi?",
+    "options": {
+      "A": "Dastur kodining boshqaruv oqimi va bloklar bog'liqligini",
+      "B": "Faqat interfeys shriftini",
+      "C": "Faqat dastur rangini",
+      "D": "Faqat server manzilini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Boshqaruv oqim grafi (Control Flow Graph) nima?",
+    "options": {
+      "A": "Dastur ijro yo'llarini vizual ko'rsatuvchi graf",
+      "B": "Faqat ma'lumotlar bazasi sxemasi",
+      "C": "Faqat tarmoq topologiyasi",
+      "D": "Faqat foydalanuvchi interfeysi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Siklomatik murakkablik (McCabe) nimani aniqlaydi?",
+    "options": {
+      "A": "Dasturning mustaqil ijro yo'llari sonini",
+      "B": "Dastur hajmini",
+      "C": "Foydalanuvchilar sonini",
+      "D": "Dastur tezligini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Kod chuqurligi (Depth of Nesting) nimani o'lchaydi?",
+    "options": {
+      "A": "Shartlar va sikllar ichma-ich joylashish darajasini",
+      "B": "Operatorlar sonini",
+      "C": "O'zgaruvchilar sonini",
+      "D": "Dastur satrlari sonini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Marshrutni tanlash mezoni nimaga xizmat qiladi?",
+    "options": {
+      "A": "Dasturni o'chirish",
+      "B": "Foydalanuvchini bloklash",
+      "C": "Testlash uchun eng muhim ijro yo'llarini tanlash",
+      "D": "Serverni qayta yuklash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Marshrut (Path) nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi jadvali",
+      "B": "Dasturdagi muayyan bajarilish yo'li",
+      "C": "Tarmoq manzili",
+      "D": "Dastur nomi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Minimal murakkablik mezoni nimani anglatadi?",
+    "options": {
+      "A": "Eng kam shart va siklga ega bajarilish yo'lini tanlash",
+      "B": "Eng sekin ishlovchi yo'l",
+      "C": "Eng qimmat yo'l",
+      "D": "Eng ko'p xotirani ishlatish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 85,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Strukturaviy murakkablikning ahamiyati nimada?",
+    "options": {
+      "A": "Faqat interfeysni murakkablashtirish",
+      "B": "Kodni tushunish, xatoliklarni kamaytirish va testlashni osonlashtirish",
+      "C": "Faqat dastur narxini oshirish",
+      "D": "Faqat tezlikni pasaytirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Protseduraviy yo'naltirilgan metrikalar nimani tahlil qiladi?",
+    "options": {
+      "A": "Faqat tarmoq protokollarini",
+      "B": "Faqat ma'lumotlar bazasini",
+      "C": "Faqat klass ierarxiyasini",
+      "D": "Protsedura va funksiyalar darajasidagi murakkablikni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 87,
+    "topic": "8-Mavzu: Strukturaviy murakkablik",
+    "question": "Boshqaruv oqimi murakkabligi qaysi elementlarga bog'liq?",
+    "options": {
+      "A": "Faqat dastur shriftiga",
+      "B": "if-else soni, switch-case tarmoqlanishlari va sikllar",
+      "C": "Faqat o'zgaruvchi nomlariga",
+      "D": "Faqat server tezligiga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "OOP metrikalarida DIT nimani o'lchaydi?",
+    "options": {
+      "A": "Dastur tezligini",
+      "B": "Tarmoq kechikishini",
+      "C": "Vorislik daraxtining chuqurligi (Depth of Inheritance Tree)",
+      "D": "Xotira hajmini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "CBO (Coupling Between Objects) nimani bildiradi?",
+    "options": {
+      "A": "Faqat metod uzunligi",
+      "B": "Faqat o'zgaruvchilar soni",
+      "C": "Faqat klass nomlari soni",
+      "D": "Obyektlar orasidagi bog'liqlik darajasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 90,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "WMC (Weighted Methods per Class) nima?",
+    "options": {
+      "A": "Faqat sharhlar soni",
+      "B": "Klassdagi metodlar murakkabligining yig'indisi",
+      "C": "Faqat o'zgaruvchilar soni",
+      "D": "Faqat klasslar soni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "RFC (Response For a Class) nimani o'lchaydi?",
+    "options": {
+      "A": "Faqat konstruktorlar soni",
+      "B": "Klass metodlariga javob beradigan barcha metodlar soni",
+      "C": "Faqat maydonlar soni",
+      "D": "Faqat klass hajmi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "LCOM (Lack of Cohesion of Methods) nimani ko'rsatadi?",
+    "options": {
+      "A": "Faqat dastur tezligini",
+      "B": "Faqat klass nomini",
+      "C": "Faqat metod sonini",
+      "D": "Metodlar orasidagi yaxlitlik yo'qligi darajasini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 93,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "NOC (Number of Children) nimani bildiradi?",
+    "options": {
+      "A": "Faqat maydon soni",
+      "B": "Faqat metod soni",
+      "C": "Faqat umumiy klasslar soni",
+      "D": "Bir klassdan meros olgan bolalar klasslar soni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "CK metrikalar to'plamini kim yaratgan?",
+    "options": {
+      "A": "Xolsted va Makkeyb",
+      "B": "Chidamber va Kemerer",
+      "C": "Nelson va Musa",
+      "D": "Jib va Chepin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "CK metrikalar to'plami nechta ko'rsatkichdan iborat?",
+    "options": {
+      "A": "6 ta (WMC, DIT, NOC, CBO, RFC, LCOM)",
+      "B": "3 ta",
+      "C": "2 ta",
+      "D": "10 ta"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "Inkapsulyatsiya (Encapsulation) nima?",
+    "options": {
+      "A": "Ma'lumotni yashirish va himoya qilish mexanizmi",
+      "B": "Dastur tezligini pasaytirish",
+      "C": "Faqat interfeys yaratish",
+      "D": "Klasslar sonini oshirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "Polimorfizm nima?",
+    "options": {
+      "A": "Faqat meros olish",
+      "B": "Bir interfeysning turli ko'rinishlarini ta'minlash",
+      "C": "Faqat klass yaratish",
+      "D": "Faqat ma'lumotni yashirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "DIT qiymati oshsa, dasturda nima kuzatiladi?",
+    "options": {
+      "A": "Meros ierarxiyasi chuqurlashadi, murakkablik ortadi",
+      "B": "Xatoliklar kamayadi",
+      "C": "Dastur tezlashadi",
+      "D": "Kod qisqaradi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "topic": "9-Mavzu: OOP metrikalar",
+    "question": "CBO qiymati past bo'lsa, dastur qanday?",
+    "options": {
+      "A": "Klasslar mustaqil, qayta foydalanish oson",
+      "B": "Klasslar juda bog'langan",
+      "C": "Dastur sekin ishlaydi",
+      "D": "Kod juda uzun"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "O'lchash modellari (Measurement Models) nima uchun kerak?",
+    "options": {
+      "A": "Faqat tezlikni o'lchash",
+      "B": "Faqat narxni hisoblash",
+      "C": "DT sifatini matematik va statistik usullar bilan baholash",
+      "D": "Faqat interfeys dizayni"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Nelson modeli nimani prognoz qiladi?",
+    "options": {
+      "A": "Faqat dastur tezligini",
+      "B": "Faqat server yuklanishini",
+      "C": "Dasturda qolgan xatoliklar sonini va ishonchlilikni",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Nelson modelida R nimani bildiradi?",
+    "options": {
+      "A": "Xotira hajmini",
+      "B": "Kod uzunligini",
+      "C": "Dastur tezligini",
+      "D": "Tizim ishonchliligini (Reliability)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 103,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Nelson modelida nf nimani bildiradi?",
+    "options": {
+      "A": "Dastur hajmini",
+      "B": "Aniqlangan xatoliklar sonini",
+      "C": "Foydalanuvchilar sonini",
+      "D": "Umumiy testlar sonini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Nelson modelining asosiy formulasi qanday?",
+    "options": {
+      "A": "R = 1 - nf/N (ishonchlilik = 1 - xatoliklar/testlar)",
+      "B": "R = N / nf",
+      "C": "R = nf + N",
+      "D": "R = nf * N"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 105,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Nelson modelining afzalligi nima?",
+    "options": {
+      "A": "Juda murakkab va qimmat",
+      "B": "Faqat katta loyihalar uchun",
+      "C": "Oddiy, tushunarli va amaliyotda qo'llash oson",
+      "D": "Faqat matematik uchun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Nelson modelining kamchiligi nima?",
+    "options": {
+      "A": "Test sifatiga bog'liq va real sharoitni to'liq aks ettirmasligi mumkin",
+      "B": "Faqat bitta til uchun ishlaydi",
+      "C": "Juda qimmat",
+      "D": "Juda murakkab"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 107,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Musa modeli nimaga asoslanadi?",
+    "options": {
+      "A": "Xatoliklar aniqlash tezligi va ijro vaqti",
+      "B": "Faqat kod satrlari soni",
+      "C": "Faqat o'zgaruvchilar nomi",
+      "D": "Faqat dastur hajmi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 108,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Musa modelida MTBF nima?",
+    "options": {
+      "A": "Foydalanuvchilar soni",
+      "B": "O'rtacha xatoliklar orasidagi vaqt (Mean Time Between Failures)",
+      "C": "Dastur hajmi",
+      "D": "Kod uzunligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Musa modeli qaysi turdagi o'lchash modeliga kiradi?",
+    "options": {
+      "A": "Faqat jadval model",
+      "B": "Statik model",
+      "C": "Faqat grafik model",
+      "D": "Dinamik (vaqtga bog'liq) model"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 110,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Deterministik modellar nimaga asoslanadi?",
+    "options": {
+      "A": "Ehtimollik nazariyasiga",
+      "B": "Faqat ekspert fikriga",
+      "C": "Tasodifiy jarayonlarga",
+      "D": "Aniq matematik formulalar asosida ishlaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 111,
+    "topic": "11-Mavzu: Nelson va Musa modeli",
+    "question": "Stoxastik modellar nimaga asoslanadi?",
+    "options": {
+      "A": "Aniq formulalarga",
+      "B": "Faqat grafiklarga",
+      "C": "Faqat jadvallarga",
+      "D": "Ehtimollik nazariyasi asosida ishlaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 112,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "Past darajali dasturlash tillariga misol qaysi?",
+    "options": {
+      "A": "JavaScript va Ruby",
+      "B": "Python va Java",
+      "C": "Assembler va mashina tili",
+      "D": "PHP va Go"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "Yuqori darajali tillarning afzalligi nima?",
+    "options": {
+      "A": "Mashina tiliga yaqin va tez",
+      "B": "Juda sekin ishlaydi",
+      "C": "Inson uchun tushunarli va platformadan mustaqil",
+      "D": "Faqat bitta OT da ishlaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 114,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "Kompilyator nima qiladi?",
+    "options": {
+      "A": "Faqat xatoliklarni topadi",
+      "B": "Butun dasturni mashina tiliga tarjima qiladi",
+      "C": "Faqat interfeysni chizadi",
+      "D": "Satr-satr bajaradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "Interpretator nima qiladi?",
+    "options": {
+      "A": "Dasturni satr-satr o'qib bajaradi",
+      "B": "Faqat xatoliklarni topadi",
+      "C": "Faqat fayllarni saqlaydi",
+      "D": "Butun dasturni oldindan tarjima qiladi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 116,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "Python qaysi turdagi dasturlash tili?",
+    "options": {
+      "A": "Past darajali, kompilyatsiya qilinadigan til",
+      "B": "Assembler tili",
+      "C": "Mashina tili",
+      "D": "Yuqori darajali, interpretatsiya qilinadigan til"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 117,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "C dasturlash tili qaysi turga kiradi?",
+    "options": {
+      "A": "Faqat skript tili",
+      "B": "Faqat markup tili",
+      "C": "Faqat past darajali",
+      "D": "O'rta darajali (yuqori va past o'rtasida)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 118,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "Dasturlash tillarining avlodlari nechta?",
+    "options": {
+      "A": "5 ta avlod (1GL dan 5GL gacha)",
+      "B": "3 ta avlod",
+      "C": "2 ta avlod",
+      "D": "10 ta avlod"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 119,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "1GL (birinchi avlod) til nima?",
+    "options": {
+      "A": "Mashina tili (0 va 1 lar)",
+      "B": "JavaScript",
+      "C": "Java",
+      "D": "Python"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "3GL (uchinchi avlod) tillarga misol qaysi?",
+    "options": {
+      "A": "C, Java, Python, Pascal",
+      "B": "Faqat SQL",
+      "C": "Faqat HTML",
+      "D": "Faqat mashina tili"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 121,
+    "topic": "12-Mavzu: Dasturlash tillari",
+    "question": "4GL (to'rtinchi avlod) tillarga misol qaysi?",
+    "options": {
+      "A": "SQL, MATLAB kabi muammo-yo'naltirilgan tillar",
+      "B": "Faqat C",
+      "C": "Faqat Assembler",
+      "D": "Faqat mashina tili"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 122,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "Standartlashtirish nima?",
+    "options": {
+      "A": "Mahsulot va jarayonlarni yagona talablar asosida tartibga solish",
+      "B": "Faqat test qilish",
+      "C": "Faqat dastur yozish",
+      "D": "Faqat dizayn yaratish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "ISO 9001 standarti nimani tartibga soladi?",
+    "options": {
+      "A": "Faqat xotira hajmini",
+      "B": "Sifat menejmenti tizimini",
+      "C": "Faqat tarmoq tezligini",
+      "D": "Faqat dasturlash tilini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "Boshqarish usullari uchun standart nimaga yo'naltirilgan?",
+    "options": {
+      "A": "Tashkilotda jarayonlarni boshqarish va nazorat qilish",
+      "B": "Faqat dastur tezligi",
+      "C": "Faqat server sozlash",
+      "D": "Faqat interfeys dizayni"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "Xizmatlar uchun standart nimaga xizmat qiladi?",
+    "options": {
+      "A": "Faqat tarmoq sozlash",
+      "B": "Xizmat ko'rsatish sifatini ta'minlash va nazorat qilish",
+      "C": "Faqat ma'lumotlar bazasi yaratish",
+      "D": "Faqat kod yozish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "Atamalar standarti nimaga xizmat qiladi?",
+    "options": {
+      "A": "Faqat interfeys yaratish",
+      "B": "Sohadagi tushunchalar va terminlarni birxillashtirish",
+      "C": "Faqat server sozlash",
+      "D": "Faqat dastur kodini yozish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "Standartlarning asosiy maqsadi nima?",
+    "options": {
+      "A": "Faqat murakkablikni oshirish",
+      "B": "Faqat tezlikni pasaytirish",
+      "C": "Faqat narxni oshirish",
+      "D": "Sifatni oshirish, jarayonlarni birxillashtirish, xatoliklarni kamaytirish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 128,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "ISO standarti qaysi tashkilot tomonidan ishlab chiqiladi?",
+    "options": {
+      "A": "International Organization for Standardization",
+      "B": "Faqat AQSh hukumati",
+      "C": "Faqat Yevropa Ittifoqi",
+      "D": "Faqat Rossiya"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "topic": "13-Mavzu: Standartlar turlari",
+    "question": "IEEE standarti qaysi sohaga tegishli?",
+    "options": {
+      "A": "Faqat qishloq xo'jaligi",
+      "B": "Elektrotexnika va dasturiy ta'minot muhandisligi",
+      "C": "Faqat arxitektura",
+      "D": "Faqat tibbiyot"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "Yagonalik tamoyili nimani anglatadi?",
+    "options": {
+      "A": "Standartlar kerak emas",
+      "B": "Har bir jarayon uchun alohida qoida",
+      "C": "Qoidalar tasodifiy tanlanadi",
+      "D": "Bir xil jarayonlar uchun bir xil qoidalar qo'llanadi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 131,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "CMMI ning to'liq nomi nima?",
+    "options": {
+      "A": "Capability Maturity Model Integration",
+      "B": "Code Management Module Integration",
+      "C": "Computer Management Model Interface",
+      "D": "Central Metric Measurement Index"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "CMMI nima uchun ishlatiladi?",
+    "options": {
+      "A": "Faqat interfeys dizayni",
+      "B": "Dasturiy jarayonlarning yetuklik darajasini baholash",
+      "C": "Faqat kod yozish",
+      "D": "Faqat server sozlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "CMMI nechta yetuklik darajasiga ega?",
+    "options": {
+      "A": "2 ta daraja",
+      "B": "10 ta daraja",
+      "C": "5 ta daraja (Initial dan Optimizing gacha)",
+      "D": "3 ta daraja"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 134,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "CMMI ning 1-darajasi qanday nomlanadi?",
+    "options": {
+      "A": "Optimizing",
+      "B": "Initial (Boshlang'ich) — jarayonlar tartibsiz",
+      "C": "Defined",
+      "D": "Managed"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 135,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "CMMI ning 5-darajasi qanday nomlanadi?",
+    "options": {
+      "A": "Initial",
+      "B": "Optimizing — doimiy takomillashtirish",
+      "C": "Defined",
+      "D": "Managed"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "Axborot tizimlarini ishlab chiqish standartlari nimaga yo'naltirilgan?",
+    "options": {
+      "A": "Faqat tezlikni oshirish",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "AT loyihalash, ishlab chiqish va joriy etish jarayonlarini tartibga solish",
+      "D": "Faqat narxni pasaytirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 137,
+    "topic": "14-Mavzu: Standartlashtirish tamoyillari",
+    "question": "Moslashuvchanlik tamoyili nimani anglatadi?",
+    "options": {
+      "A": "Faqat katta kompaniyalar uchun",
+      "B": "Standartlar hech qachon o'zgarmasligi kerak",
+      "C": "Standartlar texnologiya rivojiga qarab yangilanishi kerak",
+      "D": "Faqat bitta sohaga taalluqli"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 138,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Sertifikatlashtirish nima?",
+    "options": {
+      "A": "Faqat interfeys dizayni",
+      "B": "Faqat dastur kodini yozish",
+      "C": "Mahsulotning standartlarga mosligini rasmiy tasdiqlash jarayoni",
+      "D": "Faqat server sozlash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Sertifikatlashtirishning asosiy maqsadi nima?",
+    "options": {
+      "A": "Sifat va xavfsizlikni kafolatlash",
+      "B": "Faqat tezlikni pasaytirish",
+      "C": "Faqat interfeysni murakkablashtirish",
+      "D": "Faqat narxni oshirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "ISO/IEC 27001 nimaga tegishli?",
+    "options": {
+      "A": "Interfeys dizayni standarti",
+      "B": "Axborot xavfsizligi boshqaruvi tizimi (ISMS)",
+      "C": "Dasturlash tili standarti",
+      "D": "Tarmoq tezligi standarti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Sertifikatlashtirish jarayoni qanday bosqichlardan iborat?",
+    "options": {
+      "A": "Ariza, tekshirish (audit), sinov, qaror qabul qilish",
+      "B": "Faqat ariza berish",
+      "C": "Faqat pul to'lash",
+      "D": "Faqat dastur yuklash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Sertifikat kim tomonidan beriladi?",
+    "options": {
+      "A": "Faqat menejer",
+      "B": "Faqat dasturchi",
+      "C": "Akkreditatsiyalangan mustaqil sertifikatlashtirish organi",
+      "D": "Faqat foydalanuvchi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 143,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Majburiy sertifikatlashtirish qachon talab qilinadi?",
+    "options": {
+      "A": "Hech qachon",
+      "B": "Faqat arzon mahsulotlar uchun",
+      "C": "Mahsulot xavfsizlik va sog'liqqa ta'sir qilganda",
+      "D": "Faqat kichik kompaniyalar uchun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Ixtiyoriy sertifikatlashtirish nimaga xizmat qiladi?",
+    "options": {
+      "A": "Raqobatbardoshlikni oshirish va xaridorlar ishonchini qozonish",
+      "B": "Faqat buxgalteriya uchun",
+      "C": "Faqat narxni oshirish",
+      "D": "Faqat qonun talabi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "topic": "15-Mavzu: Sertifikatlashtirish",
+    "question": "Sertifikat muddati tugagach nima qilish kerak?",
+    "options": {
+      "A": "Hech narsa qilish shart emas",
+      "B": "Yangi mahsulot ishlab chiqish",
+      "C": "Kompaniyani yopish",
+      "D": "Qayta sertifikatlashtirishdan o'tish kerak"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 146,
+    "topic": "Sifat standartlari turlari",
+    "question": "Sifat standartlari nechta asosiy turga bo'linadi?",
+    "options": {
+      "A": "5 ta",
+      "B": "3 ta: asosiy, mahsulot va jarayon standartlari",
+      "C": "1 ta",
+      "D": "2 ta: ichki va tashqi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "topic": "Sifat standartlari turlari",
+    "question": "Asosiy standartlar nimaga xizmat qiladi?",
+    "options": {
+      "A": "Faqat dastur tezligini aniqlash",
+      "B": "Faqat interfeysni loyihalash",
+      "C": "Sifat tizimining umumiy qoidalari va tamoyillarini belgilash",
+      "D": "Faqat mahsulot narxini belgilash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 148,
+    "topic": "Sifat standartlari turlari",
+    "question": "Mahsulot standarti nima?",
+    "options": {
+      "A": "Faqat umumiy tamoyillarni",
+      "B": "Mahsulotning sifat ko'rsatkichlari va texnik talablarini belgilovchi hujjat",
+      "C": "Faqat jarayon qoidalarini",
+      "D": "Faqat narxni belgilaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "Sifat standartlari turlari",
+    "question": "Jarayon standarti nimani tartibga soladi?",
+    "options": {
+      "A": "Faqat mahsulot ko'rinishini",
+      "B": "Faqat narxni",
+      "C": "Faqat nomni",
+      "D": "Ishlab chiqarish va xizmat ko'rsatish jarayonlarini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 150,
+    "topic": "Sifat standartlari turlari",
+    "question": "Agile va Waterfall qaysi standart turiga tegishli?",
+    "options": {
+      "A": "Hech qaysi standartga tegishli emas",
+      "B": "Mahsulot standartlari",
+      "C": "Jarayon standartlari (ishlab chiqish metodologiyalari)",
+      "D": "Asosiy standartlar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 151,
+    "topic": "Ishonchlilik modellari",
+    "question": "Dasturiy ta'minot ishonchliligi nima?",
+    "options": {
+      "A": "Dasturning arzon narxi",
+      "B": "Dasturning belgilangan vaqtda xatolarsiz ishlash ehtimoli",
+      "C": "Dasturning chiroyli ko'rinishi",
+      "D": "Dasturning tez ishlashi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "topic": "Ishonchlilik modellari",
+    "question": "Ishonchlilik modellari qanday turlarga bo'linadi?",
+    "options": {
+      "A": "Faqat chiziqli modellar",
+      "B": "Faqat grafik modellar",
+      "C": "Faqat jadval modellar",
+      "D": "Deterministik va stoxastik modellar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 153,
+    "topic": "Ishonchlilik modellari",
+    "question": "Deterministik modellar qanday ishlaydi?",
+    "options": {
+      "A": "Ehtimollik nazariyasiga asoslanadi",
+      "B": "Tasodifiy jarayonlarga asoslanadi",
+      "C": "Aniq matematik formulalar asosida natija beradi",
+      "D": "Faqat ekspert fikriga asoslanadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 154,
+    "topic": "Ishonchlilik modellari",
+    "question": "Stoxastik modellar qanday ishlaydi?",
+    "options": {
+      "A": "Ehtimollik va tasodifiy jarayonlar asosida ishlaydi",
+      "B": "Faqat aniq formulalar bilan",
+      "C": "Faqat grafiklar bilan",
+      "D": "Faqat jadvallar bilan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 155,
+    "topic": "Ishonchlilik modellari",
+    "question": "Dastur ishonchliligini oshirish uchun nima qilish kerak?",
+    "options": {
+      "A": "Faqat interfeysni chiroyli qilish",
+      "B": "Sinchkovlik bilan testlash va xatoliklarni tizimli tuzatish",
+      "C": "Faqat tezlikni oshirish",
+      "D": "Faqat kod sonini oshirish"
+    },
+    "answer": "B"
+  }
+]

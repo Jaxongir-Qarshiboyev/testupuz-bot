@@ -79,3 +79,5 @@ def init_all_subjects():
                  "Dasturiy Ta'minot Sifatini Ta'minlash")
     load_subject("ekspert", "ekspert_quiz.json", "Ekspert Tizimlar",
                  "Sun'iy Intellekt va Ekspert Tizimlar")
+    load_subject("dt_maruzalar", "dt_maruzalar_quiz.json", "DT Ma'ruzalar",
+                 "Dasturiy Ta'minot Sifati — Ma'ruzalar")
