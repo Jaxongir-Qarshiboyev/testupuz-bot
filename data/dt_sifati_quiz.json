@@ -2962,5 +2962,113 @@
       "D": "Faqat kod uzunligini hisoblash"
     },
     "answer": "C"
+  },
+  {
+    "id": 248,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O(n) murakkablik qanday tavsiflanadi?",
+    "options": {
+      "A": "Chiziqli murakkablik",
+      "B": "Kvadratik murakkablik",
+      "C": "Doimiy murakkablik",
+      "D": "Eksponensial murakkablik"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 249,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O(n²) murakkablik qanday tavsiflanadi?",
+    "options": {
+      "A": "Kvadratik murakkablik",
+      "B": "Logarifmik murakkablik",
+      "C": "Doimiy murakkablik",
+      "D": "Chiziqli murakkablik"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 250,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolsted ko'rsatkichlari nimaga asoslanadi?",
+    "options": {
+      "A": "Faqat interfeys elementlariga",
+      "B": "Faqat foydalanuvchi fikriga",
+      "C": "Faqat kod uzunligiga",
+      "D": "Operatorlar va operandlar soniga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 251,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolstedning n1 ko'rsatkichi nimani bildiradi?",
+    "options": {
+      "A": "Operatorlar umumiy soni",
+      "B": "Turli operatorlar soni",
+      "C": "Operandlar umumiy soni",
+      "D": "Kod uzunligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 252,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolstedning n2 ko'rsatkichi nimani bildiradi?",
+    "options": {
+      "A": "Turli operandlar soni",
+      "B": "Operatorlar umumiy soni",
+      "C": "Kod uzunligi",
+      "D": "Hajm"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolstedning N1 ko'rsatkichi nimani bildiradi?",
+    "options": {
+      "A": "Hajm",
+      "B": "Operatorlar umumiy soni",
+      "C": "Operandlar umumiy soni",
+      "D": "Turli operatorlar soni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 254,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolstedning N2 ko'rsatkichi nimani bildiradi?",
+    "options": {
+      "A": "Operandlar umumiy soni",
+      "B": "Operatorlar umumiy soni",
+      "C": "Turli operandlar soni",
+      "D": "Lug'at"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta'minot standartlarining umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Faqat interfeysni chiroyli qilish",
+      "B": "Ishlab chiqish jarayonini tartibga solish va mahsulot sifatini ta'minlash",
+      "C": "Faqat foydalanuvchi fikrini olish",
+      "D": "Faqat kod uzunligini kamaytirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 256,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta'minot standartlari qanday turlarga bo'linadi?",
+    "options": {
+      "A": "Texnik standartlar, Ijtimoiy standartlar, Global standartlar",
+      "B": "Mahalliy standartlar, Vaqtincha standartlar, Tasodifiy standartlar",
+      "C": "Professional standartlar, Shaxsiy standartlar, Erkin standartlar",
+      "D": "Xalqaro standartlar, Sanoat standartlari, Korporativ standartlar"
+    },
+    "answer": "D"
   }
 ]
