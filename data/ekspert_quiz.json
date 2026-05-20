@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlar bazasining samaradorligini oshirish uchun nima qilish mumkin?",
+    "options": {
+      "A": "Lingvistik elementlar kiritish",
+      "B": "Qoidalarga grafik interfeys qo‘shish",
+      "C": "Bilimlarni optimallashtirish va ortiqcha maʼlumotlarni olib tashlash",
+      "D": "Faqat statistik algoritmlar qo‘llash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "topic": "Ekspert tizimlar",
+    "question": "Ekspert tizimlarining asosiy komponentalari qaysilar?",
+    "options": {
+      "A": "Bilimlar bazasi, xulosa chiqaruvchi mexanizm, foydalanuvchi interfeysi",
+      "B": "Statistik tahlil moduli, grafika interfeysi, tahliliy vositalar",
+      "C": "O‘quv algoritmlari, matn muharriri, texnik modullar",
+      "D": "Maʼlumotlar bazasi, tarmoq moduli, sensorlar"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlarni ajratib olishda qaysi usullar ishlatiladi?",
+    "options": {
+      "A": "Mashinali oʻqitish, tabiiy tilni qayta ishlash va boshqa maʼlumotlarni tahlil qilish",
+      "B": "Ma'lumotlarni to'plab, faqat raqamli ma'lumotlar bilan ishlash",
+      "C": "Faqat statistik va matematik tahlillar",
+      "D": "Faqat foydalanuvchilarni so'rovlar orqali o'rganish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "topic": "Ekspert tizimlar",
+    "question": "Ekspert tizimlarida qaysi qoidalar qo'llaniladi?",
+    "options": {
+      "A": "Bilimlarni taqdim etish",
+      "B": "\"Agar-u holda\" (if-then) qoidalari",
+      "C": "Semantik til qoidalari",
+      "D": "Grafik tahlil qoidalari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "topic": "Ekspert tizimlar",
+    "question": "Produksion modellar qanday ishlaydi?",
+    "options": {
+      "A": "Faqat xulosa chiqaradi",
+      "B": "Ma'lumotlar o'rtasidagi aloqalar",
+      "C": "Tushunchalar o'rtasidagi munosabatlarni ifodalaydi",
+      "D": "Qoidalar toʻplamidan foydalanadi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "topic": "Ekspert tizimlar",
+    "question": "Bayes teoremasi nimaga asoslanib ishlaydi.",
+    "options": {
+      "A": "Ehtimollik va shartli ehtimollik",
+      "B": "Rasmiy mantiq",
+      "C": "Klasterlash",
+      "D": "Ma'lumotlarni ajratib olish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "topic": "Ekspert tizimlar",
+    "question": "\"Agar-u holda\" (if-then) sharti qaysi modelda ishlaydi?",
+    "options": {
+      "A": "Semantik tarmoq",
+      "B": "Mantiqiy",
+      "C": "Freym",
+      "D": "Produksion"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "topic": "Ekspert tizimlar",
+    "question": "Foydalanuvchi interfeysi ekspert tizimlarida qanday vazifani bajaradi?",
+    "options": {
+      "A": "Bilimlar bazasiga kirish imkonini cheklaydi",
+      "B": "Foydalanuvchi va tizim o‘rtasidagi o‘zaro bog‘lanishni taʼminlaydi",
+      "C": "Tizimda algoritmlarni sozlaydi",
+      "D": "Maʼlumotlar bazasidagi bilimlarni optimallashtiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlar ekspert tizimlarida qanday taqdim etiladi?",
+    "options": {
+      "A": "Qoidalar, faktlar yoki semantik tarmoqlar ko‘rinishida",
+      "B": "Murakkab grafik vizualizatsiyalar orqali",
+      "C": "Raqamli jadvallar shaklida",
+      "D": "Statik matnlar ko‘rinishida"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "topic": "Ekspert tizimlar",
+    "question": "Ekspert tizimlaridan foydalanishning asosiy afzalligi nima?",
+    "options": {
+      "A": "Real vaqt monitoringini amalga oshirish",
+      "B": "Statistik maʼlumotlarni to‘plash",
+      "C": "Tizim tarmoq ulanishlarini tezkor qayta tiklash",
+      "D": "Ekspert bilimlarini avtomatlashtirish orqali samaradorlikni oshirish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "topic": "Ekspert tizimlar",
+    "question": "Ekspert tizimining asosiy qismi bu -?",
+    "options": {
+      "A": "Tushunchalar o'rtasidagi aloqalarni aniqlash",
+      "B": "Ma'lumotlarni tahlil qilish",
+      "C": "Xulosa chiqarish mexanizmi",
+      "D": "Yangi bilim yaratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "topic": "Ekspert tizimlar",
+    "question": "Odatda ekspert tizimi qanday ishlaydi?",
+    "options": {
+      "A": "Faqat ko'rsatuvchi tizimni yaratadi",
+      "B": "Faqat raqamli ma'lumotlarni saqlaydi",
+      "C": "Yangi bilimlar yaratadi",
+      "D": "Bilimlar bazasidan foydalanib qaror qabul qiladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "topic": "Ekspert tizimlar",
+    "question": "Qanday muammolarni hal qilishda ekspert tizimi  samarali hisoblanadi?",
+    "options": {
+      "A": "Yangi bilimlar yaratishda",
+      "B": "Faqat tasniflash va klasterlash",
+      "C": "Murakkab va ko'p qatlamli masalalar",
+      "D": "Faqat sodda masalalar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyron tarmoqning qaysi qatlamida natija olinadi?",
+    "options": {
+      "A": "Kirish qatlami",
+      "B": "Og‘irlik qatlami",
+      "C": "Chiqish qatlami",
+      "D": "Yashirin qatlami"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "topic": "Ekspert tizimlar",
+    "question": "Dastlabki qadamda neyron tarmoqdagi kiruvchi qiymatlar qaysi koeffitsiyentlariga ko‘paytiriladi?",
+    "options": {
+      "A": "Og‘irlik koeffitsiyentlariga",
+      "B": "Chiqish qiymatlari bilan",
+      "C": "Faollashuv qiymatlari bilan",
+      "D": "Bias bilan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "topic": "Ekspert tizimlar",
+    "question": "Eng oddiy neyron tarmoqning yashirin qatlami nechta qatlamdan iborat?",
+    "options": {
+      "A": "4.0",
+      "B": "2.0",
+      "C": "1.0",
+      "D": "3.0"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "topic": "Ekspert tizimlar",
+    "question": "Quyidagi qaysi funksiya neyron tarmoqlarda aktivlashtirish uchun ishlatiladi?",
+    "options": {
+      "A": "Subtraction",
+      "B": "Sigmoid",
+      "C": "Concatenate",
+      "D": "Logarithm"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyron tarmoqlarda oldinga va orqaga siljish nima uchun kerak?",
+    "options": {
+      "A": "Axborotni to‘ldirish uchun",
+      "B": "Neyron tarmoqni o‘qitish uchun",
+      "C": "Neyronni o‘chirib qo‘yish uchun",
+      "D": "Sinapsislar sonini aniqlash uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyron tarmoqda kirish qiymatlari va og‘irliklar ustida qanday amal bajaradi?",
+    "options": {
+      "A": "Faollikni aniqlash",
+      "B": "Vektorli hisoblash",
+      "C": "Ko‘paytirish va yig‘ish",
+      "D": "To‘g‘ri chiziqli hisoblash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "topic": "Ekspert tizimlar",
+    "question": "Sun'iy neyron tarmog‘ining arxitekturasi qanday ketma-ketlikda tashkil topgan?",
+    "options": {
+      "A": "Chiqish qatlamisiz ishlaydi",
+      "B": "Faqat kirish va yashirin qatlamlardan iborat",
+      "C": "Kirish, yashirin va chiqish qatlamlaridan iborat",
+      "D": "Har doim to‘rt qatlamdan iborat"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "topic": "Ekspert tizimlar",
+    "question": "Sun'iy neyron tarmoqlarni o‘qitishda qaysi algoritmdan foydalaniladi?",
+    "options": {
+      "A": "Gradiyent tushish algoritmi",
+      "B": "Chiziqlashtirish algoritmi",
+      "C": "Diskretizatsiya algoritmi",
+      "D": "Ajratish algoritmi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyron tarmoqlarni kim va qachon birinchi o‘rganib chiqqan?",
+    "options": {
+      "A": "Artur Samuel, 1960-yilda",
+      "B": "Jon fon Neyman, 1956-yilda",
+      "C": "Alan Turing, 1945-yilda",
+      "D": "Uorren Makkaloch va Uolter Pits, 1943-yilda"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyronning \"og‘irlik\"lari (weights) qaysi vazifani bajarmaydi?",
+    "options": {
+      "A": "Chiqish qiymatlarini belgilaydi",
+      "B": "Kirish qiymatlarini saqlaydi",
+      "C": "Kirish qiymatlarining ta’sirini o‘lchaydi",
+      "D": "Neyronni bloklaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "topic": "Ekspert tizimlar",
+    "question": "Quyidagi javoblardan qaysi birida sun’iy neyron elementlari to'g'ri ko'rsatilgan?",
+    "options": {
+      "A": "Protsessor va dendrit",
+      "B": "Faqat Logarifm va softmax",
+      "C": "Kompyuter va protsessor",
+      "D": "Bias va aktivlashtirish funksiyasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "topic": "Ekspert tizimlar",
+    "question": "Qaysi qatlam neyron tarmoqning yakuniy natijasini beradi?",
+    "options": {
+      "A": "Yashirin qatlami",
+      "B": "Kirish qatlami",
+      "C": "Faollashuv qatlami",
+      "D": "Chiqish qatlami"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 26,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlar intellektual tahlili tushunchasi qaysi yillarda  paydo bo'lgan?",
+    "options": {
+      "A": "1942-1949 yillar",
+      "B": "1927-1937 yillar",
+      "C": "1930-1940 yillar",
+      "D": "1950-1970 yillar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "topic": "Ekspert tizimlar",
+    "question": "“Data mining” (maʼlumot qazib olish) atamasi qaysi yili paydo boʻldi?",
+    "options": {
+      "A": "1942-1949 yillar",
+      "B": "1990-2000 yillar",
+      "C": "1927-1937 yillar",
+      "D": "1950-1970 yillar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlarni dastlabki qayta ishlashning (Data processing) asosiy maqsadi nima?",
+    "options": {
+      "A": "Faqat maʼlumotlarni tozalash",
+      "B": "Maʼlumotlarni intellektual tahlil qilish uchun tayyorlash",
+      "C": "Maʼlumotlarni faqat tahlil qilish",
+      "D": "Faqat noaniqliklarni bartaraf etish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlarni dastlabki qayta ishlash(Data processing) jarayoni quyidagi bosqichlarni oʻz ichiga oladi?",
+    "options": {
+      "A": "Maʼlumotlarni tayyorlash",
+      "B": "Maʼlumotlarni tozalash",
+      "C": "Maʼlumotlarni tushunish;",
+      "D": "Barchasi to'g'ri"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlarni tushinish (data understanding) qanday bosqichlarni amalga oshiradi?",
+    "options": {
+      "A": "Barchasi to'g'ri",
+      "B": "Maʼlumotlar toʻplamini tanib olish.",
+      "C": "Maʼlumotlar tuzilishini tahlil qilish.",
+      "D": "Uning xususiyatlarini ajratib olish."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "topic": "Ekspert tizimlar",
+    "question": "Qaysi javobda maʼlumotlarni tayyorlashning turlari to'g'ri ko'rsatilgan?",
+    "options": {
+      "A": "Maʼlumotlarni qisqartirish (oʻquv tanlanma)",
+      "B": "Hamma javoblar to'g'ri",
+      "C": "Birlashtirish",
+      "D": "Oʻlchamlarni qisqartirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "topic": "Ekspert tizimlar",
+    "question": "Klasterlash qanday mano anglatadi?",
+    "options": {
+      "A": "Belgilar orqali obyektlar guruhlarini topish.",
+      "B": "obyekt hajmini topish",
+      "C": "Masofani topish",
+      "D": "obyekt balandligini topish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "topic": "Ekspert tizimlar",
+    "question": "Su'iy neyron tarmoqlarning asosiy tarkibiy qismi nima?",
+    "options": {
+      "A": "Gradient",
+      "B": "Hamma javoblar to'g'ri",
+      "C": "Matritsa",
+      "D": "Neyron"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyron tarmoqdagi qatlamlar soni ortganda qanday natija kuzatiladi?",
+    "options": {
+      "A": "Modellar tezligi oshib ketadi",
+      "B": "Modellardagi aktivlash funksiyasi o'zgarib qoladi",
+      "C": "Modellar ma’lumotni yo‘qotadi",
+      "D": "Modellar yanada murakkablashadi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlarni tozalash yoki maʼlumotlarni oldindan qayta ishlash (data cleaning) - bu ?",
+    "options": {
+      "A": "Kiritilgan ma'lumotni sinflashtirish",
+      "B": "Modellar ma’lumotni yo‘qotadi",
+      "C": "Neyronlarning og‘irliklarini o‘zgartirish",
+      "D": "Maʼlumotlar toʻplamini tahlil va modellash uchun toza va ishonchli holatga keltirish jarayoni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 36,
+    "topic": "Ekspert tizimlar",
+    "question": "Oʻrtacha/median rejimdan foydalanish ma'lumotlarni qayta ishlashning qaysi bosqichi hisoblanadi?",
+    "options": {
+      "A": "Qiymatlarni oshirish jarayoni",
+      "B": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi",
+      "C": "Yoʻqolgan qiymatlarni to'ldirish",
+      "D": "Barcha qiymatlarni nolga aylantiradi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "topic": "Ekspert tizimlar",
+    "question": "Qiymatlarni diskretlashtirish -bu?",
+    "options": {
+      "A": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi",
+      "B": "Barcha qiymatlarni nolga aylantiradi",
+      "C": "Modellarning aniqligi pasaytiradi",
+      "D": "Uzluksiz atributni tartibli atributga aylantirish jarayoni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 38,
+    "topic": "Ekspert tizimlar",
+    "question": "Qiymatlarni tabiiy bogʻlash (Data binning) -bu?",
+    "options": {
+      "A": "Barcha qiymatlarni nolga aylantiradi",
+      "B": "Uzluksiz atributni tartibli atributga aylantirish jarayoni",
+      "C": "Kichik kuzatuv xatolarining ta’sirini kamaytirish va katta maʼlumotlar toʻplamlarini tahlil qilishni soddalashtirish",
+      "D": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "topic": "Ekspert tizimlar",
+    "question": "Teng chastotali bog‘lash (Binning)-bu?",
+    "options": {
+      "A": "Uzluksiz atributni tartibli atributga aylantirish jarayoni",
+      "B": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi",
+      "C": "Ajratilgan sinflar teng chastotaga ega bo'lishi",
+      "D": "Barcha qiymatlarni nolga aylantiradi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "topic": "Ekspert tizimlar",
+    "question": "Teng masshtabda joylashtirish-bu?",
+    "options": {
+      "A": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi",
+      "B": "Uzluksiz atributni tartibli atributga aylantirish jarayoni",
+      "C": "Sinflarning masshtabi bir-biriga teng boʻlishi",
+      "D": "Barcha qiymatlarni nolga aylantiradi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlarni siqish (data compression) - bu?",
+    "options": {
+      "A": "Ajratilgan sinflar teng chastotaga ega bo'lishi",
+      "B": "Maʼlumot hajmini kamaytirish uchun ishlatiladigan jarayon",
+      "C": "Uzluksiz atributni tartibli atributga aylantirish jarayoni",
+      "D": "Sinflarning masshtabi bir-biriga teng boʻlishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "topic": "Ekspert tizimlar",
+    "question": "Maʼlumotlarni qidirish algoritmlari (Data search) -bu?",
+    "options": {
+      "A": "Kerakli ma'lumotlarni qidirish va topish jarayoni",
+      "B": "Maʼlumot hajmini kamaytirish uchun ishlatiladigan jarayon",
+      "C": "Sinflarning masshtabi bir-biriga teng boʻlishi",
+      "D": "Ajratilgan sinflar teng chastotaga ega bo'lishi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "topic": "Ekspert tizimlar",
+    "question": "Chiziqli qidiruv - bu?",
+    "options": {
+      "A": "Barcha qiymatlarni nolga aylantiradi",
+      "B": "Qiymatlarni yaxshi tanlangan ekanligini anglatadi",
+      "C": "Uzluksiz atributni tartibli atributga aylantirish jarayoni",
+      "D": "Kerakli element topilgunga qadar roʻyxatning har bir elementi boʻylab ketma-ket qidiruv algoritmi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 44,
+    "topic": "Ekspert tizimlar",
+    "question": "Kenglik-birinchi qidiruv (BFS) qanday ma’lumot tuzilmasidan foydalanadi?",
+    "options": {
+      "A": "Qo‘shma ro‘yxat (Linked List)",
+      "B": "Jadval",
+      "C": "Navbat (Queue)",
+      "D": "Stek (Stack)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "topic": "Ekspert tizimlar",
+    "question": "Chuqurlikdagi birinchi qidiruv (Depth first search yoki DFS) algoritmi qaysi kamchilikka ega?",
+    "options": {
+      "A": "Cheksiz chuqurlikda ishlashda muammoga duch kelishi mumkin",
+      "B": "Ko‘p xotira talab etmaydi",
+      "C": "Faqat grafiklarda ishlaydi, daraxtlarda ishlamaydi",
+      "D": "Eng qisqa yo‘lni har doim topadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "topic": "Ekspert tizimlar",
+    "question": "Chuqurlik bilan cheklangan qidiruv (DLS) qanday afzallikka ega?",
+    "options": {
+      "A": "Navbat tuzilmasidan foydalanadi.",
+      "B": "Birinchi kenglik bo'yicha",
+      "C": "Faqat kenglik bo‘yicha ishlaydi.",
+      "D": "Cheksiz chuqurlikka kirishdan qochadi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "topic": "Ekspert tizimlar",
+    "question": "Mashinali o'qitishning qaysi turi belgilangan(yorliqlangan) ma'lumotlardan foydalanadi?",
+    "options": {
+      "A": "O'qituvchili o'qitish",
+      "B": "O'qituvchisiz o'qitish",
+      "C": "Mustahkamlangan o'qitish",
+      "D": "Normallashtirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "topic": "Ekspert tizimlar",
+    "question": "O'qituvchisiz o'qitish qanday ma'lumotlardan foydalanadi?",
+    "options": {
+      "A": "Hamma javoblar to'g'ri",
+      "B": "Belgilangan ma'lumotlar(yorliqlangan)",
+      "C": "O'zgartirilgan ma'lumotlar",
+      "D": "Belgilanmagan ma'lumotlar(yorliqlanmagan)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "topic": "Ekspert tizimlar",
+    "question": "Mustahkamlangan o'qitish usuli qaysi sohalarda keng qo'llaniladi?",
+    "options": {
+      "A": "Logistik regressiya",
+      "B": "O'yin dasturlari va robototexnika",
+      "C": "Tasniflash",
+      "D": "Chiziqli regressiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "topic": "Ekspert tizimlar",
+    "question": "Normallashtirish nima uchun qo'llaniladi?",
+    "options": {
+      "A": "Ma'lumotlarni tartiblash uchun",
+      "B": "Ma'lumotlarni tozalash",
+      "C": "Son qiymatlarini bir xil masshtabga o'tkazish uchun",
+      "D": "Ma'lumotlar to'plamini tasniflash uchun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "topic": "Ekspert tizimlar",
+    "question": "Max-min normallashtirish orqali qiymatlar qaysi oraliqqa keltiriladi?",
+    "options": {
+      "A": "-1.1",
+      "B": "harqanday qiymatga",
+      "C": "−∞,+∞",
+      "D": "0.1"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "topic": "Ekspert tizimlar",
+    "question": "Normallashtirishning asosiy maqsadi nima?",
+    "options": {
+      "A": "Ma'lumotlarni belgilanmagan holatga keltirish",
+      "B": "Har doim eng qisqa yo'lni topish",
+      "C": "Kiruvchi qiymatlar orasidagi tafovutni kamaytirish",
+      "D": "Datasetdagi o'zgaruvchilarni nolga aylantirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "topic": "Ekspert tizimlar",
+    "question": "Bias(ozod had) qanday ahamiyatga ega?",
+    "options": {
+      "A": "Funksiyaga qo'shiladigan erkin parametrni  ifodalaydi",
+      "B": "Ma'lumotlar sonini oshiradi",
+      "C": "Minimal qiymat",
+      "D": "Gradiyent tezligini oshiradi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "topic": "Ekspert tizimlar",
+    "question": "Variance qanday muammo bilan bog'liq?",
+    "options": {
+      "A": "Ma'lumotlarning haddan tashqari moslashuvi bilan",
+      "B": "Modelning bashorat darajasi kamayishi bilan",
+      "C": "O'zgartirilgan qiymatlarning yo'qolishi bilan",
+      "D": "Gradiyentlar ortib ketishi bilan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "topic": "Ekspert tizimlar",
+    "question": "Oʻrta kvadratik xatolik (Mean Squared Error MSE) asosiy vazifasi nima?",
+    "options": {
+      "A": "O'zgartirilgan qiymatlarning yo'qolishini ta'minlash",
+      "B": "Modelning bashoratlash aniqligini ko'rsatish",
+      "C": "Modelning bashorat darajasini oshishirish",
+      "D": "Ma'lumotlarning haddan tashqari moslashtirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "topic": "Ekspert tizimlar",
+    "question": "Chalkashlik matritsasi(Confusion Matrix) asosan qaysi masalalarni yechishda foydalaniladi?",
+    "options": {
+      "A": "O'zgartirilgan qiymatlarning yo'qolishini ta'minlashda",
+      "B": "Sinflashtirish masalalarini yechishda qoʻllaniladi",
+      "C": "Modelning og'irlik koeffitsiyentlarini hisoblash",
+      "D": "Ma'lumotlarning haddan tashqari moslashtirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "topic": "Ekspert tizimlar",
+    "question": "Haqiqiy ijobiylar(True Positive TP) qanday ma'no anglatadi?",
+    "options": {
+      "A": "O'zgartirilgan qiymatlarning yo'qolishlar soni",
+      "B": "Modelning bashorat darajasini oshishirish",
+      "C": "Xatoliklarning umumiy soni",
+      "D": "Model ijobiy sinfni toʻg‘ri bashorat qilgan holatlar soni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "topic": "Ekspert tizimlar",
+    "question": "Haqiqiy negativlar (True NegativeTN) qanday ma'no anglatadi?",
+    "options": {
+      "A": "Modelning umumiy bashorat qiymatlar soni",
+      "B": "Model ijobiy sinfni toʻg‘ri bashorat qilgan holatlar soni",
+      "C": "Model salbiy sinfni toʻg‘ri bashorat qilgan holatlar soni.",
+      "D": "O'zgartirilgan qiymatlarning yo'qolishlar soni"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "topic": "Ekspert tizimlar",
+    "question": "Notoʻg‘ri pozitivlar (False Positive FP) qanday ma'no anglatadi?",
+    "options": {
+      "A": "Model ijobiy sinfni toʻg‘ri bashorat qilgan holatlar soni",
+      "B": "Model salbiy sinfni toʻg‘ri bashorat qilgan holatlar soni.",
+      "C": "Modelning bashorat darajasini oshishirish",
+      "D": "Model ijobiy sinfni notoʻg‘ri bashorat qilgan holatlar soni."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "topic": "Ekspert tizimlar",
+    "question": "Notoʻg‘ri negativlar (False Negative FN) qanday ma'no anglatadi?",
+    "options": {
+      "A": "Model salbiy sinfni notoʻg‘ri bashorat qilgan holatlar soni",
+      "B": "Model ijobiy sinfni notoʻg‘ri bashorat qilgan holatlar soni.",
+      "C": "Model salbiy sinfni toʻg‘ri bashorat qilgan holatlar soni.",
+      "D": "Model ijobiy sinfni toʻg‘ri bashorat qilgan holatlar soni"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "topic": "Ekspert tizimlar",
+    "question": "Aniqlikni(Precision) hisoblash-bu?",
+    "options": {
+      "A": "Model salbiy sinfni toʻg‘ri bashorat qilgan holatlar soni.",
+      "B": "Modelning bashorat darajasini oshishirish",
+      "C": "Model ijobiy sinfni notoʻg‘ri bashorat qilgan holatlar soni.",
+      "D": "Modelning ijobiy bashoratlari qanchalik toʻg‘ri ekanligini hisoblash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 62,
+    "topic": "Ekspert tizimlar",
+    "question": "Batch Gradiyent pastlash algoritmi qachon ishlatiladi?",
+    "options": {
+      "A": "Mini-batch hajmidan foydalanilganda",
+      "B": "Maʼlumotlar to‘plami kichik bo‘lganda",
+      "C": "Barcha maʼlumotlardan bir vaqtning o‘zida foydalanish talab qilinganda",
+      "D": "Tasodifiy namunalarni ishlatishda"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "topic": "Ekspert tizimlar",
+    "question": "Normallashtirishning asosiy vazifasi nima?",
+    "options": {
+      "A": "Parametrlarning qiymatlarini kattalashtirish",
+      "B": "Maʼlumotlarning dispersiyasini hisoblash",
+      "C": "Maʼlumotlarni 0 va 1 oralig‘iga moslashtirish",
+      "D": "Maʼlumotlarni markazlashtirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "topic": "Ekspert tizimlar",
+    "question": "Gradiyent tushishning qanday turlari mavjud?",
+    "options": {
+      "A": "Kvadratik, Absolyut, Gradiyent",
+      "B": "Batch, Stoxastik, Mini-batch",
+      "C": "Global, Lokal, Kichik to‘plam",
+      "D": "Optimallashtirish, Normallashtirish, Standartlashtirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "Ekspert tizimlar",
+    "question": "O‘qituvchili o‘qitishda qanday ma’lumotlardan foydalanadi?",
+    "options": {
+      "A": "Faqat yorliqsiz ma’lumotlar",
+      "B": "Tasodifiy tanlangan ma’lumotlar",
+      "C": "O‘rganish qadamiga asoslangan ma’lumotlar",
+      "D": "Yorliqlangan (labelled) ma’lumotlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "topic": "Ekspert tizimlar",
+    "question": "Chiziqli regressiyada qiymat funksiyasi qanday asosiy maqsadni bajaradi?",
+    "options": {
+      "A": "Har bir iteratsiyada qiymatlarni maksimal qilish",
+      "B": "Funksiya xatolarini minimallashtirish",
+      "C": "Parametrlarni tasodifiylashtirish",
+      "D": "Tasodifiy qiymatlarni oshirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "Ekspert tizimlar",
+    "question": "Gradiyent pastlashning asosiy maqsadi nima?",
+    "options": {
+      "A": "Datasetni normallashtirish",
+      "B": "Xatolik funksiyasini minimallashtirish",
+      "C": "Qo‘llanilgan koeffitsiyentlarni maksimal qiymatga yetkazish",
+      "D": "Tasodifiy xatolarni oshirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "topic": "Ekspert tizimlar",
+    "question": "Chiziqli regressiyada og'irlik va bias qiymatlari qanday aniqlanadi?",
+    "options": {
+      "A": "Har bir iteratsiyada yangi tasodifiy qiymatlar beriladi",
+      "B": "Iteratsiya davomida yangilanib boradi",
+      "C": "Ma’lumotlarning maksimal qiymatlariga asoslanadi",
+      "D": "Tasodifiy tanlab olinadi va o‘zgarmaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "topic": "Ekspert tizimlar",
+    "question": "Polinomial regressiyaning asosiy vazifasi nima?",
+    "options": {
+      "A": "Sigmoid funksiya yordamida ehtimoliy qiymatlarni aniqlash",
+      "B": "Datasetni normallashtirish",
+      "C": "Chiziqli bo'lmagan xaotik va murakkab kiruvchi qiymatlarni moslashtirish",
+      "D": "To‘g‘ri chiziqli ma’lumotlarni ifodalash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "topic": "Ekspert tizimlar",
+    "question": "Logistik regressiyaning asosiy vazifasi qanday?",
+    "options": {
+      "A": "Binar sinflashtirish orqali ko'p sinflashtirish",
+      "B": "Chiziqli bashorat qiymatlarini minimallashtirish",
+      "C": "To‘g‘ri chiziqli ma’lumotlarni ifodalash",
+      "D": "Xatolik funksiyasini minimallashtirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "topic": "Ekspert tizimlar",
+    "question": "Sigmoid funksiyasining qiymatlari qaysi oraliqda bo‘ladi?",
+    "options": {
+      "A": "[0, 1]",
+      "B": "[-1,0]",
+      "C": "[0, ∞)",
+      "D": "[-1, 1]"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "topic": "Ekspert tizimlar",
+    "question": "Polinomial regressiyaning qaysi darajasi murakkab modelni ifodalaydi?",
+    "options": {
+      "A": "Barchasi to'g'ri",
+      "B": "2 va undan yuqori darajalar",
+      "C": "1-daraja",
+      "D": "Nolga teng daraja"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "topic": "Ekspert tizimlar",
+    "question": "K-NN algoritmi qaysi muammolarni hal qilishda keng qo'llaniladi?",
+    "options": {
+      "A": "Klasterlash",
+      "B": "Sinflashtirish",
+      "C": "O'qituvchili o'qitish",
+      "D": "Regression"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "topic": "Ekspert tizimlar",
+    "question": "K-NN algoritmida test ma'lumotlari qanday tasniflanadi?",
+    "options": {
+      "A": "Yalpi yig‘indi asosida",
+      "B": "O'rtacha qiymatlar orqali",
+      "C": "Har bir ma'lumotning o'zi orqali",
+      "D": "Eng yaqin qo‘shnilar orqali"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 75,
+    "topic": "Ekspert tizimlar",
+    "question": "SVM algoritmida qaror chegarasini qanday ataladi?",
+    "options": {
+      "A": "Chiziqli tenglama",
+      "B": "Ma'lumotlar to‘plami",
+      "C": "Qabul qilish chegarasi",
+      "D": "Giperplan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "topic": "Ekspert tizimlar",
+    "question": "SVM algoritmi qanday muammoni hal qilishda ishlatiladi?",
+    "options": {
+      "A": "Normallashtirish",
+      "B": "Klasifikatsiya",
+      "C": "Sinflashtirish",
+      "D": "Regression"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "topic": "Ekspert tizimlar",
+    "question": "K-NN algoritmidagi Evklid masofasi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Ma'lumotlar orasidagi masofani hisoblash",
+      "B": "Normallashtirish",
+      "C": "Masshtablash",
+      "D": "Hamma masofalarni tenglashtirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "topic": "Ekspert tizimlar",
+    "question": "SVM algoritmida giperplan yordamida nima aniqlanadi?",
+    "options": {
+      "A": "Boshqa algoritmlarni test qilish",
+      "B": "Nuqtalar o'rtasidagi masofa",
+      "C": "Yangi test nuqtalari",
+      "D": "Sinf chegarasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "topic": "Ekspert tizimlar",
+    "question": "Regulyarizatsiya nima?",
+    "options": {
+      "A": "Modelning haddan tashqari moslashib qolishining oldini olish uchun qoʻshimcha maʼlumot qoʻshish usuli.",
+      "B": "Modelning xatolikni kamaytirish uchun yangi belgi qoʻshish.",
+      "C": "Modelning sinfini aniqlash uchun qo‘llaniladigan usul.",
+      "D": "Modelni optimallashtirish uchun faqat o'zgarmas xususiyatlar bilan ishlash."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "topic": "Ekspert tizimlar",
+    "question": "L2 Ridge regressiyasi qanday usul?",
+    "options": {
+      "A": "Yalpi xatolikni kamaytirish uchun faqat polinom regressiya ishlatiladi.",
+      "B": "Xususiyatlarning og‘irliklarini yaqinlashtiradi",
+      "C": "Modelni optimallashtirishda faqat bitta o'zgaruvchi ishlatiladi.",
+      "D": "Xususiyatlarni nolga tenglashtirishi mumkin."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "Ekspert tizimlar",
+    "question": "L1 Lasso regressiyasining afzalligi nima?",
+    "options": {
+      "A": "Modeldagi barcha xususiyatlarni saqlaydi.",
+      "B": "Xususiyatlarni nolga tenglashtirishi mumkin.",
+      "C": "Faqat koeffitsiyentlarni qisqartirishga yordam beradi.",
+      "D": "Jarima qo'shish orqali modelning murakkabligini kamaytiradi."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "topic": "Ekspert tizimlar",
+    "question": "Gradiyent tushish algoritmi nima uchun ishlatiladi?",
+    "options": {
+      "A": "Boshqa modellarning bashoratlarini birlashtirish uchun ishlatiladi.",
+      "B": "Faqat test ma'lumotlarini o'qish uchun ishlatiladi.",
+      "C": "Qiymat funktsiyasini minimal qiymatga keltirishga yordam beradi.",
+      "D": "Modeldagi parametrlarni avtomatik ravishda tanlaydi."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "topic": "Ekspert tizimlar",
+    "question": "O'rta kvadratik xatolik (MSE) funksiyasi qanday ishlaydi?",
+    "options": {
+      "A": "Modelning sinfini aniqlashda ishlatiladi.",
+      "B": "Modelni faqat sinflar bo'yicha baholaydi.",
+      "C": "Xatoliklarni kvadratga ko'paytirib, o'rtacha qiymatini hisoblaydi.",
+      "D": "Modeldagi xususiyatlar orasidagi bog'liqlikni hisoblaydi."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 84,
+    "topic": "Ekspert tizimlar",
+    "question": "Boshlang‘ich klaster markazlari qanday tanlanadi?",
+    "options": {
+      "A": "O‘rtacha qiymatlar masshtablanadi",
+      "B": "Barcha nuqtalar markaz sifatida olinadi",
+      "C": "Tasodifiy ravishda tanlanadi",
+      "D": "Faqat bitta nuqta tanlanadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "topic": "Ekspert tizimlar",
+    "question": "K-Means Clustering qanday turdagi algoritm?",
+    "options": {
+      "A": "Regressiya algoritmi",
+      "B": "O‘qituvchili o‘qitish",
+      "C": "O‘qituvchisiz o‘qitish",
+      "D": "Sinflashtirish algoritmi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "topic": "Ekspert tizimlar",
+    "question": "Manxattin masofasining asosiy vazifasi nima?",
+    "options": {
+      "A": "Xatolikni hisoblash",
+      "B": "Ma’lumotlar nuqtalarining masofasini o‘lchash",
+      "C": "Modelni o‘qitish",
+      "D": "Sinflarni ajratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "topic": "Ekspert tizimlar",
+    "question": "K-Means klasterlash algoritmi qaysi usul asosida ishlaydi?",
+    "options": {
+      "A": "Sentroid nuqta",
+      "B": "Grid",
+      "C": "Zichlik",
+      "D": "Ierxik"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 88,
+    "topic": "Ekspert tizimlar",
+    "question": "Modelni o'qitish uchun o'quv tanlanma (dataset) qanday turlarga bo'lindi",
+    "options": {
+      "A": "labels, validation, testing",
+      "B": "testing, value-x, training",
+      "C": "validation, training, , testing",
+      "D": "validation, labels, training"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "topic": "Ekspert tizimlar",
+    "question": "O'qitish uchun ma'lumotlar orasidan ortiqcha yoki ahamiyati past bo'lgan, model turg'unligiga ta'sir qiluvchi ma'lumotlarni olib tashlash jarayoni nima deb ataladi",
+    "options": {
+      "A": "Ma'lumotlarni tozalash (Data cleaning)",
+      "B": "Xususiyatlarni aniqlash (Feature detection)",
+      "C": "Ma'lumotlar turini aniqlash (Data formatting)",
+      "D": "Ma'lumotlarni o'chirish (Data deletion)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "topic": "Ekspert tizimlar",
+    "question": "Neyron tarmoqda tugunlar o'zaro nimalar bilan bog'lanadi",
+    "options": {
+      "A": "tasodifiy koeffitsentlar",
+      "B": "ozod had koeffitsentlari",
+      "C": "o'zgarmas koeffitsentlar",
+      "D": "og'irlik koeffitsentlari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 91,
+    "topic": "Ekspert tizimlar",
+    "question": "Chiziqli regression model nima uchun ishlatiladi?",
+    "options": {
+      "A": "sinflashtirish masalasini yechish uchun",
+      "B": "mantiqiy model qurish uchun",
+      "C": "bashorat qilish uchun",
+      "D": "segmentlash masalasini yechish uchun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 92,
+    "topic": "Ekspert tizimlar",
+    "question": "Chuqur o‘qitish tarmoqlarining \"chuqurligi\" nimani anglatadi?",
+    "options": {
+      "A": "Tarmoqdagi qatlamlar sonini",
+      "B": "Modelning natijalarini",
+      "C": "Ma’lumotlar nuqtalarining o‘lchovlarini",
+      "D": "Modeldagi parametrlar sonini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "topic": "Ekspert tizimlar",
+    "question": "Oldinga harakatlanuvchi neyron tarmoqda qaysi qatlam kirish ma’lumotlarini qabul qiladi?",
+    "options": {
+      "A": "Yashirin qatlam",
+      "B": "Faollashtirish qatlam",
+      "C": "Chiqish qatlam",
+      "D": "Kirish qatlam"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "topic": "Ekspert tizimlar",
+    "question": "Chuqur o‘qitishda neyron tarmoq qanday usuldan foydalanib o‘qitiladi?",
+    "options": {
+      "A": "Asosiy tahlil usuli",
+      "B": "Tasniflash va bashoratlash",
+      "C": "Sinfga ajratish",
+      "D": "Oldinga va orqaga tarqalish usuli"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 95,
+    "topic": "Ekspert tizimlar",
+    "question": "ReLU (Rectified Linear Unit) funksiyasining asosiy afzalligi nima?",
+    "options": {
+      "A": "Kichik qiymatlarni normallashtirish",
+      "B": "Kirishning o‘zgarishini tahlil qilish",
+      "C": "Chiziqli bo‘lmagan jarayonlarni tekshirish",
+      "D": "Gradiyent yo‘qolishining oldini olish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 96,
+    "topic": "Ekspert tizimlar",
+    "question": "Leaky ReLU qanday xususiyatlarga qanday?",
+    "options": {
+      "A": "Noldan past qiymatlarda kichik qiyalikka ega",
+      "B": "Faqat musbat qiymatlar uchun ishlashi",
+      "C": "Musbat qiymatlar uchun chiziqli funksiyani ishlatish",
+      "D": "Gradiyent yo‘qolishni oshirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "topic": "Ekspert tizimlar",
+    "question": "Softmax funksiyasi nima uchun qo‘llaniladi?",
+    "options": {
+      "A": "Modelning qiymatini optimallashtirish uchun",
+      "B": "Ma’lumotlarni tasniflash uchun",
+      "C": "Gradiyentni tahlil qilish uchun",
+      "D": "Kiruvchi qiymatlarni to‘g‘irlash uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "topic": "Ekspert tizimlar",
+    "question": "Softmax funksiyasining natijasida qanday qiymatlar olinadi?",
+    "options": {
+      "A": "Gradiyent qiymatlar",
+      "B": "Musbat va manfiy qiymatlar",
+      "C": "Neyronlar o‘rtasidagi bog‘lanishlarni topish",
+      "D": "(0, 1) oraliqda bo‘lgan ehtimolliklar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 99,
+    "topic": "Ekspert tizimlar",
+    "question": "CNN arxitekturasi qatlamlar to'liq ko'rsatilgan javobni toping?",
+    "options": {
+      "A": "Konvolyutsion qatlamlar, ReLU",
+      "B": "Konvolyutsion qatlamlar, ReLU, Birlashtiruvchi qatlamlar, To'liq bog'langan qatlamlar.",
+      "C": "Og'irlik qatlam.",
+      "D": "Faollashtiruvchi o'zgaruvchilar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "Ekspert tizimlar",
+    "question": "Lingvistik analizatorlarning turlari orasida qaysi biri so‘zlarning tuzilishini o‘rganadi?",
+    "options": {
+      "A": "Sintaktik analizator",
+      "B": "Morfologik analizator",
+      "C": "Semantik analizator",
+      "D": "Pragmatik analizator"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "topic": "Ekspert tizimlar",
+    "question": "Lingvistik analizatorni qanday turlarga bo‘lib o‘rganish mumkin",
+    "options": {
+      "A": "Sintaktik, Punktuaktik, MetaMorfemik",
+      "B": "Morfologik, Sintaktik, Semantik",
+      "C": "Morfologik, Sistematik, Fundamental",
+      "D": "Semantik, Fonetik, Punktuaktik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "topic": "Ekspert tizimlar",
+    "question": "NLP nima?",
+    "options": {
+      "A": "Tabiiy tildan foydalangan holda kompyuter hamda inson o‘rtasidagi aloqani ta'minlovchi texnologiya",
+      "B": "Suxandonning nutq hamda ovoz signallarni ajratib olish texnologiyasi",
+      "C": "Kompyuter tushunishi uchun analog tabiiy signallarni raqamli signallarga o‘tkazish",
+      "D": "Tabiiy nutqni shakllantirishni amalga oshirish texnologiyasi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 103,
+    "topic": "Ekspert tizimlar",
+    "question": "Tabiiy tilni qayta ishlash texnologiyasida gap tahlili nima?",
+    "options": {
+      "A": "Kompyuter yordamida ovozli signalni aniqlash usuli",
+      "B": "Matnni bo‘laklarga ajratish jarayoni",
+      "C": "Gapning grammatik, sintaktik va semantik tuzilishini o‘rganish jarayoni",
+      "D": "Gapdagi so‘zlarni bir-biridan ajratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 104,
+    "topic": "Ekspert tizimlar",
+    "question": "Gap tahlili quyidagilarning qaysilarini o‘z ichiga oladi?",
+    "options": {
+      "A": "analog raqamli o‘zgartirgich, lemmatizator, morfoanalizator",
+      "B": "lemmatizator, sintezator, stemmer, analog raqamli o‘zgartirgich",
+      "C": "lemmatizator, morfoanalizator, parser va orfokorrektorlar, diskretizator",
+      "D": "lemmatizator, morfoanalizator, stemmer, parser va orfokorrektorlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "topic": "Ekspert tizimlar",
+    "question": "Morfologik tahlilning birinchi bosqichi qaysi?",
+    "options": {
+      "A": "Lemmatizatsiya",
+      "B": "Tokenizatsiya",
+      "C": "Sintaktik tahlil",
+      "D": "Stemming"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "topic": "Ekspert tizimlar",
+    "question": "Sintaktik tahlilda qaysi gap bo‘laklarini aniqlash mumkin?",
+    "options": {
+      "A": "So‘z birikmalari",
+      "B": "Omonimlar",
+      "C": "Sinonimlar va antonimlar",
+      "D": "Bosh va ikkinchi darajali bo‘laklar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 107,
+    "topic": "Ekspert tizimlar",
+    "question": "Gap turlarini aniqlash qaysi tahlilga tegishli?",
+    "options": {
+      "A": "Stemming",
+      "B": "Sintaktik tahlil",
+      "C": "Semantik tahlil",
+      "D": "Morfologik tahlil"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "topic": "Ekspert tizimlar",
+    "question": "Sinonimlarning turlari qaysi tahlil doirasida ko‘rib chiqiladi?",
+    "options": {
+      "A": "Lemmatizatsiya",
+      "B": "Semantik tahlil",
+      "C": "Morfologik tahlil",
+      "D": "Sintaktik tahlil"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "Ekspert tizimlar",
+    "question": "So‘z birikmalari morfologik tahlilda qanday aniqlanadi?",
+    "options": {
+      "A": "Gap bo‘laklarini ajratish orqali",
+      "B": "So‘z birikmasi tahlil orqali",
+      "C": "Omonimiyalarni aniqlash tahlil orqali",
+      "D": "Sinonimlarni topish orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "topic": "Ekspert tizimlar",
+    "question": "NLP jarayonining bosqichlari ketma-ket to‘g‘ri keltirilgan qatorni toping?",
+    "options": {
+      "A": "Stemming -> Lemmatizatsiya ->Tokenizatsiya",
+      "B": "Semantik tahlil ->Morfologik tahlil ->Sintaktik tahlil",
+      "C": "Morfologik tahlil->Sintektik tahlil ->Semantik tahlil",
+      "D": "Sintaktik tahlil -> Stemming ->Lemmatizatsiya"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "topic": "Ekspert tizimlar",
+    "question": "NLP ning birinchi tahlil bosqichi qanday nomlanadi?",
+    "options": {
+      "A": "Morfologik tahlil",
+      "B": "Sintaktik tahlil",
+      "C": "Semantik tahlil",
+      "D": "Numizmatik tahlil"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 112,
+    "topic": "Ekspert tizimlar",
+    "question": "Sintaktik tahlilning asosiy vazifalaridan biri nima?",
+    "options": {
+      "A": "Gap tuzilishini va bo‘laklarini aniqlash",
+      "B": "So‘zlarning leksik ma’nosini topish",
+      "C": "Matnni qismlarga ajratish",
+      "D": "Sinonimlarni aniqlash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "topic": "Ekspert tizimlar",
+    "question": "Stemming jarayoni nimani anglatadi?",
+    "options": {
+      "A": "So‘zni asos yoki ildiz shakliga keltirish jarayoni",
+      "B": "Gapning tarkibidagi tinish belgilarini qayta ishlash jarayoni",
+      "C": "So‘zga qo‘shimcha qiymatlarni yuklash jarayoni",
+      "D": "So‘zning lug‘aviy shaklini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 114,
+    "topic": "Ekspert tizimlar",
+    "question": "Qaysi javobda Lemmatizatsiya jarayoni to‘g‘ri berilgan?.",
+    "options": {
+      "A": "Til qoidalarga asoslangan holda, so‘zlarni lug‘aviy shaklga keltirish",
+      "B": "Til qoidalarga asoslanmagan holda faqat so‘zning oxirini olib tashlashga asoslangan jarayon",
+      "C": "Matnni kichik bo‘laklarga ajratish jarayoni",
+      "D": "Gapni kichik so‘z birikmalarini shakldida hosil qilish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 115,
+    "topic": "Ekspert tizimlar",
+    "question": "Qaysi javobda tokenizatsiya jarayoni to‘g‘ri keltirilgan?",
+    "options": {
+      "A": "Til qoidalarga asoslangan holda, so‘zlarni lug‘aviy shaklga keltirish",
+      "B": "So‘z turkumlarini aniqlashtirish jarayoni",
+      "C": "Til qoidalarga asoslanmagan holda faqat so‘zning oxirini olib tashlashga asoslangan jarayoni",
+      "D": "Matnni kichik birliklarga bo‘lish jarayoni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 116,
+    "topic": "Ekspert tizimlar",
+    "question": "Morfologik tahlilni amalga oshirish uchun qaysi kutubxonalardan foydalaniladi?",
+    "options": {
+      "A": "GSTT, NSP",
+      "B": "NLTK, SpaCy",
+      "C": "OpenCV, Pillow",
+      "D": "Pandas, Tkinter"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "topic": "Ekspert tizimlar",
+    "question": "POST teglash jarayoni nimani anglatadi?",
+    "options": {
+      "A": "Matnni kichik birliklarga bo‘lish jarayoni",
+      "B": "So‘zlarning grammatik rolini aniqlash va ularga mos teglarni belgilash",
+      "C": "Til qoidalarga asoslanmagan holda faqat so‘zning oxirini olib tashlashga asoslangan jarayoni",
+      "D": "Til qoidalarga asoslangan holda, so‘zlarni lug‘aviy shaklga keltirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "Ekspert tizimlar",
+    "question": "Sintaktik tahlilda qanday gaplar aniqlanadi?",
+    "options": {
+      "A": "Omonimiyaga ega gaplar",
+      "B": "Soddalashtirilgan va qo‘shma gaplar",
+      "C": "Semantik bog‘langan gaplar",
+      "D": "Hissiy va neytral gaplar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "topic": "Ekspert tizimlar",
+    "question": "Qo‘shma gaplarni aniqlash qaysi tahlil turiga kiradi?",
+    "options": {
+      "A": "Frazeologik tahlil",
+      "B": "Semantik tahlil",
+      "C": "Sintaktik tahlil",
+      "D": "Morfologik tahlil"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "topic": "Ekspert tizimlar",
+    "question": "Sintaktik tahlil algoritmlari nimalarga asoslanadi?",
+    "options": {
+      "A": "Matnning leksik ma’nosiga",
+      "B": "Grammatik qoidalar va bog‘lanishlar",
+      "C": "Hissiyotlarni aniqlash algoritmlariga",
+      "D": "So‘zning morfologik xususiyatlariga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "topic": "Ekspert tizimlar",
+    "question": "Sintaktik tahlil qaysi tahlilk bosqichidan keyin amalga oshiriladi?",
+    "options": {
+      "A": "Tokenizatsiyadan keyin",
+      "B": "Semantik tahlildan oldin",
+      "C": "Hissiy tahlildan keyin",
+      "D": "Morfologik tahlildan keyin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 122,
+    "topic": "Ekspert tizimlar",
+    "question": "Parser tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "bu umumiy qiymatlarni nazorat qilish uchun ishlatiladi.",
+      "B": "bu tahlil qilish vazifasini amalga oshirish uchun ishlatiladi.",
+      "C": "qiymatlarni yaxshi tanlangan ekanligini anglatadi.",
+      "D": "turli munosabatlar o‘rtasidagi o‘xshashlikni aniqlaydi."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "topic": "Ekspert tizimlar",
+    "question": "Grammatikaning dastlabki matematik modeli kim tomonidan taklif etilgan?",
+    "options": {
+      "A": "Alan Turing",
+      "B": "Noam Xomskiy",
+      "C": "Marvin Minsky",
+      "D": "John McCarthy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "topic": "Ekspert tizimlar",
+    "question": "Xomskiy grammatikasi nima?",
+    "options": {
+      "A": "Hissiyotlarni tahlil qilish algoritmi",
+      "B": "Faqat tabiiy tilni hissiy jihatdan tahlil qilish usuli",
+      "C": "Morfologik tokenizatsiyasini amalga oshirish",
+      "D": "Tillarni matematik jihatdan tavsiflash uchun grammatikalar ierarxiyasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 125,
+    "topic": "Ekspert tizimlar",
+    "question": "Bugungi kunda qanday sintaktik analizatorlardan foydalanilmoqda?",
+    "options": {
+      "A": "Pytorch, tensorflow",
+      "B": "Bison, Scapy, Numpy",
+      "C": "Etap-3, Scapy",
+      "D": "PetitParser, Etap-3, Bison"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 126,
+    "topic": "Ekspert tizimlar",
+    "question": "Semantik tahlil nima?",
+    "options": {
+      "A": "Matndagi so‘zlarni ildizlarini aniqlash jarayoni",
+      "B": "Tinish belgilari asosida hissiyotlarni aniqlash jarayoni",
+      "C": "Turli belgilardan foydalanish va ularni tahlil qilish jarayoni",
+      "D": "Matndan ma'no chiqarish jarayoni"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 127,
+    "topic": "Ekspert tizimlar",
+    "question": "Leksik tahlilning asosiy maqsadi nima?",
+    "options": {
+      "A": "Matnni so‘zlarga ajratish va so‘zlarning leksik ma’nosini aniqlash",
+      "B": "So‘zlarning grammatik vazifasini aniqlash",
+      "C": "Hissiyotlarni tahlil qilish",
+      "D": "Gapdagi bo‘laklarning sintaktik munosabatlarini aniqlash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 128,
+    "topic": "Ekspert tizimlar",
+    "question": "Leksik semantika nimani anglatadi?",
+    "options": {
+      "A": "Matndagi tinish belgilarni aniqlab ularni tahlil qiladi",
+      "B": "Semantik tahlilning birinchi bosqichi bo‘lib, u aniq so‘zlarning ma'nosini tekshirishni o‘z ichiga oladi",
+      "C": "Gapdagi kichik gap bo‘laklarini aniqlashni o‘z ichiga oladi",
+      "D": "Matnning sintaktik tuzilishini o‘rganadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "topic": "Ekspert tizimlar",
+    "question": "Leksik semantikada qaysi tushuncha asosiy hisoblanadi?",
+    "options": {
+      "A": "Leksik omonimlar",
+      "B": "Gapning ergashgan qismi",
+      "C": "Sinonimlar va antonimlar",
+      "D": "So‘zning morfologik o‘zgarishi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 130,
+    "topic": "Ekspert tizimlar",
+    "question": "Chuqur o'qitish – bu?",
+    "options": {
+      "A": "Bu modelni qurib olish uchun amalga oshiriladigan o'qitish jarayonidir",
+      "B": "Bu bir qatlamli neyron tarmoqlar asosida obyekt xususiyatlarini tushunishga qaratilgan jarayondir",
+      "C": "Bu ko'p qatlamli neyron tarmoqlar asosida obyekt xususiyatlarini tushunishga qaratilgan jarayondir",
+      "D": "bu modelni tezroq va aniqroq qurib olish uchun amalga oshiriladigan jarayon"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "topic": "Ekspert tizimlar",
+    "question": "Python muhitida turli xil matematik funksiya grafiklarini va tasvirlarni vizuallashtirish uchun ishlatiladigan paket qaysi?",
+    "options": {
+      "A": "numpy",
+      "B": "matplotlib",
+      "C": "keras",
+      "D": "pandas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "topic": "Ekspert tizimlar",
+    "question": "Sun'iy neyron tarmoq tashkil etuvchilarini ko'rsating?",
+    "options": {
+      "A": "synapse, axon, weights, node",
+      "B": "node, input, weights, output",
+      "C": "input, dendrites, synapse, output",
+      "D": "cell body, dendrites, synapse, axon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "topic": "Ekspert tizimlar",
+    "question": "Biologik neyron tarmoq tashkil etuvchilarini ko'rsating?",
+    "options": {
+      "A": "node, input, weights, output",
+      "B": "input, dendrites, synapse, output",
+      "C": "synapse, axon, weights, node",
+      "D": "cell body, dendrites, synapse, axon"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 134,
+    "topic": "Ekspert tizimlar",
+    "question": "Dataset bu nima?",
+    "options": {
+      "A": "bu o'qitish uchun kerakli bo'lgan og'irliklar to'plamidir",
+      "B": "bu o'qitish uchun kerakli bo'lgan neyron tarmoq qatlamlar to'plamidir",
+      "C": "bu o'qitish uchun kerakli bo'lgan neyronlar to'plamidir",
+      "D": "bu o'qitish uchun kerakli bo'lgan ma'lumotlar to'plamidir"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 135,
+    "topic": "Ekspert tizimlar",
+    "question": "Convolutional neural networks (CNN) – bu?",
+    "options": {
+      "A": "bu ko'p qatlamli neyron tarmoq asosida qurilgan chuqur o'qitishning maxsus usuli",
+      "B": "bu bir qatlamli neyron tarmoq asosida qurilgan chuqur o'qitishning maxsus usuli",
+      "C": "bu bir qatlamli neyron tarmoq asosida qurilgan chuqur o'qitishning maxsus arxitekturasi",
+      "D": "bu ko'p qatlamli neyron tarmoq asosida qurilgan chuqur o'qitishning maxsus arxitekturasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 136,
+    "topic": "Ekspert tizimlar",
+    "question": "Sun'iy intellektga asoslangan dasturlarni ishlab chiqishdan maqsad nima?",
+    "options": {
+      "A": "Vaqtni maroqli o'tkazish",
+      "B": "Ortiqcha sarf-xarajatni kamaytirish",
+      "C": "Insonlarning yashash darajasini yaxshilash",
+      "D": "Mustaqil fikrlovchi va qaror qabul qiluvchi dasturlarni hayotga tadbiq qilish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 137,
+    "topic": "Ekspert tizimlar",
+    "question": "Bir o'zgaruvchili chiziqli regressiyaga ta'rif bering.",
+    "options": {
+      "A": "Siflashtirish uchun ob'yektni xarakterlovchi bitta xususiyatini olib siflashtirishga xizmat qiladigan model yaratish",
+      "B": "Siflashtirish uchun ob'yektni xarakterlovchi ko'p sondagi xususiyatlarini olib siflashtirishga xizmat qiladigan model yaratish",
+      "C": "Bashoratlash uchun ob'yektni xarakterlovchi bitta xususiyatini olib bashoratlashga xizmat qiladigan model yaratish",
+      "D": "Bashoratlash uchun ob'yektni xarakterlovchi ko'p sondagi xususiyatlarini olib bashoratlashga xizmat qiladigan model yaratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 138,
+    "topic": "Ekspert tizimlar",
+    "question": "Ko'p o'zgaruvchili chiziqli regressiyaga ta'rif bering.",
+    "options": {
+      "A": "Bashoratlash uchun obyektni xarakterlovchi bitta xususiyatini olib bashoratlashga xizmat qiladigan model yaratish",
+      "B": "Siflashtirish uchun obyektni xarakterlovchi bitta xususiyatini olib siflashtirishga  xizmat qiladigan model yaratish",
+      "C": "Bashoratlash uchun obyektni xarakterlovchi ko'p sondagi xususiyatlarini olib bashoratlashga xizmat qiladigan model yaratish",
+      "D": "Siflashtirish uchun obyektni xarakterlovchi ko'p sondagi xususiyatlarini olib siflashtirishga xizmat qiladigan model yaratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "topic": "Ekspert tizimlar",
+    "question": "Regressiya masalalarini yechishda odatda qaysi yo'qotish funksiyasi qo'llaniladi?",
+    "options": {
+      "A": "Cross-Entropy yo'qotish",
+      "B": "Hinge yo'qotish",
+      "C": "O'rtacha kvadrat xatolik (MSE)",
+      "D": "Kullback-Leibler Divergensiyasi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 140,
+    "topic": "Ekspert tizimlar",
+    "question": "Cross-Entropy yo'qotishi qaysi holatlarda eng ko'p qo'llaniladi?",
+    "options": {
+      "A": "Chetdagi nuqtalarni aniqlash",
+      "B": "Regressiya masalalarida",
+      "C": "Klasterlash",
+      "D": "Ko'p sinfli klassifikatsiya"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 141,
+    "topic": "Ekspert tizimlar",
+    "question": "Datasetdagi train to'plami nima uchun ishlatiladi?",
+    "options": {
+      "A": "Bu turdagi o'rgatuvchi tanlamadan foydalanilmaydi",
+      "B": "Modelni o'qitish uchun ishlatiladi",
+      "C": "Modelni o'qitish davomida model parametrlarini sozlash uchun ishlatiladi",
+      "D": "Modelni testlash uchun ishlatiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "topic": "Ekspert tizimlar",
+    "question": "Datasetdagi test to'plami nima uchun ishlatiladi?",
+    "options": {
+      "A": "Bu turdagi o'rgatuvchi tanlamadan foydalanilmaydi",
+      "B": "Modelni o'qitish davomida model parametrlarini sozlash uchun ishlatiladi",
+      "C": "Modelni o'qitish uchun ishlatiladi",
+      "D": "Modelni testlash uchun ishlatiladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 143,
+    "topic": "Ekspert tizimlar",
+    "question": "Sun'iy neyron tarmoqlarda 'Backpropagation' atamasi nimani anglatadi?",
+    "options": {
+      "A": "O'rtacha kvadrat xatolikni (MSE)",
+      "B": "Neyron tarmoqlarda ma'lumotlarni zaxiralash texnikasi",
+      "C": "Tarmoq orqali xatolarni orqaga tarqatish va og'irliklarni yangilash",
+      "D": "Tarmoq orqali ma'lumotni oldinga tarqatish usuli"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "topic": "Ekspert tizimlar",
+    "question": "RNN qanday xususiyatga ega?",
+    "options": {
+      "A": "Faqat kvadrat o'lchamdagi ma'lumotlar bilan ishlash",
+      "B": "Oldingi vaqt bosqichlaridan ma'lumotlarni eslab qolish qobiliyati",
+      "C": "Neyron tarmoqlarda ma'lumotlarni o'chirish",
+      "D": "Har bir qatlamda yangi neyronlar hosil qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "topic": "Ekspert tizimlar",
+    "question": "CNNda \"maxpooling\" qatlamining asosiy vazifasi nima?",
+    "options": {
+      "A": "Neyronlar o'rtasida o'zaro bog'lanishni kuchaytirish",
+      "B": "Ma'lumotlarni qisqartirish va o'lchamni kamaytirish",
+      "C": "Ma'lumotlarni o'chirish",
+      "D": "Ma'lumotlarni to'liq ishlov berish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "topic": "Ekspert tizimlar",
+    "question": "CNNda \"feature map\" nimani ifodalaydi?",
+    "options": {
+      "A": "Har bir qatlamda yangi neyronlar hosil qiladi",
+      "B": "Belgilar kartasi, ya'ni xususiyatlarning to'plami",
+      "C": "Neyron tarmoqlarda ma'lumotlarni o'chiradi",
+      "D": "Ma'lumotlarni normallashtiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "topic": "Ekspert tizimlar",
+    "question": "Underfitting muammosiga ta'rif bering.",
+    "options": {
+      "A": "Model train to'plmada yuqori, test to'plamda esa past aniqlik beradi. Model sodda tuzilgan.",
+      "B": "Model train to'plmada ham, test to'plamda ham yuqori aniqlik bermaydi. Model sodda tuzilgan.",
+      "C": "Model train to'plmada ham, test to'plamda ham yuqori aniqlik bermaydi. Model murakkab tuzilgan.",
+      "D": "Model train to'plmada yuqori, test to'plamda esa past aniqlik beradi. Model murakkab tuzilgan."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "topic": "Ekspert tizimlar",
+    "question": "Owerfitting muammosiga ta'rif bering.",
+    "options": {
+      "A": "Model train to'plamda yuqori, test to'plamda esa past aniqlik beradi. Model sodda tuzilgan.",
+      "B": "Model train to'plamda yuqori, test to'plamda esa past aniqlik beradi. Model murakkab tuzilgan.",
+      "C": "Model train to'plamda ham, test to'plamda ham yuqori aniqlik bermaydi. Model murakkab tuzilgan.",
+      "D": "Model train to'plamda ham, test to'plamda ham yuqori aniqlik bermaydi. Model sodda tuzilgan."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "Ekspert tizimlar",
+    "question": "Chuqur o'qitilish deyiladi, qachonki …?",
+    "options": {
+      "A": "Neyronlar soni ikkitadan ko'p bo'lsa",
+      "B": "Neyron tarmog'imizda yashirin qatlamlar soni bittadan ko'p bo'lsa.",
+      "C": "Neyron tarmog'imizda yashirin qatlamlar soni bitta bo'lsa.",
+      "D": "Ikkita neyron orasidagi masofa katta bo'lsa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "topic": "Ekspert tizimlar",
+    "question": "Sun'iy intellektning qaysi texnologiyasi tarixiy ma'lumotlarga asoslanib, real vaqt rejimida bashorat qilish uchun keng qo'llaniladi?",
+    "options": {
+      "A": "O'qituvchili o'qitish",
+      "B": "O'qituvchisiz o'qitish",
+      "C": "Vaqt ketma-ketligini tahlil qilish",
+      "D": "Mustahkamlash o'qitish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 151,
+    "topic": "Ekspert tizimlar",
+    "question": "Mashina o'qitishda Giperparameter nimani ifodalaydi?",
+    "options": {
+      "A": "Neyron tarmoqga kiruvchi qiymatlar",
+      "B": "Model o'qitish jarayonida avtomatik tarzda sozlanadigan parametr turi",
+      "C": "O'qitish jarayoni boshlanishidan oldin belgilanadigan va o'qitish algoritmining xatti-harakatlarini boshqaradigan parametr",
+      "D": "Model arxitekturasini aniqlaydigan parametr"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 152,
+    "topic": "Ekspert tizimlar",
+    "question": "Sunʼiy intellekt shaklidagi birinchi  “ekspert tizimi” kim tomonidan yaratildi?",
+    "options": {
+      "A": "Makoto Nishimura",
+      "B": "Alan Turing va Artur Samuel",
+      "C": "Edvard Feygenbaum va Joshua Lederberg",
+      "D": "Artur Samuel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 153,
+    "topic": "Ekspert tizimlar",
+    "question": "“Taqlid oʻyini” deb nomlangan mashina intellektini sinab koʻrishni testini kim taklif qilgan?",
+    "options": {
+      "A": "Artur Samuel",
+      "B": "Jon Makkarti",
+      "C": "Alan Turing",
+      "D": "Makoto Nishimura"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 154,
+    "topic": "Ekspert tizimlar",
+    "question": "Intellektual agent nima?",
+    "options": {
+      "A": "Matn tahlil qilish vositasi",
+      "B": "Ma'lumotlarni saqlash tizimi",
+      "C": "Internet qidiruv tizimi",
+      "D": "Foydalanuvchi ma'lumotlari asosida qaror qabul qiluvchi dastur"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 155,
+    "topic": "Ekspert tizimlar",
+    "question": "Agent atrof-muhitni qanday idrok qiladi?",
+    "options": {
+      "A": "Internet tarmog'i orqali",
+      "B": "Sensorlar orqali",
+      "C": "Ma'lumotlar bazasi orqali",
+      "D": "Foydalanuvchilar orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 156,
+    "topic": "Ekspert tizimlar",
+    "question": "Agentlar qanday harakatlarni amalga oshiradi?",
+    "options": {
+      "A": "Internet qidiruv natijalarini chiqarish",
+      "B": "Statik ma'lumotlarni tahlil qilish",
+      "C": "Faqat ma'lumotlarni saqlash",
+      "D": "Boshqaruv tizimlari va qo'l harakatlari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 157,
+    "topic": "Ekspert tizimlar",
+    "question": "Intellektual agentlarning asosiy elementlari qaysi?",
+    "options": {
+      "A": "Faqat aktuatorlar",
+      "B": "Internet tarmog'i va bazalar",
+      "C": "Sensorlar va xotira",
+      "D": "Sensorlar va aktuatorlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 158,
+    "topic": "Ekspert tizimlar",
+    "question": "Dasturiy ta'minot agentining vazifasi nima?",
+    "options": {
+      "A": "Foydalanuvchi profillarini saqlash",
+      "B": "Tizimni yangilash",
+      "C": "Yangi ma'lumotlarni tahlil qilish",
+      "D": "Sensorli ma'lumotlarni qabul qilish va ishlov berish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 159,
+    "topic": "Ekspert tizimlar",
+    "question": "Jismoniy agent nima bilan shug'ullanadi?",
+    "options": {
+      "A": "Ma'lumotlarni qayta ishlash",
+      "B": "Oddiy mexanik vazifalar",
+      "C": "Sensor ma'lumotlarini saqlash",
+      "D": "Dasturiy yangilanishlarni boshqarish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "topic": "Ekspert tizimlar",
+    "question": "Intellektual agent tuzilishini ifodalovchi formula qaysi?",
+    "options": {
+      "A": "Agent = Sensorlar + Aktuatorlar",
+      "B": "Agent = Arxitektura + Agent dasturi",
+      "C": "Agent = Ma'lumotlar + Harakatlar",
+      "D": "Agent = Foydalanuvchi + Dastur"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "topic": "Ekspert tizimlar",
+    "question": "SAAS modeli nimalarni o'z ichiga oladi?",
+    "options": {
+      "A": "Samaradorlik, atrof-muhit, aktuatorlar, sensorlar",
+      "B": "Internet xizmatlari va foydalanuvchi ma'lumotlari",
+      "C": "Foydalanuvchi interfeysi va ma'lumotlar bazasi",
+      "D": "Oddiy reflekslar va kuzatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "topic": "Ekspert tizimlar",
+    "question": "Intellektual agent qanday xususiyatga ega bo'lishi kerak?",
+    "options": {
+      "A": "Qaror qabul qilish",
+      "B": "Xavfsizlikni ta'minlash",
+      "C": "Internet aloqasini boshqarish",
+      "D": "Faqat ma'lumotlarni yig'ish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "topic": "Ekspert tizimlar",
+    "question": "Robot agentning asosiy komponentlari qaysilar?",
+    "options": {
+      "A": "Elektron pochta dasturlari",
+      "B": "Matn tahlilchilari va arxivlar",
+      "C": "Faqat aktuatorlar",
+      "D": "Kameralar, sensorlar, aktuatorlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 164,
+    "topic": "Ekspert tizimlar",
+    "question": "SAAS modeli qanday maqsadga xizmat qiladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasini yaratish",
+      "B": "Intellektual agentlarni tahlil qilish",
+      "C": "Sensorlar o'rnatish uchun",
+      "D": "Agent xatti-harakatlarining muvaffaqiyatini o'lchash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "topic": "Ekspert tizimlar",
+    "question": "Oddiy refleks agentning kamchiligi nima?",
+    "options": {
+      "A": "Idrok tarixiga asoslanmasligi",
+      "B": "Sensor ma'lumotlarini saqlay olmasligi",
+      "C": "Harakatlarni takrorlay olmasligi",
+      "D": "Aktuatorlarga ega emasligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 166,
+    "topic": "Ekspert tizimlar",
+    "question": "Modelga asoslangan refleks agent qanday ishlaydi?",
+    "options": {
+      "A": "Faqat oddiy vazifalarni bajaradi",
+      "B": "Foydalanuvchi buyruqlarini bajaradi",
+      "C": "Idrok tarixi va modelga asoslanadi",
+      "D": "Statik ma'lumotlar bilan ishlaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 167,
+    "topic": "Ekspert tizimlar",
+    "question": "Modelga asoslangan refleks agentda \"model\" nima?",
+    "options": {
+      "A": "Dunyo qanday ishlashiga oid bilim",
+      "B": "Faqat oddiy reflekslarga asoslanadi",
+      "C": "Ma'lumotlar bazasi",
+      "D": "Robotning apparat qismi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 168,
+    "topic": "Ekspert tizimlar",
+    "question": "Maqsadga asoslangan agent qanday qaror qabul qiladi?",
+    "options": {
+      "A": "Faqat oddiy reflekslarga asoslanadi",
+      "B": "Faqat ma'lumotlarni kuzatadi",
+      "C": "Hozirgi vaziyatni e'tiborsiz qoldiradi",
+      "D": "Maqsadga erishish uchun optimal harakatlarni tanlaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 169,
+    "topic": "Ekspert tizimlar",
+    "question": "Aktuatorlar qanday vazifani bajaradi?",
+    "options": {
+      "A": "Energiya harakatga aylantiriladi",
+      "B": "Ma'lumotlarni saqlaydi",
+      "C": "Internet tarmog'iga ulanishni ta'minlaydi",
+      "D": "Kuzatilgan idroklarni tahlil qiladi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "topic": "Ekspert tizimlar",
+    "question": "Sensorlar nima uchun ishlatiladi?",
+    "options": {
+      "A": "Atrof-muhit o'zgarishlarini aniqlash",
+      "B": "Internet tahlil vositalari bilan ishlash",
+      "C": "Harakatlarni boshqarish",
+      "D": "Ma'lumotlarni saqlash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "topic": "Ekspert tizimlar",
+    "question": "Oddiy refleks agent qanday harakatlarni amalga oshiradi?",
+    "options": {
+      "A": "Shartli harakatlar qoidalariga asoslangan",
+      "B": "Statik vazifalarni bajaradi",
+      "C": "Faqat foydalanuvchi buyruqlari orqali",
+      "D": "Internet ma'lumotlariga asoslangan"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 172,
+    "topic": "Ekspert tizimlar",
+    "question": "Modelga asoslangan refleks agentda ichki holat nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasi",
+      "B": "Idrok tarixiga asoslangan hozirgi holat",
+      "C": "Faqat aktuatorlar",
+      "D": "Internet tahlil vositalari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 173,
+    "topic": "Ekspert tizimlar",
+    "question": "Maqsadga asoslangan agent va modelga asoslangan agent o'rtasidagi farq nima?",
+    "options": {
+      "A": "Modelga asoslangan agent faqat ma'lumotlarni tahlil qiladi",
+      "B": "Modelga asoslangan agent faqat oddiy reflekslarni bajaradi",
+      "C": "Maqsadga asoslangan agent maqsadga erishish yo'lini topadi",
+      "D": "Maqsadga asoslangan agent modeldan foydalanmaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "topic": "Ekspert tizimlar",
+    "question": "O'quv agentning afzalligi nima?",
+    "options": {
+      "A": "Ma'lumotlar bazasini yangilash",
+      "B": "Yangi tajribalar asosida yaxshilanish",
+      "C": "Oddiy reflekslar orqali ishlash",
+      "D": "Faqat mavjud bilimlarni ishlatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "topic": "Ekspert tizimlar",
+    "question": "Maqsadga asoslangan agent qanday harakatlarni amalga oshiradi?",
+    "options": {
+      "A": "Hozirgi holatni hisobga olmaydi",
+      "B": "Maqsadga erishish uchun optimal yo'lni tanlaydi",
+      "C": "Internet tahlil vositalaridan foydalanadi",
+      "D": "Faqat reflekslarga asoslanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "topic": "Ekspert tizimlar",
+    "question": "Modelga asoslangan refleks agent qanday ustunlikka ega?",
+    "options": {
+      "A": "Faqat oddiy vazifalarni bajaradi",
+      "B": "Sensor ma'lumotlarini saqlaydi",
+      "C": "Qisman kuzatiladigan muhitda ishlay oladi",
+      "D": "Internet tahlil vositalaridan foydalanadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 177,
+    "topic": "Ekspert tizimlar",
+    "question": "Intellektual agent qanday vazifalarni bajarishi kerak?",
+    "options": {
+      "A": "Idrok qilish, fikrlash va harakat qilish",
+      "B": "Oddiy reflekslar orqali ishlash",
+      "C": "Faqat idrok qilish",
+      "D": "Ma'lumotlarni saqlash va kuzatish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 178,
+    "topic": "Ekspert tizimlar",
+    "question": "O'quv agenti qanday jarayon orqali o'z xatti-harakatlarini yaxshilaydi?",
+    "options": {
+      "A": "Faqat ma'lumotlarni yig'ish orqali",
+      "B": "Tajriba va tahlil orqali",
+      "C": "Oddiy reflekslarni ko'paytirish orqali",
+      "D": "Internet tahlil vositalaridan foydalanib"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 179,
+    "topic": "Ekspert tizimlar",
+    "question": "SAAS modeli agentlar qanday turlari uchun mos keladi?",
+    "options": {
+      "A": "Internet xizmatlari",
+      "B": "Barcha intellektual agentlar",
+      "C": "Faqat oddiy refleks agentlar",
+      "D": "Dasturiy ta'minot agentlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "topic": "Ekspert tizimlar",
+    "question": "Maqsadga asoslangan agentning kamchiligi nima?",
+    "options": {
+      "A": "Maqsadga erishish uchun uzoq vaqt talab qilishi",
+      "B": "Sensorlar va aktuatorlar bilan ishlamasligi",
+      "C": "Oddiy reflekslarga asoslanishi",
+      "D": "Faqat mavjud tajribalarga asoslanishi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 181,
+    "topic": "Ekspert tizimlar",
+    "question": "O'quv agent qanday hollarda eng samarali bo'ladi?",
+    "options": {
+      "A": "Faqat statik muhitda",
+      "B": "O'zgaruvchan muhitda",
+      "C": "Faqat reflekslarga asoslangan holatlarda",
+      "D": "Ma'lumotlar bazasi bo'lmaganda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 182,
+    "topic": "Ekspert tizimlar",
+    "question": "Modelga asoslangan refleks agentda qanday vositalar ishlatiladi?",
+    "options": {
+      "A": "Sensorlar, aktuatorlar va model",
+      "B": "Internet tahlil vositalari",
+      "C": "Faqat aktuatorlar",
+      "D": "Foydalanuvchi ma'lumotlari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 183,
+    "topic": "Ekspert tizimlar",
+    "question": "O'quv agenti qanday ishlaydi?",
+    "options": {
+      "A": "Oddiy reflekslar orqali ishlaydi",
+      "B": "Internet tahlil vositalaridan foydalanadi",
+      "C": "Tajribadan foydalanib o'z xatti-harakatlarini yaxshilaydi",
+      "D": "Faqat dasturlashtirilgan vazifalarni bajaradi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "topic": "Ekspert tizimlar",
+    "question": "Quyidagi berilgan ta'riflardan qaysi biri ma'lumotga mos tushadi?",
+    "options": {
+      "A": "Qayta ishlanmagan statistikalar, kuzatishlar va faktlar",
+      "B": "Maʼno yoki kontekstni beradigan, qayta ishlangan ma'lumotlar",
+      "C": "Yangi yaratilgan bilimlar",
+      "D": "Bilimlar to'plami"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 185,
+    "topic": "Ekspert tizimlar",
+    "question": "Axborotga to'g'ri ta'rif berilgan javobni ko'rsating",
+    "options": {
+      "A": "Qayta ishlanmagan statistikalar, kuzatishlar va faktlar",
+      "B": "Qaror qabul qilish uchun ma'lumotlarni tahlil qilish",
+      "C": "Mantiqiy xulosalar chiqarish jarayoni",
+      "D": "Maʼno yoki kontekstni beradigan, qayta ishlangan ma'lumotlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 186,
+    "topic": "Ekspert tizimlar",
+    "question": "Quyidagi berilgan javoblardan qaysi biri bilimga berilgan ta'rifga mos tushadi?",
+    "options": {
+      "A": "Bilim tasodifiy ma'lumotlarning to'plami",
+      "B": "Faqat ma'lumotlarni saqlash xotirasi",
+      "C": "O'rgangan tajriba va ma'lumotlar asosida yangi xulosalar chiqarish qobiliyati",
+      "D": "Faqat kitoblardan o'qilgan ma'lumotlar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 187,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilim hosil bo'lishining to'g'ri ketma-ketligi qanday?",
+    "options": {
+      "A": "Bilim → Axborot → Ma'lumot",
+      "B": "Axborot → Ma'lumot → Bilim",
+      "C": "Ma'lumot → Axborot → Bilim",
+      "D": "Axborot → Bilim → Ma'lumot"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlarning qanday turlari mavjud?",
+    "options": {
+      "A": "Deklarativ, protsessual, freym, strukturaviy, meta-bilim",
+      "B": "Deklarativ, produksion, evristik, strukturaviy, meta-bilim",
+      "C": "Deklarativ, protsessual, evristik, strukturaviy, meta-bilim",
+      "D": "Deklarativ, protsessual, evristik, semantik, meta-bilim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 189,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlarni ajratib olishda maʼlumotlar qazib olish (Data mining) nima uchun ishlatiladi?",
+    "options": {
+      "A": "Katta hajmdagi maʼlumotlardan maʼlumotlarni avtomatik aniqlash uchun",
+      "B": "Faqat maʼlumotlarni to‘plash uchun",
+      "C": "Qoidalarni tahlil qilish uchun",
+      "D": "Ekspert bilan intervyu jarayonini boshqarish uchun"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 190,
+    "topic": "Ekspert tizimlar",
+    "question": "Protsessual bilim turi nimani ifodalaydi?",
+    "options": {
+      "A": "Bilimni sintez qilish",
+      "B": "O'rgatish jarayonini boshqarish",
+      "C": "Faktlardan foydalanishga asoslangan harakatlar",
+      "D": "Ma'lumotlarni tahlil qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 191,
+    "topic": "Ekspert tizimlar",
+    "question": "Meta-bilim  turi nimani ifodalaydi?",
+    "options": {
+      "A": "Tushunchalar o'rtasidagi aloqalar",
+      "B": "Faqat nazariy bilimlar",
+      "C": "Faktlarni qo'llash",
+      "D": "Bilimga oid bilim"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 192,
+    "topic": "Ekspert tizimlar",
+    "question": "\"Data mining\"ning asosiy vazifasi nima?",
+    "options": {
+      "A": "Matnli ma'lumotlarni qayta ishlash",
+      "B": "Ontologiya qoidalarini yaratish",
+      "C": "Qaror qabul qilishni avtomatlashtirish",
+      "D": "Yangi bilimlarni kashf qilish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 193,
+    "topic": "Ekspert tizimlar",
+    "question": "Qanday holatlarda Bayes teoremasi qo'llaniladi?",
+    "options": {
+      "A": "Soha bilimlarini yaratish",
+      "B": "Xulosa chiqarish mexanizmi",
+      "C": "Ehtimollik nazariyasida noaniqlikni hal qilish",
+      "D": "Ma'lumotlarni tahlil qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 194,
+    "topic": "Ekspert tizimlar",
+    "question": "Semantik tarmoq modeli qanday ishlaydi?",
+    "options": {
+      "A": "Ma'lumotlarni vizualizatsiya qiladi",
+      "B": "Tushunchalar o'rtasidagi munosabatlarni ifodalaydi",
+      "C": "Faqat xulosa chiqaradi",
+      "D": "Faktlarni tahlil qiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "topic": "Ekspert tizimlar",
+    "question": "Mantiqiy model qanday ifodalanadi?",
+    "options": {
+      "A": "Ma'lumotlar o'rtasidagi aloqalar",
+      "B": "Faktlar, munosabatlar va xulosalar",
+      "C": "Xulosa chiqarish qoidalari",
+      "D": "Bilimlarni ajratib olish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 196,
+    "topic": "Ekspert tizimlar",
+    "question": "Freym modelida nima saqlanadi?",
+    "options": {
+      "A": "Obyektlar va atributlar",
+      "B": "Faqat qoidalar",
+      "C": "Tushunchalar o'rtasidagi munosabatlar",
+      "D": "Xulosa chiqarish mexanizmlari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlarni ifodalashning qanday modellari mavjud?",
+    "options": {
+      "A": "Protsessual, evristik, semantik, freym",
+      "B": "Produksion, evristik, strukturaviy, freym",
+      "C": "Produksion, mantiqiy, semantik, freym",
+      "D": "Protsessual, mantiqiy, strukturaviy, freym"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 198,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlarni ajratib olishda nimalar amalga oshiriladi?",
+    "options": {
+      "A": "Ma'lumotlarni formatlash va normallashtirish",
+      "B": "Ma'lumotlarni grafik shaklga keltirish",
+      "C": "Bilimlarni tuzish va modellashtirish",
+      "D": "Ma'lumotlardan xulosa chiqarish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 199,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlar bazasiga to'g'ri ta'rif berilgan javobni belgilang?",
+    "options": {
+      "A": "Ma'lumotlarni samarali saqlash, boshqarish va taqdim etish",
+      "B": "Faqat texnik va statistik ma'lumotlar yig'ish",
+      "C": "Ma’lum bir sohaning turli mutaxassislaridan olingan natijalar",
+      "D": "Faqat kitoblar va maqolalar yozish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 200,
+    "topic": "Ekspert tizimlar",
+    "question": "Bilimlar bazasi nimalarni o‘z ichiga oladi?",
+    "options": {
+      "A": "Faktlar va qoidalar",
+      "B": "Faqat ekspertlarning fikrlari",
+      "C": "Matnli va grafik ma'lumotlarni ifodalash",
+      "D": "Faqat maʼlumotlar jadvallari"
+    },
+    "answer": "A"
+  }
+]

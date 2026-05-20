@@ -1,0 +1,2966 @@
+[
+  {
+    "id": 1,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta’minot sifatini ta’minlash (SQA) nima?",
+    "options": {
+      "A": "Faqat testlash bosqichi",
+      "B": "Faqat foydalanuvchi interfeysini yaratish",
+      "C": "Talab va standartlarga mos ishlab chiqishni nazorat qilish jarayoni",
+      "D": "Faqat kod yozish jarayoni"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "topic": "DT sifatini ta'minlash",
+    "question": "SQA ning asosiy vazifalaridan biri qaysi?",
+    "options": {
+      "A": "Faqat tezlikni oshirish",
+      "B": "Faqat hujjat yozish",
+      "C": "Faqat interfeysni chiroyli qilish",
+      "D": "Xatoliklarni oldini olish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni ta’minlash faqat testlash emas, balki qaysi bosqichlarni ham o‘z ichiga oladi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Faqat interfeys yaratish",
+      "C": "Talablarni tahlil qilish, loyihalash, dasturlash, testlash, ekspluatatsiya",
+      "D": "Faqat kod yozish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat testlash metodlarini",
+      "B": "Faqat foydalanuvchi huquqlarini",
+      "C": "Dasturiy ta’minot sifat ko‘rsatkichlarini",
+      "D": "Faqat dasturlash tillarini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Funktsionallik sifat ko‘rsatkichi nimani anglatadi?",
+    "options": {
+      "A": "Dastur tez ishlashi",
+      "B": "Dastur vazifasini to‘g‘ri bajarishi",
+      "C": "Kod modulliligi",
+      "D": "Turli platformalarda ishlashi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ishonchlilik sifat ko‘rsatkichi nimani bildiradi?",
+    "options": {
+      "A": "Faqat tezlik",
+      "B": "Xatolarsiz va uzluksiz ishlash darajasi",
+      "C": "Faqat interfeys qulayligi",
+      "D": "Faqat kod modulliligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Foydalanish qulayligi (Usability) nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod sifati",
+      "B": "Foydalanuvchi uchun tushunarli va oson bo‘lishi",
+      "C": "Faqat resurslardan foydalanish",
+      "D": "Faqat tezlik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Samaradorlik (Efficiency) ko‘rsatkichi nimani bildiradi?",
+    "options": {
+      "A": "Faqat kod modulliligi",
+      "B": "Resurslardan optimal foydalanish va tezkor ishlash",
+      "C": "Faqat interfeys sifati",
+      "D": "Faqat foydalanuvchi qoniqishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Qo‘llab-quvvatlash qulayligi (Maintainability) nimani anglatadi?",
+    "options": {
+      "A": "Faqat tezlikni oshirish",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "Kodni o‘zgartirish va yangilash osonligi",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Moslashuvchanlik (Portability) nimani bildiradi?",
+    "options": {
+      "A": "Faqat interfeys sifati",
+      "B": "Turli platformalarda ishlash qobiliyati",
+      "C": "Faqat tezlik",
+      "D": "Faqat kod modulliligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta’minot sifatiga ta’sir etuvchi texnik omil qaysi?",
+    "options": {
+      "A": "Dasturlash tili va arxitektura",
+      "B": "Faqat vaqt resurslari",
+      "C": "Faqat jamoa madaniyati",
+      "D": "Faqat foydalanuvchi qoniqishi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ichki sifat (Internal Quality) nimaga bog‘liq?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikri",
+      "B": "Faqat tezlik",
+      "C": "Kod sifati va arxitektura",
+      "D": "Faqat foydalanuvchi interfeysi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Tashqi sifat (External Quality) nimani anglatadi?",
+    "options": {
+      "A": "Faqat hujjatlar",
+      "B": "Foydalanuvchi ko‘radigan sifat (ishlash, tezlik, xatoliklar)",
+      "C": "Faqat algoritmlar",
+      "D": "Faqat kod sifati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Quality in Use (foydalanishdagi sifat) nimani baholaydi?",
+    "options": {
+      "A": "Faqat testlash darajasi",
+      "B": "Faqat interfeys sifati",
+      "C": "Faqat kod modulliligi",
+      "D": "Real foydalanish jarayonidagi samaradorlik, qoniqish, xavfsizlik"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni ta’minlash usullaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys yaratish",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Faqat tezlikni oshirish",
+      "D": "Kodni tekshirish (Code Review)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Programmometrika nimani anglatadi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini",
+      "B": "Faqat testlash jarayonini",
+      "C": "Faqat foydalanuvchi qoniqishini",
+      "D": "Dasturiy ta’minotni miqdoriy jihatdan baholash va o‘lchash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Programmometrikaning asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat hujjat yozish",
+      "B": "Faqat interfeys yaratish",
+      "C": "Dastur murakkabligini baholash",
+      "D": "Faqat kod yozish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Programmometrika yordamida dastur qanday baholanadi?",
+    "options": {
+      "A": "Faqat subyektiv fikr bilan",
+      "B": "Aniq raqamlar bilan",
+      "C": "Faqat foydalanuvchi qoniqishi bilan",
+      "D": "Faqat dizayn sifati bilan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Algoritmik murakkablik nimani bildiradi?",
+    "options": {
+      "A": "Faqat interfeys sifatini",
+      "B": "Algoritmning resurslardan foydalanish darajasini",
+      "C": "Faqat foydalanuvchi qoniqishini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Algoritmik murakkablikning asosiy turlari qaysilar?",
+    "options": {
+      "A": "Vaqt murakkabligi va xotira murakkabligi",
+      "B": "Faqat interfeys murakkabligi",
+      "C": "Faqat foydalanuvchi murakkabligi",
+      "D": "Faqat kod murakkabligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Big O notation nimani ifodalaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini",
+      "B": "Algoritm murakkabligini matematik tarzda",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat interfeys dizaynini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O(1) murakkablik nimani bildiradi?",
+    "options": {
+      "A": "Eksponensial vaqt",
+      "B": "Chiziqli vaqt",
+      "C": "Kvadratik vaqt",
+      "D": "Doimiy vaqt"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Algoritmik murakkablikning eng yaxshi holati qanday ataladi?",
+    "options": {
+      "A": "Dominant case",
+      "B": "Best case",
+      "C": "Worst case",
+      "D": "Average case"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Algoritmik murakkablikning eng yomon holati qanday ataladi?",
+    "options": {
+      "A": "Worst case",
+      "B": "Dominant case",
+      "C": "Average case",
+      "D": "Best case"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Asimptotik tahlil nimani baholaydi?",
+    "options": {
+      "A": "Algoritmning katta hajmdagi ma’lumotlar uchun ishlashini",
+      "B": "Faqat kod uzunligini",
+      "C": "Faqat foydalanuvchi qoniqishini",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dominant had nimani bildiradi?",
+    "options": {
+      "A": "Eng katta o‘suvchi had muhim hisoblanadi",
+      "B": "Faqat foydalanuvchi fikri muhim",
+      "C": "Faqat kichik hadlar muhim",
+      "D": "Faqat interfeys elementlari muhim"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Linear search algoritmining murakkabligi qanday?",
+    "options": {
+      "A": "O(n)",
+      "B": "O(n²)",
+      "C": "O(log n)",
+      "D": "O(1)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Binary search algoritmining murakkabligi qanday?",
+    "options": {
+      "A": "O(n²)",
+      "B": "O(n)",
+      "C": "O(log n)",
+      "D": "O(1)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Leksik tahlil dastur kodini nimaga ajratadi?",
+    "options": {
+      "A": "Faqat modul va paketlarga",
+      "B": "Faqat interfeys elementlariga",
+      "C": "Eng kichik sintaktik birliklarga",
+      "D": "Faqat foydalanuvchi talablariga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Leksik tahlilda operatorlarga misol qaysi?",
+    "options": {
+      "A": "Faqat konstantalar",
+      "B": "+, -, if, while",
+      "C": "Faqat hujjatlar",
+      "D": "Faqat o‘zgaruvchilar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Leksik ko‘rsatkichlarning maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Kod murakkabligini baholash",
+      "B": "Faqat vaqtni tejash",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolsted ko‘rsatkichlari kim tomonidan ishlab chiqilgan?",
+    "options": {
+      "A": "Maurice Halstead",
+      "B": "Donald Knuth",
+      "C": "Alan Turing",
+      "D": "John von Neumann"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dastur lug‘ati (Vocabulary) qanday hisoblanadi?",
+    "options": {
+      "A": "n = n₁ + n₂",
+      "B": "N = N₁ + N₂",
+      "C": "E = D × V",
+      "D": "V = N × log₂n"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dastur uzunligi (Length) qanday hisoblanadi?",
+    "options": {
+      "A": "n = n₁ + n₂",
+      "B": "E = D × V",
+      "C": "N = N₁ + N₂",
+      "D": "V = N × log₂n"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Hajm (Volume) formulasi qanday?",
+    "options": {
+      "A": "E = D × V",
+      "B": "V = N × log₂n",
+      "C": "n = n₁ + n₂",
+      "D": "N = N₁ + N₂"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Harakat (Effort) qanday hisoblanadi?",
+    "options": {
+      "A": "N = N₁ + N₂",
+      "B": "V = N × log₂n",
+      "C": "E = D × V",
+      "D": "n = n₁ + n₂"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolsted ko‘rsatkichlarining afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Faqat semantikani hisobga oladi",
+      "B": "Matematik asosga ega",
+      "C": "Faqat dizaynni baholaydi",
+      "D": "Faqat foydalanuvchi tajribasini hisobga oladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xolsted ko‘rsatkichlarining kamchiliklaridan biri qaysi?",
+    "options": {
+      "A": "Kod yozilmasidan oldin baholash mumkin emas",
+      "B": "Semantikani hisobga olmaydi",
+      "C": "Matematik asosga ega emas",
+      "D": "Avtomatlashtirish qiyin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dastur matnining ehtimollik modeli nimani anglatadi?",
+    "options": {
+      "A": "Kodni statistik va ehtimollik nuqtai nazaridan tahlil qilish",
+      "B": "Faqat interfeys dizaynini baholash",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ehtimollik modelida dastur qanday ko‘riladi?",
+    "options": {
+      "A": "Belgilar ketma-ketligi va operator/operandlar oqimi sifatida",
+      "B": "Faqat foydalanuvchi talablaridan iborat",
+      "C": "Faqat hujjatlar sifatida",
+      "D": "Faqat interfeys elementlari sifatida"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ehtimollik modelining asosiy g‘oyasi nimada?",
+    "options": {
+      "A": "Har bir element faqat kod uzunligiga bog‘liq",
+      "B": "Har bir element foydalanuvchi tomonidan tanlanadi",
+      "C": "Har bir element ma’lum ehtimollik bilan paydo bo‘ladi",
+      "D": "Har bir element faqat bir marta ishlatiladi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ehtimollik modelida elementlar to‘plami nimani bildiradi?",
+    "options": {
+      "A": "Faqat hujjatlar",
+      "B": "Operator va operandlar alfaviti",
+      "C": "Faqat foydalanuvchi talablar",
+      "D": "Faqat interfeys elementlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ehtimollik taqsimoti nimani ko‘rsatadi?",
+    "options": {
+      "A": "Har bir elementning paydo bo‘lish ehtimoli",
+      "B": "Faqat kod uzunligini",
+      "C": "Faqat foydalanuvchi qoniqishini",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Entropiya dastur murakkabligini qanday baholaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikri orqali",
+      "B": "Axborot noaniqligi orqali",
+      "C": "Faqat kod uzunligi orqali",
+      "D": "Faqat interfeys sifati orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Yuqori entropiya nimani bildiradi?",
+    "options": {
+      "A": "Kod murakkab va tartibsiz",
+      "B": "Kod faqat interfeysga bog‘liq",
+      "C": "Kod sodda va takrorlanuvchi",
+      "D": "Kod qisqa va aniq"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Past entropiya nimani bildiradi?",
+    "options": {
+      "A": "Kod faqat interfeysga bog‘liq",
+      "B": "Kod faqat foydalanuvchi talablariga mos",
+      "C": "Kod murakkab va tartibsiz",
+      "D": "Kod sodda va takrorlanuvchi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ehtimollik modeli qaysi maqsadlarda qo‘llaniladi?",
+    "options": {
+      "A": "Kod murakkabligini aniqlash va xatolik ehtimolini baholash",
+      "B": "Faqat interfeys dizaynini yaratish",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Faqat hujjat yozish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta’minotning o‘lchanadigan xususiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Hajm (Size)",
+      "B": "Faqat hujjatlar",
+      "C": "Faqat foydalanuvchi fikri",
+      "D": "Faqat interfeys sifati"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Murakkablik (Complexity) nimaga bog‘liq?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishi",
+      "B": "Faqat kod uzunligi",
+      "C": "Sikllar soni, shart operatorlari, bog‘liqlik darajasi",
+      "D": "Faqat interfeys sifati"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ishlash samaradorligi (Performance) qanday baholanadi?",
+    "options": {
+      "A": "Bajarilish vaqti va xotira sarfi orqali",
+      "B": "Faqat kod uzunligi orqali",
+      "C": "Faqat interfeys sifati orqali",
+      "D": "Faqat foydalanuvchi fikri orqali"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Statik ko‘rsatkichlar qanday aniqlanadi?",
+    "options": {
+      "A": "Faqat interfeys dizayni orqali",
+      "B": "Faqat dastur ishlash jarayonida aniqlanadi",
+      "C": "Kod bajarilmasdan aniqlanadi",
+      "D": "Faqat foydalanuvchi fikri orqali"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dinamik ko‘rsatkichlar qanday aniqlanadi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikri orqali",
+      "B": "Faqat interfeys sifati orqali",
+      "C": "Dastur ishlash jarayonida aniqlanadi",
+      "D": "Kod bajarilmasdan aniqlanadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ehtimollik modeli va o‘lchanadigan xususiyatlar o‘rtasidagi bog‘liqlik nimada?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini o‘lchaydi",
+      "B": "Faqat interfeys dizaynini yaratadi",
+      "C": "Faqat kod uzunligini hisoblaydi",
+      "D": "Nazariy tahlil va amaliy baholash birgalikda sifatni aniqlaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 54,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Modul nima?",
+    "options": {
+      "A": "Aniq vazifani bajaruvchi mustaqil dasturiy komponent",
+      "B": "Faqat foydalanuvchi interfeysi",
+      "C": "Faqat testlash jarayoni",
+      "D": "Faqat hujjat qismi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Modullashtirishning afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Kodni tushunish osonlashadi",
+      "B": "Faqat interfeys chiroyli bo‘ladi",
+      "C": "Faqat hujjatlar ko‘payadi",
+      "D": "Faqat kod uzunligi kamayadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Juda ko‘p modul bo‘lsa, qanday muammo yuzaga keladi?",
+    "options": {
+      "A": "O‘zgartirish osonlashadi",
+      "B": "Xatoliklar kamayadi",
+      "C": "Kod sodda bo‘ladi",
+      "D": "Boshqarish qiyinlashadi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Juda kam modul bo‘lsa, qanday oqibat bo‘ladi?",
+    "options": {
+      "A": "Qayta foydalanish osonlashadi",
+      "B": "Kod murakkablashadi",
+      "C": "Kod tushunarli bo‘ladi",
+      "D": "Xatoliklar kamayadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Yagona javobgarlik prinsipi nimani anglatadi?",
+    "options": {
+      "A": "Har bir modul testlashni bajarishi kerak",
+      "B": "Har bir modul foydalanuvchi interfeysini yaratishi kerak",
+      "C": "Har bir modul bitta vazifani bajarishi kerak",
+      "D": "Har bir modul ko‘p vazifani bajarishi kerak"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Past bog‘liqlik (Low Coupling) nimani bildiradi?",
+    "options": {
+      "A": "Modullar faqat interfeysga bog‘liq bo‘lishi kerak",
+      "B": "Modullar bir-biriga kam bog‘langan bo‘lishi kerak",
+      "C": "Modullar faqat testlashga bog‘liq bo‘lishi kerak",
+      "D": "Modullar kuchli bog‘langan bo‘lishi kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Yuqori ichki bog‘liqlik (High Cohesion) nimani anglatadi?",
+    "options": {
+      "A": "Modul faqat interfeys elementlarini o‘z ichiga olishi kerak",
+      "B": "Modul faqat testlash kodini o‘z ichiga olishi kerak",
+      "C": "Modul ichidagi elementlar bir-biri bilan kuchli bog‘langan bo‘lishi kerak",
+      "D": "Modul ichidagi elementlar aloqasiz bo‘lishi kerak"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Optimal modul uzunligi amaliyotda qanday hisoblanadi?",
+    "options": {
+      "A": "20–50 qator yaxshi modul hisoblanadi",
+      "B": "5–10 qator yaxshi modul hisoblanadi",
+      "C": "200+ qator yaxshi modul hisoblanadi",
+      "D": "1–5 qator yaxshi modul hisoblanadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Juda uzun modulning kamchiligi qaysi?",
+    "options": {
+      "A": "Tushunish qiyin va xatoliklar ko‘p bo‘ladi",
+      "B": "Testlash tezlashadi",
+      "C": "Kod sodda bo‘ladi",
+      "D": "Qayta foydalanish osonlashadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Juda qisqa modulning kamchiligi qaysi?",
+    "options": {
+      "A": "Xatoliklar ko‘payadi",
+      "B": "Kodni tushunish qiyinlashadi",
+      "C": "Keraksiz fragmentatsiya va ortiqcha chaqiriqlar",
+      "D": "Kod murakkablashadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Refaktoring nimani anglatadi?",
+    "options": {
+      "A": "Faqat hujjatlarni ko‘paytirish",
+      "B": "Kodni qayta tuzish va funksiyalarni ajratish",
+      "C": "Faqat testlashni avtomatlashtirish",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturlash ishlarini baholashda LOC usuli nimaga asoslanadi?",
+    "options": {
+      "A": "Kod qatorlari soniga",
+      "B": "Faqat foydalanuvchi fikriga",
+      "C": "Faqat hujjatlar soniga",
+      "D": "Faqat interfeys elementlariga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Funktsional nuqtalar (Function Points) nimaga asoslanadi?",
+    "options": {
+      "A": "Faqat kod uzunligiga",
+      "B": "Foydalanuvchi funksiyalariga",
+      "C": "Faqat hujjat yozilishiga",
+      "D": "Faqat interfeys dizayniga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "DT sifatini ta'minlash",
+    "question": "COCOMO modelining asosiy formulasi qanday?",
+    "options": {
+      "A": "V = N × log₂n",
+      "B": "N = N₁ + N₂",
+      "C": "E = a · (KLOC)^b",
+      "D": "E = D × V"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturlash ishlarini baholashga ta’sir etuvchi omillardan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys sifati",
+      "B": "Faqat foydalanuvchi qoniqishi",
+      "C": "Loyiha murakkabligi va jamoa tajribasi",
+      "D": "Faqat kod uzunligi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturlash tillari darajasini baholash nimaga yordam beradi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblashga",
+      "B": "Faqat foydalanuvchi qoniqishini o‘lchashga",
+      "C": "Faqat interfeys dizaynini baholashga",
+      "D": "Dastur samaradorligi va ishlab chiqish qulayligini aniqlashga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Past darajali tillarning xususiyati qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi interfeysi yaratadi",
+      "B": "Mashina tiliga yaqin va tez ishlaydi",
+      "C": "O‘rganish oson va platformaga bog‘liq emas",
+      "D": "Faqat testlash uchun ishlatiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O‘rta darajali tillarga misol qaysi?",
+    "options": {
+      "A": "C tili",
+      "B": "Python",
+      "C": "Java",
+      "D": "Assembler"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Yuqori darajali tillarning afzalligi qaysi?",
+    "options": {
+      "A": "Faqat interfeys yaratadi",
+      "B": "Faqat testlash uchun ishlatiladi",
+      "C": "Inson tiliga yaqin va o‘rganish oson",
+      "D": "Mashina tiliga yaqin va murakkab yoziladi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 73,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturlash tillarini baholash mezonlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys sifati",
+      "B": "Faqat foydalanuvchi fikri",
+      "C": "Faqat kod uzunligi",
+      "D": "Ifodaviylik (Expressiveness)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 74,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Kodni tushunish osonligi qaysi mezon bilan baholanadi?",
+    "options": {
+      "A": "O‘qilishi (Readability)",
+      "B": "Samaradorlik (Efficiency)",
+      "C": "Yozilishi (Writability)",
+      "D": "Portativlik (Portability)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Kod yozish qulayligi qaysi mezon bilan baholanadi?",
+    "options": {
+      "A": "Xavfsizlik (Safety)",
+      "B": "O‘qilishi (Readability)",
+      "C": "Yozilishi (Writability)",
+      "D": "Samaradorlik (Efficiency)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 76,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dastur tezligi va resurslardan foydalanish qaysi mezon bilan baholanadi?",
+    "options": {
+      "A": "Xavfsizlik (Safety)",
+      "B": "Ishlash samaradorligi (Efficiency)",
+      "C": "O‘qilishi (Readability)",
+      "D": "Portativlik (Portability)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Turli platformalarda ishlash qobiliyati qaysi mezon bilan baholanadi?",
+    "options": {
+      "A": "Yozilishi (Writability)",
+      "B": "Portativlik (Portability)",
+      "C": "Samaradorlik (Efficiency)",
+      "D": "O‘qilishi (Readability)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xatoliklardan himoya darajasi qaysi mezon bilan baholanadi?",
+    "options": {
+      "A": "Xavfsizlik (Safety)",
+      "B": "O‘qilishi (Readability)",
+      "C": "Samaradorlik (Efficiency)",
+      "D": "Yozilishi (Writability)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sintaktik murakkablik nimani bildiradi?",
+    "options": {
+      "A": "Tilning avtomatlashtirish darajasini",
+      "B": "Tilning semantik aniqligini",
+      "C": "Faqat kod uzunligini",
+      "D": "Til grammatikasi qanchalik murakkabligini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 80,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Semantik aniqlik nimani bildiradi?",
+    "options": {
+      "A": "Til grammatikasi murakkabligini",
+      "B": "Til qanchalik aniq ishlashini",
+      "C": "Tilning avtomatlashtirish darajasini",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Avtomatlashtirish darajasi nimani bildiradi?",
+    "options": {
+      "A": "Til grammatikasi murakkabligini",
+      "B": "Faqat foydalanuvchi qoniqishini",
+      "C": "Tilning semantik aniqligini",
+      "D": "Til qanchalik ko‘p ishni avtomatik bajarishini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 82,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xatolik (bug) nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat interfeys sifati",
+      "C": "Faqat foydalanuvchi fikri",
+      "D": "Dastur kutilgan natijani bermaganda yuzaga keladigan holat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 83,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xatolik zichligi (Defect Density) qanday hisoblanadi?",
+    "options": {
+      "A": "D/KLOC (xatolar soni / ming qator kod)",
+      "B": "E = D × V",
+      "C": "V = N × log₂n",
+      "D": "N = N₁ + N₂"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta’minot metrikalari nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat interfeys dizaynini baholash",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Dastur sifatini, murakkabligini va samaradorligini miqdoriy baholash ko‘rsatkichlari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 85,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Metrikalarning asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Dastur murakkabligini baholash",
+      "C": "Faqat interfeys yaratish",
+      "D": "Faqat hujjat yozish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Metrikalarni hisoblash tartibining birinchi bosqichi qaysi?",
+    "options": {
+      "A": "Parametrlarni yig‘ish",
+      "B": "Formula asosida hisoblash",
+      "C": "Kodni tahlil qilish",
+      "D": "Natijani tahlil qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Makkeyb metrikasi nimani o‘lchaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini",
+      "B": "Faqat kod uzunligini",
+      "C": "Faqat interfeys elementlarini",
+      "D": "Dasturdagi mantiqiy yo‘llar sonini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 88,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Makkeyb metrikasi formulasi qanday?",
+    "options": {
+      "A": "V = N × log₂n",
+      "B": "E = D × V",
+      "C": "V(G) = E - N + 2P",
+      "D": "N = N₁ + N₂"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Makkeyb metrikasida P nimani bildiradi?",
+    "options": {
+      "A": "Operandlar umumiy soni",
+      "B": "Operatorlar umumiy soni",
+      "C": "Bog‘langan komponentlar soni yoki shart operatorlari soni",
+      "D": "Kod uzunligi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Makkeyb metrikasiga ko‘ra 1–10 qiymat nimani bildiradi?",
+    "options": {
+      "A": "Oddiy dastur",
+      "B": "Faqat interfeys dasturi",
+      "C": "Juda murakkab dastur",
+      "D": "O‘rtacha murakkab dastur"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Chepin metrikasi nimani tahlil qiladi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Faqat kod uzunligini",
+      "C": "Faqat interfeys sifatini",
+      "D": "Dasturdagi ma’lumotlar oqimi va o‘zgaruvchilar turlarini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 92,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Chepin metrikasida T nimani bildiradi?",
+    "options": {
+      "A": "Boshqaruv o‘zgaruvchilari",
+      "B": "Tashqi ma’lumotlar",
+      "C": "Vaqtinchalik o‘zgaruvchilar",
+      "D": "Parametrlar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 93,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Chepin metrikasida P nimani bildiradi?",
+    "options": {
+      "A": "Boshqaruv o‘zgaruvchilari",
+      "B": "Vaqtinchalik o‘zgaruvchilar",
+      "C": "Parametrlar",
+      "D": "Tashqi ma’lumotlar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Chepin metrikasida C nimani bildiradi?",
+    "options": {
+      "A": "Parametrlar",
+      "B": "Boshqaruv o‘zgaruvchilari",
+      "C": "Tashqi ma’lumotlar",
+      "D": "Vaqtinchalik o‘zgaruvchilar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Chepin metrikasida F nimani bildiradi?",
+    "options": {
+      "A": "Tashqi ma’lumotlar (File/External)",
+      "B": "Parametrlar",
+      "C": "Vaqtinchalik o‘zgaruvchilar",
+      "D": "Boshqaruv o‘zgaruvchilari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jib metrikasi nimani baholaydi?",
+    "options": {
+      "A": "Faqat interfeys sifatini",
+      "B": "Faqat foydalanuvchi qoniqishini",
+      "C": "Dasturdagi boshqaruv murakkabligini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 97,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jib metrikasi qaysi elementlarga asoslanadi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat foydalanuvchi fikri",
+      "C": "Shart operatorlari, sikllar, tarmoqlanishlar",
+      "D": "Faqat interfeys elementlari"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 98,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Makkeyb, Chepin va Jib metrikalarining umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "C": "Dastur murakkabligini va sifatini baholash",
+      "D": "Faqat interfeys dizaynini yaratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 99,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturning strukturaviy murakkabligi nimani bildiradi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini",
+      "B": "Kod ichki tuzilishi, boshqaruv oqimi va bloklar bog‘liqligi",
+      "C": "Faqat interfeys dizaynini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Strukturaviy murakkablik ko‘rsatkichlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat interfeys sifati",
+      "C": "Siklomatik murakkablik (McCabe metrikasi)",
+      "D": "Faqat foydalanuvchi fikri"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Kod chuqurligi (Depth of Nesting) nimani bildiradi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini",
+      "B": "Shartlar va sikllar ichma-ich joylashuvini",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat interfeys elementlarini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Boshqaruv oqimi murakkabligi nimani baholaydi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini",
+      "B": "Faqat foydalanuvchi fikrini",
+      "C": "If-else va switch-case tarmoqlanishlarini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 103,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Strukturaviy murakkablikning ahamiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Kodni tushunishni osonlashtiradi",
+      "B": "Faqat interfeysni chiroyli qiladi",
+      "C": "Faqat kod uzunligini kamaytiradi",
+      "D": "Faqat foydalanuvchi fikrini o‘lchaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 104,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Marshrut nima?",
+    "options": {
+      "A": "Faqat interfeys dizayni",
+      "B": "Dasturdagi bajarilishning muayyan yo‘li",
+      "C": "Faqat foydalanuvchi fikri",
+      "D": "Faqat kod uzunligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Marshrut tanlash mezonlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys sifati",
+      "B": "Faqat foydalanuvchi qoniqishi",
+      "C": "Minimal murakkablik",
+      "D": "Faqat kod uzunligi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Marshrut tanlashda eng tez bajarilish nimani bildiradi?",
+    "options": {
+      "A": "Vaqt jihatdan samarali yo‘l",
+      "B": "Faqat interfeys chiroyli bo‘lishini",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat foydalanuvchi fikrini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 107,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Marshrut tanlashda eng kam resurs sarfi nimani anglatadi?",
+    "options": {
+      "A": "Faqat interfeys elementlari",
+      "B": "Faqat kod uzunligi",
+      "C": "Xotira va CPU kam ishlatadigan yo‘l",
+      "D": "Faqat foydalanuvchi qoniqishi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Asosiy marshrut (Primary path) nimani bildiradi?",
+    "options": {
+      "A": "Faqat xatolik yo‘li",
+      "B": "Faqat interfeys yo‘li",
+      "C": "Eng ko‘p ishlatiladigan yo‘l",
+      "D": "Faqat muqobil yo‘l"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Muqobil marshrut (Alternative path) nimani bildiradi?",
+    "options": {
+      "A": "Faqat interfeys yo‘li",
+      "B": "Faqat asosiy yo‘l",
+      "C": "Faqat xatolik yo‘li",
+      "D": "Boshqa variantlar yo‘li"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 110,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xatolik marshruti (Error path) nimani bildiradi?",
+    "options": {
+      "A": "Faqat interfeys yo‘li",
+      "B": "Faqat muqobil yo‘l",
+      "C": "Faqat asosiy yo‘l",
+      "D": "Exception holatlar yo‘li"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 111,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Marshrut tanlashda grafik yondashuv qanday ataladi?",
+    "options": {
+      "A": "Control Flow Graph",
+      "B": "Data Flow Diagram",
+      "C": "Entity Relationship Diagram",
+      "D": "Use Case Diagram"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 112,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Protseduraviy-yo‘naltirilgan metrikalar nimaga asoslanadi?",
+    "options": {
+      "A": "Protseduralar (funksiyalar) asosida baholashga",
+      "B": "Faqat interfeys dizayniga",
+      "C": "Faqat foydalanuvchi fikriga",
+      "D": "Faqat kod uzunligiga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Strukturaviy va protseduraviy metrikalar farqi nimada?",
+    "options": {
+      "A": "Ikkalasi ham faqat foydalanuvchi qoniqishini o‘lchaydi",
+      "B": "Ikkalasi ham faqat interfeys sifatini baholaydi",
+      "C": "Strukturaviy — kod oqimi, protseduraviy — funksiyalar va modullar",
+      "D": "Ikkalasi ham faqat kod uzunligini baholaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 114,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ob’ektga yo‘naltirilgan dasturlash (OOP) nimani anglatadi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "B": "Dasturiy tizimlarni obyektlar asosida qurishga yo‘naltirilgan yondashuv",
+      "C": "Faqat interfeys dizaynini yaratish",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ob’ektga yo‘naltirilgan metrikalar nimani baholaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Faqat interfeys sifatini",
+      "C": "Klasslar, obyektlar va ularning bog‘liqligini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "topic": "DT sifatini ta'minlash",
+    "question": "OOP metrikalarining maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat hujjat yozish",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Faqat interfeysni chiroyli qilish",
+      "D": "Kod murakkabligini baholash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 117,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Klasslar soni (NOC) nimani bildiradi?",
+    "options": {
+      "A": "Klass ichidagi metodlar sonini",
+      "B": "Tizimdagi umumiy klasslar sonini",
+      "C": "Klassdagi obyektlar sonini",
+      "D": "Klassdagi parametrlar sonini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Meros olish chuqurligi (DIT) nimani bildiradi?",
+    "options": {
+      "A": "Klassdagi metodlar sonini",
+      "B": "Klassdagi parametrlar sonini",
+      "C": "Klasslar ierarxiyasining chuqurligini",
+      "D": "Klassdagi obyektlar sonini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 119,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Bolalar soni (Number of Children - NOC) nimani bildiradi?",
+    "options": {
+      "A": "Klassdagi metodlar sonini",
+      "B": "Klassdagi obyektlar sonini",
+      "C": "Bir klassdan kelib chiqqan subclasslar sonini",
+      "D": "Klassdagi parametrlar sonini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Klasslar orasidagi bog‘liqlik (Coupling) nimani bildiradi?",
+    "options": {
+      "A": "Klass ichidagi metodlar sonini",
+      "B": "Klassdagi parametrlar sonini",
+      "C": "Klassdagi obyektlar sonini",
+      "D": "Klasslar o‘zaro qanchalik bog‘langanini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 121,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ichki bog‘liqlik (Cohesion) nimani bildiradi?",
+    "options": {
+      "A": "Klasslar o‘zaro bog‘liqligini",
+      "B": "Klass ichidagi elementlar bir-biri bilan bog‘liqligini",
+      "C": "Klassdagi parametrlar sonini",
+      "D": "Klassdagi obyektlar sonini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "topic": "DT sifatini ta'minlash",
+    "question": "CK metrikalar to‘plami kim tomonidan ishlab chiqilgan?",
+    "options": {
+      "A": "John von Neumann",
+      "B": "Maurice Halstead",
+      "C": "Chidamber & Kemerer",
+      "D": "Donald Knuth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "topic": "DT sifatini ta'minlash",
+    "question": "CK metrikalar to‘plamiga kiruvchi metrikalardan biri qaysi?",
+    "options": {
+      "A": "Cyclomatic Complexity",
+      "B": "WMC (Weighted Methods per Class)",
+      "C": "LOC (Lines of Code)",
+      "D": "Defect Density"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "topic": "DT sifatini ta'minlash",
+    "question": "OOP tarkibiy qismlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys",
+      "B": "Faqat foydalanuvchi fikri",
+      "C": "Faqat hujjat",
+      "D": "Klass (Class)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 125,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Inkapsulyatsiya nimani anglatadi?",
+    "options": {
+      "A": "Klasslar ierarxiyasini yaratish",
+      "B": "Bir amalni turli ko‘rinishda bajarish",
+      "C": "Klasslar sonini ko‘paytirish",
+      "D": "Ma’lumotni yashirish va himoya qilish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 126,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Meros olish (Inheritance) nimani bildiradi?",
+    "options": {
+      "A": "Bir amalni turli ko‘rinishda bajarish",
+      "B": "Klasslar ierarxiyasini yaratish",
+      "C": "Ma’lumotni yashirish",
+      "D": "Klass ichidagi elementlar bog‘liqligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Polimorfizm (Polymorphism) nimani anglatadi?",
+    "options": {
+      "A": "Bir amalning turli ko‘rinishda bajarilishi",
+      "B": "Ma’lumotni yashirish",
+      "C": "Klasslar sonini ko‘paytirish",
+      "D": "Klasslar ierarxiyasini yaratish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 128,
+    "topic": "DT sifatini ta'minlash",
+    "question": "OOP metrikalarining umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Kod sifatini oshirish va dizaynni yaxshilash",
+      "C": "Faqat interfeys dizaynini yaratish",
+      "D": "Faqat foydalanuvchi qoniqishini o‘lchash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta’minot ishonchliligi nimani bildiradi?",
+    "options": {
+      "A": "Faqat interfeys sifatini",
+      "B": "Faqat foydalanuvchi qoniqishini",
+      "C": "Faqat kod uzunligini",
+      "D": "Ma’lum vaqt davomida uzluksiz va xatosiz ishlash qobiliyati"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 130,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ishonchlilik modellari nimaga asoslanadi?",
+    "options": {
+      "A": "Matematik va statistik usullar orqali xatolarni tahlil qilishga",
+      "B": "Faqat kod uzunligini hisoblashga",
+      "C": "Faqat interfeys dizayniga",
+      "D": "Faqat foydalanuvchi fikriga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 131,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Deterministik modellar nimaga asoslanadi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishiga",
+      "B": "Faqat kod uzunligiga",
+      "C": "Ehtimollik nazariyasiga",
+      "D": "Aniq matematik formulalarga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 132,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Stoxastik modellar nimaga asoslanadi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikriga",
+      "B": "Aniq formulalarga",
+      "C": "Ehtimollik nazariyasiga",
+      "D": "Faqat interfeys dizayniga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 133,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Statik modellar nimaga asoslanadi?",
+    "options": {
+      "A": "Faqat kod uzunligiga",
+      "B": "Faqat interfeys sifatiga",
+      "C": "Faqat foydalanuvchi qoniqishiga",
+      "D": "Dastur tuzilmasiga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 134,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dinamik modellar nimaga asoslanadi?",
+    "options": {
+      "A": "Dastur ishlash jarayonidagi ma’lumotlarga",
+      "B": "Faqat kod uzunligiga",
+      "C": "Faqat interfeys dizayniga",
+      "D": "Faqat foydalanuvchi fikriga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Prognoz modellarining asosiy vazifalaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Dasturdagi xatolar sonini oldindan baholash",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Prognoz modellariga kiruvchi modellardan biri qaysi?",
+    "options": {
+      "A": "Faqat Defect Density",
+      "B": "Faqat Cyclomatic Complexity",
+      "C": "Faqat LOC modeli",
+      "D": "Eksponensial model"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 137,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Baholash modellarining maqsadi nimada?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Tizimning joriy ishonchlilik darajasini aniqlash",
+      "C": "Faqat interfeys sifatini baholash",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Baholash modellarida muhim ko‘rsatkichlardan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat interfeys sifati",
+      "C": "MTTF (Mean Time To Failure)",
+      "D": "Faqat foydalanuvchi qoniqishi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "topic": "DT sifatini ta'minlash",
+    "question": "MTBF nimani bildiradi?",
+    "options": {
+      "A": "Nosozliklar orasidagi o‘rtacha vaqt (Mean Time Between Failures)",
+      "B": "Faqat foydalanuvchi fikrini",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jelinski–Moranda modeli nimani faraz qiladi?",
+    "options": {
+      "A": "Xatolar faqat interfeysga bog‘liq",
+      "B": "Dasturda boshlang‘ich N ta xato mavjud va har biri tuzatilgach ishonchlilik oshadi",
+      "C": "Xatolar tuzatilmaydi",
+      "D": "Xatolar cheksiz ko‘p bo‘ladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jelinski–Moranda modelining afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Oddiy va amaliyotda keng qo‘llaniladi",
+      "B": "Faqat murakkab tizimlar uchun ishlaydi",
+      "C": "Faqat interfeys sifatini baholaydi",
+      "D": "Faqat foydalanuvchi fikrini o‘lchaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jelinski–Moranda modelining kamchiliklaridan biri qaysi?",
+    "options": {
+      "A": "Barcha xatolar bir xil deb qaraladi",
+      "B": "Har bir xato alohida baholanadi",
+      "C": "Har bir xato interfeysga bog‘liq",
+      "D": "Har bir xato semantikaga bog‘liq"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 143,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy ta’minot ishonchliligi modellari umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Xatolarni aniqlash, baholash va prognoz qilish orqali tizim sifatini oshirish",
+      "B": "Faqat interfeys dizaynini yaratish",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 144,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O‘lchash modellari nimani anglatadi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "B": "Dastur sifatini matematik va statistik usullar orqali baholashga mo‘ljallangan modellar",
+      "C": "Faqat interfeys dizaynini baholash",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O‘lchash modellari vazifalaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Faqat kod uzunligini hisoblash",
+      "C": "Xatoliklarni aniqlash va prognoz qilish",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 146,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O‘lchash modellari turlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi modellari",
+      "B": "Faqat interfeys modellari",
+      "C": "Faqat kod uzunligi modellari",
+      "D": "Statistik modelllar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 147,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Nelson modeli qanday yondashuvga asoslanadi?",
+    "options": {
+      "A": "Faqat interfeys yondashuviga",
+      "B": "Dinamik yondashuvga",
+      "C": "Deterministik yondashuvga",
+      "D": "Statistik yondashuvga"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 148,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Nelson modelida tizim ishonchliligi qanday aniqlanadi?",
+    "options": {
+      "A": "Test jarayonida aniqlangan xatoliklar asosida",
+      "B": "Faqat kod uzunligi asosida",
+      "C": "Faqat foydalanuvchi fikri asosida",
+      "D": "Faqat interfeys sifati asosida"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 149,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Nelson modelining afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Oddiy va tez baholash imkonini beradi",
+      "B": "Faqat foydalanuvchi fikrini o‘lchaydi",
+      "C": "Faqat interfeys sifatini baholaydi",
+      "D": "Faqat murakkab tizimlar uchun ishlaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 150,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Nelson modelining kamchiliklaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikriga bog‘liq",
+      "B": "Murakkab tizimlar uchun yetarli",
+      "C": "Har doim aniq natija beradi",
+      "D": "Test sifatiga bog‘liq"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 151,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Musa modeli qanday yondashuvga asoslanadi?",
+    "options": {
+      "A": "Deterministik yondashuvga",
+      "B": "Dinamik yondashuvga",
+      "C": "Faqat interfeys yondashuviga",
+      "D": "Statistik yondashuvga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Musa modelining asosiy g‘oyasi nimada?",
+    "options": {
+      "A": "Xatoliklar faqat interfeysga bog‘liq",
+      "B": "Xatoliklar cheksiz ko‘payadi",
+      "C": "Xatoliklar tuzatilmaydi",
+      "D": "Xatoliklar vaqt o‘tishi bilan kamayadi va ishonchlilik ortadi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 153,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Musa modelining asosiy formulasi nimani ifodalaydi?",
+    "options": {
+      "A": "N = N₁ + N₂",
+      "B": "λ(t) = λ₀ e^(−θt)",
+      "C": "E = D × V",
+      "D": "V = N × log₂n"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 154,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Musa modelining xususiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikriga bog‘liq",
+      "B": "Faqat kod uzunligiga bog‘liq",
+      "C": "Faqat interfeys sifatiga bog‘liq",
+      "D": "Vaqtga bog‘liq va eksponensial kamayish qonuniga asoslangan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 155,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Musa modelining afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Aniqligi yuqori va real ishlashga yaqin",
+      "B": "Faqat foydalanuvchi fikrini o‘lchaydi",
+      "C": "Faqat interfeys sifatini baholaydi",
+      "D": "Faqat oddiy tizimlar uchun ishlaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 156,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Musa modelining kamchiliklaridan biri qaysi?",
+    "options": {
+      "A": "Hisoblash murakkab va parametrlarni aniqlash qiyin",
+      "B": "Oddiy tizimlar uchun ishlaydi",
+      "C": "Faqat foydalanuvchi fikriga bog‘liq",
+      "D": "Har doim aniq natija beradi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Nelson va Musa modellari farqi nimada?",
+    "options": {
+      "A": "Ikkalasi ham faqat interfeys sifatini baholaydi",
+      "B": "Nelson — statistik, Musa — dinamik",
+      "C": "Ikkalasi ham faqat foydalanuvchi fikrini o‘lchaydi",
+      "D": "Ikkalasi ham faqat kod uzunligini baholaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "topic": "DT sifatini ta'minlash",
+    "question": "O‘lchash modellari umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "B": "Dastur sifatini baholash va boshqarishni samarali qilish",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Faqat interfeys dizaynini yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 159,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni ta’minlash standartlari nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat interfeys dizaynini baholash",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Mahsulot yoki xizmat sifatini belgilangan talablar asosida boshqarish va nazorat qilish hujjatlari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 160,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni ta’minlash standartlari odatda nechta asosiy turga bo‘linadi?",
+    "options": {
+      "A": "Ikki turga: mahsulot va jarayon",
+      "B": "Uch turga: asosiy, mahsulot, jarayon",
+      "C": "To‘rt turga",
+      "D": "Faqat bitta turga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Asosiy standartlar nimani belgilaydi?",
+    "options": {
+      "A": "Faqat mahsulotning texnik parametrlarini",
+      "B": "Umumiy qoidalar, tamoyillar va terminologiyani",
+      "C": "Faqat ishlab chiqarish jarayonini",
+      "D": "Faqat foydalanuvchi qoniqishini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Asosiy standartlarning xususiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Barcha tashkilotlarga tatbiq etilishi mumkin",
+      "B": "Faqat mahsulotga tatbiq etiladi",
+      "C": "Faqat foydalanuvchi fikriga tatbiq etiladi",
+      "D": "Faqat jarayonga tatbiq etiladi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Mahsulot standartlari nimani belgilaydi?",
+    "options": {
+      "A": "Mahsulotning sifat ko‘rsatkichlari va texnik talablari",
+      "B": "Faqat umumiy qoidalarni",
+      "C": "Faqat jarayon tartibini",
+      "D": "Faqat foydalanuvchi qoniqishini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Mahsulot standartlarida ko‘rsatiladigan parametrlar qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat interfeys sifati",
+      "C": "O‘lcham, tarkib, chidamlilik",
+      "D": "Faqat foydalanuvchi fikri"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 165,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Mahsulot standartlari qaysi jarayonda qo‘llaniladi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olishda",
+      "B": "Faqat kod yozishda",
+      "C": "Faqat interfeys yaratishda",
+      "D": "Sertifikatlash va sinov jarayonida"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 166,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jarayon standartlari nimani belgilaydi?",
+    "options": {
+      "A": "Faqat mahsulotning texnik parametrlarini",
+      "B": "Faqat umumiy qoidalarni",
+      "C": "Faqat foydalanuvchi qoniqishini",
+      "D": "Mahsulotni ishlab chiqarish yoki xizmat ko‘rsatish jarayonini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 167,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jarayon standartlarining xususiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Jarayonni boshqarishga qaratilgan",
+      "B": "Faqat mahsulot sifatini belgilaydi",
+      "C": "Faqat umumiy qoidalarni beradi",
+      "D": "Faqat foydalanuvchi fikrini o‘lchaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 168,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jarayon standartlari qaysi metodologiyalarni o‘z ichiga olishi mumkin?",
+    "options": {
+      "A": "Faqat kod uzunligi metodlari",
+      "B": "Agile, Waterfall kabi metodologiyalar",
+      "C": "Faqat foydalanuvchi tajribasi metodlari",
+      "D": "Faqat interfeys dizayn metodlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Asosiy standartlar qanday rol o‘ynaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini belgilaydi",
+      "B": "Sifat tizimining “poydevori” hisoblanadi",
+      "C": "Faqat jarayonni belgilaydi",
+      "D": "Faqat mahsulotni belgilaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 170,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Mahsulot standartlari nimaga xizmat qiladi?",
+    "options": {
+      "A": "Mahsulot qanday bo‘lishi kerakligini aniqlashga",
+      "B": "Faqat foydalanuvchi fikrini olishga",
+      "C": "Faqat jarayon tartibini belgilashga",
+      "D": "Faqat umumiy qoidalarni belgilashga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jarayon standartlari nimaga yordam beradi?",
+    "options": {
+      "A": "Faqat kod uzunligini kamaytirishga",
+      "B": "Sifatni barqaror ta’minlashga",
+      "C": "Faqat foydalanuvchi fikrini olishga",
+      "D": "Faqat interfeysni chiroyli qilishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Asosiy, mahsulot va jarayon standartlari o‘zaro qanday bog‘liq?",
+    "options": {
+      "A": "Faqat jarayonni belgilaydi",
+      "B": "Faqat mahsulotni belgilaydi",
+      "C": "Faqat foydalanuvchi qoniqishini belgilaydi",
+      "D": "Birgalikda sifatni ta’minlash tizimini tashkil qiladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 173,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni ta’minlash standartlarining umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "B": "Mahsulot va jarayon sifatini boshqarish va nazorat qilish",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Faqat interfeys dizaynini yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlashtirish nimani anglatadi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini yaratish",
+      "B": "Mahsulot, jarayon yoki xizmatlarni yagona talablar asosida tartibga solish jarayoni",
+      "C": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlarning asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Sifatni oshirish",
+      "B": "Faqat kod uzunligini hisoblash",
+      "C": "Faqat interfeysni chiroyli qilish",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Boshqarish usullari uchun standart nimani belgilaydi?",
+    "options": {
+      "A": "Loyihalarni rejalashtirish, nazorat qilish va boshqarish jarayonlarini",
+      "B": "Faqat foydalanuvchi qoniqishini",
+      "C": "Faqat mahsulot sifatini",
+      "D": "Faqat interfeys dizaynini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 177,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Loyiha boshqaruvi standartlaridan biri qaysi?",
+    "options": {
+      "A": "Vaqtni rejalashtirish",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Faqat interfeys yaratish",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 178,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifat boshqaruvi standartlari nimani o‘z ichiga oladi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Testlash jarayonlari va sifat nazorati",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 179,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Jarayon boshqaruvi standartlariga misol qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi tajribasi metodlari",
+      "B": "Agile, Waterfall, Spiral metodologiyalari",
+      "C": "Faqat interfeys dizayn metodlari",
+      "D": "Faqat kod uzunligi metodlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Boshqaruv standartlarining maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Loyihani samarali boshqarish va resurslardan optimal foydalanish",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 181,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xizmatlar uchun standart nimani belgilaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi qoniqishini",
+      "B": "IT xizmatlarini taqdim etish va qo‘llab-quvvatlash jarayonlarini",
+      "C": "Faqat mahsulot sifatini",
+      "D": "Faqat interfeys dizaynini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 182,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Mashhur xizmat standartlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat Cyclomatic Complexity",
+      "B": "Faqat LOC modeli",
+      "C": "Faqat Defect Density",
+      "D": "ITIL (IT Infrastructure Library)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 183,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 20000 nimani belgilaydi?",
+    "options": {
+      "A": "IT xizmatlari sifati va jarayonlarini",
+      "B": "Faqat foydalanuvchi fikrini",
+      "C": "Faqat interfeys sifatini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 184,
+    "topic": "DT sifatini ta'minlash",
+    "question": "SLA (Service Level Agreement) nimani bildiradi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat foydalanuvchi fikri",
+      "C": "Faqat interfeys sifati",
+      "D": "Xizmat darajasi kelishuvi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 185,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xizmat standartlarining maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeysni chiroyli qilish",
+      "B": "Xizmat sifatini kafolatlash va foydalanuvchi qoniqishini oshirish",
+      "C": "Faqat foydalanuvchi fikrini olish",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 186,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Atamalar standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini",
+      "B": "Faqat mahsulot sifatini",
+      "C": "Faqat foydalanuvchi fikrini",
+      "D": "IT sohasida ishlatiladigan terminlarni yagona shaklda"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 187,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Atamalar standartining vazifalaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Yagona tushuncha yaratish va aniqlikni ta’minlash",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlarning umumiy ahamiyati nimada?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Tizimni tartibga solish, sifatni oshirish va xatolarni kamaytirish",
+      "C": "Faqat interfeys dizaynini yaratish",
+      "D": "Faqat foydalanuvchi qoniqishini o‘lchash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 189,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlashtirish nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat interfeys dizaynini yaratish",
+      "C": "Mahsulot, jarayon yoki xizmatlarni yagona talablar asosida tartibga solish jarayoni",
+      "D": "Faqat foydalanuvchi qoniqishini o‘lchash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 190,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlashtirish tamoyillaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligi tamoyili",
+      "B": "Faqat foydalanuvchi tamoyili",
+      "C": "Faqat interfeys tamoyili",
+      "D": "Yagonalik tamoyili"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 191,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Yagonalik tamoyili nimani bildiradi?",
+    "options": {
+      "A": "Bir xil jarayonlar uchun bir xil qoidalar qo‘llanadi",
+      "B": "Faqat interfeys dizaynini belgilaydi",
+      "C": "Har bir jarayon turlicha qoidaga ega bo‘ladi",
+      "D": "Faqat foydalanuvchi fikrini belgilaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 192,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ilmiy asoslanganlik tamoyili nimani anglatadi?",
+    "options": {
+      "A": "Standartlar faqat foydalanuvchi fikriga asoslanadi",
+      "B": "Standartlar faqat interfeysga asoslanadi",
+      "C": "Standartlar faqat subyektiv qarorlarga asoslanadi",
+      "D": "Standartlar tajriba va ilmiy tahlil asosida yaratiladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 193,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Moslashuvchanlik tamoyili nimani bildiradi?",
+    "options": {
+      "A": "Standartlar faqat foydalanuvchi fikriga moslashadi",
+      "B": "Standartlar faqat interfeysga moslashadi",
+      "C": "Standartlar faqat bir marta qo‘llanadi",
+      "D": "Standartlar texnologik o‘zgarishlarga mos bo‘lishi kerak"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 194,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Kompleks yondashuv nimani anglatadi?",
+    "options": {
+      "A": "Standartlar faqat interfeysni qamrab oladi",
+      "B": "Standartlar faqat kod uzunligini qamrab oladi",
+      "C": "Standartlar tizimning barcha qismlarini qamrab oladi",
+      "D": "Standartlar faqat foydalanuvchi fikrini qamrab oladi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 195,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Qayta foydalanish tamoyili nimani bildiradi?",
+    "options": {
+      "A": "Standartlar faqat interfeysda qo‘llanadi",
+      "B": "Standartlar faqat bir marta ishlatiladi",
+      "C": "Standartlashtirilgan komponentlar qayta ishlatiladi",
+      "D": "Standartlar faqat foydalanuvchi fikrida qo‘llanadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Xalqaro moslik tamoyili nimani anglatadi?",
+    "options": {
+      "A": "Standartlar global tizimlar bilan mos bo‘lishi kerak",
+      "B": "Standartlar faqat foydalanuvchi fikriga mos bo‘ladi",
+      "C": "Standartlar faqat mahalliy tizimlarga mos bo‘ladi",
+      "D": "Standartlar faqat interfeysga mos bo‘ladi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Axborot tizimlari nimani anglatadi?",
+    "options": {
+      "A": "Faqat foydalanuvchi tizimlari",
+      "B": "Faqat kod uzunligi tizimlari",
+      "C": "Faqat interfeys tizimlari",
+      "D": "Ma’lumotlarni yig‘ish, qayta ishlash va uzatish tizimlari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 198,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC standartlari nimani belgilaydi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini",
+      "B": "Faqat kod uzunligini",
+      "C": "Faqat foydalanuvchi fikrini",
+      "D": "Xalqaro sifat va xavfsizlik standartlarini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 199,
+    "topic": "DT sifatini ta'minlash",
+    "question": "IEEE standartlari nimani belgilaydi?",
+    "options": {
+      "A": "Dasturiy hujjatlashtirish va ishlab chiqish qoidalarini",
+      "B": "Faqat kod uzunligini",
+      "C": "Faqat foydalanuvchi fikrini",
+      "D": "Faqat interfeys dizaynini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 200,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 12207 nimani bildiradi?",
+    "options": {
+      "A": "Faqat kod uzunligini",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Dasturiy ta’minot hayotiy sikli (SDLC) standartlarini",
+      "D": "Faqat foydalanuvchi fikrini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Axborot tizimi hayotiy sikli bosqichlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys yaratish",
+      "B": "Faqat kod uzunligini hisoblash",
+      "C": "Talablarni aniqlash",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 202,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlashtirishning axborot tizimlaridagi rolidan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeysni chiroyli qilish",
+      "B": "Faqat kod uzunligini hisoblash",
+      "C": "Faqat foydalanuvchi fikrini olish",
+      "D": "Tizim sifatini oshirish va integratsiyani ta’minlash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 203,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standartlarga rioya qilishning afzalliklaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Tizim barqarorligi va yuqori ishonchlilikni ta’minlash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 204,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat foydalanuvchi qoniqishini o‘lchash",
+      "C": "Mahsulot, xizmat yoki tizimning belgilangan standartlarga mosligini rasmiy tasdiqlash jarayoni",
+      "D": "Faqat interfeys dizaynini yaratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 205,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirishning asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Mahsulot sifatini kafolatlash",
+      "B": "Faqat kod uzunligini hisoblash",
+      "C": "Faqat interfeysni chiroyli qilish",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 206,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish iste’molchi uchun nimani ta’minlaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini beradi",
+      "B": "Xavfsizlikni ta’minlaydi",
+      "C": "Faqat kod uzunligini kamaytiradi",
+      "D": "Faqat interfeysni chiroyli qiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirishning vazifalaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Faqat interfeysni yaratish",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Sifatni baholash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish jarayonida standartlarga moslik qanday aniqlanadi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini baholash orqali",
+      "B": "ISO, IEC va milliy standartlarga moslikni tekshirish orqali",
+      "C": "Faqat foydalanuvchi fikrini olish orqali",
+      "D": "Faqat kod uzunligini hisoblash orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirishning bozorga ta’siri nimada?",
+    "options": {
+      "A": "Faqat interfeysni chiroyli qilish",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Sifatsiz mahsulotlarning oldini olish",
+      "D": "Faqat kod uzunligini kamaytirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 210,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirishning ishonchlilikka ta’siri nimada?",
+    "options": {
+      "A": "Iste’molchilar ishonchini shakllantiradi",
+      "B": "Faqat interfeysni chiroyli qiladi",
+      "C": "Faqat foydalanuvchi fikrini beradi",
+      "D": "Faqat kod uzunligini kamaytiradi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 211,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Majburiy sertifikatlashtirish nimani bildiradi?",
+    "options": {
+      "A": "Faqat kompaniya ixtiyoriga bog‘liq",
+      "B": "Faqat foydalanuvchi fikrini belgilaydi",
+      "C": "Davlat tomonidan talab qilinadi",
+      "D": "Faqat interfeys sifatini belgilaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 212,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Ixtiyoriy sertifikatlashtirish nimani bildiradi?",
+    "options": {
+      "A": "Davlat tomonidan majburiy talab qilinadi",
+      "B": "Faqat interfeys sifatini belgilaydi",
+      "C": "Faqat foydalanuvchi fikrini belgilaydi",
+      "D": "Kompaniya o‘z ixtiyori bilan oladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 213,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish jarayonining birinchi bosqichi qaysi?",
+    "options": {
+      "A": "Sertifikat berish",
+      "B": "Ariza berish",
+      "C": "Audit",
+      "D": "Sinov va tahlil"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish jarayonining oxirgi bosqichi qaysi?",
+    "options": {
+      "A": "Hujjatlarni tekshirish",
+      "B": "Ariza berish",
+      "C": "Audit",
+      "D": "Sertifikat berish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 215,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirishning ahamiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligini kamaytiradi",
+      "B": "Faqat interfeysni chiroyli qiladi",
+      "C": "Faqat foydalanuvchi fikrini beradi",
+      "D": "Xalqaro savdoni osonlashtiradi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 216,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish kompaniya uchun nimani ta’minlaydi?",
+    "options": {
+      "A": "Faqat kod uzunligini kamaytiradi",
+      "B": "Faqat interfeysni chiroyli qiladi",
+      "C": "Faqat foydalanuvchi fikrini beradi",
+      "D": "Obro‘sini yaxshilaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 217,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sertifikatlashtirish va standartlar o‘zaro qanday bog‘liq?",
+    "options": {
+      "A": "Sertifikatlashtirish faqat foydalanuvchi fikrini belgilaydi",
+      "B": "Sertifikatlashtirish standartlarga asoslanadi va ularning bajarilishini tasdiqlaydi",
+      "C": "Sertifikatlashtirish faqat interfeysni belgilaydi",
+      "D": "Sertifikatlashtirish faqat kod uzunligini belgilaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 218,
+    "topic": "DT sifatini ta'minlash",
+    "question": "IT sohasida sertifikatlashtirish nimani o‘z ichiga oladi?",
+    "options": {
+      "A": "Faqat kod uzunligini",
+      "B": "Dasturiy ta’minot sifati, axborot xavfsizligi va tizim ishonchliligi",
+      "C": "Faqat interfeys dizaynini",
+      "D": "Faqat foydalanuvchi fikrini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 219,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Standart nima?",
+    "options": {
+      "A": "Mahsulot, xizmat yoki jarayon uchun belgilangan umumiy talablar, qoidalar va tavsiyalar majmuasi",
+      "B": "Faqat kod uzunligi",
+      "C": "Faqat interfeys dizayni",
+      "D": "Faqat foydalanuvchi fikri"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 220,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy taʼminot ishlab chiqishda standartlardan foydalanishning maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeysni chiroyli qilish",
+      "B": "Mahsulot sifatini oshirish",
+      "C": "Faqat kod uzunligini hisoblash",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 221,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 12207 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Dasturiy taʼminotning hayotiy sikl jarayonlarini",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Faqat foydalanuvchi fikrini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat kod uzunligini",
+      "B": "Faqat foydalanuvchi fikrini",
+      "C": "Dasturiy taʼminot sifatining asosiy ko‘rsatkichlarini",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 223,
+    "topic": "DT sifatini ta'minlash",
+    "question": "IEEE 829 standarti nimaga tegishli?",
+    "options": {
+      "A": "Dasturiy taʼminotni testlash hujjatlari",
+      "B": "Faqat foydalanuvchi fikriga",
+      "C": "Faqat kod uzunligiga",
+      "D": "Faqat interfeys dizayniga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 224,
+    "topic": "DT sifatini ta'minlash",
+    "question": "IEEE 730 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Dasturiy taʼminot sifatini taʼminlash",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat interfeys dizaynini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 225,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Dasturiy taʼminot sifati nimani bildiradi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Faqat kod uzunligini",
+      "C": "Mahsulotning foydalanuvchi talablariga va belgilangan standartlarga mos kelishini",
+      "D": "Faqat interfeys sifatini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni boshqarish jarayonining birinchi bosqichi qaysi?",
+    "options": {
+      "A": "Sifatni rejalashtirish",
+      "B": "Sifatni nazorat qilish",
+      "C": "Testlash",
+      "D": "Sifatni taʼminlash"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 227,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni taʼminlash jarayonida qo‘llaniladigan usullardan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Kodni tekshirish (Code Review)",
+      "D": "Faqat interfeysni chiroyli qilish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 228,
+    "topic": "DT sifatini ta'minlash",
+    "question": "CMMI modeli nimani baholaydi?",
+    "options": {
+      "A": "Faqat interfeys sifatini",
+      "B": "Dasturiy taʼminot ishlab chiqish jarayonining yetuklik darajasini",
+      "C": "Faqat foydalanuvchi fikrini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 229,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Agile metodologiyasining asosiy xususiyatlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys dizayni",
+      "B": "Faqat kod uzunligi",
+      "C": "Faqat foydalanuvchi fikri",
+      "D": "Kichik iteratsiyalar va tez-tez yangilanish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 230,
+    "topic": "DT sifatini ta'minlash",
+    "question": "DevOps modelining asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "Uzluksiz integratsiya (CI) va uzluksiz yetkazib berish (CD)",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 231,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 modeliga ko‘ra sifatning asosiy ko‘rsatkichlaridan biri qaysi?",
+    "options": {
+      "A": "Ishonchlilik (Reliability)",
+      "B": "Faqat interfeys sifati",
+      "C": "Faqat foydalanuvchi fikri",
+      "D": "Faqat kod uzunligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni o‘lchashning miqdoriy usullaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligi",
+      "B": "Faqat interfeys sifati",
+      "C": "Xatolar soni (bug count)",
+      "D": "Faqat foydalanuvchi fikri"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 233,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Sifatni oshirish yo‘llaridan biri qaysi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini olish",
+      "B": "Continuous Integration (CI/CD) joriy etish",
+      "C": "Faqat interfeysni chiroyli qilish",
+      "D": "Faqat kod uzunligini kamaytirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 234,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO, IEC va IEEE qanday tashkilotlar?",
+    "options": {
+      "A": "Faqat foydalanuvchi interfeysini yaratadigan markazlar",
+      "B": "Faqat dasturiy ta’minotni ishlab chiqaruvchi kompaniyalar",
+      "C": "Faqat testlash laboratoriyalari",
+      "D": "Xalqaro standartlarni ishlab chiqadigan tashkilotlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 235,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 12207 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat dasturiy mahsulot sifatini",
+      "B": "Faqat foydalanuvchi interfeysini",
+      "C": "Dasturiy ta’minotning hayotiy sikl jarayonlarini",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 236,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 12207 jarayonlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat kod uzunligini hisoblash",
+      "B": "Faqat interfeys dizaynini yaratish",
+      "C": "Faqat foydalanuvchi fikrini olish",
+      "D": "Talablarni aniqlash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 237,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 12207 jarayonlaridan biri sifatida testlash nimani anglatadi?",
+    "options": {
+      "A": "Faqat kod uzunligini kamaytirish",
+      "B": "Faqat interfeysni chiroyli qilish",
+      "C": "Dastur funksiyalarini tekshirish jarayoni",
+      "D": "Faqat foydalanuvchi fikrini olish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Faqat kod uzunligini",
+      "C": "Dasturiy ta’minot sifatining asosiy ko‘rsatkichlarini",
+      "D": "Faqat interfeys dizaynini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 239,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 bo‘yicha sifat ko‘rsatkichlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat interfeys sifati",
+      "B": "Funksionallik",
+      "C": "Faqat kod uzunligi",
+      "D": "Faqat foydalanuvchi fikri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 240,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 bo‘yicha sifat ko‘rsatkichlaridan biri sifatida ishonchlilik nimani bildiradi?",
+    "options": {
+      "A": "Faqat interfeys dizaynining chiroyliligi",
+      "B": "Faqat foydalanuvchi fikrining ijobiyligi",
+      "C": "Faqat kod uzunligining qisqaligi",
+      "D": "Dastur xatolarsiz ishlash darajasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 241,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 bo‘yicha samaradorlik nimani anglatadi?",
+    "options": {
+      "A": "Dastur tezligi va resurslardan foydalanish darajasi",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat foydalanuvchi fikrini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 242,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 bo‘yicha xavfsizlik nimani bildiradi?",
+    "options": {
+      "A": "Faqat foydalanuvchi fikrini",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Faqat kod uzunligini",
+      "D": "Ma’lumotlarni himoya qilish va ruxsatsiz kirishni oldini olish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 243,
+    "topic": "DT sifatini ta'minlash",
+    "question": "ISO/IEC 25010 bo‘yicha portativlik nimani anglatadi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini",
+      "B": "Faqat foydalanuvchi fikrini",
+      "C": "Dastur boshqa platformalarda ishlay olishi",
+      "D": "Faqat kod uzunligini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 244,
+    "topic": "DT sifatini ta'minlash",
+    "question": "IEEE 829 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Dasturiy ta’minotni testlash hujjatlari standartini",
+      "B": "Faqat interfeys dizaynini",
+      "C": "Faqat kod uzunligini",
+      "D": "Faqat foydalanuvchi fikrini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "topic": "DT sifatini ta'minlash",
+    "question": "IEEE 730 standarti nimani belgilaydi?",
+    "options": {
+      "A": "Faqat interfeys dizaynini",
+      "B": "Faqat foydalanuvchi fikrini",
+      "C": "Faqat kod uzunligini",
+      "D": "Dasturiy ta’minot sifatini ta’minlash standartini"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 246,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Korporativ standartlarga misol bo‘ladigan kompaniyalardan biri qaysi?",
+    "options": {
+      "A": "Faqat ISO",
+      "B": "Microsoft",
+      "C": "Faqat IEC",
+      "D": "Faqat IEEE"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 247,
+    "topic": "DT sifatini ta'minlash",
+    "question": "Korporativ standartlarning maqsadi nimada?",
+    "options": {
+      "A": "Faqat interfeys dizaynini yaratish",
+      "B": "Faqat foydalanuvchi fikrini olish",
+      "C": "Kompaniya ichidagi dasturchilar uchun yagona qoidalarni belgilash",
+      "D": "Faqat kod uzunligini hisoblash"
+    },
+    "answer": "C"
+  }
+]

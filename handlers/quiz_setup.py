@@ -52,7 +52,7 @@ async def choose_mode(callback: CallbackQuery, state: FSMContext):
         with suppress(TelegramBadRequest):
             await callback.message.edit_text(
                 "📘 <b>Mavzuni tanlang:</b>",
-                reply_markup=topics_kb(topics),
+                reply_markup=topics_kb(topics, subject_id),
                 parse_mode="HTML"
             )
     else:

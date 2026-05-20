@@ -75,3 +75,7 @@ def init_all_subjects():
     """Barcha fanlarni yuklash"""
     load_subject("miich", "miich_quiz.json", "MIICH",
                  "Mobil Ilovalar Ishlab Chiqish")
+    load_subject("dt_sifati", "dt_sifati_quiz.json", "DT Sifati",
+                 "Dasturiy Ta'minot Sifatini Ta'minlash")
+    load_subject("ekspert", "ekspert_quiz.json", "Ekspert Tizimlar",
+                 "Sun'iy Intellekt va Ekspert Tizimlar")

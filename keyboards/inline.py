@@ -13,11 +13,16 @@ def main_menu_kb():
 
 def subjects_kb():
     """Fan tanlash"""
-    return InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="📘 MIICH — Mobil Ilovalar (365 savol)", callback_data="sub:miich")],
-        [InlineKeyboardButton(text="🔒 Boshqa fanlar tez orada...", callback_data="sub:locked")],
-        [InlineKeyboardButton(text="🔙 Orqaga", callback_data="back_main")],
-    ])
+    from utils.quiz_data import SUBJECTS
+    buttons = []
+    for sid, subj in SUBJECTS.items():
+        emoji = {"miich": "📘", "dt_sifati": "📗", "ekspert": "📙"}.get(sid, "📚")
+        buttons.append([InlineKeyboardButton(
+            text=f"{emoji} {subj['name']} ({subj['total']} savol)",
+            callback_data=f"sub:{sid}"
+        )])
+    buttons.append([InlineKeyboardButton(text="🔙 Orqaga", callback_data="back_main")])
+    return InlineKeyboardMarkup(inline_keyboard=buttons)
 
 
 def mode_kb():
@@ -29,7 +34,7 @@ def mode_kb():
     ])
 
 
-def topics_kb(topics_with_counts: list):
+def topics_kb(topics_with_counts: list, subject_id: str = "miich"):
     """Mavzular ro'yxati"""
     buttons = []
     for i, (name, count) in enumerate(topics_with_counts):
@@ -38,7 +43,7 @@ def topics_kb(topics_with_counts: list):
             text=f"📘 {short} ({count})",
             callback_data=f"topic:{i}"
         )])
-    buttons.append([InlineKeyboardButton(text="🔙 Orqaga", callback_data=f"sub:miich")])
+    buttons.append([InlineKeyboardButton(text="🔙 Orqaga", callback_data=f"sub:{subject_id}")])
     return InlineKeyboardMarkup(inline_keyboard=buttons)
 
 
