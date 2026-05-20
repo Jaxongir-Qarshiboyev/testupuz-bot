@@ -1,7 +1,9 @@
 """Statistika handler"""
+from contextlib import suppress
 from aiogram import Router, F
 from aiogram.types import CallbackQuery, Message
 from aiogram.filters import Command
+from aiogram.exceptions import TelegramBadRequest
 
 from database.db import get_user_stats, get_user_created_at
 from keyboards.inline import main_menu_kb
@@ -69,9 +71,10 @@ async def stats_callback(callback: CallbackQuery):
         callback.from_user.id,
         callback.from_user.full_name
     )
-    await callback.message.edit_text(
-        text, reply_markup=main_menu_kb(), parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            text, reply_markup=main_menu_kb(), parse_mode="HTML"
+        )
 
 
 @router.message(Command("stats"))

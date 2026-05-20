@@ -1,8 +1,10 @@
 """/start va bosh menyu handler'lari"""
+from contextlib import suppress
 from aiogram import Router, F
 from aiogram.types import Message, CallbackQuery
 from aiogram.filters import CommandStart, Command
 from aiogram.fsm.context import FSMContext
+from aiogram.exceptions import TelegramBadRequest
 
 from keyboards.inline import main_menu_kb, subjects_kb
 from database.db import save_user
@@ -59,27 +61,30 @@ async def cmd_start(message: Message, state: FSMContext):
 @router.callback_query(F.data == "back_main")
 async def back_to_main(callback: CallbackQuery, state: FSMContext):
     await state.clear()
-    await callback.message.edit_text(WELCOME_TEXT, reply_markup=main_menu_kb(), parse_mode="HTML")
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(WELCOME_TEXT, reply_markup=main_menu_kb(), parse_mode="HTML")
 
 
 @router.callback_query(F.data == "start_test")
 async def start_test(callback: CallbackQuery, state: FSMContext):
     from states.quiz_states import QuizStates
     await state.set_state(QuizStates.choosing_subject)
-    await callback.message.edit_text(
-        "📚 <b>Fan tanlang:</b>",
-        reply_markup=subjects_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            "📚 <b>Fan tanlang:</b>",
+            reply_markup=subjects_kb(),
+            parse_mode="HTML"
+        )
 
 
 @router.callback_query(F.data == "help")
 async def show_help(callback: CallbackQuery):
-    await callback.message.edit_text(
-        HELP_TEXT,
-        reply_markup=main_menu_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            HELP_TEXT,
+            reply_markup=main_menu_kb(),
+            parse_mode="HTML"
+        )
 
 
 @router.message(Command("help"))

@@ -1,7 +1,9 @@
 """Quiz sozlamalari — fan, mavzu, rejim, savol soni, tartib, vaqt, skip"""
+from contextlib import suppress
 from aiogram import Router, F
 from aiogram.types import CallbackQuery
 from aiogram.fsm.context import FSMContext
+from aiogram.exceptions import TelegramBadRequest
 
 from states.quiz_states import QuizStates
 from keyboards.inline import (mode_kb, topics_kb, count_kb, order_kb,
@@ -26,13 +28,14 @@ async def choose_subject(callback: CallbackQuery, state: FSMContext):
 
     await state.update_data(subject_id=subject_id)
     await state.set_state(QuizStates.choosing_mode)
-    await callback.message.edit_text(
-        f"📘 <b>{subj['full_name']}</b>\n"
-        f"📊 {subj['total']} ta savol | {subj['total_topics']} ta mavzu\n\n"
-        f"📝 <b>Test rejimini tanlang:</b>",
-        reply_markup=mode_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"📘 <b>{subj['full_name']}</b>\n"
+            f"📊 {subj['total']} ta savol | {subj['total_topics']} ta mavzu\n\n"
+            f"📝 <b>Test rejimini tanlang:</b>",
+            reply_markup=mode_kb(),
+            parse_mode="HTML"
+        )
 
 
 # ===== REJIM TANLASH =====
@@ -46,21 +49,23 @@ async def choose_mode(callback: CallbackQuery, state: FSMContext):
     if mode == "topic":
         await state.set_state(QuizStates.choosing_topic)
         topics = get_topics_with_counts(subject_id)
-        await callback.message.edit_text(
-            "📘 <b>Mavzuni tanlang:</b>",
-            reply_markup=topics_kb(topics),
-            parse_mode="HTML"
-        )
+        with suppress(TelegramBadRequest):
+            await callback.message.edit_text(
+                "📘 <b>Mavzuni tanlang:</b>",
+                reply_markup=topics_kb(topics),
+                parse_mode="HTML"
+            )
     else:
         # Aralash — mavzu tanlanmaydi, to'g'ridan-to'g'ri savol soniga
         subj = get_subject(subject_id)
         await state.update_data(topic_index=None, topic_name="Aralash")
         await state.set_state(QuizStates.choosing_count)
-        await callback.message.edit_text(
-            "📊 <b>Nechta savol ishlaysiz?</b>",
-            reply_markup=count_kb(subj["total"]),
-            parse_mode="HTML"
-        )
+        with suppress(TelegramBadRequest):
+            await callback.message.edit_text(
+                "📊 <b>Nechta savol ishlaysiz?</b>",
+                reply_markup=count_kb(subj["total"]),
+                parse_mode="HTML"
+            )
 
 
 # ===== MAVZU TANLASH =====
@@ -75,13 +80,14 @@ async def choose_topic(callback: CallbackQuery, state: FSMContext):
 
     await state.update_data(topic_index=topic_idx, topic_name=topic_name)
     await state.set_state(QuizStates.choosing_count)
-    await callback.message.edit_text(
-        f"📘 <b>{topic_name}</b>\n"
-        f"📊 {topic_count} ta savol mavjud\n\n"
-        f"📊 <b>Nechta savol ishlaysiz?</b>",
-        reply_markup=count_kb(topic_count),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"📘 <b>{topic_name}</b>\n"
+            f"📊 {topic_count} ta savol mavjud\n\n"
+            f"📊 <b>Nechta savol ishlaysiz?</b>",
+            reply_markup=count_kb(topic_count),
+            parse_mode="HTML"
+        )
 
 
 # ===== SAVOL SONI =====
@@ -90,12 +96,13 @@ async def choose_count(callback: CallbackQuery, state: FSMContext):
     count = int(callback.data.split(":")[1])
     await state.update_data(question_count=count)
     await state.set_state(QuizStates.choosing_order)
-    await callback.message.edit_text(
-        f"📝 Savollar soni: <b>{count} ta</b>\n\n"
-        f"🔄 <b>Savollar tartibini tanlang:</b>",
-        reply_markup=order_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"📝 Savollar soni: <b>{count} ta</b>\n\n"
+            f"🔄 <b>Savollar tartibini tanlang:</b>",
+            reply_markup=order_kb(),
+            parse_mode="HTML"
+        )
 
 
 # ===== TARTIB =====
@@ -105,12 +112,13 @@ async def choose_order(callback: CallbackQuery, state: FSMContext):
     order_text = "Ketma-ket" if order == "sequential" else "Aralash"
     await state.update_data(question_order=order)
     await state.set_state(QuizStates.choosing_time)
-    await callback.message.edit_text(
-        f"🔄 Tartib: <b>{order_text}</b>\n\n"
-        f"⏱ <b>Har bir savol uchun vaqt chegarasi:</b>",
-        reply_markup=time_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"🔄 Tartib: <b>{order_text}</b>\n\n"
+            f"⏱ <b>Har bir savol uchun vaqt chegarasi:</b>",
+            reply_markup=time_kb(),
+            parse_mode="HTML"
+        )
 
 
 # ===== VAQT =====
@@ -120,12 +128,13 @@ async def choose_time(callback: CallbackQuery, state: FSMContext):
     time_text = "Cheksiz" if time_limit == 0 else f"{time_limit} soniya"
     await state.update_data(time_limit=time_limit)
     await state.set_state(QuizStates.choosing_skip_limit)
-    await callback.message.edit_text(
-        f"⏱ Vaqt: <b>{time_text}</b>\n\n"
-        f"⚠️ <b>Ketma-ket nechta savol o'tkazilsa test to'xtasin?</b>",
-        reply_markup=skip_limit_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"⏱ Vaqt: <b>{time_text}</b>\n\n"
+            f"⚠️ <b>Ketma-ket nechta savol o'tkazilsa test to'xtasin?</b>",
+            reply_markup=skip_limit_kb(),
+            parse_mode="HTML"
+        )
 
 
 # ===== O'TKAZISH LIMITI =====
@@ -146,17 +155,18 @@ async def choose_skip_limit(callback: CallbackQuery, state: FSMContext):
         [InlineKeyboardButton(text="🔙 Orqaga", callback_data="back_time")],
     ])
 
-    await callback.message.edit_text(
-        f"⚙️ <b>Test sozlamalari:</b>\n\n"
-        f"📘 Fan: <b>{data.get('topic_name', 'Aralash')}</b>\n"
-        f"📊 Savollar: <b>{data['question_count']} ta</b>\n"
-        f"🔄 Tartib: <b>{order_text}</b>\n"
-        f"⏱ Vaqt: <b>{time_text}</b>\n"
-        f"⚠️ O'tkazish: <b>{skip_text}</b>\n\n"
-        f"Tayyor bo'lsangiz, boshlang! 👇",
-        reply_markup=start_kb,
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"⚙️ <b>Test sozlamalari:</b>\n\n"
+            f"📘 Fan: <b>{data.get('topic_name', 'Aralash')}</b>\n"
+            f"📊 Savollar: <b>{data['question_count']} ta</b>\n"
+            f"🔄 Tartib: <b>{order_text}</b>\n"
+            f"⏱ Vaqt: <b>{time_text}</b>\n"
+            f"⚠️ O'tkazish: <b>{skip_text}</b>\n\n"
+            f"Tayyor bo'lsangiz, boshlang! 👇",
+            reply_markup=start_kb,
+            parse_mode="HTML"
+        )
 
 
 # ===== ORQAGA TUGMALARI =====
@@ -166,11 +176,12 @@ async def back_to_mode(callback: CallbackQuery, state: FSMContext):
     subject_id = data.get("subject_id", "miich")
     subj = get_subject(subject_id)
     await state.set_state(QuizStates.choosing_mode)
-    await callback.message.edit_text(
-        f"📘 <b>{subj['full_name']}</b>\n\n📝 <b>Test rejimini tanlang:</b>",
-        reply_markup=mode_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            f"📘 <b>{subj['full_name']}</b>\n\n📝 <b>Test rejimini tanlang:</b>",
+            reply_markup=mode_kb(),
+            parse_mode="HTML"
+        )
 
 
 @router.callback_query(F.data == "back_count")
@@ -184,28 +195,31 @@ async def back_to_count(callback: CallbackQuery, state: FSMContext):
     else:
         max_c = subj["total"]
     await state.set_state(QuizStates.choosing_count)
-    await callback.message.edit_text(
-        "📊 <b>Nechta savol ishlaysiz?</b>",
-        reply_markup=count_kb(max_c),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            "📊 <b>Nechta savol ishlaysiz?</b>",
+            reply_markup=count_kb(max_c),
+            parse_mode="HTML"
+        )
 
 
 @router.callback_query(F.data == "back_order")
 async def back_to_order(callback: CallbackQuery, state: FSMContext):
     await state.set_state(QuizStates.choosing_order)
-    await callback.message.edit_text(
-        "🔄 <b>Savollar tartibini tanlang:</b>",
-        reply_markup=order_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            "🔄 <b>Savollar tartibini tanlang:</b>",
+            reply_markup=order_kb(),
+            parse_mode="HTML"
+        )
 
 
 @router.callback_query(F.data == "back_time")
 async def back_to_time(callback: CallbackQuery, state: FSMContext):
     await state.set_state(QuizStates.choosing_time)
-    await callback.message.edit_text(
-        "⏱ <b>Har bir savol uchun vaqt chegarasi:</b>",
-        reply_markup=time_kb(),
-        parse_mode="HTML"
-    )
+    with suppress(TelegramBadRequest):
+        await callback.message.edit_text(
+            "⏱ <b>Har bir savol uchun vaqt chegarasi:</b>",
+            reply_markup=time_kb(),
+            parse_mode="HTML"
+        )
