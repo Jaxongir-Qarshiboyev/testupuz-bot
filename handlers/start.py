@@ -17,7 +17,7 @@ WELCOME_TEXT = """🎓 <b>TestUp</b> ga xush kelibsiz!
 📚 Universal test platformasi — bilimingizni sinang va rivojlantiring!
 
 🏆 <b>Mavjud fanlar:</b>
-• 📘 MIICH — Mobil Ilovalar Ishlab Chiqish (365+ savol)
+• 📘 MIICH — Mobil Ilovalar Ishlab Chiqish (810+ savol)
 
 ⬇️ Quyidagi tugmalardan birini tanlang:"""
 
