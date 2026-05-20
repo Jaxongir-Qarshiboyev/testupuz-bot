@@ -1,6 +1,7 @@
 """Test ishlash logikasi — ASOSIY handler"""
 import asyncio
 import logging
+import random
 import time
 from aiogram import Router, F, Bot
 from aiogram.types import CallbackQuery, PollAnswer, InputPollOption
@@ -78,9 +79,17 @@ async def send_next_question(bot: Bot, user_id: int, state: FSMContext):
 
     q = questions[current]
     raw_options = [q["options"]["A"], q["options"]["B"], q["options"]["C"], q["options"]["D"]]
-    options = _prepare_poll_options(raw_options)
     answer_map = {"A": 0, "B": 1, "C": 2, "D": 3}
     correct_idx = answer_map.get(q["answer"], 0)
+
+    # Aralash rejimda javob variantlarini ham aralashtirish
+    question_order = data.get("question_order", "sequential")
+    if question_order == "random":
+        correct_text = raw_options[correct_idx]
+        random.shuffle(raw_options)
+        correct_idx = raw_options.index(correct_text)
+
+    options = _prepare_poll_options(raw_options)
     question_text = f"#{current + 1}/{total} — {q['question']}"[:POLL_QUESTION_MAX_LEN]
 
     try:
