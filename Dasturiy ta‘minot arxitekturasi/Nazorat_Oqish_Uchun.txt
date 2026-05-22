@@ -1,0 +1,389 @@
+=== DT ARXITEKTURA - NAZORAT VA ORALIQ (129 SAVOL) ===
+
+1. Savol: Dasturiy ta’minot arxitekturasi nima va uning asosiy vazifalari nimalardan iborat?
+Javob: Tizimning asosiy komponentlari va ularning o'zaro aloqalarini belgilash, sifat atributlarini ta'minlash
+
+2. Savol: Dasturiy ta’minot arxitekturasining asosiy tamoyillari qaysilar?
+Javob: Modullilik, past bog'liqlik (loose coupling), yuqori uyg'unlik (high cohesion), va inkapsulyatsiya
+
+3. Savol: Arxitektura komponentlari va ularning o‘zaro aloqalari qanday tashkil etiladi?
+Javob: Aniq belgilangan interfeyslar va aloqa protokollari orqali (masalan, API)
+
+4. Savol: Dasturiy ta’minot arxitekturasida qatlamlar qanday tashkil etiladi?
+Javob: Mas'uliyatlarga ko'ra mantiqiy darajalarga bo'linadi (Taqdimot, Mantiq, Ma'lumot)
+
+5. Savol: Arxitektura patternlari nima va ular qanday maqsadda qo‘llaniladi?
+Javob: Tez-tez uchraydigan arxitektura muammolari uchun tayyor, qayta foydalanish mumkin bo'lgan yechimlar
+
+6. Savol: Modullashtirish nima va dasturiy ta’minotda qanday afzalliklarga ega?
+Javob: Tizimni mustaqil qismlarga bo'lish; bu saqlashni, testlashni va yangilashni osonlashtiradi
+
+7. Savol: Xizmatga yo‘naltirilgan arxitektura (SOA) qanday ishlaydi?
+Javob: Mustaqil xizmatlar tarmoq orqali standart protokollar (SOAP/REST) yordamida muloqot qiladi
+
+8. Savol: Dasturiy ta’minot arxitekturasida interfeyslar qanday rol o‘ynaydi?
+Javob: Komponentlar o'rtasida shartnoma vazifasini bajarib, ularning qanday muloqot qilishini belgilaydi
+
+9. Savol: Yaxshi dasturiy ta’minot arxitekturasining belgilari qanday?
+Javob: Tizim barqaror, kengaytiriluvchi, saqlash oson va sifat atributlariga mos keladi
+
+10. Savol: Dasturiy ta’minot arxitekturasini loyihalash jarayoni qanday bosqichlardan iborat?
+Javob: Talablarni tahlil qilish, arxitektura tanlash, komponentlarni loyihalash va hujjatlashtirish
+
+11. Savol: Dasturiy ta’minot hayot sikli (SDLC) nima?
+Javob: Dasturiy mahsulotni yaratish, joriy etish va qo'llab-quvvatlash bo'yicha standartlashgan jarayonlar ketma-ketligi
+
+12. Savol: SDLC ning asosiy bosqichlari qanday?
+Javob: Rejalashtirish, Talablarni yig'ish, Dizayn, Ishlab chiqish, Testlash, Joriy etish, Xizmat ko'rsatish
+
+13. Savol: SDLC modelini tanlashda nimalarga e’tibor berish kerak?
+Javob: Loyihaning murakkabligi, byudjet, vaqt, mijoz talablarining aniqligi va jamoa tajribasi
+
+14. Savol: Dasturiy ta’minot tizimining hayot siklini boshqarishdagi asosiy maqsad nima?
+Javob: Sifatli dasturiy ta'minotni muddatida va byudjet doirasida muvaffaqiyatli ishlab chiqishni ta'minlash
+
+15. Savol: Inkremental model nima va uning asosiy afzalliklari nimalardan iborat?
+Javob: Tizimni qismlarga bo'lib, har bir qismni bosqichma-bosqich yetkazib berish; erta ishchi versiya olinadi
+
+16. Savol: Evolyutsion prototiplash modelining qanday afzallik va kamchiliklari bor?
+Javob: Afzalligi: mijoz talabini aniq tushunish oson. Kamchiligi: vaqt cho'zilishi va doimiy o'zgarishlar
+
+17. Savol: Tashlab yuboriladigan prototiplash (Throwaway prototyping) modeli qanday ishlaydi?
+Javob: Prototip faqat talablarni tushunish uchun yaratiladi va aniq bo'lgach tashlab yuborilib, haqiqiy tizim noldan yoziladi
+
+18. Savol: Spiral model qanday ishlaydi va u qachon qo‘llaniladi?
+Javob: Xavflarni tahlil qilishga asoslangan iterativ yondashuv; yirik va xavfi yuqori loyihalarda qo'llaniladi
+
+19. Savol: V-model nimasi bilan Waterfall modelidan farq qiladi?
+Javob: Har bir ishlab chiqish bosqichi o'ziga mos testlash bosqichiga ega va sinov rejalari erta tuziladi
+
+20. Savol: Dizayn uslubi nima va dasturiy ta’minot arxitekturasida qanday rol o‘ynaydi?
+Javob: Tizim tashkil etishning umumiy qoidalari va yondashuvlari; tizim dizayni uchun shablon bo'lib xizmat qiladi
+
+21. Savol: Qatlamli (Layered) arxitektura uslubi nima va uning asosiy afzalliklari nimalardan iborat?
+Javob: Tizimni mantiqiy darajalarga bo'lish; mas'uliyatlarni ajratish (Separation of concerns) va mustaqil yangilash afzalligiga ega
+
+22. Savol: Xizmatga yo‘naltirilgan arxitektura (SOA) qanday ishlaydi va uning asosiy xususiyatlari nimalar?
+Javob: Xizmatlar tarmoq orqali muloqot qiladi; asosiy xususiyatlari qayta foydalanish, standart interfeyslar va zaif bog'liqlik
+
+23. Savol: Mikroxizmatlar arxitekturasi (Microservices) nima va u qanday tizimlarda qo‘llaniladi?
+Javob: Kichik, mustaqil joylashtiriladigan xizmatlar to'plami; tez-tez yangilanadigan va masshtablanuvchi yirik bulutli tizimlarda qo'llaniladi
+
+24. Savol: Chaqiruv va qaytish (Call-and-Return) uslubi qanday vazifani bajaradi?
+Javob: Bosh dastur quyi funksiyalarni chaqiradi va javobni kutib turadi (Sinxron boshqaruv)
+
+25. Savol: Ma’lumotlarga asoslangan arxitektura (Data-Centric Architecture) qanday tizimlar uchun mos keladi?
+Javob: Ma'lumotlar bazasi markaziy o'rin tutadigan, bir nechta komponentlar bir xil ma'lumotlarni ulashadigan tizimlar uchun
+
+26. Savol: Komponentga asoslangan arxitektura (Component-Based Architecture) qanday afzalliklarga ega?
+Javob: Qayta foydalanish imkoniyati, almashtiriluvchanlik, va tizimni modullarda mustaqil rivojlantirish osonligi
+
+27. Savol: Dasturiy ta’minot arxitekturasining sifat atributlari nimani anglatadi?
+Javob: Tizimning qanday ishlashini belgilovchi xususiyatlar (masalan: tezlik, xavfsizlik, barqarorlik)
+
+28. Savol: Dasturiy ta’minot arxitekturasining yengillik atributi (Maintainability) nima?
+Javob: Tizimdagi xatolarni topish, tuzatish va yangi funksiyalarni qo'shishning osonlik darajasi
+
+29. Savol: Samaradorlik (Performance) atributining dasturiy ta’minot arxitekturasi uchun ahamiyati qanday?
+Javob: Tizimning so'rovlarga qay darajada tez va kam resurs sarflab javob berishini belgilaydi
+
+30. Savol: Dasturiy ta’minot arxitekturasida xavfsizlik (Security) atributining roli qanday?
+Javob: Tizimni va ma'lumotlarni ruxsatsiz kirish, hujumlar va ma'lumot sizishidan himoya qiladi
+
+31. Savol: Zaxira va tiklanish atributi (Reliability/Availability) nima uchun muhim?
+Javob: Nosozliklar yuz berganda tizim ishdan chiqmasligi va ma'lumotlar yo'qolmasligi uchun
+
+32. Savol: Uzluksizlik (Availability) atributining dasturiy ta’minot arxitekturasida roli qanday?
+Javob: Tizimning foydalanuvchilar uchun qancha vaqt davomida to'xtovsiz xizmat ko'rsata olishini belgilaydi
+
+33. Savol: Tizimning kengaytirilishi atributi (Scalability) qanday tasvirlanadi?
+Javob: Tizim yuklamasi oshganda (foydalanuvchilar ko'payganda) resurslarni oshirish orqali ishlashni barqaror saqlab qolish imkoniyati
+
+34. Savol: Dasturiy ta’minot arxitekturasi qarorlari nima?
+Javob: Tizimning umumiy strukturasi, texnologiyalar toplaymi va dizayn shablonlarini tanlash bo'yicha strategik qarorlar
+
+35. Savol: Dasturiy ta’minot arxitekturasi qarorlarini qabul qilishda eng muhim omillar nimalardan iborat?
+Javob: Biznes talablari, sifat atributlari (tezlik, xavfsizlik), jamoa tajribasi va cheklovlar
+
+36. Savol: Texnologiyalar va platformalarni tanlashda qanday mezonlar hisobga olinadi?
+Javob: Loyiha talablariga mosligi, jamoa bilimi, qo'llab-quvvatlash darajasi (Community) va litsenziya xarajatlari
+
+37. Savol: Arxitektura qarorlarini qabul qilishda xavfsizlikni ta’minlashning o‘rni qanday?
+Javob: Xavfsizlik eng muhim qismlardan biri bo'lib, u arxitekturaning barcha qatlamlarida boshidan hisobga olinishi shart
+
+38. Savol: Arxitektura qarorlarining tizimning samaradorligi va ishlashiga qanday ta’sir qilishi mumkin?
+Javob: To'g'ri qarorlar tezlikni ta'minlasa, noto'g'ri arxitektura tanlash (masalan, noto'g'ri ma'lumotlar bazasi) tizimning qotib qolishiga olib keladi
+
+39. Savol: Domen-Drayver Dizayn (DDD) nima va uning asosiy maqsadi nimadan iborat?
+Javob: Dastur arxitekturasini real biznes muammolari (domen) va mantig'iga to'liq moslashtirib loyihalash uslubi
+
+40. Savol: DDD da “domen” tushunchasi nimani anglatadi?
+Javob: Dasturiy ta'minot hal qilishi kerak bo'lgan real biznes sohasi yoki muammolar sohasi (masalan, bank ishi, elektron tijorat)
+
+41. Savol: DDD arxitekturasida “Entity” va “Value Object” o‘rtasidagi farq nima?
+Javob: Entity o'ziga xos ID ga (Identity) ega bo'ladi, Value Object esa faqat atributlar to'plamidan iborat va ID si bo'lmaydi
+
+42. Savol: “Aggregate” va “Aggregate Root” tushunchalari nima va ular qanday ishlaydi?
+Javob: Aggregate - o'zaro bog'liq obyektlar to'plami. Aggregate Root - tashqaridan kirish mumkin bo'lgan yagona asosiy obyekt
+
+43. Savol: DDD da “Repository” qanday vazifani bajaradi?
+Javob: Domen obyektlarini (Aggregates) ma'lumotlar omboriga saqlash va u yerdan izlab topish (chiqarib olish) inkapsulyatsiyasi
+
+44. Savol: “Bounded Context” nima va nega u DDD da muhim hisoblanadi?
+Javob: Har bir biznes modelining aniq va qat'iy chegarasi. Bir xil atama turli kontekstlarda turlicha ma'no anglatishini ajratib beradi
+
+45. Savol: Quyi tizim (subsystem) deganda nima tushuniladi?
+Javob: Kattaroq tizimning muayyan, nisbatan mustaqil funksiyani bajaruvchi yirik, mantiqiy qismi (komponentlar yig'indisi)
+
+46. Savol: Tizimni quyi tizimlarga ajratishning asosiy maqsadi nima?
+Javob: Murakkablikni boshqarish, modullarni mustaqil ishlab chiqish, testlash va qayta foydalanishni ta'minlash
+
+47. Savol: Quyi tizimlar o‘rtasidagi aloqa turlariga nimalar kiradi?
+Javob: API chaqiruvlari, hodisalar (Events/Messaging), va ma'lumotlar bazasi orqali ma'lumot ulashish
+
+48. Savol: Dizayn prinsiplari (modullilik, past bog‘liqlik, yuqori uyg‘unlik) nima uchun muhim?
+Javob: Quyi tizimlar bir-biriga qaram bo'lmasligi, o'zgarishlar oson kiritilishi va tizimning barqarorligini ta'minlash uchun
+
+49. Savol: Taqsimlangan tizim (distributed system) deganda nima tushuniladi?
+Javob: Turli xil kompyuterlarda (tugunlarda) joylashgan, ammo foydalanuvchiga yagona yagona tizim sifatida ko'rinadigan tarmoq tizimi
+
+50. Savol: Vertikal va gorizontal masshtablash (scaling) o‘rtasidagi farq nima?
+Javob: Vertikal - mavjud server quvvatini oshirish (RAM, CPU). Gorizontal - yangi serverlarni parallel ravishda qo'shish
+
+51. Savol: Load balancer (yuk taqsimlovchi) nima vazifa bajaradi?
+Javob: Kirib kelayotgan tarmoq so'rovlarini bir nechta serverlar o'rtasida teng taqsimlab, ortiqcha yuklanishni oldini oladi
+
+52. Savol: Kesh (cache) nima va tizim tezligiga qanday ta’sir qiladi?
+Javob: Tez-tez ishlatiladigan ma'lumotlarni vaqtinchalik xotirada saqlab, so'rovlarga tezkor javob berish orqali tizim tezligini oshiradi
+
+53. Savol: Asinxron (asynchronous) ishlash nima va qachon ishlatiladi?
+Javob: Jarayonlar bir-birini kutmasdan parallel bajarilishi; og'ir va ko'p vaqt oladigan operatsiyalarda (masalan, email jo'natish) ishlatiladi
+
+54. Savol: Klient–server arxitekturasi nima va uning asosiy mohiyati nimadan iborat?
+Javob: Vazifalar resurs so'rovchi (Klient) va uni taqdim etuvchi (Server) o'rtasida taqsimlangan arxitektura
+
+55. Savol: Klient–server tizimida so‘rov–javob (request–response) mexanizmi qanday ishlaydi?
+Javob: Klient serverga so'rov yuboradi, server so'rovni qayta ishlab, natijani (javobni) klientga qaytaradi
+
+56. Savol: Ikki pog‘onali (two-tier) arxitektura nima va u qanday tuzilishga ega?
+Javob: Mijoz (foydalanuvchi interfeysi) va to'g'ridan-to'g'ri Ma'lumotlar bazasi (Server) qatlamlaridan iborat
+
+57. Savol: Microservices arxitekturasi nima va uning asosiy konsepsiyasi qanday?
+Javob: Tizimni kichik, mustaqil va har biri bitta biznes vazifani bajaruvchi avtonom xizmatlarga ajratib qurish
+
+58. Savol: Microservices an'anaviy Monolit arxitekturasidan nimasi bilan farq qiladi?
+Javob: Monolitda barcha komponentlar yagona jarayonda ishlaydi, mikroxizmatlarda esa har biri alohida jarayonda mustaqil ishlaydi
+
+59. Savol: API Gateway nima va u mikroservis arxitekturasida qanday vazifani bajaradi?
+Javob: Mijoz so'rovlarini qabul qilib, ularni tegishli mikroxizmatlarga yo'naltiruvchi va xavfsizlikni ta'minlovchi yagona kirish nuqtasi
+
+60. Savol: Microservices arxitekturasida ma'lumotlar qanday boshqariladi?
+Javob: Markazsizlashtirilgan tarzda: har bir mikroxizmat o'zining shaxsiy (alohida) ma'lumotlar bazasiga ega bo'lishi maqsadga muvofiq
+
+61. Savol: Hexagonal arxitektura nima?
+Javob: Yadro (Domain) mantiqni tashqi vositalardan (DB, UI) izolyatsiya qilib, portlar va adapterlar orqali bog'lovchi arxitektura (Ports and Adapters)
+
+62. Savol: Ushbu arxitektura qanday asosiy qismlardan tashkil topgan va ularning vazifalari qanday?
+Javob: Markazda Biznes mantiq (Domain), atrofida esa tashqi dunyo bilan aloqa qilish uchun Portlar va Adapterlar (Inbound/Outbound)
+
+63. Savol: Hexagonal arxitektura dasturiy ta’minotni test qilishni qanday osonlashtiradi?
+Javob: Tashqi tizimlar o'rniga soxta (Mock) adapterlar ulab, biznes mantiqni izolyatsiyada, bazaga ulanmasdan tezkor sinab ko'rish imkonini beradi
+
+64. Savol: Bulut texnologiyalari (Cloud Computing) nima?
+Javob: Internet orqali hisoblash resurslari (serverlar, xotira, ma'lumotlar bazasi, dasturiy ta'minot) ni ijaraga olish va foydalanish xizmati
+
+65. Savol: Bulut xizmatlarining asosiy turlari (IaaS, PaaS, SaaS) nimalardan iborat?
+Javob: IaaS-Infratuzilma (Serverlar), PaaS-Platforma (Dasturlash muhiti), SaaS-Dasturiy ta'minot (Tayyor ilovalar: masalan Gmail)
+
+66. Savol: Public, Private va Hybrid bulut modellari nimasi bilan farq qiladi?
+Javob: Public - hamma uchun ochiq, Private - bitta tashkilot uchun yopiq, Hybrid - har ikkalasining xavfsiz va moslashuvchan aralashmasi
+
+67. Savol: Bulut tizimlarida masshtablash (scalability) nima va qanday amalga oshiriladi?
+Javob: Yuklama oshganda server resurslarini (CPU, RAM) avtomatik ravishda ko'paytirish (Auto-scaling) va yuklama kamayganda qisqartirish
+
+68. Savol: Katta ma'lumot tizimlari (Big Data Systems) nima va ular qachon kerak bo'ladi?
+Javob: An'anaviy bazalar ishlay olmaydigan darajada katta hajmdagi, turli xil va tez o'zgaruvchi ma'lumotlarni saqlash va tahlil qilish uchun kerak
+
+69. Savol: Lambda arxitekturasi nima va uning asosiy komponentlari qanday?
+Javob: Ma'lumotlarni ham ommaviy (Batch qatlam), ham real vaqtda (Speed qatlam) qayta ishlay oluvchi arxitektura bo'lib, Serving qatlami natijalarni birlashtiradi
+
+70. Savol: Katta ma'lumotlar tizimlarida ishlatiladigan mashhur texnologiyalar va asboblar qaysilar?
+Javob: Apache Hadoop (saqlash/qayta ishlash), Apache Spark (tezkor tahlil), Apache Kafka (hodisalar oqimi)
+
+71. Savol: Data Lake va Data Warehouse o'rtasidagi farqlar qanday?
+Javob: Data Lake - qayta ishlanmagan turli xil xom ma'lumotlar saqlanadi. Data Warehouse - faqat strukturalangan, tozalangan ma'lumotlar tahlil uchun saqlanadi
+
+72. Savol: Real vaqt (real-time) arxitekturasi nima va u qachon ishlatiladi?
+Javob: Ma'lumotlar paydo bo'lishi bilan (hech qanday kechikishsiz) darhol uzatiladigan va qayta ishlanadigan tizimlar (chatlar, birja, jonli translatsiyalar)
+
+73. Savol: WebSocket texnologiyasining real vaqt arxitekturasidagi roli qanday?
+Javob: Mijoz va server o'rtasida doimiy, ikki tomonlama (full-duplex) ulanishni ta'minlaydi, bu orqali ma'lumotlar bir zumda yetkaziladi
+
+74. Savol: Dasturiy ta'minot arxitekturasini testlashning asosiy maqsadi nima?
+Javob: Tanlangan arxitektura qarorlari loyiha talablari va sifat atributlariga (xavfsizlik, tezlik, miqyoslanuvchanlik) javob berishini erta tasdiqlash
+
+75. Savol: Ishlash (Performance) testlarini o'tkazishda JMeter yoki Gatling qanday ishlatiladi?
+Javob: Tizimga bir vaqtning o'zida minglab virtual foydalanuvchilar (yuklama) yuborilib, tizim qotmasdan ishlay olishi tekshiriladi
+
+76. Savol: Dasturiy ta’minot arxitekturasini hujjatlashtirishning asosiy maqsadlari nimalardan iborat?
+Javob: Tizim qanday tuzilganini barcha manfaatdor tomonlarga (dasturchilar, mijozlar) tushuntirish, bilimlarni saqlash va tizimga xizmat ko'rsatishni osonlashtirish
+
+77. Savol: 4+1 yondashuvi nimani anglatadi va uning qaysi ko'rinishlari mavjud?
+Javob: Tizimni 4 xil tomondan (Logical, Process, Development, Physical) va 1 ta umumiy Use-Case stsenariylari orqali tasvirlash uslubi
+
+78. Savol: UML diagrammalarining turlari va ularning vazifalari qanday?
+Javob: Sinf diagrammasi, ketma-ketlik, holat diagrammalari kabilar tizimning strukturaviy va dinamik xulq-atvorini vizual ko'rsatadi
+
+79. Savol: Dasturiy ta’minot ishlab chiqish jarayoni qanday bosqichlardan iborat?
+Javob: Talablarni yig'ish, loyihalash, kodlash (dasturlash), testlash, joriy etish va texnik qo'llab-quvvatlash
+
+80. Savol: Tashlab yuboriladigan (Throwaway) prototiplash modeli qanday ishlaydi?
+Javob: Mijoz talablarini yaxshiroq tushunish uchun vaqtinchalik prototip yaratiladi va u tushunib olingach, aslidastur noldan yoziladi
+
+81. Savol: Dizayn naqshlari (Design Patterns) va dizayn uslublari (Architectural Styles) o‘rtasidagi farqlar nimalardan iborat?
+Javob: Arxitektura uslublari butun tizimning umumiy strukturasini belgilaydi, dizayn naqshlari esa aniq, lokal muammolarni hal qiluvchi kod darajasidagi yechimlardir
+
+82. Savol: Tizim xavfsizligini ta’minlashda dizayn uslublarining qaysi xususiyatlari muhim ahamiyatga ega?
+Javob: Komponentlarning izolyatsiyasi, mustaqilligi va qatlamlar o'rtasidagi qat'iy nazorat qilinuvchi aloqa protokollari
+
+83. Savol: Dasturiy ta’minot arxitekturasining yengillik (Usability) atributi nima?
+Javob: Foydalanuvchi tizim interfeysi orqali uni qanchalik tez o'rganib olishi va qulay foydalana olishi o'lchovi
+
+84. Savol: Dasturiy ta’minot arxitekturasining o‘zgaruvchanlik (Modifiability) atributi qanday tushuniladi?
+Javob: Tizimga yangi xususiyatlar qo'shish yoki eskisini o'zgartirish qanchalik osonligi va qolgan tizimga qanday ta'sir qilishi o'lchovidir
+
+85. Savol: Zaxira va tiklanish (Backup and Recovery) atributi nima uchun muhim?
+Javob: Favqulodda vaziyatlar, xatolar yoki server o'chishidan keyin yo'qotilgan ma'lumotlarni qayta tiklash va ishni davom ettirish uchun
+
+86. Savol: Tizimning kengaytirilishi (Scalability) atributi qanday tasvirlanadi?
+Javob: Foydalanuvchilar soni yoki ma'lumotlar hajmi ortganda tizimning ish sifatini tushirmasdan quvvatini oshira olish qobiliyati
+
+87. Savol: Uzluksizlik (Reliability) atributining dasturiy ta’minot arxitekturasida roli qanday?
+Javob: Tizimning ma'lum vaqt oralig'ida va turli sharoitlarda xatosiz ishlashini va kutilgan natijani berishini ta'minlaydi
+
+88. Savol: Modularlik va integratsiyaning arxitektura sifatlaridagi o‘rni qanday?
+Javob: Tizimni mustaqil, qayta ishlatiladigan kichik qismlarga (modullarga) ajratib, ularni osongina birlashtirish va yangilash imkonini beradi
+
+89. Savol: Arxitektura qarorlari (Architecture Decisions) nima?
+Javob: Dasturiy ta'minotni loyihalashda tizimning tuzilishi, texnologiyalari va sifat atributlari bo'yicha qabul qilingan muhim va strategik tanlovlardir
+
+90. Savol: Talablar yig‘ish jarayonida qanday metodlar va texnikalar ishlatiladi?
+Javob: Intervyu, so'rovnomalar o'tkazish, hujjatlarni tahlil qilish, prototiplash va Use-Case diagrammalarini yaratish
+
+91. Savol: Risklarni baholash va ularni kamaytirish uchun qanday usullar qo‘llaniladi?
+Javob: Riskni erta aniqlash, prototip yaratish orqali sinab ko'rish, ortiqcha yuklamaga qarshi arxitektura chora-tadbirlarini qo'llash (masalan, zaxira serverlar)
+
+92. Savol: Kengaytirilish va moslashuvchanlik atributlarini hisobga olgan holda arxitektura qarorlari qanday qabul qilinadi?
+Javob: Tizimni monolit emas, balki mikroservis yoki modulli arxitektura orqali loyihalash, load-balancer va bulut texnologiyalaridan foydalanish orqali
+
+93. Savol: Dasturiy ta’minot arxitekturasida modullarning o‘zaro aloqalari qanday shakllantiriladi?
+Javob: Past bog'liqlik (Loose coupling) va yuqori uyg'unlik (High cohesion) tamoyillari asosida, asosan interfeyslar va API lar orqali
+
+94. Savol: Dasturiy ta’minot arxitekturasida qarorlar qabul qilishda foydalanuvchi talablarini qanday inobatga olish kerak?
+Javob: Talablarni funksional va nofunksional qismlarga ajratib, sifat atributlarini ustuvorliklarga ko'ra baholash orqali inobatga olinadi
+
+95. Savol: DDD da “Domen” tushunchasi nimani anglatadi?
+Javob: Dasturiy ta'minot yaratilayotgan aniq biznes sohasi (masalan, bank ishi, e-tijorat) va undagi asosiy bilimlar va qoidalar majmuasi
+
+96. Savol: “Service” (Domain Service) qachon ishlatiladi va uning roli qanday?
+Javob: Biznes mantiq bitta Entity yoki Value Objectga to'g'ri kelmaganda, bir nechta obyektlar o'rtasidagi jarayonlarni boshqarish uchun ishlatiladi
+
+97. Savol: DDD arxitekturasining afzalliklari va kamchiliklarini sanab bering?
+Javob: Afzalligi: murakkab biznes mantiqni to'g'ri tashkil qiladi, biznes va dasturchilar tushunishi oson. Kamchiligi: kichik va oddiy loyihalar uchun juda qimmat, o'rganish va joriy qilish murakkab
+
+98. Savol: Dasturiy ta’minot quyi tizimlarining dizayn arxitekturasi nima?
+Javob: Katta dasturni mustaqil va boshqariladigan kichikroq komponentlarga (quyi tizimlarga) mantiqiy va fizik ajratish strukturasidir
+
+99. Savol: Dizayn arxitekturasi tizimda qanday vazifalarni bajaradi?
+Javob: Komponentlar o'rtasidagi bog'liqlikni kamaytiradi, parallel ishlab chiqishga sharoit yaratadi va tizimni keyinchalik o'zgartirishni osonlashtiradi
+
+100. Savol: Arxitektura darajalari nechta va ular qaysilar?
+Javob: Odatda 3 daraja: Dasturiy ta'minot arxitekturasi (tizim miqyosi), Dizayn arxitekturasi (komponentlar miqyosi) va Kod arxitekturasi (sinflar va algoritmlar)
+
+101. Savol: Yuqori darajadagi arxitektura nimani ifodalaydi?
+Javob: Tizimning eng katta komponentlari, tashqi tizimlar bilan integratsiyasi, serverlar joylashuvi va asosiy ma'lumotlar oqimining umumiy xaritasini
+
+102. Savol: Qatlamli (Layered) arxitektura qanday ishlaydi?
+Javob: Tizim mantiqiy darajalarga (Presentation, Business, Data Access) bo'linadi, va har bir qatlam faqat o'zidan pastdagi qatlam bilan aloqa qiladi
+
+103. Savol: Mikroxizmatlar (Microservices) arxitekturasi nimasi bilan farq qiladi?
+Javob: Tizim to'liq mustaqil, kichik biznes funksiyalariga bo'linib, har biri o'z ma'lumotlar bazasiga ega bo'lgan alohida tarmoq xizmati sifatida ishlaydi
+
+104. Savol: Tizimni masshtablash (scaling) nima va nima uchun kerak?
+Javob: Foydalanuvchilar yoki yuklama oshganda tizimning ish sifatini saqlab qolish uchun server resurslarini yoki tugunlar sonini ko'paytirish
+
+105. Savol: Vertikal va gorizontal masshtablash o‘rtasidagi farq nima?
+Javob: Vertikal - mavjud serverning RAM/CPU sini oshirish (Scaling Up). Gorizontal - tarmoqqa yana yangi serverlarni qo'shish (Scaling Out)
+
+106. Savol: Monolit arxitektura nima va uning kamchiliklari qanday?
+Javob: Barcha komponentlar yagona dastur sifatida birlashtiriladi; kamchiligi kengaytirish (masshtablash) qiyin va bir xato butun tizimni to'xtatishi mumkin
+
+107. Savol: Mikroservis arxitekturasi nima va u qanday afzalliklarga ega?
+Javob: Ilova mustaqil ishlaydigan kichik xizmatlarga bo'linadi; afzalligi alohida masshtablash, yangilash oson va boshqa texnologiyalardan foydalanish imkoni mavjud
+
+108. Savol: Ma’lumotlar bazasini masshtablash qanday usullar bilan amalga oshiriladi?
+Javob: Replikatsiya (nusxalash) va Sharding (ma'lumotlarni bo'laklab turli serverlarga saqlash) usullari bilan
+
+109. Savol: Taqsimlangan tizimlarda ishonchlilikni (reliability) oshirish uchun nimalar qilinadi?
+Javob: Tizim qismlarini dublyaj qilish (ortiqchalik), avtomatik tiklanish mexanizmlari, va xatolarni izolatsiya qilish (Circuit Breaker) qo'llaniladi
+
+110. Savol: Klient va server tushunchalari nimani anglatadi va ularning vazifalari qanday?
+Javob: Klient — foydalanuvchi tomonda so'rov yuboruvchi dastur (masalan, brauzer). Server — shu so'rovni qabul qilib, kerakli ma'lumot yoki xizmatni taqdim etuvchi kuchli kompyuter
+
+111. Savol: Uch pog‘onali (three-tier) arxitektura qanday qismlardan iborat?
+Javob: Taqdimot qatlami (Klient), Biznes mantiq qatlami (Ilova serveri) va Ma'lumotlar qatlami (Ma'lumotlar bazasi serveri)
+
+112. Savol: Mikroxizmatlar (microservices) arxitekturasi nima va u qanday ishlaydi?
+Javob: Ilovani mustaqil, o'zining biznes mantiqiga va bazasiga ega bo'lgan kichik xizmatlarga bo'lib ishlatuvchi arxitektura
+
+113. Savol: Klient–server tizimini loyihalash jarayonining asosiy bosqichlari nimalardan iborat?
+Javob: Talablarni aniqlash, arxitekturani tanlash (2 yoki 3 pog'onali), API larni loyihalash, xavfsizlikni ta'minlash va masshtablashni rejalashtirish
+
+114. Savol: Klient–server arxitekturasida qanday tarmoq protokollari ishlatiladi?
+Javob: Asosan HTTP/HTTPS, TCP/IP, WebSocket kabi ma'lumot uzatish protokollari ishlatiladi
+
+115. Savol: Klient–server arxitekturasining afzalliklari nimalardan iborat?
+Javob: Ma'lumotlar markazlashtiriladi, xavfsizlik yaxshilanadi, tizimni kengaytirish osonlashadi va texnik xizmat ko'rsatish qulay bo'ladi
+
+116. Savol: Monolit va mikroxizmatlar arxitekturasi o‘rtasidagi farqlar qanday?
+Javob: Monolitda barcha komponentlar yaxlit, bitta loyihada va yagona bazada ishlaydi. Mikroxizmatlarda esa tizim kichik, mustaqil va o'zining bazasiga ega bo'lgan xizmatlarga bo'linadi
+
+117. Savol: Mikroxizmatlar arxitekturasining afzalliklari va kamchiliklari nimada?
+Javob: Afzalligi: masshtablash oson, mustaqil test qilish va yangilash mumkin. Kamchiligi: tarmoq orqali aloqa qilish murakkab, debugging (xato qidirish) va infratuzilmani boshqarish qiyin
+
+118. Savol: Mikroxizmatlar bir-biri bilan qanday aloqa qiladi?
+Javob: RESTful API, gRPC yoki message brokerlar (RabbitMQ, Apache Kafka) orqali aloqa qiladi
+
+119. Savol: API Gateway nima va uning roli qanday?
+Javob: API Gateway barcha tashqi mijoz so'rovlarini qabul qilib, ularni tegishli ichki mikroxizmatlarga yo'naltiruvchi yagona kirish nuqtasidir
+
+120. Savol: Service Mesh nima va nega u mikroxizmatlarda muhim?
+Javob: Xizmatlar o'rtasidagi tarmoq aloqasini, xavfsizlik, marshrutlash (routing) va monitoringni (masalan Istio orqali) xizmat kodiga ta'sir qilmasdan boshqaruvchi qatlam
+
+121. Savol: Mikroxizmatlarni o‘rnatishda (deployment) Docker va Kubernetes qanday vazifani bajaradi?
+Javob: Docker xizmatni o'z muhiti bilan izolyatsiya qilib (konteynerga) o'raydi. Kubernetes esa shu minglab konteynerlarni avtomatik boshqaradi, yangilaydi va masshtablaydi
+
+122. Savol: Hexagonal arxitektura qaysi muammolarni hal qilish uchun yaratilgan?
+Javob: Biznes mantiqning tashqi kutubxonalar, freymvorklar, bazalar va UI-larga qattiq bog'lanib qolishi hamda test qilish qiyinligi muammolarini hal qiladi
+
+123. Savol: Qatlamli arxitektura qanday afzalliklarga ega?
+Javob: Har bir qatlam o'zining aniq vazifasiga ega, tizimni tushunish, test qilish, xatolarni topish va bitta qatlamni boshqasiga ta'sir qilmay o'zgartirish oson
+
+124. Savol: Qatlamli arxitekturada qatlamlar (layers) o‘rtasidagi bog‘liqlik qanday ta’minlanadi?
+Javob: Har bir qatlam faqat bevosita o'zidan bitta pastda joylashgan (yoki yopiq arxitekturada qo'shni) qatlam bilan qat'iy interfeyslar orqali aloqa qiladi
+
+125. Savol: API (Application Programming Interface) nima va nega u tizimlar integratsiyasi uchun zarur?
+Javob: API - ikki xil dastur yoki tizimning bir-biri bilan muloqot qilishi va ma'lumot almashishi uchun oldindan belgilangan qoidalar va funksiyalar to'plami. Ular izolyatsiya qilingan tizimlarni integratsiya qilishga imkon beradi
+
+126. Savol: RESTful API nima va u qanday prinsiplarga asoslangan?
+Javob: Stateless (holatsiz) aloqa, resurslarga (URI) asoslangan yondashuv va standart HTTP metodlari (GET, POST, PUT, DELETE) orqali ma'lumot almashishga asoslangan arxitektura uslubi
+
+127. Savol: GraphQL va REST API o‘rtasidagi farqlar nimalardan iborat?
+Javob: REST da server nima qaytarishini belgilaydi (multiple endpoints). GraphQL da bitta endpoint orqali mijoz faqat o'ziga aynan kerakli va aynan qancha ma'lumotni so'rab olishini o'zi hal qiladi
+
+128. Savol: Serverless (Serversiz) arxitektura nima va u qanday ishlaydi?
+Javob: Dasturchi server infratuzilmasini (operatsion tizim, resurslar) o'ylamaydi. Kod funksiya sifatida bulutga yuklanadi, va faqat biror hodisa (event/request) bo'lgandagina ishlab, sarflangan vaqt uchungina pul to'lanadi
+
+129. Savol: Serverless platformalarga misollar (AWS Lambda, Google Cloud Functions) keltiring va ular qanday ishlatiladi?
+Javob: AWS Lambda, Google Cloud Functions, Azure Functions kabi platformalar kichik skriptlarni yoki ma'lum vazifalarni mustaqil server yaratmasdan tarmoqda avtomatlashgan ishga tushirish uchun ishlatiladi
+

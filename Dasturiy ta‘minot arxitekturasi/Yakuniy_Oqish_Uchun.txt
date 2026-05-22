@@ -1,0 +1,383 @@
+=== DT ARXITEKTURA - YAKUNIY (127 SAVOL) ===
+
+1. Savol: Dasturiy ta’minot arxitekturasi nima?
+Javob: Tizimning asosiy tuzilmalari, komponentlari va ularning o'zaro aloqalari majmuasi
+
+2. Savol: Dasturiy ta’minot arxitekturasining asosiy maqsadi nima?
+Javob: Tizim sifat atributlarini qondirish va loyiha xavflarini kamaytirish
+
+3. Savol: Komponenta deganda nima tushuniladi?
+Javob: Muayyan vazifani bajaruvchi, mustaqil va almashtirilishi mumkin bo'lgan tizim qismi
+
+4. Savol: Interfeys nima vazifani bajaradi?
+Javob: Komponentlar o'rtasidagi aloqa va ma'lumot almashinuv qoidalarini belgilaydi
+
+5. Savol: Qatlamli arxitekturada odatda nechta asosiy qatlam uchraydi?
+Javob: 3 ta (Taqdimot, Biznes mantiq, Ma'lumotlar qatlami)
+
+6. Savol: Arxitektura bilan dizayn o‘rtasidagi farq nimada?
+Javob: Arxitektura tizimning umumiy tuzilishini, dizayn esa uning qismlari qanday ishlashini belgilaydi
+
+7. Savol: Quyidagilardan qaysi biri sifat atributiga (Quality Attribute) kiradi?
+Javob: Masshtablanuvchanlik (Scalability)
+
+8. Savol: Yaxshi arxitekturaning belgilaridan biri qaysi?
+Javob: Tizimning o'zgarishlarga moslashuvchanligi va xizmat ko'rsatishning osonligi
+
+9. Savol: Noto‘g‘ri tanlangan arxitektura qanday oqibatga olib kelishi mumkin?
+Javob: Tizimni qo'llab-quvvatlash qiyinlashishi va xarajatlarning ortishi
+
+10. Savol: Arxitektura asosiy vazifasi nechta?
+Javob: Asosan 3 ta (Tizimni tushunishni osonlashtirish, qayta foydalanishni qo'llab-quvvatlash, xavflarni boshqarish)
+
+11. Savol: Dasturiy ta’minot arxitekturasining asosiy tushunchalari to'g'ri ko'rsatilgan qatorni toping?
+Javob: Komponentlar, ularning o'zaro aloqalari, muhit va tamoyillar
+
+12. Savol: Komponenta bu - ?
+Javob: Mustaqil o'rnatiladigan, uchinchi tomon kompozitsiyasiga tobe bo'lgan dasturiy ta'minot birligi
+
+13. Savol: Modul bu - ?
+Javob: Dastur kodi va mantiqni jismoniy yoki mantiqiy jihatdan ajratib turuvchi struktura birligi
+
+14. Savol: Interfeys bu - ?
+Javob: Tizim yoki komponentning boshqa tizimlar bilan qanday muloqot qilishini belgilovchi chegara
+
+15. Savol: Arxitektura uslubi (Architectural Style) bu -?
+Javob: Tizimlar oilasi uchun xos bo'lgan tizim tashkil etishning umumiy qoidalari va naqshlari to'plami
+
+16. Savol: Arxitektura namunasi (Architectural Pattern) bu -?
+Javob: Muayyan arxitektura muammosiga umumiy, qayta foydalanish mumkin bo'lgan yechim
+
+17. Savol: Dasturiy ta’minot arxitekturasiga ta’sir etuvchi omillar nechta?
+Javob: Asosan 4 ta guruhga bo'linadi (Texnik, Biznes, Tashkiliy, Loyiha omillari)
+
+18. Savol: Dasturiy ta’minot arxitekturasiga ta’sir etuvchi omillar to'g'ri ko'rsatilgan javobni toping?
+Javob: Sifat atributlari, biznes talablar, jamoa tajribasi, texnologik cheklovlar
+
+19. Savol: Dasturiy ta’minotni ishlab chiqish hayot sikli bosqichlari asosan nechta bosqichdan iborat?
+Javob: Odatda 6-7 ta bosqichdan (Talablarni tahlil qilish, Loyihalash, Ishlab chiqish, Testlash, Joriy etish, Qo'llab-quvvatlash)
+
+20. Savol: Dasturiy ta’minotni ishlab chiqishning hayot aylanish sikli Software Development Life Cycle (SDLC) nima?
+Javob: Dasturiy mahsulotni yaratish, saqlash va o'zgartirish uchun ishlatiladigan standartlashtirilgan jarayon va metodologiya
+
+21. Savol: SDLC modelining asosiy maqsadi nima?
+Javob: Sifatli dasturiy ta'minotni eng qisqa vaqt va kam xarajat bilan yaratish
+
+22. Savol: Rejalashtirish va talablarni tahlil qilish qaysi bosqichda bajariladi?
+Javob: SDLC ning birinchi, eng boshlang'ich bosqichida
+
+23. Savol: Talablarni aniqlash bosqichida talablar kimlar tomonidan ma’qullanadi?
+Javob: Buyurtmachi (Mijoz) va manfaatdor tomonlar (Stakeholders) tomonidan
+
+24. Savol: Arxitekturani loyihalash bosqichida qaysi hujjat asosiy ma’lumotnoma bo‘lib xizmat qiladi?
+Javob: Dasturiy ta'minot talablari spetsifikatsiyasi (SRS - Software Requirement Specification)
+
+25. Savol: Mahsulotni ishlab chiqish bosqichida ishlab chiquvchilar nimaga muvofiq kod yozadilar?
+Javob: Loyihalash bosqichida yaratilgan dizayn hujjatlari (Design Document) va arxitektura qoidalariga
+
+26. Savol: Qaysi bosqichda kompilyator, tarjimon va tuzatuvchilar (debuggers) kabi vositalar qo‘llaniladi?
+Javob: Ishlab chiqish (Coding/Implementation) bosqichida
+
+27. Savol: Mahsulot sinovi (Testlash) va integratsiyasi bosqichining asosiy vazifasi nima?
+Javob: Dastur kodidagi xatolarni topish va SRS talablariga mosligini tekshirish
+
+28. Savol: Sinovdan o‘tgan mahsulot qaysi bosqichda haqiqiy muhitga chiqariladi?
+Javob: Joriy etish (Deployment/Release) bosqichida
+
+29. Savol: Bugungi kunga qadar SDLC ning asosiy qanday modellari mavjud?
+Javob: Waterfall, Agile, Spiral, Iterative, V-Model kabi bir nechta asosiy modellar
+
+30. Savol: Sharshara (Waterfall) modelining asosiy xususiyati qaysi?
+Javob: Jarayonlar qat'iy ketma-ketlikda bajariladi va bir bosqich tugamasdan keyingisi boshlanmaydi
+
+31. Savol: Agile modelining asosiy maqsadi nima?
+Javob: Moslashuvchanlikni oshirish va mahsulotni qisqa iteratsiyalarda mijozga tezroq yetkazib berish
+
+32. Savol: Iterativ va ortib boruvchi (Incremental) model nima uchun ishlab chiqilgan?
+Javob: Katta tizimlarni kichik, boshqariladigan va sinovdan o'tkazilishi oson bo'lgan qismlarga bo'lib ishlab chiqish uchun
+
+33. Savol: Iterativ va ortib boruvchi modelning asosiy g‘oyasi nima?
+Javob: Dasturni tayanch qismini yaratib, keyingi iteratsiyalarda uni yangi funksiyalar bilan boyitib borish
+
+34. Savol: Spiral model qaysi loyihalar uchun afzal deb ko‘rsatilgan?
+Javob: Katta, murakkab va xavf darajasi yuqori bo'lgan loyihalar uchun
+
+35. Savol: Spiral model qaysi ikki yondashuv xususiyatlarini birlashtiradi?
+Javob: Iterativ model va Sharshara (Waterfall) modeli (kuchli xavf tahlili bilan birga)
+
+36. Savol: V-shaklidagi model sharshara modelidan nimasi bilan farq qiladi?
+Javob: Har bir ishlab chiqish bosqichi o'ziga mos keluvchi testlash bosqichiga ega va parallel rejalashtiriladi
+
+37. Savol: Prototiplash modeli nimani anglatadi?
+Javob: Tizimning to'liq funksional bo'lmagan ishchi namunasini (prototipini) yaratish orqali mijoz talablarini aniqlash
+
+38. Savol: Evolyutsion prototiplashning mazmuni nima?
+Javob: Boshlang'ich prototip doimiy ravishda takomillashtirilib, yakuniy tizimga aylanadi
+
+39. Savol: Dasturiy ta’minot dizaynini taqdim etish uchun nima talab qilinadi?
+Javob: Arxitektura modellarini tavsiflovchi grafik diagrammalar (masalan, UML) va hujjatlar
+
+40. Savol: Dasturiy ta’minot dizayni nimani ko‘rsatish jarayoni hisoblanadi?
+Javob: Dasturiy tizim qanday tashkil etilganligini va uning komponentlari qanday ishlashini belgilash
+
+41. Savol: Kompyuter tizimlari uchun ishlab chiqilgan dasturiy ta’minot nimani namoyish qilishi mumkin?
+Javob: Muayyan ma'lumotlar tuzilmalari, algoritmlar va arxitektura qonuniyatlarini
+
+42. Savol: Ma’lumotlarga asoslangan arxitekturada (Data-centric architecture) markaziy o‘rin odatda nimaga beriladi?
+Javob: Markaziy ma'lumotlar bazasiga (Data repository) yoki ma'lumotlar omboriga
+
+43. Savol: Ma’lumotlarga asoslangan arxitekturaning asosiy afzalliklaridan biri qaysi?
+Javob: Ma'lumotlar markazlashtirilgan bo'lib, komponentlar o'rtasida ma'lumot almashish oson va barqaror bo'ladi
+
+44. Savol: Ma’lumotlar oqimi arxitekturasida (Data-flow architecture) asosiy e’tibor nimaga qaratiladi?
+Javob: Ma'lumotlarning tizim orqali qanday oqib o'tishi va bosqichma-bosqich o'zgartirilishiga
+
+45. Savol: Ma’lumotlar oqimi arxitekturasida qayta ishlash odatda qanday tashkil qilinadi?
+Javob: Quvurlar va filtrlar (Pipe and Filter) shaklida ketma-ket tashkil qilinadi
+
+46. Savol: Ma’lumotlar oqimi arxitekturasining afzalliklaridan biri qaysi?
+Javob: Filtrlarni (qayta ishlash modullarini) o'zgartirish, qo'shish va mustaqil ravishda sinab ko'rish oson
+
+47. Savol: Ma’lumotlar oqimi arxitekturasining kamchiliklaridan biri nima bo‘lishi mumkin?
+Javob: Interaktiv (foydalanuvchi ishtirok etadigan) tizimlar uchun mos kelmasligi
+
+48. Savol: Quyidagilardan qaysi biri klient-server arxitekturasi ishlatiladigan tizimga misol bo‘ladi?
+Javob: Veb-brauzer (klient) va Veb-server (server) tizimi
+
+49. Savol: Klientning vazifalaridan biri qaysi?
+Javob: Foydalanuvchidan so'rovlarni qabul qilish va ularni serverga jo'natish
+
+50. Savol: Serverning vazifalaridan biri qaysi javobda to'g'ri ko'rsatilgan?
+Javob: Klientdan kelgan so'rovlarni qayta ishlash va natijani qaytarish
+
+51. Savol: Uch pog‘onali (3-Tier) arxitekturaning tarkibiy qismlaridan biri qaysi?
+Javob: Biznes mantiq qatlami (Application/Business Tier)
+
+52. Savol: Ko‘p pog‘onali (N-Tier) arxitekturaning afzalligi nimada?
+Javob: Qatlamlarning mustaqilligi sababli tizimni miqyoslash (scalability) va yangilash osonlashadi
+
+53. Savol: Mikroxizmatlar (Microservices) arxitekturasida katta tizim qanday tuziladi?
+Javob: Kichik, o'zaro mustaqil va alohida joylashtirilishi mumkin bo'lgan xizmatlar to'plami sifatida
+
+54. Savol: Uch pog‘onali arxitekturada qaysi qism biznes logikani bajaradi?
+Javob: Mantiqiy qatlam (Application/Logic Tier)
+
+55. Savol: Tarmoq aloqalarini loyihalashda quyidagi variantlardagi qaysi protokollar ishlatiladi?
+Javob: HTTP/HTTPS, TCP/IP, WebSockets
+
+56. Savol: Xavfsizlikni ta’minlash usullaridan biri qaysi?
+Javob: Ma'lumotlarni shifrlash (Encryption) va autentifikatsiya qilish
+
+57. Savol: Uch pog‘onali klient-server arxitekturasida o‘rta qatlamning (Application tier) asosiy vazifasi nima?
+Javob: Taqdimot qatlami va Ma'lumotlar bazasi o'rtasida biznes qoidalarini bajarib ma'lumot almashishni ta'minlash
+
+58. Savol: Klient-server tizimida autentifikatsiyaning asosiy maqsadi nima?
+Javob: Foydalanuvchi shaxsini tasdiqlash va uning tizimga kirish huquqini tekshirish
+
+59. Savol: KAA (Komponentga Asoslangan Arxitektura) ning asosiy maqsadlaridan biri qaysi?
+Javob: Dasturiy ta'minotni qayta foydalanish mumkin bo'lgan (reusable) komponentlardan yig'ish orqali ishlab chiqishni tezlashtirish
+
+60. Savol: Komponentlar o‘zaro qanday aloqa qiladi?
+Javob: Yaxshi aniqlangan interfeyslar (Interfaces) va xabarlar orqali
+
+61. Savol: Komponentga asoslangan arxitektura tizimni ishlab chiqishda nimani kuchaytiradi?
+Javob: Moslashuvchanlikni, saqlashni va qismlarni mustaqil yangilash qobiliyatini
+
+62. Savol: Komponentga asoslangan arxitekturani ishlab chiqishda quyidagilardan qaysi biri qo'llaniladi?
+Javob: Komponentlarni izlash, ularni baholash va tizimga integratsiya qilish jarayoni
+
+63. Savol: Komponentga asoslangan arxitekturani "Qayta foydalanish imkoniyati" afzalligi qaysi javobda to'g'ri berilgan?
+Javob: Bir marta yaratilgan komponentni boshqa loyihalarda ham o'zgartirishsiz ishlatish mumkinligi
+
+64. Savol: Komponentga asoslangan arxitekturani afzalliklari nechta?
+Javob: Asosan 4-5 ta asosiy afzalligi bor (Qayta foydalanish, Yangilash osonligi, Mustaqillik, Xarajatni kamaytirish)
+
+65. Savol: Komponentga asoslangan arxitekturani dizayn tamoyillari qaysilar?
+Javob: Mustaqillik, interfeys orqali muloqot, past bog'liqlik (Loose coupling), yuqori yaxlitlik (High cohesion)
+
+66. Savol: Komponentga asoslangan arxitekturani amalgan oshirish bosqichlari qaysilar?
+Javob: Talablarni aniqlash, komponentlarni qidirish, arxitekturani loyihalash, integratsiya qilish va testlash
+
+67. Savol: Komponent dizayni jihatlari to'g'ri ko'rsatilgan qatorni toping?
+Javob: Funksionallikni inkapsulyatsiya qilish va ochiq interfeys taqdim etish
+
+68. Savol: Komponentlarning bir-biri bilan qanday munosabatda bo‘lishini aniqlab, ma’lumot yuborish va qabul qilish uchun ishlatiladigan usullar nima deb ataladi?
+Javob: Interfeys spetsifikatsiyalari va protokollar
+
+69. Savol: Komponentlar standartlashtirilgan interfeyslar, SOAP yoki RESTful API orqali xizmatlar yordamida muloqot qiladigan yondashuv qaysi?
+Javob: Xizmatga yo'naltirilgan (SOA) yoki API-ga asoslangan aloqa yondashuvi
+
+70. Savol: Komponentlarga asoslangan arxitekturada komponentlar soni ortib borgani sari qaysi muammo kuchayadi?
+Javob: Tizim murakkabligi oshadi, komponentlar orasidagi integratsiya va bog'liqlikni boshqarish qiyinlashadi
+
+71. Savol: Komponentlarga asoslangan arxitekturada alohida komponentlarni izolyatsiyada va boshqa komponentlar bilan birgalikda tekshirish qaysi qiyinchilik bilan bog‘liq?
+Javob: Integratsion testlash va muvofiqlikni (compatibility) ta'minlash qiyinchiligi
+
+72. Savol: Layered architecture (N-Tier Architecture) ning asosiy mohiyati nimada?
+Javob: Tizim mas'uliyatlarini qatlamlarga (masalan, Taqdimot, Mantiq, Ma'lumot) mantiqiy ravishda ajratish
+
+73. Savol: Layered arxitekturaning keng qo‘llanilishiga asosiy sabab nima?
+Javob: Uning tushunishga osonligi, standartlashtirilgani va mas'uliyatlar aniq taqsimlangani
+
+74. Savol: Qatlamli arxitektura diagrammasida foydalanuvchi bilan bevosita ishlovchi qatlam qaysi?
+Javob: Taqdimot qatlami (Presentation Layer / UI)
+
+75. Savol: N-Tier arxitekturada Business Logic Layer ning asosiy vazifasi qaysi?
+Javob: Ilovaning asosiy biznes qoidalari, hisoblashlari va qaror qabul qilish jarayonlarini bajarish
+
+76. Savol: Data Access Layer odatda nimaga xizmat qiladi?
+Javob: Ma'lumotlar bazasi yoki boshqa xotira tizimlari bilan muloqot qilish, ularga yozish va o'qish uchun
+
+77. Savol: Qatlamli arxitekturaning muhim amaliy afzalligi qaysi javobda to‘g‘ri ko‘rsatilgan?
+Javob: Bir qatlamni o'zgartirish (masalan, UI) boshqa qatlamlarga (masalan, DB) ta'sir qilmaydi (Separation of Concerns)
+
+78. Savol: N-darajali arxitektura ilovani qanday qatlamlarga ajratadi?
+Javob: Mantiqiy va jismoniy qatlamlarga (Taqdimot, Biznes mantiq, Ma'lumotlarga kirish kabi)
+
+79. Savol: N-Tier arxitektura "Qayta foydalanish" afzalliklari tarifi qaysi javobda to'g'ri ko'rsatilgan?
+Javob: Bitta biznes mantiq qatlamidan bir nechta turli xil taqdimot qatlamlari (Web, Mobile) foydalanishi mumkinligi
+
+80. Savol: Hexagonal arxitektura yondashuvi qaysi arxitektura cheklovlarini yengib o'tish uchun ishlab chiqilgan?
+Javob: An'anaviy Qatlamli (Layered) arxitekturaning mantiq qatlamiga texnologiyalarning qattiq bog'lanib qolish cheklovini
+
+81. Savol: Hexagonal arxitekturaning asosiy maqsadi qaysi javobda to'g'ri ko'rsatilgan?
+Javob: Asosiy biznes mantiqni tashqi texnologiyalar (UI, DB) dan butunlay izolyatsiya qilish (Ports and Adapters)
+
+82. Savol: Hexagonal arxitektura dasturiy ta’minot komponentlarini qanday qismlarga ajratadi?
+Javob: Yadro (Core/Domain), Portlar (Ports) va Adapterlar (Adapters)
+
+83. Savol: Hexagonal arxitekturaning asosiy tamoyillari qaysilar?
+Javob: Texnologiyadan mustaqillik, testlash qulayligi va Dependency Inversion (Qaramlikni teskarisiga o'zgartirish)
+
+84. Savol: Hexagonal arxitekturaning asosiy komponentlari qaysi javobda to'g'ri ko'rsatilgan?
+Javob: Domain (Yadro), Inbound/Outbound Ports, Primary/Secondary Adapters
+
+85. Savol: Hexagonal arxitektura quyidagi tizimlarning qaysi birida muvaffaqiyatli qo‘llaniladi?
+Javob: Biznes qoidalari murakkab bo'lgan, uzoq muddat yashaydigan va tez-tez texnologiya o'zgaradigan tizimlarda
+
+86. Savol: Hexagonal arxitekturada yakuniy bosqichda qaysi jarayonlar amalga oshiriladi?
+Javob: Adapterlarni ulash va tashqi tizimlar (API, UI, DB) orqali asosiy mantiqni ishga tushirish/testlash
+
+87. Savol: Xizmatga yo'naltirilgan arxitektura (SOA) xizmat autentifikatsiyasi va ma'lumotlarni olishda qanday standart protokollardan ko'p foydalanadi?
+Javob: SOAP, WSDL, REST, HTTP kabi standart tarmoq protokollari
+
+88. Savol: Xizmat ko'rsatuvchi provayder (Service Provider) ta'rifi to'g'ri ko'rsatilgan qatorni toping?
+Javob: Xizmatni yaratadi, uni xizmat reestrida e'lon qiladi va so'rovlarga javob beradi
+
+89. Savol: Xizmat iste'molchisi (Service Consumer) ta'rifi to'g'ri ko'rsatilgan qatorni toping?
+Javob: Xizmat reestridan kerakli xizmatni topib, undan o'z maqsadlari yo'lida foydalanadigan tizim yoki ilova
+
+90. Savol: Xizmatga yo'naltirilgan arxitekturaning asosiy tamoyillari qaysi javobda to'g'ri ko'rsatilgan?
+Javob: Xizmatlarning mustaqilligi (Loose coupling), qayta foydalanuvchanlik, standartlashtirilgan interfeys
+
+91. Savol: Xizmatga yo'naltirilgan arxitekturaning asosiy tamoyillari nechta?
+Javob: Odatda 8 ta asosiy tamoyil (Standardized service contract, Loose coupling, Abstraction, Reusability, Autonomy, Statelessness, Discoverability, Composability)
+
+92. Savol: SOA arxitekturasi komponenti bo'lgan "Xizmatni amalga oshirish (Service Implementation)" tavsifi qanday?
+Javob: Xizmatning haqiqiy biznes mantiqini va ma'lumotlarni qayta ishlash jarayonini o'zida mujassam etgan kod qismi
+
+93. Savol: Ma'lumotlar uzatishda TLS/SSL yordamida shifrlanadi... Bu ibora SOA ni qaysi xususiyatiga taalluqli?
+Javob: Xavfsizlik (Security) xususiyati
+
+94. Savol: Xizmatga yo'naltirilgan arxitekturani amalga oshirishdagi qiyinchiliklardan biri qaysi javobda berilgan?
+Javob: Xizmatlar o'rtasida tarmoq orqali aloqa ko'payishi sababli ishlash tezligining (performance) pasayishi
+
+95. Savol: SOA ning qo'llashning eng yaxshi amallaridan (Best Practices) biri?
+Javob: Korxona xizmat ko'rsatish shinasidan (ESB - Enterprise Service Bus) foydalanish
+
+96. Savol: Masshtablanishni (Scalability) ta'minlash bu -?
+Javob: Tizimga yuklama oshganda resurslarni ko'paytirish orqali ishlash barqarorligini saqlab qolish qobiliyati
+
+97. Savol: Microservices asosida qurilgan tizimdagi xizmatlarning xususiyatlari nimalardan iborat?
+Javob: Kichik o'lcham, mustaqil o'rnatilish (deploy), bitta aniq biznes vazifani bajarish
+
+98. Savol: Microservices arxitekturasi nimaga asoslanadi?
+Javob: Biznes imkoniyatlari (Business Capabilities) asosida yaratilgan mustaqil xizmatlar to'plamiga
+
+99. Savol: Microservices va monolit arxitektura o‘rtasidagi asosiy farq qaysi?
+Javob: Monolitda barcha kod bitta butunlikda bo'ladi, microservicesda esa alohida mustaqil xizmatlarga bo'linadi
+
+100. Savol: Quyidagilardan qaysi biri microservices arxitekturasining afzalligi hisoblanadi?
+Javob: Har bir xizmatni turli texnologiyalar (tillar, MB) yordamida mustaqil ishlab chiqish imkoniyati
+
+101. Savol: Mikroservis arxitekturasida Event Bus/Message Broker nima vazifani bajaradi?
+Javob: Xizmatlar o'rtasida asinxron xabarlar va hodisalar almashinuvini (aloqani) ta'minlaydi
+
+102. Savol: API Gateway microservices arxitekturasida qanday vazifani bajaradi?
+Javob: Klientdan kelgan barcha so'rovlarni qabul qilib, tegishli mikroservislarga yo'naltiruvchi yagona kirish nuqtasi vazifasini
+
+103. Savol: Microservices arxitekturasida har bir xizmat uchun alohida ma’lumotlar bazasi qo‘llashdan maqsad nima?
+Javob: Xizmatlarning to'liq mustaqilligini (Decoupling) ta'minlash va boshqa xizmat xatosi unga ta'sir qilmasligi uchun
+
+104. Savol: Hodisaga asoslangan (Event-Driven) arxitektura qanday rejimda ishlaydigan dasturlarda keng qo'llaniladi?
+Javob: Real vaqt rejimida (Real-time) tezkor reaksiya talab qilinadigan asinxron tizimlarda
+
+105. Savol: Event-Driven arxitekturasida "Loose Coupling" (Zaif bog'lanish) nimani bildiradi?
+Javob: Hodisa yuboruvchi (Producer) hodisa qabul qiluvchi (Consumer) haqida hech narsa bilmasligini
+
+106. Savol: Event-Driven arxitekturasida asinxron kommunikatsiyaning asosiy maqsadi nima?
+Javob: Yuboruvchining qabul qiluvchi javobini kutib bloklanib (qotib) qolmasligini ta'minlash
+
+107. Savol: Event-Driven arxitekturasida "Event Broker" va "Message Queue" o‘rtasidagi asosiy farq nimada?
+Javob: Queue odatda xabarni bitta qabul qiluvchiga berib o'chiradi, Broker esa hodisani barcha obunachilarga (Pub/Sub) yetkazadi
+
+108. Savol: Event-Driven arxitekturasida "Idempotency" (Idempotentlik) tushunchasi nimani anglatadi?
+Javob: Bitta hodisani takroran qayta ishlash tizim holatini buzmasligi va bir xil natija berishi kerakligini
+
+109. Savol: Event-Driven arxitekturasida "Eventual Consistency" modeli nimani bildiradi?
+Javob: Tizimning barcha tugunlaridagi ma'lumotlar darhol emas, balki ma'lum vaqt o'tgandan so'ng (oxir-oqibat) bir xil sinxron holatga kelishini
+
+110. Savol: Event-Driven arxitekturasida tizimning ishonchliligini oshirish uchun qaysi mexanizm muhim hisoblanadi?
+Javob: Xabarlarni kafolatli yetkazib berish (Message persistence) va xatolarni qayta ishlash (Dead Letter Queue)
+
+111. Savol: Quyidagilardan qaysi biri Event-Driven arxitekturasida ishlatiladigan texnologiya hisoblanadi?
+Javob: Apache Kafka, RabbitMQ, AWS SNS/SQS
+
+112. Savol: Event-Driven arxitekturasida "Event Queue" (Hodisalar navbati) nima?
+Javob: Kelib tushgan hodisalarni qabul qiluvchi tayyor bo'lgunga qadar ketma-ketlikda vaqtinchalik saqlab turuvchi bufer
+
+113. Savol: Hodisalarga asoslangan arxitekturadan foydalanish holatlari qaysi javobda to'g'ri ko'rsatilgan?
+Javob: IoT tizimlari, moliyaviy tranzaksiyalar, real vaqt chatlari va monitoring tizimlarida
+
+114. Savol: Quyidagilardan qaysi biri bulutli xizmat ko‘rsatish modeliga kiradi?
+Javob: SaaS, PaaS, IaaS
+
+115. Savol: IaaS (Infrastructure as a Service) modelining asosiy xususiyati nimada?
+Javob: Foydalanuvchiga virtual serverlar, tarmoq va xotira kabi fundamental hisoblash resurslari taqdim etiladi
+
+116. Savol: SaaS (Software as a Service) modelida foydalanuvchi asosan nimadan foydalanadi?
+Javob: Bulut provayderi tomonidan boshqariladigan va Internet orqali taqdim etiladigan tayyor ilovalardan (masalan, Gmail)
+
+117. Savol: PaaS (Platform as a Service) modeli qaysi holatda ko‘proq qulay hisoblanadi?
+Javob: Dasturchilar ilovalarni yaratish, testlash va joylashtirish uchun tayyor muhitga muhtoj bo'lganda
+
+118. Savol: Quyidagilardan qaysi biri ommaviy (Public) bulutga misol bo‘la oladi?
+Javob: Amazon Web Services (AWS), Google Cloud, Microsoft Azure
+
+119. Savol: Bulut texnologiyalarga asoslangan arxitekturaning eng to‘g‘ri ta’rifi qaysi?
+Javob: Hisoblash resurslari, ma'lumotlar va ilovalarni Internet orqali moslashuvchan, talabga binoan yetkazib beruvchi tuzilma
+
+120. Savol: Bulut arxitekturasida frontendning asosiy vazifasi nima?
+Javob: Foydalanuvchilarga bulut xizmatlari bilan muloqot qilish uchun (masalan, veb-brauzer orqali) interfeys taqdim etish
+
+121. Savol: Quyidagilardan qaysi biri backend tarkibiga eng mos keladi?
+Javob: Serverlar, ma'lumotlar bazalari, virtualizatsiya qatlami va ma'lumotlarni saqlash tizimlari
+
+122. Savol: Virtualizatsiya qatlami vazifasi qaysi javobda to‘g‘ri berilgan?
+Javob: Jismoniy server resurslarini mantiqiy resurslarga (virtual mashinalarga) ajratib, bir nechta foydalanuvchilarga tarqatish
+
+123. Savol: Gibrid bulut (Hybrid Cloud) modeli qaysi ta’rifga eng mos keladi?
+Javob: Xususiy (Private) va Ommaviy (Public) bulutlarning birlashmasi, ma'lumotlar va ilovalar ular o'rtasida ko'chib yurishi mumkin
+
+124. Savol: Katta ma’lumot (Big Data) tizimlari asosan nimaga xizmat qiladi?
+Javob: Juda katta, tez o'suvchi va turli xil ma'lumotlarni saqlash, qayta ishlash va tahlil qilishga
+
+125. Savol: Big Dataning 5V xususiyatlaridan “Volume” nimani anglatadi?
+Javob: Ma'lumotlarning hajmi (miqdori) nihoyatda kattaligini
+
+126. Savol: Katta hajmdagi ma’lumotlar bilan ishlovchi dasturiy ta’minotda asosiy e’tibor qaysi uch jarayonga qaratiladi?
+Javob: Ma'lumotlarni yig'ish (Ingestion), saqlash (Storage) va qayta ishlash/tahlil qilish (Processing/Analysis)
+
+127. Savol: Arxitektura komponentalarida “Data Ingestion” nimani bildiradi?
+Javob: Turli manbalardan katta hajmdagi ma'lumotlarni tizimga qabul qilish va yig'ish jarayonini
+
