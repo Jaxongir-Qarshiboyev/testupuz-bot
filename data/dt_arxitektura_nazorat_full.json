@@ -1,0 +1,1550 @@
+[
+  {
+    "id": 1,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Dasturiy ta’minot arxitekturasi nima va uning asosiy vazifalari nimalardan iborat?",
+    "options": {
+      "A": "Ilovaning foydalanuvchi interfeysidagi ranglarni tanlash",
+      "B": "Tizimning asosiy komponentlari va ularning o'zaro aloqalarini belgilash, sifat atributlarini ta'minlash",
+      "C": "Faqatgina dastur kodini yozish va xatolarni to'g'rilash",
+      "D": "Mijozlar bilan shartnomalar tuzish va byudjetni hisoblash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Dasturiy ta’minot arxitekturasining asosiy tamoyillari qaysilar?",
+    "options": {
+      "A": "Modullilik, past bog'liqlik (loose coupling), yuqori uyg'unlik (high cohesion), va inkapsulyatsiya",
+      "B": "Faqat obyektga yo'naltirilgan tillardan foydalanish",
+      "C": "Ma'lumotlarni doimiy ravishda global o'zgaruvchilarda saqlash",
+      "D": "Barcha kodni bitta faylga yozish va interfeyslarni yashirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Arxitektura komponentlari va ularning o‘zaro aloqalari qanday tashkil etiladi?",
+    "options": {
+      "A": "Faqat bitta monolit markaziy protsessor orqali",
+      "B": "Hech qanday qoidalarsiz, ixtiyoriy ravishda",
+      "C": "Tarmoq kabellarini to'g'ridan-to'g'ri ulash orqali",
+      "D": "Aniq belgilangan interfeyslar va aloqa protokollari orqali (masalan, API)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Dasturiy ta’minot arxitekturasida qatlamlar qanday tashkil etiladi?",
+    "options": {
+      "A": "Foydalanuvchilarning yoshiga qarab qatlamlarga ajratiladi",
+      "B": "Faqat ikkita qatlam: ichki va tashqi shaklda bo'ladi",
+      "C": "Mas'uliyatlarga ko'ra mantiqiy darajalarga bo'linadi (Taqdimot, Mantiq, Ma'lumot)",
+      "D": "Faqat xotira hajmiga qarab jismoniy serverlarga bo'linadi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Arxitektura patternlari nima va ular qanday maqsadda qo‘llaniladi?",
+    "options": {
+      "A": "Ma'lumotlar bazasini arxivlash usullari",
+      "B": "Ilovalarning ishlash tezligini o'lchovchi vositalar",
+      "C": "Dasturlash tilining sintaktik qoidalari to'plami",
+      "D": "Tez-tez uchraydigan arxitektura muammolari uchun tayyor, qayta foydalanish mumkin bo'lgan yechimlar"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Modullashtirish nima va dasturiy ta’minotda qanday afzalliklarga ega?",
+    "options": {
+      "A": "Kodni shifrlash orqali xavfsizlikni oshirish",
+      "B": "Faqatgina ma'lumotlar bazasi jadvallarini guruhlash",
+      "C": "Tizimni ajratib bo'lmaydigan bitta yirik blokka aylantirish",
+      "D": "Tizimni mustaqil qismlarga bo'lish; bu saqlashni, testlashni va yangilashni osonlashtiradi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Xizmatga yo‘naltirilgan arxitektura (SOA) qanday ishlaydi?",
+    "options": {
+      "A": "Barcha xizmatlar bitta server xotirasida ishlaydi",
+      "B": "Tizim oflayn rejimda ishlashga to'liq ixtisoslashadi",
+      "C": "Mustaqil xizmatlar tarmoq orqali standart protokollar (SOAP/REST) yordamida muloqot qiladi",
+      "D": "Foydalanuvchi faqat bitta xizmatdan foydalana oladi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Dasturiy ta’minot arxitekturasida interfeyslar qanday rol o‘ynaydi?",
+    "options": {
+      "A": "Kodni xakerlardan to'liq himoya qiladi",
+      "B": "Foydalanuvchiga faqat grafik menyularni ko'rsatadi",
+      "C": "Dasturning qancha xotira iste'mol qilishini cheklaydi",
+      "D": "Komponentlar o'rtasida shartnoma vazifasini bajarib, ularning qanday muloqot qilishini belgilaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Yaxshi dasturiy ta’minot arxitekturasining belgilari qanday?",
+    "options": {
+      "A": "Tizimni yangilash uchun barcha kodni boshqatdan yozish talab etiladi",
+      "B": "Tizim bitta fayldan iborat va hech qanday interfeysga ega emas",
+      "C": "Tizim barqaror, kengaytiriluvchi, saqlash oson va sifat atributlariga mos keladi",
+      "D": "Faqat ma'lum bir apparat ta'minotidagina ishlay oladi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "topic": "1-Mavzu: Dasturiy ta'minot arxitekturasi",
+    "question": "Dasturiy ta’minot arxitekturasini loyihalash jarayoni qanday bosqichlardan iborat?",
+    "options": {
+      "A": "Faqat dizayn chizish va mijozga topshirish",
+      "B": "Kodlash, testlash, sotish va reklama qilish",
+      "C": "Talablarni tahlil qilish, arxitektura tanlash, komponentlarni loyihalash va hujjatlashtirish",
+      "D": "Faqat ma'lumotlar bazasini yaratish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Dasturiy ta’minot hayot sikli (SDLC) nima?",
+    "options": {
+      "A": "Dastur kodlarini kompilyatsiya qiluvchi dastur",
+      "B": "Dasturiy mahsulotni yaratish, joriy etish va qo'llab-quvvatlash bo'yicha standartlashgan jarayonlar ketma-ketligi",
+      "C": "Faqat dasturchilarning ish vaqtini hisoblovchi tizim",
+      "D": "Operatsion tizimni o'rnatish jarayoni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "SDLC ning asosiy bosqichlari qanday?",
+    "options": {
+      "A": "O'qish, Yozish, Tahrirlash, O'chirish",
+      "B": "Rejalashtirish, Talablarni yig'ish, Dizayn, Ishlab chiqish, Testlash, Joriy etish, Xizmat ko'rsatish",
+      "C": "Kodlash, O'rnatish, O'chirish",
+      "D": "Xarid qilish, Ishlatish, Qaytarib berish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "SDLC modelini tanlashda nimalarga e’tibor berish kerak?",
+    "options": {
+      "A": "Faqat dasturchilarning xohishiga",
+      "B": "Dasturlash tillarining mashhurligiga",
+      "C": "Serverlarning jismoniy og'rligiga",
+      "D": "Loyihaning murakkabligi, byudjet, vaqt, mijoz talablarining aniqligi va jamoa tajribasi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Dasturiy ta’minot tizimining hayot siklini boshqarishdagi asosiy maqsad nima?",
+    "options": {
+      "A": "Hech qanday hujjatlashtirish ishlarini bajarmaslik",
+      "B": "Dastur kodlarini maksimal darajada uzaytirish",
+      "C": "Faqat dasturni sotishdan tushadigan daromadni yashirish",
+      "D": "Sifatli dasturiy ta'minotni muddatida va byudjet doirasida muvaffaqiyatli ishlab chiqishni ta'minlash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Inkremental model nima va uning asosiy afzalliklari nimalardan iborat?",
+    "options": {
+      "A": "Tizimni qismlarga bo'lib, har bir qismni bosqichma-bosqich yetkazib berish; erta ishchi versiya olinadi",
+      "B": "Barcha qismlarni bir-biriga qattiq bog'lash; xavfsizlik oshadi",
+      "C": "Faqat qog'ozda chizish; kod yozilmaydi",
+      "D": "Butun tizimni bir vaqtda yakunlash; dizayn qilish osonlashadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Evolyutsion prototiplash modelining qanday afzallik va kamchiliklari bor?",
+    "options": {
+      "A": "Afzalligi: mijoz talabini aniq tushunish oson. Kamchiligi: vaqt cho'zilishi va doimiy o'zgarishlar",
+      "B": "Afzalligi: xavfsizlik 100% kafolatlanadi. Kamchiligi: hujjat ko'p",
+      "C": "Afzalligi: faqat bitta kompyuterda ishlaydi. Kamchiligi: sekin",
+      "D": "Afzalligi: hech qanday kod yozilmaydi. Kamchiligi: qimmatbaho"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Tashlab yuboriladigan prototiplash (Throwaway prototyping) modeli qanday ishlaydi?",
+    "options": {
+      "A": "Prototip faqat talablarni tushunish uchun yaratiladi va aniq bo'lgach tashlab yuborilib, haqiqiy tizim noldan yoziladi",
+      "B": "Prototip tayyor bo'lishi bilan darhol mijozga sotiladi",
+      "C": "Prototip doimiy ravishda asosiy tizim sifatida ishlatiladi",
+      "D": "Hech qanday prototip yaratilmaydi, to'g'ridan-to'g'ri kodlanadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Spiral model qanday ishlaydi va u qachon qo‘llaniladi?",
+    "options": {
+      "A": "Faqat bitta iteratsiyadan iborat; tezkor loyihalar uchun",
+      "B": "Xavflarni tahlil qilishga asoslangan iterativ yondashuv; yirik va xavfi yuqori loyihalarda qo'llaniladi",
+      "C": "Faqat ma'lumotlar bazasi loyihalarida ishlatiladi",
+      "D": "Xavflarga e'tibor bermaydi; kichik web saytlarda ishlatiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "V-model nimasi bilan Waterfall modelidan farq qiladi?",
+    "options": {
+      "A": "V-modelda faqat bitta bosqich mavjud",
+      "B": "Hech qanday farqi yo'q, ikkisi bir xil",
+      "C": "Har bir ishlab chiqish bosqichi o'ziga mos testlash bosqichiga ega va sinov rejalari erta tuziladi",
+      "D": "Waterfall modelida testlash umuman bo'lmaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Dizayn uslubi nima va dasturiy ta’minot arxitekturasida qanday rol o‘ynaydi?",
+    "options": {
+      "A": "Dasturlash tilining sintaktik qoidalari ro'yxati",
+      "B": "Faqat serverning markasi va turini belgilovchi hujjat",
+      "C": "Faqat foydalanuvchi interfeysidagi rang va shriftlar to'plami",
+      "D": "Tizim tashkil etishning umumiy qoidalari va yondashuvlari; tizim dizayni uchun shablon bo'lib xizmat qiladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Qatlamli (Layered) arxitektura uslubi nima va uning asosiy afzalliklari nimalardan iborat?",
+    "options": {
+      "A": "Barcha kodni bitta yirik komponentga jamlash; o'ta tezkor ishlash",
+      "B": "Tizimni mantiqiy darajalarga bo'lish; mas'uliyatlarni ajratish (Separation of concerns) va mustaqil yangilash afzalligiga ega",
+      "C": "Tizimni tarmoq bo'ylab cheksiz serverlarga tarqatish",
+      "D": "Faqatgina ma'lumotlar bazasini qismlarga bo'lish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Xizmatga yo‘naltirilgan arxitektura (SOA) qanday ishlaydi va uning asosiy xususiyatlari nimalar?",
+    "options": {
+      "A": "Barcha amallar oflayn rejimda, bitta faylda bajariladi",
+      "B": "Tizim faqatgina mobil qurilmalarga mo'ljallangan bo'ladi",
+      "C": "Faqat bitta dasturchi tomonidan yaratilishi shart",
+      "D": "Xizmatlar tarmoq orqali muloqot qiladi; asosiy xususiyatlari qayta foydalanish, standart interfeyslar va zaif bog'liqlik"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Mikroxizmatlar arxitekturasi (Microservices) nima va u qanday tizimlarda qo‘llaniladi?",
+    "options": {
+      "A": "Xotirasiz ishlaydigan apparat ta'minotlarida qo'llaniladi",
+      "B": "Kichik, mustaqil joylashtiriladigan xizmatlar to'plami; tez-tez yangilanadigan va masshtablanuvchi yirik bulutli tizimlarda qo'llaniladi",
+      "C": "Faqat o'yin dasturlarini yaratish uchun mo'ljallangan uslub",
+      "D": "Bitta yirik va monolit dastur; faqat eski va kichik loyihalarda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Chaqiruv va qaytish (Call-and-Return) uslubi qanday vazifani bajaradi?",
+    "options": {
+      "A": "Ma'lumotlarni faqat yozadi, lekin o'qimaydi",
+      "B": "Barcha tizimlar bir vaqtda mustaqil ishlaydi (Asinxron)",
+      "C": "Bosh dastur quyi funksiyalarni chaqiradi va javobni kutib turadi (Sinxron boshqaruv)",
+      "D": "Klient serverga mutlaqo ulanmaydi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Ma’lumotlarga asoslangan arxitektura (Data-Centric Architecture) qanday tizimlar uchun mos keladi?",
+    "options": {
+      "A": "Foydalanuvchi interfeysi har daqiqada o'zgaradigan tizimlar uchun",
+      "B": "Faqat videolarni ko'rsatishga ixtisoslashgan o'yinlar uchun",
+      "C": "Ma'lumotlar bazasi markaziy o'rin tutadigan, bir nechta komponentlar bir xil ma'lumotlarni ulashadigan tizimlar uchun",
+      "D": "Ma'lumotlar umuman saqlanmaydigan tizimlar uchun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Komponentga asoslangan arxitektura (Component-Based Architecture) qanday afzalliklarga ega?",
+    "options": {
+      "A": "Hech qachon o'zgarmasligi va yangilanmasligi",
+      "B": "Hech qanday qo'shimcha komponent qabul qilmasligi",
+      "C": "Barcha qismlarning bir-biriga qattiq bog'liqligi sabab xatoni tez topish",
+      "D": "Qayta foydalanish imkoniyati, almashtiriluvchanlik, va tizimni modullarda mustaqil rivojlantirish osonligi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Dasturiy ta’minot arxitekturasining sifat atributlari nimani anglatadi?",
+    "options": {
+      "A": "Faqat dasturning grafik ko'rinishi sifatini",
+      "B": "Dastur hajmining necha megabayt ekanligini",
+      "C": "Tizimning qanday ishlashini belgilovchi xususiyatlar (masalan: tezlik, xavfsizlik, barqarorlik)",
+      "D": "Dasturchilarning ish haqi miqdorini"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Dasturiy ta’minot arxitekturasining yengillik atributi (Maintainability) nima?",
+    "options": {
+      "A": "Dasturni o'rnatish uchun ketadigan vaqtning qisqaligi",
+      "B": "Dasturning xotirada egallaydigan joyi kichikligi",
+      "C": "Tizimdagi xatolarni topish, tuzatish va yangi funksiyalarni qo'shishning osonlik darajasi",
+      "D": "Interfeys ranglarining ochiq va yorqinligi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Samaradorlik (Performance) atributining dasturiy ta’minot arxitekturasi uchun ahamiyati qanday?",
+    "options": {
+      "A": "Dasturni sotishdan tushadigan foydani belgilaydi",
+      "B": "Koddagi izohlar (comment) qanchalik ko'pligini ko'rsatadi",
+      "C": "Faqatgina serverning qimmatligini anglatadi",
+      "D": "Tizimning so'rovlarga qay darajada tez va kam resurs sarflab javob berishini belgilaydi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Dasturiy ta’minot arxitekturasida xavfsizlik (Security) atributining roli qanday?",
+    "options": {
+      "A": "Tizimni va ma'lumotlarni ruxsatsiz kirish, hujumlar va ma'lumot sizishidan himoya qiladi",
+      "B": "Dasturni faqat bitta parolsiz ochiq qilib qo'yadi",
+      "C": "Tarmoq ulanishlarini to'liq uzib qo'yadi",
+      "D": "Foydalanuvchilarni umuman tizimga kiritmaydi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Zaxira va tiklanish atributi (Reliability/Availability) nima uchun muhim?",
+    "options": {
+      "A": "Faqat eski ma'lumotlarni o'chirib yuborish uchun",
+      "B": "Qattiq disklarni tez-tez formatlash uchun",
+      "C": "Hech qachon kerak bo'lmaydi",
+      "D": "Nosozliklar yuz berganda tizim ishdan chiqmasligi va ma'lumotlar yo'qolmasligi uchun"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 32,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Uzluksizlik (Availability) atributining dasturiy ta’minot arxitekturasida roli qanday?",
+    "options": {
+      "A": "Tizimning foydalanuvchilar uchun qancha vaqt davomida to'xtovsiz xizmat ko'rsata olishini belgilaydi",
+      "B": "Dasturchilarning tinimsiz dam olmasdan ishlashini anglatadi",
+      "C": "Elektr energiyasining doimiy borligiga kafolat beradi",
+      "D": "Faqat kunduzi ishlashni nazarda tutadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Tizimning kengaytirilishi atributi (Scalability) qanday tasvirlanadi?",
+    "options": {
+      "A": "Tizim yuklamasi oshganda (foydalanuvchilar ko'payganda) resurslarni oshirish orqali ishlashni barqaror saqlab qolish imkoniyati",
+      "B": "Dastur o'lchamini ekranda kattalashtirish imkoniyati",
+      "C": "Tizimni avtomatik ravishda boshqa tillarga tarjima qilish",
+      "D": "Faqat kod qatorlarini ko'paytirish qobiliyati"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Dasturiy ta’minot arxitekturasi qarorlari nima?",
+    "options": {
+      "A": "Dasturdagi kichik sintaktik xatolarni topish qarorlari",
+      "B": "Tizimning umumiy strukturasi, texnologiyalar toplaymi va dizayn shablonlarini tanlash bo'yicha strategik qarorlar",
+      "C": "Xodimlarga maosh to'lash va jamoa tuzish qarorlari",
+      "D": "Dasturning faqat logotipini o'zgartirish qarori"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Dasturiy ta’minot arxitekturasi qarorlarini qabul qilishda eng muhim omillar nimalardan iborat?",
+    "options": {
+      "A": "Dasturlash tilining faqat qanchalik mashhurligi",
+      "B": "Biznes talablari, sifat atributlari (tezlik, xavfsizlik), jamoa tajribasi va cheklovlar",
+      "C": "Faqat dizaynerning shaxsiy didi",
+      "D": "Boshqa kompaniyalarning logotiplari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Texnologiyalar va platformalarni tanlashda qanday mezonlar hisobga olinadi?",
+    "options": {
+      "A": "Loyiha talablariga mosligi, jamoa bilimi, qo'llab-quvvatlash darajasi (Community) va litsenziya xarajatlari",
+      "B": "Platformaning logotipi rangi",
+      "C": "Faqat texnologiyaning yangiligi va trenddaligi",
+      "D": "Hech qanday mezon yo'q, tasodifiy tanlanadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Arxitektura qarorlarini qabul qilishda xavfsizlikni ta’minlashning o‘rni qanday?",
+    "options": {
+      "A": "Xavfsizlik arxitekturaga umuman aloqador emas",
+      "B": "Xavfsizlik eng muhim qismlardan biri bo'lib, u arxitekturaning barcha qatlamlarida boshidan hisobga olinishi shart",
+      "C": "Xavfsizlik eng oxirgi o'rinda turadi, dastur tayyor bo'lgach o'ylanadi",
+      "D": "Xavfsizlik faqat mijozning muammosi hisoblanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Arxitektura qarorlarining tizimning samaradorligi va ishlashiga qanday ta’sir qilishi mumkin?",
+    "options": {
+      "A": "To'g'ri qarorlar tezlikni ta'minlasa, noto'g'ri arxitektura tanlash (masalan, noto'g'ri ma'lumotlar bazasi) tizimning qotib qolishiga olib keladi",
+      "B": "Arxitektura samaradorlikka umuman ta'sir qilmaydi",
+      "C": "Arxitektura faqat dastur hajmiga ta'sir qiladi, tezligiga emas",
+      "D": "Dastur faqat internet tezligiga qarab sekinlashadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "Domen-Drayver Dizayn (DDD) nima va uning asosiy maqsadi nimadan iborat?",
+    "options": {
+      "A": "Faqat grafik dizayn (UI/UX) yaratish uslubi",
+      "B": "Dastur arxitekturasini real biznes muammolari (domen) va mantig'iga to'liq moslashtirib loyihalash uslubi",
+      "C": "Dasturlarni serverlarga o'rnatish tizimi",
+      "D": "Foydalanuvchilarni ro'yxatdan o'tkazish avtomatizatsiyasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "DDD da “domen” tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Dastur joylashgan veb-sayt manzili (domain name)",
+      "B": "Dasturiy ta'minot hal qilishi kerak bo'lgan real biznes sohasi yoki muammolar sohasi (masalan, bank ishi, elektron tijorat)",
+      "C": "Ma'lumotlar bazasidagi jadvallar soni",
+      "D": "Faqatgina dasturlash tili kutubxonasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "DDD arxitekturasida “Entity” va “Value Object” o‘rtasidagi farq nima?",
+    "options": {
+      "A": "Ikkalasi bir xil, farqi yo'q",
+      "B": "Entity o'ziga xos ID ga (Identity) ega bo'ladi, Value Object esa faqat atributlar to'plamidan iborat va ID si bo'lmaydi",
+      "C": "Entity mijoz tomonida, Value Object server tomonida ishlaydi",
+      "D": "Entity faqat matnlarni, Value Object faqat raqamlarni saqlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "“Aggregate” va “Aggregate Root” tushunchalari nima va ular qanday ishlaydi?",
+    "options": {
+      "A": "Aggregate - o'zaro bog'liq obyektlar to'plami. Aggregate Root - tashqaridan kirish mumkin bo'lgan yagona asosiy obyekt",
+      "B": "Ularning ikkisi ham foydalanuvchi interfeysi tugmalari",
+      "C": "Bular faqat matematik yig'indilarni hisoblovchi funksiyalar",
+      "D": "Ikkalasi faqat ma'lumotlar bazasini guruhlash uchun indekslar"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "DDD da “Repository” qanday vazifani bajaradi?",
+    "options": {
+      "A": "Ilovaning grafik oynalarini saqlaydigan arxiv",
+      "B": "Foydalanuvchilarning shaxsiy rasmlarini saqlash papkasi",
+      "C": "Domen obyektlarini (Aggregates) ma'lumotlar omboriga saqlash va u yerdan izlab topish (chiqarib olish) inkapsulyatsiyasi",
+      "D": "Faqatgina kodlarni saqlash joyi (Github kabi)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "“Bounded Context” nima va nega u DDD da muhim hisoblanadi?",
+    "options": {
+      "A": "Har bir biznes modelining aniq va qat'iy chegarasi. Bir xil atama turli kontekstlarda turlicha ma'no anglatishini ajratib beradi",
+      "B": "Serverdagi xotira chegarasi",
+      "C": "Tarmoq trafigini chegaralash vositasi",
+      "D": "Faqat kodlashdagi shart (if/else) chegaralari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Quyi tizim (subsystem) deganda nima tushuniladi?",
+    "options": {
+      "A": "Kattaroq tizimning muayyan, nisbatan mustaqil funksiyani bajaruvchi yirik, mantiqiy qismi (komponentlar yig'indisi)",
+      "B": "Faqat apparat ta'minoti qismi",
+      "C": "Barcha tizimlardan butunlay uzilgan alohida dastur",
+      "D": "Kichik, bitta qatordan iborat funksiya"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Tizimni quyi tizimlarga ajratishning asosiy maqsadi nima?",
+    "options": {
+      "A": "Tizimni sekinlashtirish va kodni chigallashtirish",
+      "B": "Faqatgina fayllar sonini sun'iy ravishda ko'paytirish",
+      "C": "Hech qanday maqsadi yo'q, bu ixtiyoriy",
+      "D": "Murakkablikni boshqarish, modullarni mustaqil ishlab chiqish, testlash va qayta foydalanishni ta'minlash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Quyi tizimlar o‘rtasidagi aloqa turlariga nimalar kiradi?",
+    "options": {
+      "A": "Bluetooth va infraqizil nurlar",
+      "B": "API chaqiruvlari, hodisalar (Events/Messaging), va ma'lumotlar bazasi orqali ma'lumot ulashish",
+      "C": "Tizimlar umuman aloqa qilmaydi",
+      "D": "Faqat printer orqali qog'ozga chiqarish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Dizayn prinsiplari (modullilik, past bog‘liqlik, yuqori uyg‘unlik) nima uchun muhim?",
+    "options": {
+      "A": "Quyi tizimlar bir-biriga qaram bo'lmasligi, o'zgarishlar oson kiritilishi va tizimning barqarorligini ta'minlash uchun",
+      "B": "Foydalanuvchiga hech qanday vizual ta'sir qilmaydi",
+      "C": "Kodni ko'proq xato qilishga undash uchun",
+      "D": "Faqatgina dastur hajmini oshirish uchun"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Taqsimlangan tizim (distributed system) deganda nima tushuniladi?",
+    "options": {
+      "A": "Barcha komponentlari bitta jismoniy kompyuterda joylashgan tizim",
+      "B": "Elektr ta'minoti tarqatish tarmog'i",
+      "C": "Turli xil kompyuterlarda (tugunlarda) joylashgan, ammo foydalanuvchiga yagona yagona tizim sifatida ko'rinadigan tarmoq tizimi",
+      "D": "Faqatgina oflayn rejimda ishlaydigan mobil ilova"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Vertikal va gorizontal masshtablash (scaling) o‘rtasidagi farq nima?",
+    "options": {
+      "A": "Vertikal - mavjud server quvvatini oshirish (RAM, CPU). Gorizontal - yangi serverlarni parallel ravishda qo'shish",
+      "B": "Vertikal faqat ma'lumotlar bazasiga, gorizontal faqat serverga taalluqli emas",
+      "C": "Ikkalasi ham faqat ekranni kattalashtirishni anglatadi",
+      "D": "Vertikal - dizaynni o'zgartirish, Gorizontal - kodni o'zgartirish"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Load balancer (yuk taqsimlovchi) nima vazifa bajaradi?",
+    "options": {
+      "A": "Ma'lumotlar bazasidagi xatolarni o'chirib tashlaydi",
+      "B": "Tarmoqdagi viruslarni tarqatadi",
+      "C": "Serverlarni elektr bilan ta'minlaydi",
+      "D": "Kirib kelayotgan tarmoq so'rovlarini bir nechta serverlar o'rtasida teng taqsimlab, ortiqcha yuklanishni oldini oladi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Kesh (cache) nima va tizim tezligiga qanday ta’sir qiladi?",
+    "options": {
+      "A": "Tez-tez ishlatiladigan ma'lumotlarni vaqtinchalik xotirada saqlab, so'rovlarga tezkor javob berish orqali tizim tezligini oshiradi",
+      "B": "Kesh tizimni doimiy sekinlashtiruvchi virusdir",
+      "C": "Ma'lumotlarni butunlay o'chirib tashlovchi xotira turi",
+      "D": "Faqat parollarni yashirish uchun mo'ljallangan fayl"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Asinxron (asynchronous) ishlash nima va qachon ishlatiladi?",
+    "options": {
+      "A": "Internet yo'q bo'lgandagina ishlatiladi",
+      "B": "Jarayonlar bir-birini kutmasdan parallel bajarilishi; og'ir va ko'p vaqt oladigan operatsiyalarda (masalan, email jo'natish) ishlatiladi",
+      "C": "Barcha operatsiyalar ketma-ket, bir-birini kutib bajarilishi",
+      "D": "Faqat kompyuter o'chganida ishlaydigan jarayon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Klient–server arxitekturasi nima va uning asosiy mohiyati nimadan iborat?",
+    "options": {
+      "A": "Barcha ishlarni faqat mijoz o'zi mustaqil bajaradi",
+      "B": "Faqat ikkita server bir-biri bilan ishlaydi",
+      "C": "Tarmoqqa ulanmagan ikkita alohida kompyuter arxitekturasi",
+      "D": "Vazifalar resurs so'rovchi (Klient) va uni taqdim etuvchi (Server) o'rtasida taqsimlangan arxitektura"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Klient–server tizimida so‘rov–javob (request–response) mexanizmi qanday ishlaydi?",
+    "options": {
+      "A": "Javoblar doim xato bo'lib qaytadi",
+      "B": "Klient serverga so'rov yuboradi, server so'rovni qayta ishlab, natijani (javobni) klientga qaytaradi",
+      "C": "Klient va Server hech qachon ma'lumot almashmaydi",
+      "D": "Server o'z-o'zidan klientga so'rov jo'natib turadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Ikki pog‘onali (two-tier) arxitektura nima va u qanday tuzilishga ega?",
+    "options": {
+      "A": "Tizimda umuman server bo'lmaydi",
+      "B": "Tizim uchta qismdan iborat bo'ladi",
+      "C": "Faqatgina ma'lumotlar bazalaridan iborat",
+      "D": "Mijoz (foydalanuvchi interfeysi) va to'g'ridan-to'g'ri Ma'lumotlar bazasi (Server) qatlamlaridan iborat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Microservices arxitekturasi nima va uning asosiy konsepsiyasi qanday?",
+    "options": {
+      "A": "Barcha mantiqni yagona katta faylga yig'ish",
+      "B": "Tizimni kichik, mustaqil va har biri bitta biznes vazifani bajaruvchi avtonom xizmatlarga ajratib qurish",
+      "C": "Tarmoqsiz ishlaydigan lokal ma'lumotlar bazasi tizimi",
+      "D": "Faqat apparat darajasida serverlarni bo'lish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Microservices an'anaviy Monolit arxitekturasidan nimasi bilan farq qiladi?",
+    "options": {
+      "A": "Monolitda barcha komponentlar yagona jarayonda ishlaydi, mikroxizmatlarda esa har biri alohida jarayonda mustaqil ishlaydi",
+      "B": "Mikroxizmatlar faqat Java da yoziladi, monolit esa barcha tillarda",
+      "C": "Monolit har doim bulutda, mikroxizmatlar oflayn ishlaydi",
+      "D": "Ular o'rtasida hech qanday farq yo'q"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "API Gateway nima va u mikroservis arxitekturasida qanday vazifani bajaradi?",
+    "options": {
+      "A": "Mijoz so'rovlarini qabul qilib, ularni tegishli mikroxizmatlarga yo'naltiruvchi va xavfsizlikni ta'minlovchi yagona kirish nuqtasi",
+      "B": "Kodlarni kompilyatsiya qiluvchi muhit",
+      "C": "Faqat grafik foydalanuvchi interfeysi",
+      "D": "Mikroxizmatlar bazalarini o'chirib yuboruvchi skript"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Microservices arxitekturasida ma'lumotlar qanday boshqariladi?",
+    "options": {
+      "A": "Ma'lumotlar umuman saqlanmaydi, doim o'chib turadi",
+      "B": "Markazsizlashtirilgan tarzda: har bir mikroxizmat o'zining shaxsiy (alohida) ma'lumotlar bazasiga ega bo'lishi maqsadga muvofiq",
+      "C": "Ma'lumotlar faqat foydalanuvchi kompyuterida saqlanadi",
+      "D": "Barcha xizmatlar bitta umumiy gigant ma'lumotlar bazasidan foydalanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "topic": "11-Mavzu: Hexagonal arxitekturasi",
+    "question": "Hexagonal arxitektura nima?",
+    "options": {
+      "A": "Bulutli tizimlarda oltita serverni parallel ulash",
+      "B": "Faqat grafik dizaynda olti burchak shakllardan foydalanish",
+      "C": "Yadro (Domain) mantiqni tashqi vositalardan (DB, UI) izolyatsiya qilib, portlar va adapterlar orqali bog'lovchi arxitektura (Ports and Adapters)",
+      "D": "Oltita turli xil tillarda kod yozish majburiyati"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "topic": "11-Mavzu: Hexagonal arxitekturasi",
+    "question": "Ushbu arxitektura qanday asosiy qismlardan tashkil topgan va ularning vazifalari qanday?",
+    "options": {
+      "A": "Fizik qatlam, Tarmoq qatlami, Ilova qatlami",
+      "B": "Front-end, Back-end va Ma'lumotlar bazasi",
+      "C": "Faqat Mijoz va Server komponentlari",
+      "D": "Markazda Biznes mantiq (Domain), atrofida esa tashqi dunyo bilan aloqa qilish uchun Portlar va Adapterlar (Inbound/Outbound)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 63,
+    "topic": "11-Mavzu: Hexagonal arxitekturasi",
+    "question": "Hexagonal arxitektura dasturiy ta’minotni test qilishni qanday osonlashtiradi?",
+    "options": {
+      "A": "Test qilishni mutlaqo imkonsiz qilib qo'yadi",
+      "B": "Tashqi tizimlar o'rniga soxta (Mock) adapterlar ulab, biznes mantiqni izolyatsiyada, bazaga ulanmasdan tezkor sinab ko'rish imkonini beradi",
+      "C": "Kodni kompilyator orqali tekshirishni bekor qiladi",
+      "D": "Barcha testlarni foydalanuvchi avtomatik o'zi bajaradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "topic": "16-Mavzu: Bulut texnologiyalari",
+    "question": "Bulut texnologiyalari (Cloud Computing) nima?",
+    "options": {
+      "A": "Osmondagi haqiqiy bulutlardan energiya olish usuli",
+      "B": "Faqat ijtimoiy tarmoqlardagi xabarlarni saqlash",
+      "C": "Internet orqali hisoblash resurslari (serverlar, xotira, ma'lumotlar bazasi, dasturiy ta'minot) ni ijaraga olish va foydalanish xizmati",
+      "D": "Kompyuterni viruslardan himoya qilish dasturi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "topic": "16-Mavzu: Bulut texnologiyalari",
+    "question": "Bulut xizmatlarining asosiy turlari (IaaS, PaaS, SaaS) nimalardan iborat?",
+    "options": {
+      "A": "IaaS - hardware, PaaS - hardware, SaaS - hardware",
+      "B": "Uchchalasi ham bir xil, faqat nomlari boshqa",
+      "C": "IaaS-Infratuzilma (Serverlar), PaaS-Platforma (Dasturlash muhiti), SaaS-Dasturiy ta'minot (Tayyor ilovalar: masalan Gmail)",
+      "D": "IaaS-Internet, PaaS-Printer, SaaS-Skaner"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "topic": "16-Mavzu: Bulut texnologiyalari",
+    "question": "Public, Private va Hybrid bulut modellari nimasi bilan farq qiladi?",
+    "options": {
+      "A": "Public - hamma uchun ochiq, Private - bitta tashkilot uchun yopiq, Hybrid - har ikkalasining xavfsiz va moslashuvchan aralashmasi",
+      "B": "Private modeli umuman mavjud emas",
+      "C": "Faqat narxida farq qiladi, barchasi ommaviy",
+      "D": "Public bulutlar faqat davlat tashkilotlari uchun"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "topic": "16-Mavzu: Bulut texnologiyalari",
+    "question": "Bulut tizimlarida masshtablash (scalability) nima va qanday amalga oshiriladi?",
+    "options": {
+      "A": "Dasturning xotira hajmini sun'iy ravishda nolga tushirish",
+      "B": "Foydalanuvchilarga tizimdan foydalanishni cheklab qo'yish",
+      "C": "Yuklama oshganda server resurslarini (CPU, RAM) avtomatik ravishda ko'paytirish (Auto-scaling) va yuklama kamayganda qisqartirish",
+      "D": "Barcha serverlarni bir vaqtda o'chirib qo'yish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "topic": "17-Mavzu: Katta ma'lumot (Big Data)",
+    "question": "Katta ma'lumot tizimlari (Big Data Systems) nima va ular qachon kerak bo'ladi?",
+    "options": {
+      "A": "Bir nechta matnli fayllarni saqlash uchun",
+      "B": "Faqat kompyuter xotirasini tozalash uchun",
+      "C": "Oddiy veb-saytning login-parollarini saqlash uchun",
+      "D": "An'anaviy bazalar ishlay olmaydigan darajada katta hajmdagi, turli xil va tez o'zgaruvchi ma'lumotlarni saqlash va tahlil qilish uchun kerak"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "topic": "17-Mavzu: Katta ma'lumot (Big Data)",
+    "question": "Lambda arxitekturasi nima va uning asosiy komponentlari qanday?",
+    "options": {
+      "A": "Ma'lumotlarni ham ommaviy (Batch qatlam), ham real vaqtda (Speed qatlam) qayta ishlay oluvchi arxitektura bo'lib, Serving qatlami natijalarni birlashtiradi",
+      "B": "Faqat bitta kompyuterda ishlaydigan kichik ma'lumotlar bazasi",
+      "C": "Ma'lumotlarni faqat grafik shishalarga (diagrammalarga) joylashtiruvchi arxitektura",
+      "D": "Foydalanuvchi interfeysini bezatishning bir usuli"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "topic": "17-Mavzu: Katta ma'lumot (Big Data)",
+    "question": "Katta ma'lumotlar tizimlarida ishlatiladigan mashhur texnologiyalar va asboblar qaysilar?",
+    "options": {
+      "A": "HTML, CSS, jQuery",
+      "B": "Photoshop, CorelDraw, Figma",
+      "C": "Apache Hadoop (saqlash/qayta ishlash), Apache Spark (tezkor tahlil), Apache Kafka (hodisalar oqimi)",
+      "D": "Microsoft Word, Excel, Paint"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "topic": "17-Mavzu: Katta ma'lumot (Big Data)",
+    "question": "Data Lake va Data Warehouse o'rtasidagi farqlar qanday?",
+    "options": {
+      "A": "Data Lake - qayta ishlanmagan turli xil xom ma'lumotlar saqlanadi. Data Warehouse - faqat strukturalangan, tozalangan ma'lumotlar tahlil uchun saqlanadi",
+      "B": "Data Lake faqat suv resurslarini boshqaradi",
+      "C": "Data Warehouse faqat kiyim-kechak do'konlari logistikasi uchun ishlatiladi",
+      "D": "Ikkalasi butunlay bir xil"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "topic": "18-Mavzu: Real vaqt (Real-time) arxitekturasi",
+    "question": "Real vaqt (real-time) arxitekturasi nima va u qachon ishlatiladi?",
+    "options": {
+      "A": "Faqat arxib qilingan ma'lumotlarni o'qish uchun",
+      "B": "Ma'lumotlar paydo bo'lishi bilan (hech qanday kechikishsiz) darhol uzatiladigan va qayta ishlanadigan tizimlar (chatlar, birja, jonli translatsiyalar)",
+      "C": "Ma'lumotni kiritgandan so'ng 1 soatdan so'ng javob beradigan tizim",
+      "D": "Ma'lumotlarni ertasi kuni qayta ishlovchi tizimlar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "topic": "18-Mavzu: Real vaqt (Real-time) arxitekturasi",
+    "question": "WebSocket texnologiyasining real vaqt arxitekturasidagi roli qanday?",
+    "options": {
+      "A": "Mijoz va server o'rtasida doimiy, ikki tomonlama (full-duplex) ulanishni ta'minlaydi, bu orqali ma'lumotlar bir zumda yetkaziladi",
+      "B": "Tarmoqni uzib qo'yish uchun ishlatiladi",
+      "C": "U faqat fayllarni yuklab olish uchun xizmat qiladi",
+      "D": "U so'rovlarni doimiy ravishda bloklab turadi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "topic": "20-Mavzu: Arxitekturani testlash",
+    "question": "Dasturiy ta'minot arxitekturasini testlashning asosiy maqsadi nima?",
+    "options": {
+      "A": "Testlashning maqsadi yo'q, u vaqt yo'qotish",
+      "B": "Faqat mijozning kompyuterini tekshirish",
+      "C": "Tanlangan arxitektura qarorlari loyiha talablari va sifat atributlariga (xavfsizlik, tezlik, miqyoslanuvchanlik) javob berishini erta tasdiqlash",
+      "D": "Dastur logotipi va ranglarini tekshirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "topic": "20-Mavzu: Arxitekturani testlash",
+    "question": "Ishlash (Performance) testlarini o'tkazishda JMeter yoki Gatling qanday ishlatiladi?",
+    "options": {
+      "A": "Tizimga bir vaqtning o'zida minglab virtual foydalanuvchilar (yuklama) yuborilib, tizim qotmasdan ishlay olishi tekshiriladi",
+      "B": "Ular faqat xavfsizlik parollarini buzadi",
+      "C": "Ular kod yozadigan matn muharrirlari",
+      "D": "Ular grafik interfeysni chizish uchun ishlatiladi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 76,
+    "topic": "21-Mavzu: Arxitekturani hujjatlashtirish",
+    "question": "Dasturiy ta’minot arxitekturasini hujjatlashtirishning asosiy maqsadlari nimalardan iborat?",
+    "options": {
+      "A": "Dasturni sekinlashtirish",
+      "B": "Tizim qanday tuzilganini barcha manfaatdor tomonlarga (dasturchilar, mijozlar) tushuntirish, bilimlarni saqlash va tizimga xizmat ko'rsatishni osonlashtirish",
+      "C": "Hujjatlar faqat arxitektorni jazolash uchun kerak",
+      "D": "Faqat mijozdan ko'proq pul undirish uchun qog'ozbozlik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "topic": "21-Mavzu: Arxitekturani hujjatlashtirish",
+    "question": "4+1 yondashuvi nimani anglatadi va uning qaysi ko'rinishlari mavjud?",
+    "options": {
+      "A": "Barcha hujjatlarni 5 nusxada chop etish",
+      "B": "Tizimni 5 ta serverda ishlatish majburiyati",
+      "C": "Tizimni 4 xil tomondan (Logical, Process, Development, Physical) va 1 ta umumiy Use-Case stsenariylari orqali tasvirlash uslubi",
+      "D": "Faqatgina matematika amallari to'plami"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "topic": "21-Mavzu: Arxitekturani hujjatlashtirish",
+    "question": "UML diagrammalarining turlari va ularning vazifalari qanday?",
+    "options": {
+      "A": "Foydalanuvchi qanday kiyinishini ko'rsatadi",
+      "B": "Ular faqat arxitektura dizaynida rang tanlash uchun kerak",
+      "C": "Dasturiy ta'minotni sotish grafiklari",
+      "D": "Sinf diagrammasi, ketma-ketlik, holat diagrammalari kabilar tizimning strukturaviy va dinamik xulq-atvorini vizual ko'rsatadi"
+    },
+    "answer": "D"
+  },
+  {
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Dasturiy ta’minot ishlab chiqish jarayoni qanday bosqichlardan iborat?",
+    "options": {
+      "A": "Talablarni yig'ish, loyihalash, kodlash (dasturlash), testlash, joriy etish va texnik qo'llab-quvvatlash",
+      "B": "Dizayn chizish, kompyuterni yoqish, kodni nusxalash",
+      "C": "Faqatgina ma'lumotlarni saqlash va himoyalash",
+      "D": "Faqat foydalanuvchi interfeysini yaratish va mijozga topshirish"
+    },
+    "answer": "A",
+    "id": 79
+  },
+  {
+    "topic": "2-Mavzu: Dasturiy ta'minot hayot sikli (SDLC)",
+    "question": "Tashlab yuboriladigan (Throwaway) prototiplash modeli qanday ishlaydi?",
+    "options": {
+      "A": "Mijoz talablarini yaxshiroq tushunish uchun vaqtinchalik prototip yaratiladi va u tushunib olingach, aslidastur noldan yoziladi",
+      "B": "Barcha yozilgan kodlar oxirida o'chirib yuboriladi va loyiha yopiladi",
+      "C": "Yaratilgan prototip to'g'ridan-to'g'ri yakuniy mahsulot sifatida mijozga sotiladi",
+      "D": "Dasturning xatolari ataylab ko'paytirilib, test uchun ishlatiladi"
+    },
+    "answer": "A",
+    "id": 80
+  },
+  {
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Dizayn naqshlari (Design Patterns) va dizayn uslublari (Architectural Styles) o‘rtasidagi farqlar nimalardan iborat?",
+    "options": {
+      "A": "Arxitektura uslublari butun tizimning umumiy strukturasini belgilaydi, dizayn naqshlari esa aniq, lokal muammolarni hal qiluvchi kod darajasidagi yechimlardir",
+      "B": "Ular mutlaqo bir xil tushunchalar bo'lib, ikkalasi ham faqat ma'lumotlar bazasida qo'llaniladi",
+      "C": "Dizayn naqshlari faqat front-end uchun, arxitektura uslublari faqat back-end uchun",
+      "D": "Arxitektura uslublari faqat ranglar va shriftlarni tanlash bilan shug'ullanadi"
+    },
+    "answer": "A",
+    "id": 81
+  },
+  {
+    "topic": "3-Mavzu: Arxitektura uslublari",
+    "question": "Tizim xavfsizligini ta’minlashda dizayn uslublarining qaysi xususiyatlari muhim ahamiyatga ega?",
+    "options": {
+      "A": "Komponentlarning izolyatsiyasi, mustaqilligi va qatlamlar o'rtasidagi qat'iy nazorat qilinuvchi aloqa protokollari",
+      "B": "Dasturning tez ishlashi va interfeysining chiroyli bo'lishi",
+      "C": "Kodning qisqa bo'lishi va sharhlarning (comments) ko'pligi",
+      "D": "Faqat bitta katta monolit blokda ishlashi"
+    },
+    "answer": "A",
+    "id": 82
+  },
+  {
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Dasturiy ta’minot arxitekturasining yengillik (Usability) atributi nima?",
+    "options": {
+      "A": "Foydalanuvchi tizim interfeysi orqali uni qanchalik tez o'rganib olishi va qulay foydalana olishi o'lchovi",
+      "B": "Dasturning juda oz megabayt joy egallashi",
+      "C": "Tizim kodining juda qisqa bo'lishi",
+      "D": "Faqat oddiy shriftlardan foydalanish"
+    },
+    "answer": "A",
+    "id": 83
+  },
+  {
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Dasturiy ta’minot arxitekturasining o‘zgaruvchanlik (Modifiability) atributi qanday tushuniladi?",
+    "options": {
+      "A": "Tizimga yangi xususiyatlar qo'shish yoki eskisini o'zgartirish qanchalik osonligi va qolgan tizimga qanday ta'sir qilishi o'lchovidir",
+      "B": "Dasturning faqat ranglarini o'zgartira olish xususiyati",
+      "C": "Tizimning kodi o'z-o'zidan va avtomatik o'zgarishi",
+      "D": "Dastur ishlayotgan vaqtda uning papkasini boshqa joyga ko'chirish qulayligi"
+    },
+    "answer": "A",
+    "id": 84
+  },
+  {
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Zaxira va tiklanish (Backup and Recovery) atributi nima uchun muhim?",
+    "options": {
+      "A": "Favqulodda vaziyatlar, xatolar yoki server o'chishidan keyin yo'qotilgan ma'lumotlarni qayta tiklash va ishni davom ettirish uchun",
+      "B": "Dastur hajmini oshirish uchun ataylab fayllarni nusxalash maqsadida",
+      "C": "Faqat arxivdagi hujjatlarni o'qish uchun",
+      "D": "Xavfsizlik atributini sekinlashtirish uchun"
+    },
+    "answer": "A",
+    "id": 85
+  },
+  {
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Tizimning kengaytirilishi (Scalability) atributi qanday tasvirlanadi?",
+    "options": {
+      "A": "Foydalanuvchilar soni yoki ma'lumotlar hajmi ortganda tizimning ish sifatini tushirmasdan quvvatini oshira olish qobiliyati",
+      "B": "Monitor ekranining o'lchamiga qarab dasturning kattalashishi",
+      "C": "Faqat bir vaqtda ikkita foydalanuvchiga xizmat ko'rsata olishi",
+      "D": "Kengaytirilish faqat dasturning litsenziya narxining oshishini bildiradi"
+    },
+    "answer": "A",
+    "id": 86
+  },
+  {
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Uzluksizlik (Reliability) atributining dasturiy ta’minot arxitekturasida roli qanday?",
+    "options": {
+      "A": "Tizimning ma'lum vaqt oralig'ida va turli sharoitlarda xatosiz ishlashini va kutilgan natijani berishini ta'minlaydi",
+      "B": "Tizimning faqat tunda ishlashini ta'minlaydi",
+      "C": "Dastur xatoga uchragan zahoti darhol kompyuterni o'chirib qo'yishi",
+      "D": "Dasturchilarga doimiy ravishda ish haqi berilishini ta'minlaydi"
+    },
+    "answer": "A",
+    "id": 87
+  },
+  {
+    "topic": "4-Mavzu: Sifat atributlari",
+    "question": "Modularlik va integratsiyaning arxitektura sifatlaridagi o‘rni qanday?",
+    "options": {
+      "A": "Tizimni mustaqil, qayta ishlatiladigan kichik qismlarga (modullarga) ajratib, ularni osongina birlashtirish va yangilash imkonini beradi",
+      "B": "Modularlik faqat tashqi qurilmalarni ulashni ta'minlaydi",
+      "C": "Tizimni murakkablashtiradi va qismlarga bo'lishni imkonsiz qiladi",
+      "D": "Kodning faqat bir xil qatorda yozilishini talab qiladi"
+    },
+    "answer": "A",
+    "id": 88
+  },
+  {
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Arxitektura qarorlari (Architecture Decisions) nima?",
+    "options": {
+      "A": "Dasturiy ta'minotni loyihalashda tizimning tuzilishi, texnologiyalari va sifat atributlari bo'yicha qabul qilingan muhim va strategik tanlovlardir",
+      "B": "Faqat dasturlash tilining qaysi versiyasida kod yozishni belgilaydigan qoidalar",
+      "C": "Foydalanuvchi interfeysi uchun tanlangan ranglar jamlanmasi",
+      "D": "Mijoz bilan imzolangan moliyaviy shartnomalar ro'yxati"
+    },
+    "answer": "A",
+    "id": 89
+  },
+  {
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Talablar yig‘ish jarayonida qanday metodlar va texnikalar ishlatiladi?",
+    "options": {
+      "A": "Intervyu, so'rovnomalar o'tkazish, hujjatlarni tahlil qilish, prototiplash va Use-Case diagrammalarini yaratish",
+      "B": "Faqatgina dasturchilar o'rtasida shaxsiy fikr almashish",
+      "C": "Dasturni yozishdan oldin faqat taxminlarga asoslanib ish boshlash",
+      "D": "Faqatgina kod yozgandan keyingina mijozdan so'rash"
+    },
+    "answer": "A",
+    "id": 90
+  },
+  {
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Risklarni baholash va ularni kamaytirish uchun qanday usullar qo‘llaniladi?",
+    "options": {
+      "A": "Riskni erta aniqlash, prototip yaratish orqali sinab ko'rish, ortiqcha yuklamaga qarshi arxitektura chora-tadbirlarini qo'llash (masalan, zaxira serverlar)",
+      "B": "Risklarni umuman inobatga olmaslik va faqat kod yozish",
+      "C": "Faqat loyiha tugagandan so'ng xatolarni tekshirish",
+      "D": "Muammolarni faqat tizim qulagandan so'ng hal qilish"
+    },
+    "answer": "A",
+    "id": 91
+  },
+  {
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Kengaytirilish va moslashuvchanlik atributlarini hisobga olgan holda arxitektura qarorlari qanday qabul qilinadi?",
+    "options": {
+      "A": "Tizimni monolit emas, balki mikroservis yoki modulli arxitektura orqali loyihalash, load-balancer va bulut texnologiyalaridan foydalanish orqali",
+      "B": "Tizim kodini bitta fayl ichiga zichlab yozish orqali",
+      "C": "Faqat lokal serverlardan foydalanib",
+      "D": "O'zgarishlarni butunlay cheklash orqali"
+    },
+    "answer": "A",
+    "id": 92
+  },
+  {
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Dasturiy ta’minot arxitekturasida modullarning o‘zaro aloqalari qanday shakllantiriladi?",
+    "options": {
+      "A": "Past bog'liqlik (Loose coupling) va yuqori uyg'unlik (High cohesion) tamoyillari asosida, asosan interfeyslar va API lar orqali",
+      "B": "Barcha modullar bitta ma'lumotlar bazasi jadvaliga to'g'ridan-to'g'ri ulanishi orqali",
+      "C": "Modullarni umuman bir-biridan ajratmaslik yordamida",
+      "D": "Har bir modul faqat bitta kompyuterda alohida ishlashi orqali"
+    },
+    "answer": "A",
+    "id": 93
+  },
+  {
+    "topic": "5-Mavzu: Arxitektura qarorlari",
+    "question": "Dasturiy ta’minot arxitekturasida qarorlar qabul qilishda foydalanuvchi talablarini qanday inobatga olish kerak?",
+    "options": {
+      "A": "Talablarni funksional va nofunksional qismlarga ajratib, sifat atributlarini ustuvorliklarga ko'ra baholash orqali inobatga olinadi",
+      "B": "Foydalanuvchi talablari faqat dizaynda inobatga olinadi, arxitekturada ahamiyatsiz",
+      "C": "Faqat dasturchiga qulay bo'lgan talablargina qabul qilinadi",
+      "D": "Arxitektura qarorlari faqat byudjet asosida, talablarsiz qilinadi"
+    },
+    "answer": "A",
+    "id": 94
+  },
+  {
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "DDD da “Domen” tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Dasturiy ta'minot yaratilayotgan aniq biznes sohasi (masalan, bank ishi, e-tijorat) va undagi asosiy bilimlar va qoidalar majmuasi",
+      "B": "Faqat internet saytining manzili (domen nomi)",
+      "C": "Faqat serverning joylashgan hududi",
+      "D": "Dasturlash tilidagi o'zgaruvchilarning turlari"
+    },
+    "answer": "A",
+    "id": 95
+  },
+  {
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "“Service” (Domain Service) qachon ishlatiladi va uning roli qanday?",
+    "options": {
+      "A": "Biznes mantiq bitta Entity yoki Value Objectga to'g'ri kelmaganda, bir nechta obyektlar o'rtasidagi jarayonlarni boshqarish uchun ishlatiladi",
+      "B": "Faqat ma'lumotlar bazasini o'chirish uchun kerak",
+      "C": "Operatsion tizim xizmatlari sifatida ishlaydi (masalan Windows Service)",
+      "D": "Faqat mijozlarga email jo'natish uchun"
+    },
+    "answer": "A",
+    "id": 96
+  },
+  {
+    "topic": "6-Mavzu: Domen-Drayver Dizayni (DDD)",
+    "question": "DDD arxitekturasining afzalliklari va kamchiliklarini sanab bering?",
+    "options": {
+      "A": "Afzalligi: murakkab biznes mantiqni to'g'ri tashkil qiladi, biznes va dasturchilar tushunishi oson. Kamchiligi: kichik va oddiy loyihalar uchun juda qimmat, o'rganish va joriy qilish murakkab",
+      "B": "Afzalligi: Har qanday loyihani 1 kunda tugatadi. Kamchiligi: kompyuterni buzadi",
+      "C": "Afzalligi yo'q, u faqat universitetlarda o'rgatiladi. Kamchiligi: sekin ishlaydi",
+      "D": "Afzalligi: Faqat front-end dizaynlari chiroyli chiqadi. Kamchiligi: Back-end qiyinlashadi"
+    },
+    "answer": "A",
+    "id": 97
+  },
+  {
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Dasturiy ta’minot quyi tizimlarining dizayn arxitekturasi nima?",
+    "options": {
+      "A": "Katta dasturni mustaqil va boshqariladigan kichikroq komponentlarga (quyi tizimlarga) mantiqiy va fizik ajratish strukturasidir",
+      "B": "Faqat kompyuterning operativ xotirasi va protsessorini sozlash jarayoni",
+      "C": "Foydalanuvchi interfeysidagi knopkalar dizayni",
+      "D": "Ma'lumotlar bazasini qanday qilib o'chirish rejasi"
+    },
+    "answer": "A",
+    "id": 98
+  },
+  {
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Dizayn arxitekturasi tizimda qanday vazifalarni bajaradi?",
+    "options": {
+      "A": "Komponentlar o'rtasidagi bog'liqlikni kamaytiradi, parallel ishlab chiqishga sharoit yaratadi va tizimni keyinchalik o'zgartirishni osonlashtiradi",
+      "B": "Tizimdagi barcha ma'lumotlarni o'chirib, tozalash vazifasini",
+      "C": "Tizimning grafik interfeysini qora rangga bo'yash",
+      "D": "Foydalanuvchi kompyuterining xotira tezligini sun'iy oshirish"
+    },
+    "answer": "A",
+    "id": 99
+  },
+  {
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Arxitektura darajalari nechta va ular qaysilar?",
+    "options": {
+      "A": "Odatda 3 daraja: Dasturiy ta'minot arxitekturasi (tizim miqyosi), Dizayn arxitekturasi (komponentlar miqyosi) va Kod arxitekturasi (sinflar va algoritmlar)",
+      "B": "1 daraja: faqat kod yozish",
+      "C": "2 daraja: Dastur o'rnatish va uni o'chirish",
+      "D": "Darajalar umuman mavjud emas, hammasi bir joyda yoziladi"
+    },
+    "answer": "A",
+    "id": 100
+  },
+  {
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Yuqori darajadagi arxitektura nimani ifodalaydi?",
+    "options": {
+      "A": "Tizimning eng katta komponentlari, tashqi tizimlar bilan integratsiyasi, serverlar joylashuvi va asosiy ma'lumotlar oqimining umumiy xaritasini",
+      "B": "Faqat birgina tugma qanday ishlashini batafsil ifodalaydi",
+      "C": "Faqat lokal o'zgaruvchilarning tiplarini ifodalaydi",
+      "D": "Kodni qaysi dasturlash tilida yozilishini"
+    },
+    "answer": "A",
+    "id": 101
+  },
+  {
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Qatlamli (Layered) arxitektura qanday ishlaydi?",
+    "options": {
+      "A": "Tizim mantiqiy darajalarga (Presentation, Business, Data Access) bo'linadi, va har bir qatlam faqat o'zidan pastdagi qatlam bilan aloqa qiladi",
+      "B": "Barcha funksiyalar bitta qatlamga yig'iladi",
+      "C": "Ma'lumotlar doimiy ravishda yuqoriga emas, barcha yo'nalishlarga tartibsiz tarqaladi",
+      "D": "Faqat fayllarni serverga joylashni bildiradi"
+    },
+    "answer": "A",
+    "id": 102
+  },
+  {
+    "topic": "7-Mavzu: Quyi tizimlar dizayni",
+    "question": "Mikroxizmatlar (Microservices) arxitekturasi nimasi bilan farq qiladi?",
+    "options": {
+      "A": "Tizim to'liq mustaqil, kichik biznes funksiyalariga bo'linib, har biri o'z ma'lumotlar bazasiga ega bo'lgan alohida tarmoq xizmati sifatida ishlaydi",
+      "B": "U qatlamli arxitektura bilan to'liq bir xil",
+      "C": "U faqat juda kichik (mikro) kompyuterlarda ishlaydi",
+      "D": "Barcha xizmatlar yagona markazlashtirilgan bazada ishlaydi"
+    },
+    "answer": "A",
+    "id": 103
+  },
+  {
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Tizimni masshtablash (scaling) nima va nima uchun kerak?",
+    "options": {
+      "A": "Foydalanuvchilar yoki yuklama oshganda tizimning ish sifatini saqlab qolish uchun server resurslarini yoki tugunlar sonini ko'paytirish",
+      "B": "Ekran hajmini kattalashtirish uchun kerak",
+      "C": "Faqat litsenziya muddatini uzaytirishni bildiradi",
+      "D": "Tizimdagi ma'lumotlarni o'chirish jarayoni"
+    },
+    "answer": "A",
+    "id": 104
+  },
+  {
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Vertikal va gorizontal masshtablash o‘rtasidagi farq nima?",
+    "options": {
+      "A": "Vertikal - mavjud serverning RAM/CPU sini oshirish (Scaling Up). Gorizontal - tarmoqqa yana yangi serverlarni qo'shish (Scaling Out)",
+      "B": "Vertikal - serverni osmonga ko'tarish. Gorizontal - serverni yotqizish",
+      "C": "Vertikal - faqat Windows OS uchun. Gorizontal - faqat Linux uchun",
+      "D": "Ikkalasi butunlay bir xil jarayon bo'lib, farqi yo'q"
+    },
+    "answer": "A",
+    "id": 105
+  },
+  {
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Monolit arxitektura nima va uning kamchiliklari qanday?",
+    "options": {
+      "A": "Barcha komponentlar yagona dastur sifatida birlashtiriladi; kamchiligi kengaytirish (masshtablash) qiyin va bir xato butun tizimni to'xtatishi mumkin",
+      "B": "Tizim juda kichik bo'laklarga bo'linadi; kamchiligi yo'q, mukammal ishlaydi",
+      "C": "Faqat mikroservislarni birlashtiruvchi markaz; kamchiligi tez ishlaydi",
+      "D": "Bu me'moriy qasr; dasturlashga aloqasi yo'q"
+    },
+    "answer": "A",
+    "id": 106
+  },
+  {
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Mikroservis arxitekturasi nima va u qanday afzalliklarga ega?",
+    "options": {
+      "A": "Ilova mustaqil ishlaydigan kichik xizmatlarga bo'linadi; afzalligi alohida masshtablash, yangilash oson va boshqa texnologiyalardan foydalanish imkoni mavjud",
+      "B": "Barcha kodlar yagona faylga yoziladi; afzalligi juda tez ishlaydi",
+      "C": "Faqat mikro-kompyuterlarda ishlash; afzalligi elektr tokini tejaydi",
+      "D": "Tizimni bo'laklash imkonsiz; afzalligi kod o'g'irlanmaydi"
+    },
+    "answer": "A",
+    "id": 107
+  },
+  {
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Ma’lumotlar bazasini masshtablash qanday usullar bilan amalga oshiriladi?",
+    "options": {
+      "A": "Replikatsiya (nusxalash) va Sharding (ma'lumotlarni bo'laklab turli serverlarga saqlash) usullari bilan",
+      "B": "Faqat barcha ma'lumotlarni o'chirib, boshqatdan yozish orqali",
+      "C": "Bazaning rangini va shriftini o'zgartirish usullari bilan",
+      "D": "Ma'lumotlar bazasini masshtablab bo'lmaydi"
+    },
+    "answer": "A",
+    "id": 108
+  },
+  {
+    "topic": "8-Mavzu: Taqsimlangan tizimlar",
+    "question": "Taqsimlangan tizimlarda ishonchlilikni (reliability) oshirish uchun nimalar qilinadi?",
+    "options": {
+      "A": "Tizim qismlarini dublyaj qilish (ortiqchalik), avtomatik tiklanish mexanizmlari, va xatolarni izolatsiya qilish (Circuit Breaker) qo'llaniladi",
+      "B": "Faqatgina kompyuterni har kuni qayta o'chirib-yoqish",
+      "C": "Ishonchlilikni umuman oshirib bo'lmaydi",
+      "D": "Internetdan uzib qo'yish eng ishonchli usuldir"
+    },
+    "answer": "A",
+    "id": 109
+  },
+  {
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Klient va server tushunchalari nimani anglatadi va ularning vazifalari qanday?",
+    "options": {
+      "A": "Klient — foydalanuvchi tomonda so'rov yuboruvchi dastur (masalan, brauzer). Server — shu so'rovni qabul qilib, kerakli ma'lumot yoki xizmatni taqdim etuvchi kuchli kompyuter",
+      "B": "Klient — kompyuterni sotuvchi shaxs. Server — xaridor",
+      "C": "Klient — bu ekran, Server — bu klaviatura",
+      "D": "Ular mutlaqo bir xil vazifani bajaradi va ajratilmaydi"
+    },
+    "answer": "A",
+    "id": 110
+  },
+  {
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Uch pog‘onali (three-tier) arxitektura qanday qismlardan iborat?",
+    "options": {
+      "A": "Taqdimot qatlami (Klient), Biznes mantiq qatlami (Ilova serveri) va Ma'lumotlar qatlami (Ma'lumotlar bazasi serveri)",
+      "B": "Uchta bir xil ma'lumotlar bazasidan iborat",
+      "C": "Bosh direktor, Menejer va Xodim pog'onalaridan iborat",
+      "D": "Klaviatura, Sishqoncha va Monitor qismlaridan iborat"
+    },
+    "answer": "A",
+    "id": 111
+  },
+  {
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Mikroxizmatlar (microservices) arxitekturasi nima va u qanday ishlaydi?",
+    "options": {
+      "A": "Ilovani mustaqil, o'zining biznes mantiqiga va bazasiga ega bo'lgan kichik xizmatlarga bo'lib ishlatuvchi arxitektura",
+      "B": "Faqat mikroskop orqali ko'rinadigan arxitektura turi",
+      "C": "Klient va serverni bitta korpusda birlashtirish jarayoni",
+      "D": "Faqat bir martalik vazifalarni bajarib yopiladigan vaqtinchalik xizmatlar"
+    },
+    "answer": "A",
+    "id": 112
+  },
+  {
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Klient–server tizimini loyihalash jarayonining asosiy bosqichlari nimalardan iborat?",
+    "options": {
+      "A": "Talablarni aniqlash, arxitekturani tanlash (2 yoki 3 pog'onali), API larni loyihalash, xavfsizlikni ta'minlash va masshtablashni rejalashtirish",
+      "B": "Faqat server sotib olish va unga IP manzil berish",
+      "C": "Dasturni o'rnatish va uni o'chirib tashlash rejasini tuzish",
+      "D": "Kodni qaysi dasturlash tilida yozishni o'ylash va shu bilan cheklanish"
+    },
+    "answer": "A",
+    "id": 113
+  },
+  {
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Klient–server arxitekturasida qanday tarmoq protokollari ishlatiladi?",
+    "options": {
+      "A": "Asosan HTTP/HTTPS, TCP/IP, WebSocket kabi ma'lumot uzatish protokollari ishlatiladi",
+      "B": "Faqat fayl tizimi protokollari (FAT32, NTFS) ishlatiladi",
+      "C": "USB va HDMI interfeys protokollari orqali ma'lumot almashiladi",
+      "D": "Hech qanday protokol kerak emas, ma'lumot o'z-o'zidan uzatiladi"
+    },
+    "answer": "A",
+    "id": 114
+  },
+  {
+    "topic": "9-Mavzu: Klient-Server arxitekturasi",
+    "question": "Klient–server arxitekturasining afzalliklari nimalardan iborat?",
+    "options": {
+      "A": "Ma'lumotlar markazlashtiriladi, xavfsizlik yaxshilanadi, tizimni kengaytirish osonlashadi va texnik xizmat ko'rsatish qulay bo'ladi",
+      "B": "Barcha foydalanuvchilar o'z-o'zini mustaqil boshqarishi, serverga ehtiyoj yo'qligi",
+      "C": "Uning yagona afzalligi juda arzon ekanligi, serverlar bepul beriladi",
+      "D": "Tarmoqqa umuman ulanmasdan ishlash imkoniyatining mavjudligi"
+    },
+    "answer": "A",
+    "id": 115
+  },
+  {
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Monolit va mikroxizmatlar arxitekturasi o‘rtasidagi farqlar qanday?",
+    "options": {
+      "A": "Monolitda barcha komponentlar yaxlit, bitta loyihada va yagona bazada ishlaydi. Mikroxizmatlarda esa tizim kichik, mustaqil va o'zining bazasiga ega bo'lgan xizmatlarga bo'linadi",
+      "B": "Monolit faqat mobil qurilmalarda ishlaydi, mikroxizmatlar esa faqat katta kompyuterlarda ishlaydi",
+      "C": "Ikkovi bir xil, faqat nomlanishi boshqacha",
+      "D": "Mikroxizmatlar kodni qisqartiradi, monolit esa uzaytiradi"
+    },
+    "answer": "A",
+    "id": 116
+  },
+  {
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Mikroxizmatlar arxitekturasining afzalliklari va kamchiliklari nimada?",
+    "options": {
+      "A": "Afzalligi: masshtablash oson, mustaqil test qilish va yangilash mumkin. Kamchiligi: tarmoq orqali aloqa qilish murakkab, debugging (xato qidirish) va infratuzilmani boshqarish qiyin",
+      "B": "Afzalligi: yagona ma'lumotlar bazasi orqali ishlashi. Kamchiligi: o'zgarishlarni qo'shish imkonsiz",
+      "C": "Afzalligi: juda sodda dizaynga ega. Kamchiligi: umuman xavfsiz emas",
+      "D": "Afzalliklari va kamchiliklari Monolit bilan butunlay bir xil"
+    },
+    "answer": "A",
+    "id": 117
+  },
+  {
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Mikroxizmatlar bir-biri bilan qanday aloqa qiladi?",
+    "options": {
+      "A": "RESTful API, gRPC yoki message brokerlar (RabbitMQ, Apache Kafka) orqali aloqa qiladi",
+      "B": "Faqat bir xil ma'lumotlar bazasiga murojaat qilish orqali gaplashadi",
+      "C": "Bluetooth orqali ulanib aloqa qiladi",
+      "D": "Har bir xizmat boshqa xizmatning manba kodini (source code) bevosita o'qish orqali"
+    },
+    "answer": "A",
+    "id": 118
+  },
+  {
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "API Gateway nima va uning roli qanday?",
+    "options": {
+      "A": "API Gateway barcha tashqi mijoz so'rovlarini qabul qilib, ularni tegishli ichki mikroxizmatlarga yo'naltiruvchi yagona kirish nuqtasidir",
+      "B": "Mikroxizmatlarning nomini o'zgartiruvchi dasturiy vosita",
+      "C": "Faqat ma'lumotlar bazasiga to'g'ridan-to'g'ri bog'lanadigan qatlam",
+      "D": "Dasturlash tilini avtomatik ravishda boshqa tilga tarjima qiluvchi vosita"
+    },
+    "answer": "A",
+    "id": 119
+  },
+  {
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Service Mesh nima va nega u mikroxizmatlarda muhim?",
+    "options": {
+      "A": "Xizmatlar o'rtasidagi tarmoq aloqasini, xavfsizlik, marshrutlash (routing) va monitoringni (masalan Istio orqali) xizmat kodiga ta'sir qilmasdan boshqaruvchi qatlam",
+      "B": "Faqatgina dastur kodlarini Github-ga yuborish uchun mo'ljallangan platforma",
+      "C": "Xizmatlarni sekinlashtiruvchi zararli dastur",
+      "D": "Bu brauzerning ichidagi maxsus xotira qismi"
+    },
+    "answer": "A",
+    "id": 120
+  },
+  {
+    "topic": "10-Mavzu: Microservices arxitekturasi",
+    "question": "Mikroxizmatlarni o‘rnatishda (deployment) Docker va Kubernetes qanday vazifani bajaradi?",
+    "options": {
+      "A": "Docker xizmatni o'z muhiti bilan izolyatsiya qilib (konteynerga) o'raydi. Kubernetes esa shu minglab konteynerlarni avtomatik boshqaradi, yangilaydi va masshtablaydi",
+      "B": "Docker dasturni o'chiradi, Kubernetes dasturni qayta tiklaydi",
+      "C": "Docker bazalarni yig'adi, Kubernetes interfeys yaratadi",
+      "D": "Ular faqatgina serverda o'yin o'ynash uchun o'rnatiladi"
+    },
+    "answer": "A",
+    "id": 121
+  },
+  {
+    "topic": "11-Mavzu: Hexagonal arxitekturasi",
+    "question": "Hexagonal arxitektura qaysi muammolarni hal qilish uchun yaratilgan?",
+    "options": {
+      "A": "Biznes mantiqning tashqi kutubxonalar, freymvorklar, bazalar va UI-larga qattiq bog'lanib qolishi hamda test qilish qiyinligi muammolarini hal qiladi",
+      "B": "Faqat grafik dizaynda yaltiroq olti burchaklarni chizish qiyinligini",
+      "C": "Kompyuterning juda ko'p qizib ketishi muammosini",
+      "D": "Mobil ilovalarning sekin yuklanishi muammosini"
+    },
+    "answer": "A",
+    "id": 122
+  },
+  {
+    "topic": "12-Mavzu: Arxitektura qatlamlari",
+    "question": "Qatlamli arxitektura qanday afzalliklarga ega?",
+    "options": {
+      "A": "Har bir qatlam o'zining aniq vazifasiga ega, tizimni tushunish, test qilish, xatolarni topish va bitta qatlamni boshqasiga ta'sir qilmay o'zgartirish oson",
+      "B": "Kod bitta katta doskada yoziladi, bu tez ishlashiga yordam beradi",
+      "C": "Qatlamlar barchasi doimiy birlashgan holatda bo'lganligi uchun xakerlar uchun yopiq",
+      "D": "Faqat bir kishi tomonidan dasturlashga ruxsat beradi, shu sababli arzon"
+    },
+    "answer": "A",
+    "id": 123
+  },
+  {
+    "topic": "12-Mavzu: Arxitektura qatlamlari",
+    "question": "Qatlamli arxitekturada qatlamlar (layers) o‘rtasidagi bog‘liqlik qanday ta’minlanadi?",
+    "options": {
+      "A": "Har bir qatlam faqat bevosita o'zidan bitta pastda joylashgan (yoki yopiq arxitekturada qo'shni) qatlam bilan qat'iy interfeyslar orqali aloqa qiladi",
+      "B": "Har qanday qatlam istagan paytda barcha boshqa qatlamlarga to'g'ridan-to'g'ri murojaat qiladi",
+      "C": "Faqat ma'lumotlar bazasi (eng pastki qatlam) eng yuqori qatlamni chaqiradi",
+      "D": "Ular umuman bog'lanmaydi va mustaqil yashaydi"
+    },
+    "answer": "A",
+    "id": 124
+  },
+  {
+    "topic": "13-Mavzu: API dizayni",
+    "question": "API (Application Programming Interface) nima va nega u tizimlar integratsiyasi uchun zarur?",
+    "options": {
+      "A": "API - ikki xil dastur yoki tizimning bir-biri bilan muloqot qilishi va ma'lumot almashishi uchun oldindan belgilangan qoidalar va funksiyalar to'plami. Ular izolyatsiya qilingan tizimlarni integratsiya qilishga imkon beradi",
+      "B": "API - bu faqat brauzerda ochiladigan veb-saytning asosiy sahifasi",
+      "C": "API bu faqat klaviatura tugmalari bosilishini o'qiydigan dastur",
+      "D": "API bu dasturchini ishdan bo'shatadigan avtomatlashgan robot"
+    },
+    "answer": "A",
+    "id": 125
+  },
+  {
+    "topic": "13-Mavzu: API dizayni",
+    "question": "RESTful API nima va u qanday prinsiplarga asoslangan?",
+    "options": {
+      "A": "Stateless (holatsiz) aloqa, resurslarga (URI) asoslangan yondashuv va standart HTTP metodlari (GET, POST, PUT, DELETE) orqali ma'lumot almashishga asoslangan arxitektura uslubi",
+      "B": "Faqatgina ma'lumotlar bazasidan jadvallarni o'chiruvchi xavfli protokol",
+      "C": "Faqatgina kompyuter uyqu rejimiga ketganda ishlaydigan API",
+      "D": "Barcha foydalanuvchilarning loginlarini ekranga chiqaruvchi funksiya"
+    },
+    "answer": "A",
+    "id": 126
+  },
+  {
+    "topic": "13-Mavzu: API dizayni",
+    "question": "GraphQL va REST API o‘rtasidagi farqlar nimalardan iborat?",
+    "options": {
+      "A": "REST da server nima qaytarishini belgilaydi (multiple endpoints). GraphQL da bitta endpoint orqali mijoz faqat o'ziga aynan kerakli va aynan qancha ma'lumotni so'rab olishini o'zi hal qiladi",
+      "B": "Ikkalasi aynan bir xil, shunchaki GraphQL pulli va qimmatroq",
+      "C": "GraphQL faqat grafik chizish uchun ishlatiladi, REST esa ma'lumot jo'natadi",
+      "D": "REST faqat JSON formatda qaytaradi, GraphQL faqat rasmlarni qaytaradi"
+    },
+    "answer": "A",
+    "id": 127
+  },
+  {
+    "topic": "14-Mavzu: Serverless arxitektura",
+    "question": "Serverless (Serversiz) arxitektura nima va u qanday ishlaydi?",
+    "options": {
+      "A": "Dasturchi server infratuzilmasini (operatsion tizim, resurslar) o'ylamaydi. Kod funksiya sifatida bulutga yuklanadi, va faqat biror hodisa (event/request) bo'lgandagina ishlab, sarflangan vaqt uchungina pul to'lanadi",
+      "B": "Dastur ishlashi uchun umuman kompyuter kerakmasligini anglatuvchi texnologiya",
+      "C": "Faqatgina oflayn muhitda va uy sharoitida ishlaydigan tizimlar",
+      "D": "O'zbekistondagi barcha serverlarning birdaniga o'chirilishi jarayoni"
+    },
+    "answer": "A",
+    "id": 128
+  },
+  {
+    "topic": "14-Mavzu: Serverless arxitektura",
+    "question": "Serverless platformalarga misollar (AWS Lambda, Google Cloud Functions) keltiring va ular qanday ishlatiladi?",
+    "options": {
+      "A": "AWS Lambda, Google Cloud Functions, Azure Functions kabi platformalar kichik skriptlarni yoki ma'lum vazifalarni mustaqil server yaratmasdan tarmoqda avtomatlashgan ishga tushirish uchun ishlatiladi",
+      "B": "Bu platformalar faqat o'yinlarni tekinga o'ynash uchun ishlatiladi",
+      "C": "Ular shaxsiy kompyuterni kuchaytirish (overclocking) uchun o'rnatiladi",
+      "D": "Bular faqat matn muharrirlari (Notepad o'rniga)"
+    },
+    "answer": "A",
+    "id": 129
+  }
+]

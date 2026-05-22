@@ -83,5 +83,5 @@ def init_all_subjects():
                  "Dasturiy Ta'minot Sifati — Ma'ruzalar")
     load_subject("dt_arxitektura", "dt_arxitektura_quiz_min.json", "DT Arxitektura",
                  "Dasturiy Ta'minot Arxitekturasi (Yakuniy)")
-    load_subject("dt_arxitektura_nazorat", "dt_arxitektura_nazorat_quiz_min.json", "DT Arxitektura Nazorat",
+    load_subject("dt_arxitektura_nazorat", "dt_arxitektura_nazorat_full.json", "DT Arxitektura (Nazorat)",
                  "Dasturiy Ta'minot Arxitekturasi (Oraliq va Nazorat)")

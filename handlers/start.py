@@ -22,7 +22,7 @@ WELCOME_TEXT = """🎓 <b>TestUp</b> ga xush kelibsiz!
 • 📙 Ekspert Tizimlar — Sun'iy Intellekt (200 savol)
 • 📕 DT Ma'ruzalar — DT Sifati (271 savol)
 • 🏛 DT Arxitektura (Yakuniy) — (127 savol)
-• 🏛 DT Arxitektura (Nazorat) — Ochiq savollar asosi (78 savol)
+• 🏛 DT Arxitektura (Nazorat) — Ma'ruzalar asosi (129 savol)
 
 ⬇️ Quyidagi tugmalardan birini tanlang:"""
 
