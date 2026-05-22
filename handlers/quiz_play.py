@@ -6,7 +6,7 @@ import time
 from aiogram import Router, F, Bot
 from aiogram.types import CallbackQuery, PollAnswer, InputPollOption
 from aiogram.fsm.context import FSMContext
-from aiogram.exceptions import TelegramBadRequest
+from aiogram.exceptions import TelegramBadRequest, TelegramNetworkError
 
 from states.quiz_states import QuizStates
 from keyboards.inline import pause_kb, result_kb, main_menu_kb
@@ -109,6 +109,24 @@ async def send_next_question(bot: Bot, user_id: int, state: FSMContext):
         # Fallback: matnli savol rejimiga o'tish
         await _send_text_question(bot, user_id, state, q, current, total, correct_idx)
         return
+    except TelegramNetworkError as e:
+        logger.warning("Tarmoq xatosi (Connection reset), 1 soniyadan so'ng qayta urinish (Q#%s): %s", q.get("id"), e)
+        await asyncio.sleep(1)
+        try:
+            poll_msg = await bot.send_poll(
+                chat_id=user_id,
+                question=question_text,
+                question_parse_mode=None,
+                options=options,
+                type="quiz",
+                correct_option_id=correct_idx,
+                is_anonymous=False,
+                open_period=time_limit if time_limit > 0 else None,
+            )
+        except Exception as e2:
+            logger.error("Qayta urinishda ham xato (Q#%s): %s", q.get("id"), e2)
+            await _send_text_question(bot, user_id, state, q, current, total, correct_idx)
+            return
 
     # Poll IDni saqlash
     if user_id not in active_polls:

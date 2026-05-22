@@ -20,7 +20,9 @@ WELCOME_TEXT = """🎓 <b>TestUp</b> ga xush kelibsiz!
 • 📘 MIICH — Mobil Ilovalar Ishlab Chiqish (364 savol)
 • 📗 DT Sifati — Dasturiy Ta'minot Sifati (249 savol)
 • 📙 Ekspert Tizimlar — Sun'iy Intellekt (200 savol)
-• 📕 DT Ma'ruzalar — 15 mavzu, formulalar (271 savol)
+• 📕 DT Ma'ruzalar — DT Sifati (271 savol)
+• 🏛 DT Arxitektura (Yakuniy) — (127 savol)
+• 🏛 DT Arxitektura (Nazorat) — Ochiq savollar asosi (78 savol)
 
 ⬇️ Quyidagi tugmalardan birini tanlang:"""
 

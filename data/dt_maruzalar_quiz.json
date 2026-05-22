@@ -1309,7 +1309,7 @@
   },
   {
     "id": 110,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Past darajali dasturlash tillariga misol qaysi?",
     "options": {
       "A": "JavaScript va Ruby",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 111,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Yuqori darajali tillarning afzalligi nima?",
     "options": {
       "A": "Mashina tiliga yaqin va tez",
@@ -1333,7 +1333,7 @@
   },
   {
     "id": 112,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Kompilyator nima qiladi?",
     "options": {
       "A": "Faqat xatoliklarni topadi",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 113,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Interpretator nima qiladi?",
     "options": {
       "A": "Dasturni satr-satr o'qib bajaradi",
@@ -1357,7 +1357,7 @@
   },
   {
     "id": 114,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Python qaysi turdagi dasturlash tili?",
     "options": {
       "A": "Past darajali, kompilyatsiya qilinadigan til",
@@ -1369,7 +1369,7 @@
   },
   {
     "id": 115,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "C dasturlash tili qaysi turga kiradi?",
     "options": {
       "A": "Faqat skript tili",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 116,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Dasturlash tillarining avlodlari nechta?",
     "options": {
       "A": "5 ta avlod (1GL dan 5GL gacha)",
@@ -1393,7 +1393,7 @@
   },
   {
     "id": 117,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "1GL (birinchi avlod) til nima?",
     "options": {
       "A": "Mashina tili (0 va 1 lar)",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": 118,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "3GL (uchinchi avlod) tillarga misol qaysi?",
     "options": {
       "A": "C, Java, Python, Pascal",
@@ -1417,7 +1417,7 @@
   },
   {
     "id": 119,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "4GL (to'rtinchi avlod) tillarga misol qaysi?",
     "options": {
       "A": "SQL, MATLAB kabi muammo-yo'naltirilgan tillar",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 144,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Sifat standartlari nechta asosiy turga bo'linadi?",
     "options": {
       "A": "5 ta",
@@ -1729,7 +1729,7 @@
   },
   {
     "id": 145,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Asosiy standartlar nimaga xizmat qiladi?",
     "options": {
       "A": "Faqat dastur tezligini aniqlash",
@@ -1741,7 +1741,7 @@
   },
   {
     "id": 146,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Mahsulot standarti nima?",
     "options": {
       "A": "Faqat umumiy tamoyillarni",
@@ -1753,7 +1753,7 @@
   },
   {
     "id": 147,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Jarayon standarti nimani tartibga soladi?",
     "options": {
       "A": "Faqat mahsulot ko'rinishini",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 148,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Agile va Waterfall qaysi standart turiga tegishli?",
     "options": {
       "A": "Hech qaysi standartga tegishli emas",
@@ -1777,7 +1777,7 @@
   },
   {
     "id": 149,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Dasturiy ta'minot ishonchliligi nima?",
     "options": {
       "A": "Dasturning arzon narxi",
@@ -1789,7 +1789,7 @@
   },
   {
     "id": 150,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Ishonchlilik modellari qanday turlarga bo'linadi?",
     "options": {
       "A": "Faqat chiziqli modellar",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 151,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Deterministik modellar qanday ishlaydi?",
     "options": {
       "A": "Ehtimollik nazariyasiga asoslanadi",
@@ -1813,7 +1813,7 @@
   },
   {
     "id": 152,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Stoxastik modellar qanday ishlaydi?",
     "options": {
       "A": "Ehtimollik va tasodifiy jarayonlar asosida ishlaydi",
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 153,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Dastur ishonchliligini oshirish uchun nima qilish kerak?",
     "options": {
       "A": "Faqat interfeysni chiroyli qilish",
@@ -2785,7 +2785,7 @@
   },
   {
     "id": 233,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "2GL (ikkinchi avlod) til nima?",
     "options": {
       "A": "SQL",
@@ -2797,7 +2797,7 @@
   },
   {
     "id": 234,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "5GL (beshinchi avlod) tillar qanday ishlaydi?",
     "options": {
       "A": "Faqat kompilyatsiya",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": 235,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Java qaysi xususiyatga ega?",
     "options": {
       "A": "Faqat veb uchun",
@@ -2821,7 +2821,7 @@
   },
   {
     "id": 236,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "JIT (Just-In-Time) kompilyatsiya nima?",
     "options": {
       "A": "Faqat xatoliklarni topish",
@@ -2833,7 +2833,7 @@
   },
   {
     "id": 237,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Skript tillarga misollar qaysi?",
     "options": {
       "A": "Faqat SQL",
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 238,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Kompilyatsiya qilinadigan tillarga misollar qaysi?",
     "options": {
       "A": "Faqat CSS",
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 239,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Markup tili (belgilash tili) nima?",
     "options": {
       "A": "Mashina tili",
@@ -2869,7 +2869,7 @@
   },
   {
     "id": 240,
-    "topic": "12-Mavzu: Dasturlash tillari",
+    "topic": "6-Mavzu: Dasturlash tillari darajasi va xatolar metrikasi",
     "question": "Tipizatsiya (Typing) nima?",
     "options": {
       "A": "Interfeys dizayni",
@@ -3109,7 +3109,7 @@
   },
   {
     "id": 260,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Asosiy standartlar sifat tizimining qaysi qismini tashkil etadi?",
     "options": {
       "A": "Faqat jarayon qoidalari",
@@ -3121,7 +3121,7 @@
   },
   {
     "id": 261,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Mahsulot standartida qanday parametrlar ko'rsatiladi?",
     "options": {
       "A": "Faqat narx",
@@ -3133,7 +3133,7 @@
   },
   {
     "id": 262,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Jarayon standarti asosida nima aniqlanadi?",
     "options": {
       "A": "Sifatli mahsulot olish uchun qanday ish jarayoni bo'lishi kerakligi",
@@ -3145,7 +3145,7 @@
   },
   {
     "id": 263,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "Waterfall metodologiyasi qaysi standart turiga kiradi?",
     "options": {
       "A": "Asosiy standart",
@@ -3157,7 +3157,7 @@
   },
   {
     "id": 264,
-    "topic": "Sifat standartlari turlari",
+    "topic": "12-Mavzu: Sifat standartlari turlari",
     "question": "ISO 25010 qaysi standart turiga kiradi?",
     "options": {
       "A": "Asosiy standart",
@@ -3169,7 +3169,7 @@
   },
   {
     "id": 265,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Xatolik intensivligi (Failure Rate) nima?",
     "options": {
       "A": "Dastur hajmi",
@@ -3181,7 +3181,7 @@
   },
   {
     "id": 266,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Ishonchlilikni oshirish uchun qanday usullar qo'llaniladi?",
     "options": {
       "A": "Testlash, code review, redundancy va formal verifikatsiya",
@@ -3193,7 +3193,7 @@
   },
   {
     "id": 267,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Redundancy (ortiqchalik) ishonchlilikda nima?",
     "options": {
       "A": "Tizimning zaxira komponentlar orqali xatolarga chidamliligini oshirish",
@@ -3205,7 +3205,7 @@
   },
   {
     "id": 268,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Availablity (mavjudlik) nima?",
     "options": {
       "A": "Foydalanuvchilar soni",
@@ -3217,7 +3217,7 @@
   },
   {
     "id": 269,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "MTTF (Mean Time To Failure) nima?",
     "options": {
       "A": "Dastur hajmi",
@@ -3229,7 +3229,7 @@
   },
   {
     "id": 270,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "MTTR (Mean Time To Repair) nima?",
     "options": {
       "A": "Birinchi xatolikgacha vaqt",
@@ -3241,7 +3241,7 @@
   },
   {
     "id": 271,
-    "topic": "Ishonchlilik modellari",
+    "topic": "10-Mavzu: DT ishonchliligi modellari",
     "question": "Availability qanday hisoblanadi?",
     "options": {
       "A": "A = MTBF - MTTR",
