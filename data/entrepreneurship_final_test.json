@@ -1,0 +1,2174 @@
+[
+  {
+    "id": 1,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Entrepreneurship tushunchasi quyidagilardan qaysi birini ifodalaydi?",
+    "options": {
+      "A": "Faqat savdo-sotiq faoliyatini tashkil etish jarayoni",
+      "B": "Imkoniyatlar va g'oyalarga tayangan holda boshqalar uchun qiymat yaratish qobiliyati",
+      "C": "Davlat korxonalarini boshqarish bo'yicha maxsus ko'nikma",
+      "D": "Xorijiy investorlar bilan muloqot qilish malakasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Tadbirkorlik tafakkurining evolyutsiyasida 'Zamonaviy davr' qaysi xususiyat bilan ajralib turadi?",
+    "options": {
+      "A": "Xavfni o'z zimmasiga olish",
+      "B": "Resurslarni birlashtirish",
+      "C": "Innovatsiya",
+      "D": "Davlat regulyatsiyasiga moslashish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Tadbirkor (Entrepreneur) menejerdan qanday tubdan farq qiladi?",
+    "options": {
+      "A": "Menejer yangi kombinatsiyalar yaratadi, tadbirkor esa jarayonlarni optimallashtiradi",
+      "B": "Tadbirkor yangi kombinatsiyalar yaratadi va g'oya bilan bog'liq asosiy xatarni o'z zimmasiga oladi",
+      "C": "Tadbirkor faqat moliyaviy kapital bilan ta'minlaydi va operatsion ishda qatnashmaydi",
+      "D": "Menejer va tadbirkor o'rtasida funksional farq mavjud emas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Ishlab chiqarish omillari kontekstida tadbirkorlik qobiliyatining o'ziga xos iqtisodiy natijasi nima?",
+    "options": {
+      "A": "Yer rentasi",
+      "B": "Ish haqi (mehnat haqi)",
+      "C": "Foyda",
+      "D": "Kapital foizi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Reproduktiv tadbirkorlikdan farqli, produktiv tadbirkorlik nimaga asoslanadi?",
+    "options": {
+      "A": "An'anaviy usullar asosida samaradorlik oshirishga",
+      "B": "Yangi yechimlar yaratish, R&D va bozorni tubdan o'zgartiruvchi innovatsiyalarga",
+      "C": "Mavjud resurslarni saqlagan holda xarajatlarni minimallashtirishga",
+      "D": "Davlat subsidiyalari orqali bozorda monopol holatni ta'minlashga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Tadbirkorlik shakllarini mulkchilik shakliga ko'ra tasniflaganda qaysi tur mavjud EMAS?",
+    "options": {
+      "A": "Xususiy",
+      "B": "Davlat",
+      "C": "Aralash",
+      "D": "Tijorat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Startup tushunchasining eng to'g'ri ta'rifi qaysi?",
+    "options": {
+      "A": "Har qanday yangi ochilgan kichik do'kon yoki savdo nuqtasi",
+      "B": "Innovatsion g'oyalar asosida noyob mahsulot yaratishga yo'naltirilgan yosh kompaniya",
+      "C": "Davlat tomonidan moliylashtirilgan ilmiy tadqiqot markazi",
+      "D": "Xorijiy kompaniyaning mahalliy vakilxonasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Akselerator dasturining asosiy maqsadi nima?",
+    "options": {
+      "A": "Startaplarga doimiy ish joyi va ofis ta'minlash",
+      "B": "Erta bosqichdagi kompaniyalarni ta'lim, mentorlik va moliyalashtirish orqali tez o'sishga yo'naltirish",
+      "C": "Yirik korporatsiyalar uchun konsalting xizmatlari",
+      "D": "Faqat texnik dasturlash bo'yicha trening o'tkazish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Angel investor qanday investitsiya usulidan foydalanadi?",
+    "options": {
+      "A": "Davlat byudjetidan ajratilgan grant mablag'larini taqsimlaydi",
+      "B": "Bank kreditlari orqali startapni moliyalashtiradi",
+      "C": "Shaxsiy kapitalini kompaniya aksiya evaziga startapga yo'naltiradi",
+      "D": "Faqat obligatsiyalar sotib olish orqali investitsiya qiladi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Milliy innovatsion tizim evolyutsiyasi natijasida tadbirkor qanday o'zgardi?",
+    "options": {
+      "A": "Yakka subyektdan tizim doirasida o'zaro bog'langan faol ishtirokchiga aylandi",
+      "B": "Individual faoliyatdan to'liq davlat nazoratiga o'tdi",
+      "C": "Mahalliy bozordan faqat xalqaro bozorga yo'naltirildi",
+      "D": "Innovatsion faoliyatdan an'anaviy ishlab chiqarishga qaytdi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Kengaytiriladigan startapning asosiy jihatlari qaysi?",
+    "options": {
+      "A": "Bozordagi bo'shliqni aniqlash, kengayishga tayyor biznes, moslashuvchan tuzilma",
+      "B": "Minimal xarajat, davlat qo'llab-quvvatlashi, raqobatdan qochish",
+      "C": "Faqat mahalliy bozorga mo'ljallangan, o'zgarmas struktura",
+      "D": "Yuqori xarajat, sekin o'sish, an'anaviy boshqaruv"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "'Bilimlar iqtisodiyoti' nimani anglatadi?",
+    "options": {
+      "A": "Jismoniy aktivlarning intellektual kapitalga nisbatan ustunligi",
+      "B": "Intellektual kapitalning jismoniy aktivlarga nisbatan ustuvor ahamiyat kasb etishi",
+      "C": "Faqat universitetlarda ilmiy tadqiqotlar olib borish",
+      "D": "Texnologik taraqqiyotning sekinlashishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Tadbirkorlikning iqtisodiyotdagi 'Ish o'rinlari yaratish' roli nimani anglatadi?",
+    "options": {
+      "A": "Faqat yirik korporatsiyalar ish o'rinlari yaratadi",
+      "B": "Kichik va o'rta biznes subyektlari bandlikning asosiy qismini ta'minlaydi",
+      "C": "Faqat davlat tashkilotlari ish o'rinlari yaratadi",
+      "D": "Tadbirkorlik ish o'rinlarini yaratmaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Inkubatsiya markazi startaplarga qanday yordam beradi?",
+    "options": {
+      "A": "Faqat moliyaviy investitsiya kiritadi",
+      "B": "Zarur resurslar bilan bir joyda ta'minlash uchun tashkil etilgan ish maydoni",
+      "C": "Faqat yuridik maslahat beradi",
+      "D": "Startaplarni sotib oladi va o'z brendiga aylantiradi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Innovatsion tadbirkorlik yo'nalishlariga qaysi KIRMAYDI?",
+    "options": {
+      "A": "Yangi mahsulot va yangi texnologik resurs manbai",
+      "B": "Sanoatni tashkil etishning yangi shakli",
+      "C": "Mavjud an'anaviy usullarni hech o'zgartirmay davom ettirish",
+      "D": "Ishlab chiqarishning yangi usuli"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Innovatsiya tezligi IT sohasida nimani anglatadi?",
+    "options": {
+      "A": "IT sohasida texnologiyalar sekin o'zgaradi",
+      "B": "Texnologik yangiliklar tez paydo bo'lib, mahsulotlar hayotiy sikli qisqa va doimiy moslashuv talab etiladi",
+      "C": "IT sohasida innovatsiya kerak emas",
+      "D": "Faqat yirik kompaniyalar innovatsiya qila oladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "topic": "1-Mavzu: Tadbirkorlikning nazariy asoslari",
+    "question": "Yaratilgan innovatsion mahsulot qanday xarakterga ega bo'lishi mumkin?",
+    "options": {
+      "A": "Faqat moliyaviy xarakterda",
+      "B": "Ijtimoiy, madaniy yoki moliyaviy xarakterda",
+      "C": "Faqat texnik xarakterda",
+      "D": "Faqat siyosiy xarakterda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "topic": "2-Mavzu: Biznes g'oya va innovatsion fikrlash",
+    "question": "Biznes g'oyaning eng to'g'ri ta'rifi qaysi?",
+    "options": {
+      "A": "Har qanday tijorat maqsadidagi faoliyat rejasi",
+      "B": "Bozor ehtiyojidan kelib chiqib muammoni hal qilish va iqtisodiy samaradorlikka erishish imkonini beruvchi innovatsion yechim",
+      "C": "Mavjud mahsulotni eksport qilish strategiyasi",
+      "D": "Raqobatchilar mahsulotlarini ko'chirib olish usuli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "2-Mavzu: Biznes g'oya va innovatsion fikrlash",
+    "question": "Innovatsion yechimni shakllantirish jarayonida qaysi tamoyilga amal qilish SHART EMAS?",
+    "options": {
+      "A": "Yangilik va kreativlik",
+      "B": "Amaliy qo'llanilish",
+      "C": "Raqobatchilar yechimini to'liq nusxalash va bozorga chiqarish",
+      "D": "Bozor va foydalanuvchi ehtiyojiga moslik"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "topic": "3-Mavzu: Customer Discovery",
+    "question": "Customer Discovery jarayonining asosiy maqsadi nima?",
+    "options": {
+      "A": "Mahsulotni ommaviy ishlab chiqarish",
+      "B": "Mahsulotni ishlab chiqishdan oldin haqiqiy mijoz va uning muammosini aniqlash",
+      "C": "Raqobatchilar mahsulotini nusxalash",
+      "D": "Investor oldida taqdimot tayyorlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "topic": "3-Mavzu: Customer Discovery",
+    "question": "Customer Discovery bosqichlari ketma-ketligi qaysi?",
+    "options": {
+      "A": "Yechim tasdiqlash → Intervyu → Gipoteza → Muammo aniqlash",
+      "B": "Muammoni aniqlash → Gipoteza ishlab chiqish → Intervyu → Yechimni tasdiqlash",
+      "C": "Intervyu → Muammo → Yechim → Gipoteza",
+      "D": "Gipoteza → Yechim → Muammo → Intervyu"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "topic": "4-Mavzu: Qiymat taklifi",
+    "question": "Qiymat taklifi (Value Proposition) qanday ta'riflanadi?",
+    "options": {
+      "A": "Kompaniyaning ichki moliyaviy rejasi",
+      "B": "Mahsulotning noyob afzalliklarini bayon qiluvchi va mijoz uni raqobatchilardan ustun qo'yish sababini tushuntiruvchi bayonot",
+      "C": "Startapning texnik arxitekturasi",
+      "D": "Investorlarga taqdim etiladigan moliyaviy hisobot"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "topic": "4-Mavzu: Qiymat taklifi",
+    "question": "Problem–Solution Fit nima uchun startapning eng kritik qismi?",
+    "options": {
+      "A": "Chunki u investorlarni jalb qilishning yagona yo'li",
+      "B": "Chunki mahsulot texnik jihatdan yaxshi bo'lsa ham real mijoz ehtiyojiga moslashtirilmasa bozorda muvaffaqiyat qozona olmaydi",
+      "C": "Chunki u faqat marketing strategiyasini belgilaydi",
+      "D": "Chunki u startap jamoasining tuzilishini aniqlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "topic": "4-Mavzu: Qiymat taklifi",
+    "question": "IT mahsulotlarda qiymat taklifi foydasiga qaysi KIRMAYDI?",
+    "options": {
+      "A": "Vaqtni tejash va avtomatlashtirish",
+      "B": "Xatoni kamaytirish va xavfsizlik",
+      "C": "Raqobatchilar sonini ko'paytirish",
+      "D": "Daromadni oshirish va qulaylik"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "topic": "4-Mavzu: Qiymat taklifi",
+    "question": "VPC modelining ikkita asosiy qismi nima?",
+    "options": {
+      "A": "SWOT va PEST tahlili",
+      "B": "Customer Profile va Value Map",
+      "C": "TAM va SAM",
+      "D": "Revenue Model va Cost Model"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "topic": "4-Mavzu: Qiymat taklifi",
+    "question": "Value Map tarkibiy qismlariga qaysi to'g'ri?",
+    "options": {
+      "A": "Mijoz vazifalari, muammolari, yutuqlari",
+      "B": "Products & Services, Pain Relievers, Gain Creators",
+      "C": "TAM, SAM, SOM",
+      "D": "Acquisition, Activation, Retention"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "topic": "5-Mavzu: Biznes model va BMC",
+    "question": "Biznes model tushunchasining eng aniq ta'rifi qaysi?",
+    "options": {
+      "A": "Faqat moliyaviy hisobotlar to'plami",
+      "B": "Tashkilotning qiymat yaratish, yetkazish va daromad olish mexanizmini ifodalovchi konseptual tizim",
+      "C": "Startapning marketing rejasi",
+      "D": "Ichki tashkiliy tuzilma sxemasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "5-Mavzu: Biznes model va BMC",
+    "question": "BMC nechta komponentdan tashkil topgan?",
+    "options": {
+      "A": "5 ta",
+      "B": "7 ta",
+      "C": "9 ta",
+      "D": "12 ta"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "topic": "6-Mavzu: Bozor segmentatsiyasi",
+    "question": "TAM nimani ifodalaydi?",
+    "options": {
+      "A": "Real egallash mumkin bo'lgan bozor ulushi",
+      "B": "Kompaniya xizmat ko'rsata oladigan bozor qismi",
+      "C": "Mahsulot uchun mavjud bo'lgan umumiy maksimal bozor hajmi",
+      "D": "Raqobatchilar egallab turgan bozor ulushi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "6-Mavzu: Bozor segmentatsiyasi",
+    "question": "STP modeli nimaning qisqartmasi?",
+    "options": {
+      "A": "Strategy-Technology-Product",
+      "B": "Segmentation-Targeting-Positioning",
+      "C": "Sales-Training-Pricing",
+      "D": "Startup-Team-Pitch"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "topic": "6-Mavzu: Bozor segmentatsiyasi",
+    "question": "TAM, SAM, SOM piramidasi ichida eng kichik hajm qaysi?",
+    "options": {
+      "A": "TAM",
+      "B": "SAM",
+      "C": "SOM",
+      "D": "Uchala teng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "topic": "7-Mavzu: Raqamli marketing",
+    "question": "AIDA modelidagi bosqichlar qaysi?",
+    "options": {
+      "A": "Analysis, Integration, Development, Action",
+      "B": "Attention, Interest, Desire, Action",
+      "C": "Acquisition, Interaction, Delivery, Assessment",
+      "D": "Awareness, Innovation, Design, Activation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "topic": "7-Mavzu: Raqamli marketing",
+    "question": "AAARRR (Pirate Metrics) modeli nimani ko'rsatadi?",
+    "options": {
+      "A": "Faqat moliyaviy ko'rsatkichlarni tahlil qilish",
+      "B": "Mijozning mahsulot bilan to'liq hayotiy siklini ko'rsatadigan startap o'sish modeli",
+      "C": "Raqobatchilarni tahlil qilish frameworki",
+      "D": "Investorlar bilan muloqot strategiyasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "topic": "7-Mavzu: Raqamli marketing",
+    "question": "Performance marketing o'ziga xos xususiyati nima?",
+    "options": {
+      "A": "Natijani o'lchash mumkin emas",
+      "B": "Natijasi o'lchanadigan va ma'lum harakat uchun haq to'lanadigan marketing yondashuvidir",
+      "C": "Faqat bepul marketing usuli",
+      "D": "Faqat brend taniqliligiga qaratilgan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "topic": "8-Mavzu: MVP va UI/UX",
+    "question": "MVP ning eng to'g'ri ta'rifi qaysi?",
+    "options": {
+      "A": "Mahsulotning to'liq yakuniy versiyasi",
+      "B": "Eng zarur funksiyalarga ega, asosiy qiymat yarata oladigan va bozor sinovi uchun tayyorlangan dastlabki versiya",
+      "C": "Funksional jihatdan ishlamaydigan prototip",
+      "D": "Raqobatchilar mahsulotining nusxasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "topic": "8-Mavzu: MVP va UI/UX",
+    "question": "MVPning asosiy g'oyasi nimadan iborat?",
+    "options": {
+      "A": "To'liq va murakkab holatda bozorga chiqarish",
+      "B": "Minimal resurs bilan tezkor ravishda real foydalanuvchilar orasida sinab ko'rish",
+      "C": "Faqat investorlarga ko'rsatish uchun dizayn tayyorlash",
+      "D": "Mahsulotni bozorsiz to'liq ishlab chiqish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "topic": "8-Mavzu: MVP va UI/UX",
+    "question": "MVP, prototip va to'liq mahsulot farqi qanday?",
+    "options": {
+      "A": "Ular bir xil tushuncha",
+      "B": "Prototip - sinov modeli, MVP - minimal qiymatli versiya, to'liq mahsulot - barcha funksiyalarga ega yakuniy versiya",
+      "C": "MVP eng murakkab, prototip eng oddiy",
+      "D": "Prototip faqat investorlar uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "topic": "9-Mavzu: Agile va Scrum",
+    "question": "Agile falsafasining asosiy xususiyati nima?",
+    "options": {
+      "A": "Mahsulotni bir yo'la to'liq ishlab chiqish",
+      "B": "O'zgarishlarga tez moslashish, mijoz bilan hamkorlik va bosqichma-bosqich rivojlantirish",
+      "C": "Faqat hujjatlashtirish bilan shug'ullanish",
+      "D": "Jamoa a'zolarini izolyatsiyada ishlashga yo'naltirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "topic": "9-Mavzu: Agile va Scrum",
+    "question": "Agile nima va uning asosida qanday metodologiyalar shakllangan?",
+    "options": {
+      "A": "Agile bitta aniq metod",
+      "B": "Agile falsafa bo'lib, uning asosida Scrum, Kanban, XP shakllangan",
+      "C": "Agile faqat Scrumning boshqa nomi",
+      "D": "Agile faqat katta korporatsiyalar uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "topic": "9-Mavzu: Agile va Scrum",
+    "question": "Scrum metodologiyasida Sprint nima?",
+    "options": {
+      "A": "Loyihaning boshidan oxirigacha bo'lgan butun muddat",
+      "B": "Ishni kichik vaqt oralig'lariga bo'lib tashkil etiladigan ish davri",
+      "C": "Faqat test jarayoni uchun ajratilgan vaqt",
+      "D": "Investor bilan uchrashuvlar oralig'i"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "topic": "9-Mavzu: Agile va Scrum",
+    "question": "Har bir sprint oxirida qanday natija kutiladi?",
+    "options": {
+      "A": "Faqat hujjatlashtirish yakunlanishi",
+      "B": "Tayyor, ishlaydigan mahsulot qismi hosil bo'lishi kerak",
+      "C": "Faqat test natijalari",
+      "D": "Investorlarga taqdimot"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "topic": "9-Mavzu: Agile va Scrum",
+    "question": "Scrum artefaktlari nima uchun mo'ljallangan?",
+    "options": {
+      "A": "Faqat moliyaviy hisobotlar uchun",
+      "B": "Shaffoflikni oshirish va taraqqiyotni o'lchash uchun",
+      "C": "Faqat mijozlar bilan muloqot uchun",
+      "D": "Faqat marketing rejalari uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "topic": "10-Mavzu: Startap jamoasi",
+    "question": "Startap jamoasi tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Faqat investorlardan iborat guruh",
+      "B": "G'oyani amaliy mahsulotga aylantirish uchun birgalikda ishlaydigan kichik va moslashuvchan guruh",
+      "C": "Katta korporatsiya ichidagi barcha xodimlar",
+      "D": "Faqat texnik mutaxassislardan tashkil topgan jamoa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "topic": "10-Mavzu: Startap jamoasi",
+    "question": "Boshlang'ich bosqichda startapda odatda nechta kishi bo'ladi?",
+    "options": {
+      "A": "20-30 kishi",
+      "B": "3-5 kishi, kam resurs bilan maksimal natijaga erishish uchun",
+      "C": "1 kishi",
+      "D": "50+ kishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "topic": "10-Mavzu: Startap jamoasi",
+    "question": "Founder va CEO munosabati qanday tushuntiriladi?",
+    "options": {
+      "A": "Har doim ikki turli shaxs bo'lishi shart",
+      "B": "Founder g'oya egasi, bir nechta asoschi bo'lsa ulardan biri CEO sifatida boshqaruvni olib boradi",
+      "C": "CEO har doim tashqaridan taklif qilingan professional",
+      "D": "Founder faqat texnik, CEO faqat moliyaviy ishlarga mas'ul"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "topic": "10-Mavzu: Startap jamoasi",
+    "question": "Jamoa dinamikasi nimani ifodalaydi?",
+    "options": {
+      "A": "Faqat jismoniy harakatlar",
+      "B": "O'zaro munosabatlar, hamkorlik, ishonch, ziddiyat va motivatsiya jarayonlarining umumiy ifodasi",
+      "C": "Faqat buyruq zanjiri",
+      "D": "Faqat ish vaqti va grafik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "topic": "10-Mavzu: Startap jamoasi",
+    "question": "Strategik fikrlash rahbar uchun nima uchun muhim?",
+    "options": {
+      "A": "Faqat kundalik vazifalar uchun",
+      "B": "Faqat hozirgi vazifani emas, startapning kelajakdagi rivojlanishini ham ko'ra bilish uchun",
+      "C": "Faqat raqobatchilarni kuzatish uchun",
+      "D": "Faqat moliyaviy hisobotlar uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "topic": "11-Mavzu: Raqobatchilar tahlili",
+    "question": "Porter's Five Forces modeli nimani baholaydi?",
+    "options": {
+      "A": "Faqat ichki resurslarni",
+      "B": "Bozordagi raqobat muhitini va biznesning jozibadorligini",
+      "C": "Faqat mijozlar demografiyasini",
+      "D": "Faqat mahsulot sifatini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "topic": "11-Mavzu: Raqobatchilar tahlili",
+    "question": "Raqobatchilar tahlili nimani anglatadi?",
+    "options": {
+      "A": "Faqat raqobatchilar sonini hisoblash",
+      "B": "Bozordagi raqiblarni aniqlash, chuqur o'rganish va strategik qarorlar uchun analitik jarayon",
+      "C": "Faqat narx belgilash",
+      "D": "Raqobatchilar bilan shartnoma tuzish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "topic": "12-Mavzu: Intellektual mulk va Lean Startup",
+    "question": "Intellektual mulk nimani anglatadi?",
+    "options": {
+      "A": "Faqat jismoniy mol-mulk",
+      "B": "Insonning aqliy faoliyati natijasida yaratilgan mahsulotlarga bo'lgan huquqlar majmui",
+      "C": "Faqat bank hisobvaraqlari",
+      "D": "Faqat kompaniya brendi nomi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "topic": "12-Mavzu: Intellektual mulk va Lean Startup",
+    "question": "Patent egasiga qancha muddat eksklyuziv huquq beriladi?",
+    "options": {
+      "A": "5 yil",
+      "B": "10 yil",
+      "C": "20 yil",
+      "D": "50 yil"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "topic": "12-Mavzu: Intellektual mulk va Lean Startup",
+    "question": "Lean Startup metodologiyasining mohiyati nima?",
+    "options": {
+      "A": "Katta byudjet bilan mukammal mahsulot yaratish",
+      "B": "Minimal resurslar bilan tezkor mahsulot yaratish va real foydalanuvchilar orqali tekshirish",
+      "C": "Faqat nazariy tadqiqot",
+      "D": "Raqobatchilar mahsulotini nusxalash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "topic": "13-Mavzu: Moliyalashtirish",
+    "question": "Subscription modeli qanday ishlaydi?",
+    "options": {
+      "A": "Bir martalik to'lov",
+      "B": "Foydalanuvchi muntazam (oylik/yillik) to'lov amalga oshiradi",
+      "C": "To'liq bepul",
+      "D": "Faqat reklama orqali daromad"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "topic": "13-Mavzu: Moliyalashtirish",
+    "question": "Freemium modeli qanday tuzilgan?",
+    "options": {
+      "A": "Barcha xizmatlar pullik",
+      "B": "Asosiy xizmatlar bepul, kengaytirilgan imkoniyatlar pullik",
+      "C": "Barchasi bepul va reklama ham yo'q",
+      "D": "Faqat sinov muddati bepul"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "topic": "13-Mavzu: Moliyalashtirish",
+    "question": "Biznes model doimiy o'zgarmasmi?",
+    "options": {
+      "A": "Bir marta tanlangan model hech qachon o'zgartirilmaydi",
+      "B": "Bir model doimiy emas, startap rivojlanishi bilan ular o'zgarib boradi",
+      "C": "Faqat investorlar talabiga ko'ra o'zgartiriladi",
+      "D": "Faqat zararli model o'zgartirilishi mumkin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "topic": "14-Mavzu: Unit Economics",
+    "question": "CAC nimani o'lchaydi?",
+    "options": {
+      "A": "Bitta mahsulot ishlab chiqarish tannarxi",
+      "B": "Bitta yangi mijozni jalb qilish uchun ketadigan o'rtacha xarajat",
+      "C": "Kompaniyaning umumiy yillik daromadi",
+      "D": "Xodimning oylik ish haqi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "topic": "14-Mavzu: Unit Economics",
+    "question": "LTV nimani ko'rsatadi?",
+    "options": {
+      "A": "Mijozning birinchi xarid summasi",
+      "B": "Bitta mijozning butun foydalanish davomida keltiradigan jami sof foyda qiymati",
+      "C": "Bir oylik umumiy daromad",
+      "D": "Marketing kampaniyasining bir kunlik byudjeti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "topic": "14-Mavzu: Unit Economics",
+    "question": "ROI nimani foizda o'lchaydi?",
+    "options": {
+      "A": "Xodimlar sonidagi o'sishni",
+      "B": "Kiritilgan sarmoya qanchalik foyda keltirganini",
+      "C": "Raqobatchilar sonining o'zgarishini",
+      "D": "Mijozlar sonining kamayishini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "topic": "14-Mavzu: Unit Economics",
+    "question": "CAC va LTV bog'liqligi startap uchun nima ahamiyatga ega?",
+    "options": {
+      "A": "O'rtasida hech qanday bog'liqlik yo'q",
+      "B": "LTV CAC dan yuqori bo'lishi kerak, aks holda har bir mijoz zarar keltiradi",
+      "C": "CAC har doim LTV dan yuqori bo'lishi tabiiy",
+      "D": "Faqat CAC muhim, LTV ahamiyatsiz"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "Venchur kapital qanday ta'riflanadi?",
+    "options": {
+      "A": "Past risk davlat obligatsiyalariga investitsiya",
+      "B": "Yuqori o'sish salohiyatiga ega lekin risk yuqori startaplarga kiritiladigan investitsiya turi",
+      "C": "Faqat ko'chmas mulkka investitsiya",
+      "D": "Bank depozitlariga pul qo'yish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "Pre-seed bosqichida startapda nima mavjud?",
+    "options": {
+      "A": "To'liq mahsulot va katta mijozlar bazasi",
+      "B": "Faqat g'oya, dastlabki konsepsiya yoki oddiy prototip",
+      "C": "Xalqaro bozordagi tajriba",
+      "D": "Millionlab dollar daromad"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "Exit bosqichi nimani anglatadi?",
+    "options": {
+      "A": "Startapning yangi mahsulot chiqarishi",
+      "B": "Investor o'z ulushini foyda bilan sotib loyihadan chiqadigan yakuniy bosqich",
+      "C": "Yangi bozorga kirish",
+      "D": "Yangi investorlarni jalb qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "Term Sheet nimani belgilaydi?",
+    "options": {
+      "A": "Texnik hujjatlar tarkibini",
+      "B": "Investor va startap o'rtasidagi investitsiya kelishuvining asosiy shartlarini belgilovchi dastlabki hujjat",
+      "C": "Faqat mehnat shartnomasini",
+      "D": "Faqat marketing rejasini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "Angel investor va VC fond asosiy farqi nima?",
+    "options": {
+      "A": "Farqi yo'q",
+      "B": "Angel investor shaxsiy mablag'ini kiritadi, VC fond investorlar mablag'ini jamlab professional tashkilot sifatida kiritadi",
+      "C": "Angel faqat katta kompaniyalarga, VC faqat startaplarga",
+      "D": "Angel faqat davlat mablag'ini taqsimlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "A seriya investitsiya bosqichi qanday maqsadga xizmat qiladi?",
+    "options": {
+      "A": "Faqat g'oyani sinash",
+      "B": "Ishlayotgan startap modelni tizimlashtirish va katta hajmdagi o'sishga tayyorlash",
+      "C": "Kompaniyani yopish",
+      "D": "Faqat ish haqi to'lash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "B seriya bosqichida startap nimani ko'zlaydi?",
+    "options": {
+      "A": "Faqat g'oyani sinash va MVP yaratish",
+      "B": "Tasdiqlangan biznes modelni masshtablashtirish, sotuvni oshirish va yangi hududlarni zabt etish",
+      "C": "Kompaniyani yopish",
+      "D": "Faqat jamoa a'zolarini oshirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "15-Mavzu: Investitsiya",
+    "question": "Due diligence jarayonida nima tekshiriladi?",
+    "options": {
+      "A": "Faqat logotip va brending",
+      "B": "Startapning moliyaviy, huquqiy, texnik va boshqa yo'nalishlari chuqur tekshiriladi",
+      "C": "Faqat founderning shaxsiy hayoti",
+      "D": "Faqat ofis binosi holati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER usuli nimani anglatadi?",
+    "options": {
+      "A": "Moliyaviy tahlil qilish uchun ishlatiladigan buxgalteriya modeli",
+      "B": "Mavjud mahsulot yoki g'oyani yaxshilash va innovatsion yechimlar topish uchun ishlatiladigan kreativ fikrlash texnikasi",
+      "C": "Raqobatchilarni tahlil qilish uchun ishlatiladigan bozor modeli",
+      "D": "Investorlar bilan muloqot qilish uchun ishlatiladigan taqdimot usuli"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER qisqartmasida 'S' (Substitute) nimani anglatadi?",
+    "options": {
+      "A": "Mahsulotni boshqa bozorga ko'chirish",
+      "B": "Mahsulotning biror qismini boshqasi bilan almashtirish orqali yaxshilash",
+      "C": "Mahsulot hajmini kichraytirish",
+      "D": "Mahsulotni boshqa maqsadda ishlatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER modelidagi 'C' (Combine) elementi nimani taklif qiladi?",
+    "options": {
+      "A": "Mahsulotdan keraksiz elementlarni olib tashlash",
+      "B": "Ikki yoki undan ortiq g'oya, funksiya yoki mahsulotni birlashtirish orqali yangilik yaratish",
+      "C": "Mahsulotni teskari tartibda loyihalash",
+      "D": "Mahsulotning faqat rangini o'zgartirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER usulida 'A' (Adapt) nimani bildiradi?",
+    "options": {
+      "A": "Mahsulotni to'liq yo'q qilish va yangisini yaratish",
+      "B": "Mavjud mahsulot yoki g'oyani boshqa kontekst yoki ehtiyojga moslashtirish",
+      "C": "Mahsulot narxini ikki baravar oshirish",
+      "D": "Faqat mahsulot nomini o'zgartirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER modelidagi 'M' (Modify/Magnify) elementi nimaga yo'naltirilgan?",
+    "options": {
+      "A": "Mahsulotni boshqa kompaniyaga sotish",
+      "B": "Mahsulotning biror xususiyatini o'zgartirish, kattalashtirish yoki kuchaytirish",
+      "C": "Mahsulotni faqat boshqa mamlakatga eksport qilish",
+      "D": "Mahsulot haqida reklama yaratish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER usulida 'P' (Put to another use) nimani anglatadi?",
+    "options": {
+      "A": "Mahsulotni arxivga qo'yish va ishlab chiqarishni to'xtatish",
+      "B": "Mahsulot yoki g'oyani boshqa maqsadda yoki boshqa soha uchun qo'llash",
+      "C": "Mahsulot narxini pasaytirish",
+      "D": "Faqat mahsulot qadoqini o'zgartirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "topic": "2-Mavzu: SCAMPER usuli",
+    "question": "SCAMPER usulida 'E' (Eliminate) va 'R' (Reverse/Rearrange) elementlari nimani anglatadi?",
+    "options": {
+      "A": "E - mahsulotni ko'paytirish, R - mahsulotni reklama qilish",
+      "B": "E - keraksiz elementlarni olib tashlash, R - tartibni o'zgartirish yoki teskari yondashuv qo'llash",
+      "C": "E - xodimlarni ishdan bo'shatish, R - rahbarni almashtirish",
+      "D": "E - eksport qilish, R - import qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "topic": "2-Mavzu: SWOT tahlili",
+    "question": "SWOT tahlilining to'rtta komponenti qaysi javobda to'g'ri keltirilgan?",
+    "options": {
+      "A": "Strategy, Workflow, Operations, Technology",
+      "B": "Strengths (Kuchli tomonlar), Weaknesses (Zaif tomonlar), Opportunities (Imkoniyatlar), Threats (Xavf-xatarlar)",
+      "C": "Sales, Workforce, Output, Timing",
+      "D": "Startup, Website, Optimization, Testing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "topic": "2-Mavzu: SWOT tahlili",
+    "question": "SWOT tahlilida ichki omillarga qaysi komponentlar kiradi?",
+    "options": {
+      "A": "Opportunities va Threats",
+      "B": "Strengths va Weaknesses",
+      "C": "Faqat Strengths",
+      "D": "Faqat Threats"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "topic": "2-Mavzu: SWOT tahlili",
+    "question": "SWOT tahlilida tashqi omillarga qaysi komponentlar kiradi?",
+    "options": {
+      "A": "Strengths va Weaknesses",
+      "B": "Opportunities (Imkoniyatlar) va Threats (Xavf-xatarlar)",
+      "C": "Faqat Strengths va Opportunities",
+      "D": "Faqat Weaknesses va Threats"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "topic": "2-Mavzu: SWOT tahlili",
+    "question": "SWOT tahlilini o'tkazishdan asosiy maqsad nima?",
+    "options": {
+      "A": "Faqat raqobatchilarning zaif tomonlarini topish",
+      "B": "Tashkilotning ichki kuchli/zaif tomonlari va tashqi imkoniyat/xavflarni aniqlash orqali strategik qarorlar qabul qilish",
+      "C": "Faqat moliyaviy hisobot tayyorlash",
+      "D": "Faqat xodimlarning ish samaradorligini baholash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "topic": "2-Mavzu: Dizayn fikrlash (Design Thinking)",
+    "question": "Dizayn fikrlash (Design Thinking) jarayoni nechta asosiy bosqichdan iborat?",
+    "options": {
+      "A": "3 ta bosqichdan",
+      "B": "5 ta bosqichdan",
+      "C": "7 ta bosqichdan",
+      "D": "9 ta bosqichdan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "topic": "2-Mavzu: Dizayn fikrlash (Design Thinking)",
+    "question": "Dizayn fikrlashning birinchi bosqichi - Empathy (Hamdardlik) nimani anglatadi?",
+    "options": {
+      "A": "Darhol yechim ishlab chiqishni boshlash",
+      "B": "Foydalanuvchini chuqur tushunish, ularning his-tuyg'ulari, ehtiyojlari va muammolarini o'rganish",
+      "C": "Mahsulot prototipini yaratish",
+      "D": "Tayyor mahsulotni sinovdan o'tkazish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "2-Mavzu: Dizayn fikrlash (Design Thinking)",
+    "question": "Dizayn fikrlashning beshta bosqichining to'g'ri ketma-ketligi qaysi?",
+    "options": {
+      "A": "Define → Empathize → Test → Ideate → Prototype",
+      "B": "Empathize → Define → Ideate → Prototype → Test",
+      "C": "Ideate → Prototype → Empathize → Define → Test",
+      "D": "Prototype → Test → Define → Empathize → Ideate"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "topic": "2-Mavzu: Dizayn fikrlash (Design Thinking)",
+    "question": "Dizayn fikrlashning 'Define' (Aniqlash) bosqichida nima amalga oshiriladi?",
+    "options": {
+      "A": "Mahsulot prototipini yaratish",
+      "B": "Empathy bosqichida to'plangan ma'lumotlar asosida muammoni aniq shakllantirish",
+      "C": "Barcha mumkin bo'lgan g'oyalarni generatsiya qilish",
+      "D": "Tayyor mahsulotni bozorga chiqarish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "topic": "2-Mavzu: Dizayn fikrlash (Design Thinking)",
+    "question": "Dizayn fikrlashning 'Ideate' (G'oya yaratish) bosqichida asosiy maqsad nima?",
+    "options": {
+      "A": "Bitta eng yaxshi yechimni tanlash va darhol amalga oshirish",
+      "B": "Iloji boricha ko'proq g'oyalar generatsiya qilish va kreativ yechimlar topish",
+      "C": "Faqat moliyaviy hisob-kitoblarni amalga oshirish",
+      "D": "Raqobatchilarning yechimlarini nusxalash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "topic": "2-Mavzu: Muammoga yo'naltirilgan yondashuv",
+    "question": "Muammoga yo'naltirilgan yondashuvning birinchi bosqichi qaysi?",
+    "options": {
+      "A": "Alternativ yechimlarni ishlab chiqish",
+      "B": "Muammoni aniqlash - mavjud kamchilik yoki ehtiyojni aniqlash",
+      "C": "Yechimni baholash va joriy etish",
+      "D": "Sabablarni tahlil qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "topic": "2-Mavzu: Muammoga yo'naltirilgan yondashuv",
+    "question": "Muammoga yo'naltirilgan yondashuvning ikkinchi bosqichi - 'Sabablarni tahlil qilish' nimani anglatadi?",
+    "options": {
+      "A": "Darhol yechim taklif qilish",
+      "B": "Muammoning ildiz sabablarini o'rganish",
+      "C": "Mahsulotni bozorga chiqarish",
+      "D": "Investorlardan mablag' jalb qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "topic": "2-Mavzu: Muammoga yo'naltirilgan yondashuv",
+    "question": "Muammoga yo'naltirilgan yondashuvda 'Maqsadni aniqlash' bosqichida nima belgilanadi?",
+    "options": {
+      "A": "Raqobatchilar ro'yxati",
+      "B": "Muammoni hal qilishdan ko'zlangan natijani belgilash",
+      "C": "Xodimlar sonini aniqlash",
+      "D": "Marketing byudjetini belgilash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "topic": "2-Mavzu: Muammoga yo'naltirilgan yondashuv",
+    "question": "Muammoga yo'naltirilgan yondashuvning to'rtinchi bosqichida nima amalga oshiriladi?",
+    "options": {
+      "A": "Muammoni aniqlash",
+      "B": "Muammo uchun bir nechta alternativ yechim variantlarini taklif qilish",
+      "C": "Sabablarni tahlil qilish",
+      "D": "Faqat moliyaviy hisob-kitob"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "topic": "2-Mavzu: Muammoga yo'naltirilgan yondashuv",
+    "question": "Muammoga yo'naltirilgan yondashuvning yakuniy bosqichi nimadan iborat?",
+    "options": {
+      "A": "Muammoni qaytadan aniqlash",
+      "B": "Yechimni sinovdan o'tkazish va uni real hayotga tatbiq etish (baholash va joriy etish)",
+      "C": "Faqat nazariy tahlil yozish",
+      "D": "Yangi muammolarni qidirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "topic": "3-Mavzu: Mijozni o'rganish metodologiyasi",
+    "question": "Mijozni o'rganish metodologiyasining to'rtta bosqichi qaysi?",
+    "options": {
+      "A": "Rejalashtirish → Ishlab chiqarish → Sotish → Xizmat ko'rsatish",
+      "B": "Muammoni aniqlash → Gipoteza ishlab chiqish → Mijozlar bilan intervyu → Yechimni tasdiqlash",
+      "C": "Marketing → Sotish → Yetkazib berish → Qo'llab-quvvatlash",
+      "D": "Dizayn → Dasturlash → Test → Deploy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "topic": "3-Mavzu: Mijozni o'rganish metodologiyasi",
+    "question": "Mijozni o'rganish metodologiyasida 'Muammoni aniqlash' bosqichida nima baholanadi?",
+    "options": {
+      "A": "Faqat mahsulot dizayni",
+      "B": "Mijoz duch kelayotgan haqiqiy muammoni aniqlash va u yechishga arziydimi yoki yo'qligini baholash",
+      "C": "Faqat raqobatchilar narxlari",
+      "D": "Faqat texnik imkoniyatlar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "topic": "3-Mavzu: Mijozni o'rganish metodologiyasi",
+    "question": "Mijozlar bilan intervyu bosqichida qaysi ma'lumotlar to'planadi?",
+    "options": {
+      "A": "Faqat mijozning shaxsiy ma'lumotlari va telefon raqami",
+      "B": "Mijozlarning og'riqli nuqtalari, ish tajribalari va fikrlari",
+      "C": "Faqat raqobatchilar haqida ma'lumot",
+      "D": "Faqat mahsulotning texnik hujjatlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "topic": "3-Mavzu: Mijozni o'rganish metodologiyasi",
+    "question": "Intervyu usuli va Kuzatuv usuli o'rtasidagi asosiy farq nima?",
+    "options": {
+      "A": "Ikkalasi ham bir xil usul, farqi yo'q",
+      "B": "Intervyu - mijozlar bilan bevosita suhbat, Kuzatuv - mijozning real muhitdagi xatti-harakatlarini bevosita tahlil qilish",
+      "C": "Intervyu faqat onlayn, Kuzatuv faqat offlayn o'tkaziladi",
+      "D": "Intervyu faqat investorlar bilan, Kuzatuv faqat raqobatchilar bilan o'tkaziladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "topic": "3-Mavzu: Gipoteza ishlab chiqish",
+    "question": "Gipoteza ishlab chiqish bosqichining birinchi qadami nima?",
+    "options": {
+      "A": "Tekshirishga tayyorlanish",
+      "B": "Mijoz muammosi haqida dastlabki fikrlarni shakllantirish",
+      "C": "Yechim g'oyasini yaratish",
+      "D": "Mahsulotni bozorga chiqarish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "topic": "3-Mavzu: Gipoteza ishlab chiqish",
+    "question": "Gipoteza ishlab chiqish bosqichining ikkinchi qadami nimadan iborat?",
+    "options": {
+      "A": "Fikrlarni shakllantirish",
+      "B": "Muammoni yechish bo'yicha taxminiy yechim g'oyasini yaratish",
+      "C": "Tekshirishga tayyorlanish",
+      "D": "Mahsulotni sotish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "topic": "3-Mavzu: Gipoteza ishlab chiqish",
+    "question": "Gipoteza ishlab chiqishning uchinchi qadami - 'Tekshirishga tayyorlanish' nimani anglatadi?",
+    "options": {
+      "A": "Mahsulotni bozorga chiqarish",
+      "B": "G'oya to'g'riligini tekshirish uchun tayyorgarlik ko'rish",
+      "C": "Investorlardan mablag' olish",
+      "D": "Raqobatchilarni tahlil qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 96,
+    "topic": "3-Mavzu: Mijozlarni topish yondashuvlari",
+    "question": "Mijozlarni topishning nechta asosiy yondashuvi mavjud?",
+    "options": {
+      "A": "2 ta",
+      "B": "4 ta",
+      "C": "6 ta",
+      "D": "8 ta"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "topic": "3-Mavzu: Customer Development",
+    "question": "Customer Development metodologiyasi nechta asosiy bosqichdan iborat?",
+    "options": {
+      "A": "3 ta",
+      "B": "4 ta",
+      "C": "5 ta",
+      "D": "6 ta"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 98,
+    "topic": "3-Mavzu: Customer Development",
+    "question": "Customer Development bosqichlarining to'g'ri ketma-ketligi qaysi?",
+    "options": {
+      "A": "Customer Creation → Customer Discovery → Company Building → Customer Validation",
+      "B": "Customer Discovery → Customer Validation → Customer Creation → Company Building",
+      "C": "Company Building → Customer Discovery → Customer Validation → Customer Creation",
+      "D": "Customer Validation → Customer Creation → Customer Discovery → Company Building"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 99,
+    "topic": "3-Mavzu: Customer Development",
+    "question": "Customer Development jarayonida 'Customer Validation' bosqichida nima tekshiriladi?",
+    "options": {
+      "A": "Faqat g'oya mavjudligi",
+      "B": "Topilgan mijoz segmenti va yechim haqiqatan ham tijorat jihatdan hayotiy ekanligini tasdiqlash",
+      "C": "Faqat texnik kodning ishlashi",
+      "D": "Faqat dizayn elementlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "3-Mavzu: Customer Development",
+    "question": "Customer Development'da 'Customer Creation' bosqichida asosiy maqsad nima?",
+    "options": {
+      "A": "Yangi g'oya yaratish",
+      "B": "Tasdiqlangan mijoz segmentiga asoslangan marketing va sotish strategiyalarini kengaytirish",
+      "C": "Faqat prototip yaratish",
+      "D": "Faqat texnik hujjatlar tayyorlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "topic": "3-Mavzu: Customer Development",
+    "question": "Customer Development'ning yakuniy bosqichi 'Company Building' nimaga qaratilgan?",
+    "options": {
+      "A": "Faqat ofis binosi qurish",
+      "B": "Startapni to'liq tashkiliy tuzilmaga ega kompaniyaga aylantirish va miqyoslashtirish",
+      "C": "Faqat yangi mahsulot yaratish",
+      "D": "Faqat investorlarni jalb qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "topic": "3-Mavzu: JTBD (Jobs to Be Done)",
+    "question": "JTBD (Jobs to Be Done) metodologiyasi nimani tahlil qiladi?",
+    "options": {
+      "A": "Faqat xodimlarning ish vazifalari",
+      "B": "Mijozning mahsulotni sotib olishda qanday 'ish'ni bajarishni xohlashini va uning haqiqiy motivatsiyasini tushunish",
+      "C": "Faqat kompaniyaning moliyaviy ko'rsatkichlari",
+      "D": "Faqat raqobatchilarning ish jarayonlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "topic": "3-Mavzu: JTBD (Jobs to Be Done)",
+    "question": "JTBD yondashuvida 'ish' (job) turlari qaysi javobda to'g'ri keltirilgan?",
+    "options": {
+      "A": "Texnik ish, boshqaruv ishi, moliyaviy ish",
+      "B": "Funksional ish (functional job), ijtimoiy ish (social job), hissiy ish (emotional job)",
+      "C": "Ofis ishi, uy ishi, mavsumiy ish",
+      "D": "Doimiy ish, vaqtincha ish, shartnoma ishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "topic": "3-Mavzu: JTBD (Jobs to Be Done)",
+    "question": "JTBD metodologiyasining asosiy tamoyili qaysi?",
+    "options": {
+      "A": "Mijozlar mahsulotni uning brendiga ko'ra sotib oladi",
+      "B": "Mijozlar mahsulotni emas, balki o'z hayotidagi muayyan 'ish'ni bajarish uchun yollaydi",
+      "C": "Mijozlar faqat eng arzon mahsulotni tanlaydi",
+      "D": "Mijozlar faqat reklama ko'rgan mahsulotni sotib oladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "topic": "3-Mavzu: Mijoz segmentatsiyasi",
+    "question": "Customer Segmentation (Mijoz segmentatsiyasi)ning to'rtta asosiy turi qaysi?",
+    "options": {
+      "A": "Mahsulot, narx, joy, targ'ibot",
+      "B": "Demografik, geografik, psixografik, xulq-atvorga asoslangan segmentatsiya",
+      "C": "Texnik, moliyaviy, huquqiy, boshqaruv",
+      "D": "Kichik, o'rta, yirik, mega"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "topic": "3-Mavzu: Mijoz segmentatsiyasi",
+    "question": "Demografik segmentatsiya qaysi xususiyatlarga asoslanadi?",
+    "options": {
+      "A": "Faqat mijozlarning onlayn xatti-harakatlariga",
+      "B": "Yosh, jins, daromad, ma'lumot darajasi, kasb kabi xususiyatlarga",
+      "C": "Faqat joylashgan hududga",
+      "D": "Faqat mahsulotdan foydalanish chastotasiga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "topic": "3-Mavzu: Mijoz segmentatsiyasi",
+    "question": "Psixografik segmentatsiya nimani hisobga oladi?",
+    "options": {
+      "A": "Faqat mijozning yoshi va jinsini",
+      "B": "Mijozlarning hayot tarzi, qadriyatlari, qiziqishlari va shaxsiy xususiyatlarini",
+      "C": "Faqat mijozning joylashgan shahrini",
+      "D": "Faqat mijozning daromad darajasini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "topic": "3-Mavzu: Mijoz segmentatsiyasi",
+    "question": "Xulq-atvorga asoslangan segmentatsiya (behavioral) qaysi omillarga e'tibor beradi?",
+    "options": {
+      "A": "Faqat mijozning yoshi va jinsiga",
+      "B": "Sotib olish odatlari, mahsulotdan foydalanish chastotasi, brend sodiqligiga",
+      "C": "Faqat geografik joylashuvga",
+      "D": "Faqat daromad darajasiga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "4-Mavzu: VPC strategik modeli",
+    "question": "VPC (Value Proposition Canvas) nechta asosiy qismdan iborat?",
+    "options": {
+      "A": "1 ta",
+      "B": "2 ta",
+      "C": "4 ta",
+      "D": "6 ta"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "topic": "4-Mavzu: VPC strategik modeli",
+    "question": "VPC modelining ikkita asosiy qismi qaysi?",
+    "options": {
+      "A": "SWOT tahlili va PEST tahlili",
+      "B": "Customer Profile (Mijoz profili) va Value Map (Qiymat xaritasi)",
+      "C": "BMC va TAM",
+      "D": "SEO va SMM"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "Business Model Canvas (BMC) ning 9 ta komponentiga qaysi variant to'g'ri mos keladi?",
+    "options": {
+      "A": "Faqat daromad, xarajat va mijozlar",
+      "B": "Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partnerships, Cost Structure",
+      "C": "Faqat marketing, sotish va ishlab chiqarish",
+      "D": "Faqat jamoa, mahsulot va bozor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Customer Segments' (Mijoz segmentlari) bloki nimani aniqlaydi?",
+    "options": {
+      "A": "Mahsulotning texnik xususiyatlarini",
+      "B": "Kompaniya kimga xizmat ko'rsatishini va maqsadli mijoz guruhlarini",
+      "C": "Faqat kompaniyaning daromad manbalarini",
+      "D": "Faqat raqobatchilar ro'yxatini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 113,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Value Propositions' (Qiymat taklifi) bloki nimani ifodalaydi?",
+    "options": {
+      "A": "Faqat mahsulot narxini",
+      "B": "Kompaniya har bir mijoz segmentiga qanday qiymat va foyda taklif qilishini",
+      "C": "Faqat xodimlar ish grafigini",
+      "D": "Faqat reklama matnlarini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Channels' (Kanallar) bloki nimani ko'rsatadi?",
+    "options": {
+      "A": "Faqat televizion reklama kanallari",
+      "B": "Kompaniya o'z qiymat taklifini mijozlarga qanday yetkazishini - taqsimlash va kommunikatsiya kanallarini",
+      "C": "Faqat YouTube kanallari",
+      "D": "Faqat ijtimoiy tarmoq sahifalari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Revenue Streams' (Daromad oqimlari) bloki nimani belgilaydi?",
+    "options": {
+      "A": "Faqat xodimlarning ish haqini",
+      "B": "Kompaniya har bir mijoz segmentidan qanday yo'l bilan daromad olishini",
+      "C": "Faqat investitsiya miqdorini",
+      "D": "Faqat soliq to'lovlarini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 116,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Key Resources' (Asosiy resurslar) bloki nimani anglatadi?",
+    "options": {
+      "A": "Faqat moliyaviy mablag'larni",
+      "B": "Biznes modelni amalga oshirish uchun zarur bo'lgan eng muhim resurslarni - jismoniy, intellektual, insoniy, moliyaviy",
+      "C": "Faqat ofis mebellari va jihozlarini",
+      "D": "Faqat xom ashyo zahiralarini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Key Activities' (Asosiy faoliyatlar) bloki nimani ifodalaydi?",
+    "options": {
+      "A": "Faqat xodimlarning dam olish vaqtini",
+      "B": "Biznes model muvaffaqiyatli ishlashi uchun kompaniya bajarishi shart bo'lgan eng muhim harakatlarni",
+      "C": "Faqat marketing tadbirlarini",
+      "D": "Faqat yig'ilishlar jadvalini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Key Partnerships' (Asosiy hamkorlar) bloki nimani ko'rsatadi?",
+    "options": {
+      "A": "Faqat raqobatchilar ro'yxatini",
+      "B": "Biznes modelni amalga oshirish uchun zarur bo'lgan yetkazuvchilar va hamkorlar tarmoqini",
+      "C": "Faqat investorlar ro'yxatini",
+      "D": "Faqat xodimlar ro'yxatini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Cost Structure' (Xarajatlar tuzilmasi) bloki nimani belgilaydi?",
+    "options": {
+      "A": "Faqat mahsulot narxini",
+      "B": "Biznes modelni amalga oshirishda yuzaga keladigan barcha muhim xarajatlarni",
+      "C": "Faqat soliq to'lovlarini",
+      "D": "Faqat investitsiya miqdorini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 120,
+    "topic": "5-Mavzu: BMC - 9 ta komponent",
+    "question": "BMC'da 'Customer Relationships' (Mijoz munosabatlari) bloki nimani aniqlaydi?",
+    "options": {
+      "A": "Faqat shikoyatlarni ko'rib chiqish tartibini",
+      "B": "Kompaniya har bir mijoz segmenti bilan qanday turdagi munosabat o'rnatishini - shaxsiy xizmat, avtomatlashtirilgan, hamjamiyat kabi",
+      "C": "Faqat xodimlar o'rtasidagi munosabatlarni",
+      "D": "Faqat investorlar bilan aloqalarni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "topic": "6-Mavzu: Buyer Persona",
+    "question": "Buyer Persona tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Haqiqiy xaridor shaxsning pasport ma'lumotlari",
+      "B": "Maqsadli mijozning demografik, psixografik, xulq-atvor va ehtiyojlariga asoslangan yarim xayoliy tasviri",
+      "C": "Raqobatchilarning xaridorlar ro'yxati",
+      "D": "Mahsulot brendining logotipi va dizayni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "topic": "6-Mavzu: Buyer Persona",
+    "question": "Buyer Persona qaysi elementlardan tashkil topadi?",
+    "options": {
+      "A": "Faqat ism va familiya",
+      "B": "Demografik ma'lumotlar, maqsadlar, muammolar (pain points), xarid motivatsiyasi, axborot manbalari va qaror qabul qilish jarayoni",
+      "C": "Faqat yosh va jins",
+      "D": "Faqat ish joyi va lavozimi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "topic": "7-Mavzu: AAARRR - Retention",
+    "question": "Retention (Ushlab turish) bosqichining asosiy maqsadi nima?",
+    "options": {
+      "A": "Yangi mijozlarni jalb qilish",
+      "B": "Mavjud foydalanuvchilarni mahsulotga qaytarib kelish va ularni doimiy foydalanuvchiga aylantirish",
+      "C": "Faqat mahsulot narxini oshirish",
+      "D": "Faqat reklama kampaniyalarini o'tkazish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "topic": "7-Mavzu: AAARRR - Activation",
+    "question": "Activation (Faollashtirish) bosqichi qaysi javobda to'g'ri tushuntirilgan?",
+    "options": {
+      "A": "Foydalanuvchi haqida shaxsiy ma'lumotlarni to'plash",
+      "B": "Yangi foydalanuvchining mahsulotdan birinchi marta foydalanib, uning qiymatini his qilishi va ijobiy tajriba olishi",
+      "C": "Faqat to'lovni amalga oshirish",
+      "D": "Faqat ilovani o'rnatish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 125,
+    "topic": "4-Mavzu: Value Map - Pain Relievers",
+    "question": "Value Map qismidagi Pain Relievers (Muammo kamaytiruvchilar) nimaga qaratiladi?",
+    "options": {
+      "A": "Faqat mahsulot narxini belgilashga",
+      "B": "Mijozlarning og'riqli nuqtalarini (pains) kamaytirish yoki bartaraf etish yo'llarini ko'rsatishga",
+      "C": "Faqat reklama matnlarini yozishga",
+      "D": "Faqat raqobatchilarni tahlil qilishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "topic": "1-Mavzu: Startup tushunchasi",
+    "question": "Startup tushunchasining eng muhim xususiyati qaysi?",
+    "options": {
+      "A": "Har qanday yangi ochilgan biznes startup hisoblanadi",
+      "B": "Innovatsion g'oyalar asosida noyob va o'rnini bosib bo'lmaydigan mahsulot yaratishga yo'naltirilgan yosh kompaniya",
+      "C": "Faqat IT sohasida faoliyat yurituvchi kompaniya",
+      "D": "Faqat xorijiy investitsiya olgan kompaniya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "topic": "10-Mavzu: Founder tushunchasi",
+    "question": "Founder tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Kompaniyaning moliyaviy direktori",
+      "B": "Startapning asoschisi, ya'ni g'oya egasi hisoblanadi",
+      "C": "Kompaniyaning marketing menejeri",
+      "D": "Kompaniyaning tashqi maslahatchi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "topic": "4-Mavzu: Qiymat yaratish (Value Creation)",
+    "question": "Qiymat yaratish (Value Creation) nimani anglatadi?",
+    "options": {
+      "A": "Faqat mahsulotning narxini oshirish",
+      "B": "Mijoz uchun foydali, zarur va muammoni hal qiladigan mahsulot yoki xizmat yaratish jarayoni",
+      "C": "Faqat reklama orqali brendni taniqli qilish",
+      "D": "Faqat investorlar uchun moliyaviy hisobot tayyorlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "topic": "4-Mavzu: Qiymat yetkazish (Value Delivery)",
+    "question": "Qiymat yetkazish (Value Delivery) mazmuni nimadan iborat?",
+    "options": {
+      "A": "Faqat mahsulotni ishlab chiqarish jarayoni",
+      "B": "Yaratilgan qiymatni to'g'ri kanallar orqali mijozlarga samarali yetkazib berish jarayoni",
+      "C": "Faqat mahsulotni omborda saqlash",
+      "D": "Faqat raqobatchilar tahlilini o'tkazish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "topic": "2-Mavzu: Aqliy hujum (Brainstorming)",
+    "question": "Aqliy hujum (Brainstorming) usulining asosiy mazmuni nimadan iborat?",
+    "options": {
+      "A": "Faqat bitta rahbar g'oya taklif qiladi va jamoa ijro etadi",
+      "B": "Jamoa a'zolari tanqidsiz ko'plab g'oyalar generatsiya qilib, so'ngra eng yaxshilarini tanlash",
+      "C": "Har bir g'oya darhol tanqid qilinadi va rad etiladi",
+      "D": "Faqat yozma ravishda individual fikr bildiriladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 131,
+    "topic": "4-Mavzu: Product-Market Fit",
+    "question": "Product-Market Fit nimani anglatadi?",
+    "options": {
+      "A": "Mahsulotning faqat texnik jihatdan mukammal bo'lishi",
+      "B": "Mahsulotning bozor talabiga mos kelishi va mijozlarning uni haqiqatan ham xohlashi va zarur deb bilishi",
+      "C": "Faqat mahsulotning arzon narxda sotilishi",
+      "D": "Faqat mahsulotning chiroyli dizaynga ega bo'lishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "topic": "7-Mavzu: SMM elementlari",
+    "question": "SMMning asosiy elementlariga qaysi javob kiradi?",
+    "options": {
+      "A": "Faqat televizion reklama va gazeta e'lonlari",
+      "B": "Kontent yaratish, auditoriya bilan muloqot, jamiyat qurish, reklama kampaniyalari va analitika",
+      "C": "Faqat SEO va email marketing",
+      "D": "Faqat veb-sayt dizayni va dasturlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "topic": "7-Mavzu: SEO vazifasi",
+    "question": "SEOning asosiy vazifasi nimadan iborat?",
+    "options": {
+      "A": "Ijtimoiy tarmoqlarda reklama berish",
+      "B": "Veb-saytni qidiruv tizimlarida organik (bepul) ravishda yuqori pozitsiyaga chiqarish va maqsadli trafikni jalb qilish",
+      "C": "Faqat pullik reklama kampaniyalarini boshqarish",
+      "D": "Faqat email xabarlar yuborish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "topic": "7-Mavzu: Raqamli marketing afzalliklari",
+    "question": "Raqamli marketingning afzalliklari qaysi javobda to'g'ri berilgan?",
+    "options": {
+      "A": "Faqat katta byudjet talab qilishi va natijani o'lchash mumkin emasligi",
+      "B": "Maqsadli auditoriyaga aniq yo'naltirish, natijani real vaqtda o'lchash, kam xarajat bilan keng auditoriyaga yetish",
+      "C": "Faqat offlayn savdo nuqtalarida ishlashi",
+      "D": "Faqat yirik korporatsiyalar uchun mos bo'lishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 135,
+    "topic": "7-Mavzu: Raqamli marketing maqsadlari",
+    "question": "Raqamli marketingning asosiy maqsadlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat offlayn do'konlar sonini ko'paytirish",
+      "B": "Brendni kuchli qurish, mijozlarni jalb qilish va saqlab qolish, sotuvni oshirish",
+      "C": "Faqat ishchilar sonini ko'paytirish",
+      "D": "Faqat ofis binolarini ko'paytirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "topic": "6-Mavzu: Yuqoridan pastga (Top-down) usuli",
+    "question": "Bozorni baholashda yuqoridan pastga (Top-down) usulining mazmuni qaysi?",
+    "options": {
+      "A": "Pastdan yuqoriga, ya'ni individual mijozlardan boshlab umumiy bozorga chiqish",
+      "B": "Umumiy bozor hajmidan (TAM) boshlab, bosqichma-bosqich tor segmentlarga (SAM, SOM) toraytirib borish",
+      "C": "Faqat raqobatchilar ma'lumotlaridan foydalanish",
+      "D": "Faqat so'rovnoma natijalariga asoslanish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 137,
+    "topic": "1-Mavzu: IT sohasida innovatsiya tezligi",
+    "question": "IT sohasining muhim xususiyatlaridan biri bo'lgan innovatsiya tezligi nimani anglatadi?",
+    "options": {
+      "A": "IT sohasida texnologiyalar juda sekin o'zgaradi",
+      "B": "Texnologik yangiliklar juda tez paydo bo'ladi va mahsulotlar hayotiy sikli qisqa bo'ladi, bu doimiy moslashuvni talab qiladi",
+      "C": "IT sohasida innovatsiya umuman kerak emas",
+      "D": "Faqat yirik kompaniyalar innovatsiya qila oladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "topic": "10-Mavzu: Product Manager javobgarligi",
+    "question": "Rollarni to'g'ri taqsimlashda Product Manager qaysi yo'nalish uchun javobgar?",
+    "options": {
+      "A": "Faqat texnik kodning sifati uchun",
+      "B": "Mahsulot va foydalanuvchi talablariga javobgar - mahsulot yo'nalishi, funksiyalar prioriteti va foydalanuvchi tajribasini belgilaydi",
+      "C": "Faqat interfeys dizayni uchun",
+      "D": "Faqat kompaniyaning moliyaviy ishlari uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "topic": "10-Mavzu: CTO vazifalari",
+    "question": "CTOning muhim vazifalaridan biri qaysi?",
+    "options": {
+      "A": "Faqat marketing kampaniyalarini boshqarish",
+      "B": "Texnologik strategiyani belgilash, texnik arxitekturani loyihalash va dasturiy mahsulotning sifatini ta'minlash",
+      "C": "Faqat investorlar bilan muloqot qilish",
+      "D": "Faqat xodimlarning ish haqini belgilash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 140,
+    "topic": "3-Mavzu: Mijoz intervyusi",
+    "question": "Mijoz intervyusida qaysi masalalar aniqlanadi?",
+    "options": {
+      "A": "Faqat mijozning moliyaviy holati va bank hisobi",
+      "B": "Mijozlarning og'riqli nuqtalari, haqiqiy muammolari, xarid motivatsiyasi va mavjud yechimlardan qoniqish darajasi",
+      "C": "Faqat raqobatchilar mahsulotlari haqida fikrlar",
+      "D": "Faqat mijozning shaxsiy ma'lumotlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "4-Mavzu: Qiymat taklifi IT mahsulotlarda",
+    "question": "Qiymat taklifi IT mahsulotlarida nima uchun muhim?",
+    "options": {
+      "A": "IT mahsulotlarda qiymat taklifi ahamiyatsiz",
+      "B": "Vaqtni tejash, avtomatlashtirish, xatoni kamaytirish, xavfsizlik va qulaylikni ta'minlash orqali aniq foyda ko'rsatiladi",
+      "C": "Faqat mahsulot narxini belgilash uchun kerak",
+      "D": "Faqat investorlarni jalb qilish uchun kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "topic": "4-Mavzu: Kuchli qiymat taklifi belgilari",
+    "question": "Kuchli qiymat taklifining asosiy belgilaridan biri qaysi?",
+    "options": {
+      "A": "Barcha segmentlar uchun umumiy va noaniq bo'lishi",
+      "B": "Ma'lum auditoriya uchun mos, o'lchanadigan natijalarni beruvchi, raqobatchilardan farqini ko'rsatuvchi va mijoz tilida yozilgan bo'lishi",
+      "C": "Faqat texnik atamalar bilan yozilgan bo'lishi",
+      "D": "Imkon qadar uzun va murakkab bo'lishi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "topic": "10-Mavzu: Konfliktlarni boshqarish",
+    "question": "Konfliktlarni boshqarishda birinchi navbatda nima aniqlanadi?",
+    "options": {
+      "A": "Kimni jamoadan chiqarish kerakligi",
+      "B": "Konfliktning sababi va manbaini aniqlash",
+      "C": "Jamoa a'zolarining oylik maoshini o'zgartirish",
+      "D": "Yangi xodimlarni yollash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 144,
+    "topic": "10-Mavzu: Startapda rahbarlik",
+    "question": "Startapda rahbarlik nimani anglatadi?",
+    "options": {
+      "A": "Faqat buyruq berish va nazorat qilish",
+      "B": "Jamoani bir maqsad sari olib borish, ularda ishonch uyg'otish va qiyin vaziyatlarda yo'l ko'rsatish",
+      "C": "Faqat texnik ishlarni o'zi bajarish",
+      "D": "Faqat investor bilan muloqot qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "topic": "2-Mavzu: Biznes g'oya birinchi bosqich",
+    "question": "Biznes g'oyasini ishlab chiqishda birinchi muhim bosqich nima?",
+    "options": {
+      "A": "Darhol mahsulotni ishlab chiqishni boshlash",
+      "B": "Maqsadli foydalanuvchini va ularning real muammosini aniqlash",
+      "C": "Investorlardan mablag' jalb qilish",
+      "D": "Reklama kampaniyasini boshlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "topic": "2-Mavzu: Maqsadli foydalanuvchi",
+    "question": "Maqsadli foydalanuvchini aniqlash biznes g'oya uchun nima sababdan zarur?",
+    "options": {
+      "A": "Bu bosqich zarur emas, mahsulot hammaga mo'ljallangan bo'lishi kerak",
+      "B": "Mahsulotni aniq ehtiyojga ega auditoriyaga yo'naltirish, resurslarni samarali ishlatish va bozorda muvaffaqiyat qozonish uchun",
+      "C": "Faqat investorlar so'ragani uchun",
+      "D": "Faqat hisobot tayyorlash uchun kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "topic": "2-Mavzu: Dizayn fikrlash - mijozni tushunish",
+    "question": "Dizayn fikrlash jarayonida mijozni tushunish (Empathy) nimani anglatadi?",
+    "options": {
+      "A": "Faqat mijoz haqida statistik ma'lumotlar to'plash",
+      "B": "Mijozning hayotiga, his-tuyg'ulariga, muammolariga va ehtiyojlariga chuqur kirib borish va ularni haqiqiy tushunish",
+      "C": "Faqat mijozdan pul olish usullarini o'rganish",
+      "D": "Faqat raqobatchilar mijozlarini tahlil qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "topic": "1-Mavzu: Tadbirkorlik boshlang'ich davri",
+    "question": "Tadbirkorlikning boshlang'ich davrida asosiy e'tibor nimaga qaratilgan?",
+    "options": {
+      "A": "Innovatsiya va texnologik taraqqiyotga",
+      "B": "Xavfni (xatarni) o'z zimmasiga olishga",
+      "C": "Resurslarni birlashtirish va optimallashtirishga",
+      "D": "Globallashuv va xalqaro savdoga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "1-Mavzu: Innovatsion tadbirkorlik yo'nalishlari",
+    "question": "Innovatsion tadbirkorlikning asosiy yo'nalishlaridan biri qaysi?",
+    "options": {
+      "A": "Faqat an'anaviy savdo-sotiq usullarini davom ettirish",
+      "B": "Yangi mahsulot yaratish, yangi texnologik resurs manbai, ishlab chiqarishning yangi usuli",
+      "C": "Faqat mavjud mahsulotlar narxini pasaytirish",
+      "D": "Faqat xodimlar sonini ko'paytirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "topic": "1-Mavzu: Innovatsion tadbirkorlik omillari",
+    "question": "Innovatsion tadbirkorlikning vujudga kelish omillaridan biri - 'Globallashuv' nimani keltirib chiqaradi?",
+    "options": {
+      "A": "Raqobatning kamayishini",
+      "B": "Raqobatning kuchayishi innovatsiyasiz mahalliy monopoliyaning barqarorligini izdan chiqaradi",
+      "C": "Texnologiyalardan voz kechishni",
+      "D": "Faqat mahalliy bozorda ishlashni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 151,
+    "topic": "1-Mavzu: Produktiv tadbirkorlik",
+    "question": "Produktiv yoki innovatsion tadbirkorlikning asosiy mazmuni nimadan iborat?",
+    "options": {
+      "A": "An'anaviy usullar bilan samaradorlikni oshirish",
+      "B": "Yangi yechimlarni yaratishga asoslanib, ilmiy-tadqiqotlar (R&D) va bozorni tubdan o'zgartiruvchi innovatsiyalar orqali rivojlanish",
+      "C": "Mavjud mahsulotlarni boshqa mamlakatlarga eksport qilish",
+      "D": "Faqat ishlab chiqarish miqyosini oshirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "topic": "9-Mavzu: Sprint rejalashtirish",
+    "question": "Sprint rejalashtirish nima va unda nima belgilanadi?",
+    "options": {
+      "A": "Faqat loyihaning umumiy byudjeti belgilanadigan yig'ilish",
+      "B": "Sprint boshida o'tkaziladigan muhim yig'ilish bo'lib, jamoa keyingi sprint davomida nimalarni bajarishini aniqlaydi",
+      "C": "Faqat texnik hujjatlarni ko'rib chiqish yig'ilishi",
+      "D": "Faqat investorlar bilan o'tkaziladigan taqdimot"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "topic": "8-Mavzu: UI tushunchasi",
+    "question": "UI (User Interface) tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Mahsulotning backend dasturiy kodi",
+      "B": "Foydalanuvchi interfeysi - mahsulotning vizual ko'rinishi, tugmalar, ranglar, shriftlar va interaktiv elementlar",
+      "C": "Faqat ma'lumotlar bazasi tuzilmasi",
+      "D": "Faqat server konfiguratsiyasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 154,
+    "topic": "8-Mavzu: UX tushunchasi",
+    "question": "UX (User Experience) tushunchasi nimani bildiradi?",
+    "options": {
+      "A": "Faqat mahsulotning chiroyli ko'rinishi",
+      "B": "Foydalanuvchi tajribasi - foydalanuvchining mahsulot bilan ishlashda olgan umumiy tajribasi, qulayligi va mamnuniyati",
+      "C": "Faqat mahsulotning tezligi va ishlash samaradorligi",
+      "D": "Faqat mahsulotning xavfsizlik darajasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 155,
+    "topic": "7-Mavzu: Pitch deck tushunchasi",
+    "question": "Pitch deck tushunchasiga to'g'ri ta'rif qaysi?",
+    "options": {
+      "A": "Kompaniyaning yillik moliyaviy balansi",
+      "B": "Investor yoki hamkor oldida loyihani qisqa, lo'nda va ishontiruvchi tarzda taqdim etuvchi slaydlar to'plami",
+      "C": "Faqat texnik hujjatlar to'plami",
+      "D": "Faqat marketing materiallari to'plami"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 156,
+    "topic": "7-Mavzu: SMM ta'rifi",
+    "question": "SMM tushunchasiga to'g'ri ta'rifni belgilang.",
+    "options": {
+      "A": "Faqat qidiruv tizimlarida reklama berish",
+      "B": "Mahsulot yoki xizmatni ijtimoiy tarmoqlar (Instagram, Facebook, Telegram va boshqalar) orqali targ'ib qilish jarayoni",
+      "C": "Faqat televizion reklama",
+      "D": "Faqat bosma materiallar orqali marketing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "topic": "2-Mavzu: Innovatsion fikrlash texnologiyalari",
+    "question": "Innovatsion fikrlash texnologiyalari nima?",
+    "options": {
+      "A": "Faqat kompyuter dasturlash tillari",
+      "B": "Yangi g'oya yaratish, muammoga noodatiy yechim topish va zamonaviy usullar orqali yangilik ishlab chiqishga yordam beradigan metod va yondashuvlar majmui",
+      "C": "Faqat moliyaviy tahlil usullari",
+      "D": "Faqat ishlab chiqarish texnologiyalari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "topic": "11-Mavzu: Strategik holat",
+    "question": "Strategik holat tushunchasi nimani ifodalaydi?",
+    "options": {
+      "A": "Faqat kompaniyaning joriy oylik daromadini",
+      "B": "Tashkilotning bozordagi o'rni, raqobatbardoshligi va rivojlanish istiqbolini ifodalovchi ko'rsatkichlar majmui",
+      "C": "Faqat xodimlarning lavozim ro'yxatini",
+      "D": "Faqat mahsulotning texnik spetsifikatsiyasini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 159,
+    "topic": "1-Mavzu: Kengaytiriladigan startap",
+    "question": "Kengaytiriladigan startap tadbirkorligining asosiy maqsadi nima?",
+    "options": {
+      "A": "Faqat mahalliy bozorda kichik biznes yuritish",
+      "B": "Innovatsion g'oyalarga tayangan holda biznesni tez kengaytirish va yuqori foyda olish",
+      "C": "Faqat davlat buyurtmalarini bajarish",
+      "D": "Faqat xayriya maqsadlarida ishlash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "topic": "4-Mavzu: Problem-Solution Fit",
+    "question": "Moslik turlarida Problem–Solution Fit nimani anglatadi?",
+    "options": {
+      "A": "Mahsulotning bozorda keng tarqalganligini",
+      "B": "Startap taklif qilayotgan yechim haqiqiy mijoz muammosini hal qilishga mos ekanligini tasdiqlash",
+      "C": "Faqat mahsulotning texnik jihatdan ishlashini",
+      "D": "Faqat mahsulotning narxi bozorga mos kelishini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "topic": "7-Mavzu: Raqamli marketing ta'rifi",
+    "question": "Raqamli marketing tushunchasiga to'g'ri ta'rifni toping.",
+    "options": {
+      "A": "Faqat gazeta va jurnallarda reklama berish",
+      "B": "Internet va raqamli kanallar orqali mahsulotni targ'ib qilish, mijozlarni jalb qilish, sotuvni oshirish va brendni rivojlantirishga qaratilgan faoliyatlar majmui",
+      "C": "Faqat radio orqali reklama berish",
+      "D": "Faqat ko'cha bannerlarida reklama berish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "topic": "14-Mavzu: Budjetlash (Budgeting)",
+    "question": "Budjetlash (Budgeting) tushunchasiga eng aniq ta'rif qaysi?",
+    "options": {
+      "A": "Faqat soliq to'lovlarini hisoblash jarayoni",
+      "B": "Startapning ma'lum vaqt (oy, kvartal, yil) uchun daromad va xarajatlarini oldindan rejalashtirish jarayoni",
+      "C": "Investorlarga dividend to'lash grafigi",
+      "D": "Faqat xodimlarning ish haqini hisoblash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 163,
+    "topic": "14-Mavzu: Daromad modeli",
+    "question": "Daromad modeli (Revenue Model) noto'g'ri bo'lsa qanday oqibatga olib keladi?",
+    "options": {
+      "A": "Hech qanday oqibati yo'q, mahsulot yaxshi bo'lsa yetarli",
+      "B": "Hatto eng yaxshi va innovatsion mahsulot ham tijorat jihatdan muvaffaqiyatsiz bo'ladi",
+      "C": "Kompaniya avtomatik ravishda yiriklashib ketadi",
+      "D": "Faqat texnik xodimlar ishdan bo'shatiladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "topic": "14-Mavzu: Startap xarajatlari",
+    "question": "Startapdagi o'zgaruvchan (Variable) xarajatlar tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Sotuv va ishlab chiqarish hajmiga qarab o'zgarib turadigan xarajatlar (masalan, server resurslari, komissiyalar)",
+      "B": "Har oy qat'iy to'lanadigan ijara to'lovlari",
+      "C": "Faqat bir marta sotib olinadigan uskunalar",
+      "D": "Xodimlarning o'zgarmas maoshlari"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "topic": "14-Mavzu: Startap xarajatlari",
+    "question": "O'zgarmas (Fixed) xarajatlarga qaysilar misol bo'la oladi?",
+    "options": {
+      "A": "Xom ashyo va tranzaksiya to'lovlari",
+      "B": "Ofis ijarasi, asosiy xodimlarning maoshi va litsenziya to'lovlari",
+      "C": "Reklama xarajatlari",
+      "D": "Yetkazib berish xarajatlari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 166,
+    "topic": "9-Mavzu: Scrum jamoasi",
+    "question": "Scrum jamoasining uchta asosiy roli qaysi javobda to'g'ri ko'rsatilgan?",
+    "options": {
+      "A": "CEO, CTO, CMO",
+      "B": "Product Owner, Scrum Master, Developers (Ishlab chiquvchilar)",
+      "C": "Investor, Asoschi, Xodimlar",
+      "D": "Loyiha menejeri, Dizayner, Tester"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 167,
+    "topic": "9-Mavzu: Scrum jamoasi",
+    "question": "Product Owner (Mahsulot egasi) Scrumda qanday vazifani bajaradi?",
+    "options": {
+      "A": "Faqat dasturlash tilini tanlaydi",
+      "B": "Mahsulot qadriyatini maksimallashtirish uchun javob beradi va Product Backlogni boshqaradi",
+      "C": "Jamoani barcha yig'ilishlarga chaqiradi",
+      "D": "Moliyaviy hisobotlarni tasdiqlaydi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "topic": "9-Mavzu: Scrum jamoasi",
+    "question": "Scrum Master ning asosiy vazifasi nima?",
+    "options": {
+      "A": "Barcha texnik qarorlarni o'zi qabul qilish",
+      "B": "Jamoaga Scrum tamoyillariga rioya qilishga yordam berish va ishdagi to'siqlarni bartaraf etish",
+      "C": "Investitsiya jalb qilish",
+      "D": "Kodni bevosita o'zi yozish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "topic": "5-Mavzu: BMC - Customer Relationships",
+    "question": "BMC dagi 'Shaxsiy xizmat' (Personal Assistance) mijoz munosabatlari turi qanday bo'ladi?",
+    "options": {
+      "A": "Barcha jarayonlar robotlashtirilgan bo'ladi",
+      "B": "Mijoz va kompaniya vakili o'rtasidagi to'g'ridan-to'g'ri (insoniy) muloqot orqali amalga oshiriladi",
+      "C": "Mijoz faqat veb-saytdagi FAQ orqali o'zi muammosini hal qiladi",
+      "D": "Faqat ijtimoiy tarmoq postlari orqali bo'ladi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 170,
+    "topic": "5-Mavzu: BMC - Key Partnerships",
+    "question": "Startaplar nima uchun 'Asosiy hamkorlar' (Key Partnerships) ni shakllantiradi?",
+    "options": {
+      "A": "Faqat kompaniya hajmini sun'iy kattalashtirish uchun",
+      "B": "Biznes modelni optimallashtirish, xavflarni kamaytirish yoki yetishmayotgan resurslarni jalb qilish uchun",
+      "C": "Faqat o'z raqobatchilarini yo'q qilish uchun",
+      "D": "Hamkorlik qilinmasa davlat jarima solgani uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 171,
+    "topic": "5-Mavzu: BMC vs Biznes reja",
+    "question": "Biznes Model (BMC) va Biznes reja (Business Plan) o'rtasidagi asosiy farq nima?",
+    "options": {
+      "A": "Ular mutlaqo bir xil hujjatlar",
+      "B": "BMC biznesning mantiqiy tuzilishini bitta sahifada vizual ko'rsatadi, biznes reja esa batafsil 30-50 sahifalik hujjatdir",
+      "C": "Biznes reja tez o'zgaradi, BMC o'zgarmasdir",
+      "D": "Faqat yirik korporatsiyalar BMC ishlatadi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "topic": "12-Mavzu: Intellektual mulk",
+    "question": "IT startaplarda qaysi obyektlar intellektual mulk hisoblanadi?",
+    "options": {
+      "A": "Faqat ofis kompyuterlari va serverlar",
+      "B": "Dasturiy ta'minot kodi, ma'lumotlar bazasi, UI/UX dizayn, domen nomi, logotip va algoritmlar",
+      "C": "Faqat binoning ijarasi shartnomasi",
+      "D": "Faqat xodimlarning mehnat daftarchasi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 173,
+    "topic": "12-Mavzu: Intellektual mulk himoyasi",
+    "question": "Nima uchun IT startaplar o'z intellektual mulkini huquqiy himoya qilishi kerak?",
+    "options": {
+      "A": "Faqat soliqdan qochish uchun",
+      "B": "Raqobatchilar tomonidan g'oya, kod yoki brendning o'g'irlanishini oldini olish va investitsion jozibadorlikni oshirish uchun",
+      "C": "Davlat organlarida ro'yxatdan o'tmaslik uchun",
+      "D": "Faqat ofisni sug'urtalash uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "topic": "10-Mavzu: Aksiyadorlik kelishuvi",
+    "question": "Founderlar o'rtasida tuziladigan Asoschilar kelishuvi (Founders' Agreement) qanday vazifani bajaradi?",
+    "options": {
+      "A": "Faqat texnik loyihaning dizaynini tasdiqlaydi",
+      "B": "Asoschilarning huquq va majburiyatlarini, ulushlarni taqsimlashni, investitsiya kiritish shartlarini va nizolarni hal qilish tartibini yuridik kafolatlaydi",
+      "C": "Faqat oylik maoshni hisoblash uchun ishlatiladi",
+      "D": "Faqat binoni ijaraga olish uchun kerak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "topic": "7-Mavzu: Marketing Voronkasi",
+    "question": "Marketing voronkasi (Marketing Funnel) nimani ifodalaydi?",
+    "options": {
+      "A": "Faqat oflayn reklama qamrovini",
+      "B": "Potensial mijozning brend haqida xabardor bo'lishidan boshlab, to mahsulotni sotib olishgacha bosib o'tadigan bosqichli yo'lini",
+      "C": "Faqat mahsulot ishlab chiqarish jarayonini",
+      "D": "Xodimlarni ishga qabul qilish jarayonini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "topic": "1-Mavzu: Ijtimoiy tadbirkorlik",
+    "question": "Ijtimoiy tadbirkorlik (Social Entrepreneurship) qanday faoliyat?",
+    "options": {
+      "A": "Faqat maksimal foyda olishga qaratilgan biznes",
+      "B": "Tijorat yondashuvlaridan foydalanib, ijtimoiy, madaniy yoki ekologik muammolarni hal qilishga yo'naltirilgan biznes faoliyati",
+      "C": "Faqat davlat muassasalari tomonidan yuritiladigan faoliyat",
+      "D": "Foyda keltirmaydigan oddiy xayriya fondi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 177,
+    "topic": "8-Mavzu: MVP turlari",
+    "question": "Konyerj MVP (Concierge MVP) qanday ishlaydi?",
+    "options": {
+      "A": "To'liq avtomatlashtirilgan tizim asosida",
+      "B": "Mahsulot avtomatlashtirilmagan bo'lib, xizmat mijozga inson aralashuvi bilan, qo'lda bajarilib ko'rsatiladi",
+      "C": "Faqat oddiy reklama videoroligi orqali",
+      "D": "Raqobatchilar mahsulotini sotish orqali"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "topic": "8-Mavzu: MVP turlari",
+    "question": "Landing Page (Uchish sahifasi) MVP sifatida qanday xizmat qiladi?",
+    "options": {
+      "A": "To'liq funksiyali dastur hisoblanadi",
+      "B": "Mahsulot haqida ma'lumot beruvchi bir sahifali veb-sayt orqali mijozlar qiziqishini (email yig'ish, oldindan buyurtma) test qiladi",
+      "C": "Faqat ofis manzili ko'rsatiladi",
+      "D": "Faqat o'yin o'ynash uchun mo'ljallangan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 179,
+    "topic": "9-Mavzu: Sprint Review va Retrospective",
+    "question": "Sprint Review (Sprint sharhi) va Sprint Retrospective (Sprint retrospektivasi) o'rtasidagi farq nima?",
+    "options": {
+      "A": "Farqi yo'q, ikkisi ham bir xil yig'ilish",
+      "B": "Review - yaratilgan mahsulot qismini mijozga ko'rsatish, Retrospective - jamoaning o'z ish jarayonini tahlil qilib xatolarni to'g'irlash ustida ishlashi",
+      "C": "Review ish boshida, Retrospective ish o'rtasida qilinadi",
+      "D": "Review faqat texnik xodimlar, Retrospective faqat investorlar uchun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "topic": "4-Mavzu: Value Proposition xatolari",
+    "question": "Qiymat taklifini (Value Proposition) yaratishda eng ko'p yo'l qo'yiladigan xatolardan biri qaysi?",
+    "options": {
+      "A": "Mijozning muammosini ortiqcha hisobga olish",
+      "B": "Qiymatni mijozning foydasi tilida emas, balki faqat mahsulotning texnik xususiyatlari (funksiyalari) tilida yozish",
+      "C": "Raqobatchilardan ajralib turish",
+      "D": "Aniq hisob-kitoblarga asoslanish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "topic": "11-Mavzu: Raqobatchilar xaritasi",
+    "question": "Raqobatchilar xaritasi (Competitor Mapping) nima uchun tuziladi?",
+    "options": {
+      "A": "Faqat raqobatchilarni sudga berish uchun",
+      "B": "Bozordagi turli o'yinchilarning pozitsiyalarini ikki yoki undan ortiq mezonlar (masalan, narx va sifat) asosida vizual taqqoslash uchun",
+      "C": "Faqat xarajatlarni hisoblash uchun",
+      "D": "Davlat ro'yxatidan o'tish uchun"
+    },
+    "answer": "B"
+  }
+]

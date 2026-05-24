@@ -85,3 +85,5 @@ def init_all_subjects():
                  "Dasturiy Ta'minot Arxitekturasi (Yakuniy)")
     load_subject("dt_arxitektura_nazorat", "dt_arxitektura_nazorat_full.json", "DT Arxitektura (Nazorat)",
                  "Dasturiy Ta'minot Arxitekturasi (Oraliq va Nazorat)")
+    load_subject("tadbirkorlik", "entrepreneurship_final_test.json", "Texnologik Tadbirkorlik",
+                 "Texnologik Tadbirkorlik (Yakuniy)")
